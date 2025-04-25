@@ -1,0 +1,144 @@
+Pokemon 1
+name: Miraidon
+item: Choice Specs
+ability: Hadron Engine
+level: : 50
+tera type: Fairy
+ev-hp: 44
+ev-attack: 0
+ev-defense: 12 
+ev-special attack: 196 
+ev-special defense: 44 
+ev-speed: 212 
+nature: Modest
+iv-hp: 31
+iv-attack: 31
+iv-defense: 31
+iv-special attack: 31
+iv-special defense: 31
+iv-speed: 31
+move-1: Electro Drift
+move-2: Draco Meteor
+move-3: Volt Switch
+move-4: Dazzling Gleam
+
+Pokemon 2
+name: Calyrex-Ice
+item: Clear Amulet
+ability: As One (Glastrier)
+level: : 50
+tera type: Water
+ev-hp: 212
+ev-attack: 116 
+ev-defense: 180 
+ev-special attack: 0
+ev-special defense: 0
+ev-speed: 0
+nature: Adamant
+iv-hp: 31
+iv-attack: 31
+iv-defense: 31
+iv-special attack: 31
+iv-special defense: 31
+iv-speed: 31
+move-1: Glacial Lance
+move-2: High Horsepower
+move-3: Trick Room
+move-4: Protect
+
+Pokemon 3
+name: Grimmsnarl
+item: Light Clay
+ability: Prankster
+level: : 50
+tera type: Ghost
+ev-hp: 252
+ev-attack: 0
+ev-defense: 204 
+ev-special attack: 0
+ev-special defense: 52 
+ev-speed: 0
+nature: Careful
+iv-hp: 31
+iv-attack: 31
+iv-defense: 31
+iv-special attack: 31
+iv-special defense: 31
+iv-speed: 31
+move-1: Spirit Break
+move-2: Reflect
+move-3: Light Screen
+move-4: Thunder Wave
+
+Pokemon 4
+name: Iron Hands
+item: Assault Vest
+ability: Quark Drive
+level: : 50
+tera type: Bug
+ev-hp: 116
+ev-attack: 156 
+ev-defense: 0
+ev-special attack: 0
+ev-special defense: 220 
+ev-speed: 0
+nature: Adamant
+iv-hp: 31
+iv-attack: 31
+iv-defense: 31
+iv-special attack: 31
+iv-special defense: 31
+iv-speed: 31
+move-1: Drain Punch
+move-2: Fake Out
+move-3: Heavy Slam
+move-4: Low Kick
+
+Pokemon 5
+name: Farigiraf
+item: Electric Seed
+ability: Armor Tail
+level: : 50
+tera type: Water
+ev-hp: 252
+ev-attack: 0
+ev-defense: 164 
+ev-special attack: 0
+ev-special defense: 92 
+ev-speed: 0
+nature: Bold
+iv-hp: 31
+iv-attack: 0 
+iv-defense: 31
+iv-special attack: 31
+iv-special defense: 31
+iv-speed: 31
+move-1: Psychic
+move-2: Foul Play
+move-3: Trick Room
+move-4: Helping Hand
+
+Pokemon 6
+name: Ditto
+item: Focus Sash
+ability: Imposter
+level: : 50
+tera type: Normal
+ev-hp: 252
+ev-attack: 0
+ev-defense: 0
+ev-special attack: 0
+ev-special defense: 252 
+ev-speed: 0
+nature: Sassy
+iv-hp: 31
+iv-attack: 31
+iv-defense: 31
+iv-special attack: 31
+iv-special defense: 31
+iv-speed: 2 
+move-1: Transform
+move-2: 
+move-3: 
+move-4: 
+
