@@ -1,20 +1,25 @@
 #imports
 import requests, json
 from bs4 import BeautifulSoup
-from teams import pokemon_team, pokemon1
+from teams import pokemon_team
+from organize_data import organize_data
 
-# doubles team from '23
-getURL = "https://pokepast.es/ef6920d4f30db897"
+# pokepaste link !!!!!!
+getURL = "https://pokepast.es/5ee3277dc45acb8c"
 
 """
 	https://pokepast.es/46e426ed62136f59 // made by hsxd_snakob himself
 	https://pokepast.es/ef6920d4f30db897 // made by idk
 	https://pokepast.es/722a7a53b4f46592 - made by
+	https://pokepast.es/84c0b7c14de37a87 // portland champion team, scarvi regulation I: centered around Kyogre
+	https://pokepast.es/8a2335a101620d91 // team around ho-oh
+	https://pokepast.es/5ee3277dc45acb8c // team around zamazenta
 """
 
+# get the url from pokepaste
 page = requests.get(getURL)
 
-newPokemonFile = open("newPokemonTeam.txt", "w") # The txt file we're gonna work from
+newPokemonFile = open("pokemon_teams/newPokemonTeam.txt", "w") # The txt file we're gonna work from
 
 htmlPokemon = open("newPokemonTeam.html", "w")
 htmlPokemon.write(page.text) # writes the file to commandline
@@ -27,9 +32,7 @@ for stat in pokemon_stats:
 	# print(stat) # print stats
 
 #------------- organize the data -------------------------------------------------------
-newPokemonFile = open("newPokemonTeam.txt", "r")
-#for key, value in pokemon1.items():
-#	print(key, value)
+newPokemonFile = open("pokemon_teams/newPokemonTeam.txt", "w")
 
 def ev_and_iv_organizer(ev_or_iv, which_one):
 	find_char = ev_or_iv.index(":")
@@ -64,7 +67,7 @@ def ev_and_iv_organizer(ev_or_iv, which_one):
 				pokemon_team[which_pokemon][which_one + "-speed"] = speed
 				#print("The Speed ev in question: " + speed)
 	# print(ev_or_iv)
-with open('newPokemonTeam.txt') as f:
+with open('pokemon_teams/newPokemonTeam.txt') as f:
 	# read every indiviual line
 	read_line = f.readline()
 	move_counter = 1 # specifically increment through moves 1 by 1
@@ -117,14 +120,18 @@ with open('newPokemonTeam.txt') as f:
 
 		read_line = f.readline()
 
-readable_dict = open("pokemon_team.json", "w")
+readable_dict = open("jakoggerTeam.json", "w")
 
 readable_dict.write(json.dumps(pokemon_team, indent=4, ensure_ascii=False))
 print("JSON'd the file yo!")
 
+# Close all the files, memory management type shiii
 readable_dict.close()
 newPokemonFile.close()
 htmlPokemon.close()
+
+# Call organize data function!!!!
+# organize_data()
 
 # Write dictionary VALUES as a txt file
 """ counter = 0

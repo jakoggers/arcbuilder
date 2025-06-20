@@ -1,0 +1,14 @@
+YOOOOO THIS IS JAKOGGERS YOUR FAVORITE PROGRAMMER EVER !!!!!
+
+anyway notes formyself:
+
+6/19/25
+achieved:
+	prompt + teams can be spliced: tested one team out, data can be trained
+	teams were spliced form vgcpasted repo
+
+
+for future me: (ffm)
+- put a name to teams?
+- loop through every team, add them to the pokemon_teams folder
+- organize the folder lol.......
