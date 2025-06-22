@@ -1,7 +1,8 @@
 import gspread
+from config import google_api_key
 
 # my KEY!!!!! i should private this.....
-gc = gspread.api_key("AIzaSyCganQ_Z_uzJVKIPcUs0Dleoo7e07mzcEo")
+gc = gspread.api_key(google_api_key)
 
 
 sh = gc.open_by_key("1axlwmzPA49rYkqXh7zHvAtSP-TKbM0ijGYBPRflLSWw")
