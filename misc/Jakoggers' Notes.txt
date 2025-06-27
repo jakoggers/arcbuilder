@@ -12,3 +12,66 @@ for future me: (ffm)
 - put a name to teams?
 - loop through every team, add them to the pokemon_teams folder
 - organize the folder lol.......
+
+6/27/25
+
+fix issue where it doesn't worrk - me at 2am
+the name isn't working??
+idk
+Traceback (most recent call last):
+  File "c:\Users\jacob\Desktop\cool python shi\pokemoners\format.py", line 45, in <module>
+    pokemon_to_txt(file_name)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "c:\Users\jacob\Desktop\cool python shi\pokemoners\format.py", line 38, in pokemon_to_txt
+    team_handler("link", str(file_number))
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacob\Desktop\cool python shi\pokemoners\team_handler.py", line 107, in team_handler
+    page = requests.get(get_url)
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\sessions.py", line 484, in prepare_request
+    p.prepare(
+    ~~~~~~~~~^
+        method=request.method.upper(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+        hooks=merge_hooks(request.hooks, self.hooks),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\models.py", line 367, in prepare
+    self.prepare_url(url, params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\models.py", line 438, in prepare_url
+    raise MissingSchema(
+    ...<2 lines>...
+    )
+requests.exceptions.MissingSchema: Invalid URL 'link': No scheme supplied. Perhaps you meant https://link?
+PS C:\Users\jacob\Desktop\cool python shi\pokemoners> & "C:/Users/jacob/Desktop/cool python shi/pokemoners/.venv/Scripts/python.exe" "c:/Users/jacob/Desktop/cool python shi/pokemoners/format.py"
+"Every team at the palm of my hands": Pokepastes, written into file "sv_regulation_I_teams.txt"
+Traceback (most recent call last):
+  File "c:\Users\jacob\Desktop\cool python shi\pokemoners\format.py", line 45, in <module>
+    pokemon_to_txt(file_name)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "c:\Users\jacob\Desktop\cool python shi\pokemoners\format.py", line 38, in pokemon_to_txt
+    team_handler(link, str(file_number))
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacob\Desktop\cool python shi\pokemoners\team_handler.py", line 107, in team_handler
+    page = requests.get(get_url)
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\sessions.py", line 697, in send
+    adapter = self.get_adapter(url=request.url)
+  File "C:\Users\jacob\Desktop\cool python shi\pokemoners\.venv\Lib\site-packages\requests\sessions.py", line 792, in get_adapter
+    raise InvalidSchema(f"No connection adapters were found for {url!r}")
+requests.exceptions.InvalidSchema: No connection adapters were found for '"https://pokepast.es/1568de5f2d95d4f6"\n'
