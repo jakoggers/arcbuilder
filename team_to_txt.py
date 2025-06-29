@@ -1,5 +1,5 @@
 import gspread
-from config import google_api_key
+from config import google_api_key, sheets_key
 from team_handler import team_handler
 import os
 
@@ -12,8 +12,7 @@ print(f"File path for sv: {filename}")
 # my KEY!!!!! i should private this.....
 gc = gspread.api_key(google_api_key)
 
-
-sh = gc.open_by_key("1axlwmzPA49rYkqXh7zHvAtSP-TKbM0ijGYBPRflLSWw")
+sh = gc.open_by_key(sheets_key)
 
 current_regulation = sh.worksheet("SV Regulation I")
 
@@ -42,12 +41,6 @@ def pokemon_to_txt(file):
 			team_handler(link.strip(), str(team_number)) # this line took me 10 hours to fix and it was just a strip() call.
 
 	print("Data has been withdrawn. All files in folder: \"pokemon_teams\"")
-
-
-
-print("Begin!")
-write_all_teams()
-pokemon_to_txt(filename)
 
 
 # For later: add the team name to doc?

@@ -109,6 +109,7 @@ def team_handler(get_url, file_name):
 
 	# get the url from pokepaste
 	print(f"File I'm working with: {file_name}")
+	
 	page = requests.get(get_url)
 	link_to_pokemon_team_folder = "pokemon_teams/" + file_name + ".txt"
 
