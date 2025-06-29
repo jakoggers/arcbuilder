@@ -1,0 +1,60 @@
+Groudon @ Choice Band  
+Ability: Drought  
+Level: 50
+Tera Type: Ground  
+- High Horsepower  
+- Precipice Blades  
+- Thunder Punch  
+- Heat Crash  
+
+
+Venusaur @ Life Orb  
+Ability: Chlorophyll  
+Level: 50
+Tera Type: Fire  
+- Sleep Powder  
+- Sludge Bomb  
+- Grass Knot  
+- Weather Ball  
+
+
+Sableye @ Eject Button  
+Ability: Prankster  
+Level: 50
+Tera Type: Dark  
+- Gravity  
+- Encore  
+- Quash  
+- Will-O-Wisp  
+
+
+Calyrex-Ice @ Mental Herb  
+Ability: As One (Glastrier)  
+Level: 50
+Tera Type: Electric  
+- Glacial Lance  
+- Taunt  
+- Gravity  
+- Trick Room
+
+
+Yanmega @ Focus Sash  
+Ability: Speed Boost  
+Level: 50
+Tera Type: Dragon  
+- Air Slash  
+- Hypnosis  
+- Tailwind  
+- Protect  
+
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+Level: 50
+Tera Type: Water  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+
+

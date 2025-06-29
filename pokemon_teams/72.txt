@@ -1,0 +1,62 @@
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Tera Type: Ground  
+- Spirit Break  
+- Sucker Punch  
+- Reflect  
+- Light Screen  
+
+
+Incineroar @ Chople Berry  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+- Knock Off  
+- Fake Out  
+- Will-O-Wisp  
+- Parting Shot  
+
+
+Calyrex-Shadow @ Covert Cloak  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Fairy  
+IVs: 0 Atk  
+- Astral Barrage  
+- Draining Kiss  
+- Calm Mind  
+- Protect  
+
+
+Koraidon @ Choice Band  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Close Combat  
+- Breaking Swipe  
+- Flare Blitz  
+- U-turn  
+
+
+Ogerpon-Hearthflame (F) @ Hearthflame Mask  
+Ability: Mold Breaker  
+Level: 50  
+Tera Type: Fire  
+- Ivy Cudgel  
+- Encore  
+- Follow Me  
+- Spiky Shield  
+
+
+Raging Bolt @ Assault Vest  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Water  
+IVs: 20 Atk  
+- Thunderbolt  
+- Dragon Pulse  
+- Thunderclap  
+- Electroweb  
+
+

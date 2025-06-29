@@ -97,6 +97,10 @@ def write_team_data(given_link): # write this to Pokemon Folder link
 					pokemon_team[which_pokemon]["move-" + str(move_counter)] = move_name
 					move_counter += 1
 
+				case _:
+					print("Error")
+					break
+
 			read_line = f.readline()
 
 # Give it a pokepaste
@@ -104,25 +108,27 @@ def team_handler(get_url, file_name):
 	# pokepaste link !!!!!!
 
 	# get the url from pokepaste
+	print(f"File I'm working with: {file_name}")
 	page = requests.get(get_url)
 	link_to_pokemon_team_folder = "pokemon_teams/" + file_name + ".txt"
 
-	# The txt file we're gonna work from
-	newPokemonFile = open(link_to_pokemon_team_folder, "w")
+	print(f"Writing into: {link_to_pokemon_team_folder}")
 
 	# opens a new file, writes the html of the site to the page
-	htmlPokemon = open("newPokemonTeam.html", "w")
+	htmlPokemon = open("newPokemonTeam.html", "w", encoding="utf-8") # also checks for pokemon that are in a different language
 	htmlPokemon.write(page.text)
-
 
 	# Utilizing BeautifulSoup, take all pokemon data and parse it.
 	soup = BeautifulSoup(page.content, "html.parser")
 	pokemon_stats = soup.find_all("pre")
+
+	# The txt file we're gonna work from
+	newPokemonFile = open(link_to_pokemon_team_folder, "w", encoding="utf-8")
 	for stat in pokemon_stats:
 		newPokemonFile.write(stat.text + "\n")
 
 	#------------- organize the data -------------------------------------------------------
-	newPokemonFile = open(link_to_pokemon_team_folder, "w")
+	# newPokemonFile = open(link_to_pokemon_team_folder, "w")
 
 	# Writes all team_data
 	write_team_data(link_to_pokemon_team_folder)

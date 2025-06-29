@@ -1,0 +1,62 @@
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 77  
+Shiny: Yes  
+Tera Type: Water  
+- Fake Out  
+- Drain Punch  
+- Wild Charge  
+- Low Kick  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 84  
+Shiny: Yes  
+Tera Type: Ghost  
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Thunder Wave  
+
+
+Calyrex-Ice @ Leftovers  
+Ability: As One (Glastrier)  
+Level: 80  
+Tera Type: Water  
+- Glacial Lance  
+- Trick Room  
+- Leech Seed  
+- Protect  
+
+
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Draco Meteor  
+- Dazzling Gleam  
+- Volt Switch  
+
+
+Incineroar @ Covert Cloak  
+Ability: Intimidate  
+Tera Type: Grass  
+- Knock Off  
+- Parting Shot  
+- Fake Out  
+- Will-O-Wisp  
+
+
+Volcarona @ Electric Seed  
+Ability: Flame Body  
+Level: 59  
+Shiny: Yes  
+Tera Type: Grass  
+- Giga Drain  
+- Fiery Dance  
+- Quiver Dance  
+- Protect  
+
+

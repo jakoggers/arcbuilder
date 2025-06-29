@@ -1,0 +1,54 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Tera Type: Bug
+- Flare Blitz
+- Knock Off
+- Fake Out
+- U-turn
+
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Tera Type: Fairy
+- Electro Drift
+- Draco Meteor
+- Dazzling Gleam
+- Volt Switch
+
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Tera Type: Ghost
+- Close Combat
+- Surging Strikes
+- U-turn
+- Aqua Jet
+
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Tera Type: Water
+- Moonblast
+- Encore
+- Light Screen
+- Tailwind
+
+
+Lunala @ Electric Seed
+Ability: Shadow Shield
+Tera Type: Fairy
+- Moongeist Beam
+- Moonblast
+- Wide Guard
+- Trick Room
+
+

@@ -1,0 +1,66 @@
+Miraidon @ Assault Vest  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Electric  
+Modest Nature  
+- Electro Drift  
+- Draco Meteor  
+- Parabolic Charge  
+- Snarl  
+
+
+Groudon @ Clear Amulet  
+Ability: Drought  
+Level: 50  
+Tera Type: Water  
+Adamant Nature  
+- Precipice Blades  
+- Heat Crash  
+- Will-O-Wisp  
+- Protect  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Ghost  
+Adamant Nature  
+- Icicle Crash  
+- Sucker Punch  
+- Ice Shard  
+- Protect  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+Adamant Nature  
+- Flare Blitz  
+- Parting Shot  
+- Roar  
+- Fake Out  
+
+
+Volcarona @ Electric Seed  
+Ability: Flame Body  
+Level: 50  
+Tera Type: Grass  
+Timid Nature  
+- Fiery Dance  
+- Giga Drain  
+- Quiver Dance  
+- Protect  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Tera Type: Ghost  
+Impish Nature
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Fake Out  
+
+

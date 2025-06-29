@@ -1,0 +1,63 @@
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Moonblast  
+- Shadow Ball  
+- Icy Wind  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Fake Out  
+- U-turn  
+- Grassy Glide  
+- Wood Hammer  
+
+
+Terapagos-Terastal @ Leftovers  
+Ability: Tera Shell  
+Level: 50  
+Tera Type: Stellar  
+IVs: 15 Atk  
+- Tera Starstorm  
+- Earth Power  
+- Calm Mind  
+- Protect  
+
+
+Koraidon @ Life Orb  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Close Combat  
+- Flare Blitz  
+- Flame Charge  
+- Protect  
+
+
+Amoonguss @ Rocky Helmet  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Fire  
+IVs: 0 Atk  
+- Protect  
+- Rage Powder  
+- Spore  
+- Pollen Puff  
+
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Parting Shot  
+
+

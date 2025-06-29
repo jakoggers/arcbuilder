@@ -1,0 +1,54 @@
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Water
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Protect
+- Sludge Bomb
+- Rage Powder
+- Spore
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Protect
+- Tera Starstorm
+- Earth Power
+- Calm Mind
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Protect
+- Astral Barrage
+- Encore
+- Disable
+
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Tera Type: Rock
+- Spiky Shield
+- Ivy Cudgel
+- Knock Off
+- Follow Me
+
+

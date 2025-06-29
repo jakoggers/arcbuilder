@@ -1,0 +1,55 @@
+Miraidon @ Choice Scarf  
+Ability: Hadron Engine  
+Tera Type: Electric  
+- Electro Drift  
+- Volt Switch  
+- Draco Meteor  
+- Snarl  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- Fake Out  
+- U-turn  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Tera Type: Bug  
+- Knock Off  
+- Will-O-Wisp  
+- Fake Out  
+- Parting Shot  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Tera Type: Ghost  
+- Light Screen  
+- Reflect  
+- Thunder Wave  
+- Spirit Break  
+
+
+Lunala @ Leftovers  
+Ability: Shadow Shield  
+Shiny: Yes  
+Tera Type: Fairy  
+- Moonblast  
+- Moongeist Beam  
+- Calm Mind  
+- Protect  
+
+
+Ogerpon-Wellspring @ Wellspring Mask  
+Ability: Water Absorb  
+Tera Type: Water  
+- Ivy Cudgel  
+- Follow Me  
+- Taunt  
+- Spiky Shield  
+
+

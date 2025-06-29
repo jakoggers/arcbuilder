@@ -1,0 +1,61 @@
+Calyrex-Ice @ Leftovers  
+Ability: As One (Glastrier)  
+Level: 50
+Tera Type: Water  
+- Glacial Lance  
+- Leech Seed  
+- Trick Room  
+- Protect  
+
+
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Volt Switch  
+- Draco Meteor  
+- Dazzling Gleam  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50
+Tera Type: Ghost  
+- Spirit Break  
+- Thunder Wave  
+- Reflect  
+- Light Screen  
+
+
+Landorus @ Life Orb  
+Ability: Sheer Force  
+Level: 50
+Tera Type: Poison  
+- Earth Power  
+- Sludge Bomb  
+- Taunt  
+- Protect  
+
+
+Volcarona @ Covert Cloak  
+Ability: Flame Body  
+Level: 50  
+Tera Type: Grass  
+- Fiery Dance  
+- Struggle Bug  
+- Quiver Dance  
+- Protect  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50
+Tera Type: Bug  
+- Drain Punch  
+- Low Kick  
+- Wild Charge  
+- Fake Out  
+
+
+

@@ -1,0 +1,60 @@
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Water  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Dark  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Urshifu-Rapid-Strike @ Mystic Water  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Detect  
+
+
+Rillaboom (M) @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Tornadus (M) @ Rocky Helmet  
+Ability: Prankster  
+Level: 50  
+Tera Type: Dark  
+- Bleakwind Storm  
+- Tailwind  
+- Rain Dance  
+- Protect  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Stellar  
+- Icicle Crash  
+- Sacred Sword  
+- Sucker Punch  
+- Protect  
+
+

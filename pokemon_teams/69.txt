@@ -1,0 +1,60 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Electric  
+- Electro Drift  
+- Draco Meteor  
+- Volt Switch  
+- Dazzling Gleam  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Ghost  
+- Body Press  
+- Heavy Slam  
+- Imprison  
+- Protect  
+
+
+Chien-Pao @ Covert Cloak  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Grass  
+- Crunch  
+- Icy Wind  
+- Taunt  
+- Ruination  
+
+
+Grimmsnarl @ Power Anklet  
+Ability: Prankster  
+Level: 50  
+Tera Type: Ghost  
+- Sucker Punch  
+- Trick  
+- Thunder Wave  
+- Fake Out  
+
+
+Sneasler @ Electric Seed  
+Ability: Unburden  
+Level: 50  
+Tera Type: Dark  
+- Close Combat  
+- Dire Claw  
+- Fake Out  
+- Quick Guard  
+
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+- Stomping Tantrum  
+- Rock Tomb  
+- Crunch  
+- U-turn  
+
+

@@ -1,0 +1,60 @@
+Zamazenta @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Poison  
+- Knock Off  
+- Will-O-Wisp  
+- Parting Shot  
+- Fake Out  
+
+
+Calyrex-Shadow @ Covert Cloak  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Fairy  
+- Astral Barrage  
+- Draining Kiss  
+- Calm Mind  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Grassy Glide  
+- Wood Hammer  
+- U-turn  
+- Fake Out  
+
+
+Ogerpon-Cornerstone (F) @ Cornerstone Mask  
+Ability: Sturdy  
+Level: 50  
+Tera Type: Rock  
+- Ivy Cudgel  
+- Power Whip  
+- Follow Me  
+- Spiky Shield  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Stellar  
+- Icicle Crash  
+- Crunch  
+- Sucker Punch  
+- Protect  
+
+

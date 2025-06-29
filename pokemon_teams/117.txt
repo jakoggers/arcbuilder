@@ -1,0 +1,61 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Draco Meteor  
+- Dazzling Gleam  
+- Volt Switch  
+
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Flare Blitz  
+- U-turn  
+- Knock Off  
+- Fake Out  
+
+
+Whimsicott @ Covert Cloak  
+Ability: Prankster  
+Level: 50  
+Tera Type: Water  
+- Moonblast  
+- Tailwind  
+- Encore  
+- Light Screen  
+
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Ghost  
+- Surging Strikes  
+- Close Combat  
+- U-turn  
+- Aqua Jet  
+
+
+Lunala @ Electric Seed  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Fairy  
+- Moongeist Beam  
+- Moonblast  
+- Trick Room  
+- Wide Guard  
+
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Ghost  
+- Protect  
+- Headlong Rush  
+- Facade  
+- Earthquake  
+
+
+

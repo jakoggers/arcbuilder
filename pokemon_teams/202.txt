@@ -1,0 +1,54 @@
+Tornadus @ Covert Cloak
+Ability: Prankster
+Tera Type: Dark
+- Tailwind
+- Rain Dance
+- Bleakwind Storm
+- Taunt
+
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+Tera Type: Water
+- Origin Pulse
+- Thunder
+- Hydro Pump
+- Water Spout
+
+
+Tsareena @ Wide Lens
+Ability: Queenly Majesty
+Tera Type: Ice
+- Taunt
+- Power Whip
+- Triple Axel
+- Protect
+
+
+Zacian @ Rusted Sword
+Ability: Intrepid Sword
+Tera Type: Fairy
+- Protect
+- Play Rough
+- Sacred Sword
+- Iron Head
+
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Tera Type: Water
+- Sludge Bomb
+- Protect
+- Earth Power
+- Sandsear Storm
+
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Tera Type: Water
+- Surging Strikes
+- Taunt
+- Detect
+- Aqua Jet
+
+

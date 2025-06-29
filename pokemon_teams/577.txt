@@ -1,0 +1,60 @@
+Lunala @ Leftovers  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Fairy  
+- Moongeist Beam  
+- Moonblast  
+- Calm Mind  
+- Protect  
+
+
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Volt Switch  
+- Dazzling Gleam  
+- Draco Meteor  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Tera Type: Ghost  
+- Light Screen  
+- Reflect  
+- Thunder Wave  
+- Spirit Break  
+
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Grass  
+- Fake Out  
+- Knock Off  
+- Flare Blitz  
+- U-turn  
+
+
+Pelipper @ Ability Shield  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Dark  
+- Weather Ball  
+- Hurricane  
+- Tailwind  
+- Wide Guard  
+
+
+Wo-Chien @ Sitrus Berry  
+Ability: Tablets of Ruin  
+Level: 50  
+Tera Type: Poison  
+- Ruination  
+- Pollen Puff  
+- Leech Seed  
+- Protect  
+
+

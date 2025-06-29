@@ -1,0 +1,60 @@
+Terapagos-Terastal @ Leftovers  
+Ability: Tera Shell  
+Level: 50  
+Tera Type: Stellar  
+- Tera Starstorm  
+- Earth Power  
+- Calm Mind  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- Fake Out  
+- U-turn  
+
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Ghost  
+- Knock Off  
+- Parting Shot  
+- Fake Out  
+- Helping Hand  
+
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+- Astral Barrage  
+- Pollen Puff  
+- Will-O-Wisp  
+- Protect  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
+
+Scream Tail @ Booster Energy  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Dark  
+- Dazzling Gleam  
+- Disable  
+- Encore  
+- Protect  
+
+

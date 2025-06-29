@@ -1,0 +1,62 @@
+Calyrex-Shadow @ Spell Tag  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Dark  
+IVs: 0 Atk  
+- Astral Barrage  
+- Protect  
+- Encore  
+- Psychic  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Body Press  
+- Protect  
+- Wide Guard  
+- Heavy Slam  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Stellar  
+- Sucker Punch  
+- Protect  
+- Icicle Crash  
+- Sacred Sword  
+
+
+Raging Bolt @ Assault Vest  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+IVs: 20 Atk  
+- Thunderclap  
+- Draco Meteor  
+- Electroweb  
+- Snarl  
+
+
+Tornadus @ Covert Cloak  
+Ability: Prankster  
+Level: 50  
+Tera Type: Dark  
+- Bleakwind Storm  
+- Tailwind  
+- Rain Dance  
+- Knock Off  
+
+
+Landorus @ Life Orb  
+Ability: Sheer Force  
+Level: 50  
+Tera Type: Poison  
+- Sandsear Storm  
+- Protect  
+- Sludge Bomb  
+- Stone Edge  
+
+

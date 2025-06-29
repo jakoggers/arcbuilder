@@ -1,0 +1,51 @@
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Bug
+- Knock Off
+- Taunt
+- Fake Out
+- Parting Shot
+
+
+Sneasler @ Electric Seed
+Ability: Unburden
+Tera Type: Dark
+- Fake Out
+- Close Combat
+- Dire Claw
+- Acid Spray
+
+
+Calyrex-Ice @ Leftovers
+Ability: As One
+Tera Type: Fire
+- Protect
+- Glacial Lance
+- Leech Seed
+- Trick Room
+
+
+Ditto @ Focus Sash
+Ability: Imposter
+Tera Type: Ghost
+- Transform
+
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+
+Miraidon @ Assault Vest
+Ability: Hadron Engine
+Tera Type: Electric
+- Electro Drift
+- Volt Switch
+- Draco Meteor
+- Snarl
+
+

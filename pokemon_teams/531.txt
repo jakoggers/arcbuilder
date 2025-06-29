@@ -1,0 +1,61 @@
+Giratina-Origin @ Griseous Core  
+Ability: Levitate  
+Level: 50  
+Tera Type: Fire  
+- Poltergeist  
+- Breaking Swipe  
+- Shadow Sneak  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Body Press  
+- Behemoth Bash  
+- Wide Guard  
+- Protect  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Dark  
+- Crunch  
+- Icicle Crash  
+- Sucker Punch  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- U-turn  
+- Grassy Glide  
+- Fake Out  
+
+
+Raging Bolt @ Life Orb  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+IVs: 20 Atk  
+- Thunderbolt  
+- Dragon Pulse  
+- Thunderclap  
+- Protect  
+
+
+Urshifu-Rapid-Strike @ Splash Plate  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Detect  
+
+

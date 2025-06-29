@@ -1,0 +1,60 @@
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Grass  
+- Astral Barrage  
+- Giga Drain  
+- Nasty Plot  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Water  
+- Body Press  
+- Behemoth Bash  
+- Wide Guard  
+- Protect  
+
+
+Smeargle @ Focus Sash  
+Ability: Moody  
+Level: 50  
+Tera Type: Ghost  
+- Fake Out  
+- Spore  
+- Follow Me  
+- Wide Guard  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+- Knock Off  
+- Taunt  
+- Parting Shot  
+- Fake Out  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Ogerpon-Hearthflame (F) @ Hearthflame Mask  
+Ability: Mold Breaker  
+Level: 50  
+Tera Type: Fire  
+- Ivy Cudgel  
+- Grassy Glide  
+- Follow Me  
+- Spiky Shield  
+
+

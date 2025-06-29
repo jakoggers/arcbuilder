@@ -1,0 +1,61 @@
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Grass  
+- Glacial Lance  
+- Trick Room  
+- High Horsepower  
+- Protect  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Ground  
+- Surging Strikes  
+- Close Combat  
+- Ice Spinner  
+- Coaching  
+
+
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Grass  
+- Hurricane  
+- Weather Ball  
+- Wide Guard  
+- Protect  
+
+
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Water  
+- Moongeist Beam  
+- Meteor Beam  
+- Wide Guard  
+- Trick Room  
+
+
+Raging Bolt @ Assault Vest  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+- Thunderclap  
+- Thunderbolt  
+- Draco Meteor  
+- Snarl  
+
+
+Amoonguss @ Rocky Helmet  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Water  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Protect  
+
+
+

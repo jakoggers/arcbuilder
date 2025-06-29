@@ -1,0 +1,64 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Astral Barrage  
+- Expanding Force  
+- Encore  
+- Protect  
+
+
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Draco Meteor  
+- Volt Switch  
+- Dazzling Gleam  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Water  
+- Heavy Slam  
+- Drain Punch  
+- Low Kick  
+- Fake Out  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Heat Wave  
+- Dark Pulse  
+- Overheat  
+- Snarl  
+
+
+Farigiraf @ Electric Seed  
+Ability: Armor Tail  
+Level: 50  
+Tera Type: Water  
+IVs: 0 Atk  
+- Psychic  
+- Foul Play  
+- Helping Hand  
+- Trick Room  
+
+
+Whimsicott @ Covert Cloak  
+Ability: Prankster  
+Level: 50  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Moonblast  
+- Encore  
+- Tailwind  
+- Light Screen  
+
+

@@ -1,0 +1,63 @@
+Terapagos @ Covert Cloak  
+Ability: Tera Shift  
+Level: 50  
+Tera Type: Stellar  
+IVs: 15 Atk  
+- Tera Starstorm  
+- Earth Power  
+- Calm Mind  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Water  
+IVs: 0 Atk  
+- Body Press  
+- Imprison  
+- Wide Guard  
+- Protect  
+
+
+Smeargle @ Focus Sash  
+Ability: Moody  
+Level: 50  
+Tera Type: Ghost  
+- Shadow Sneak  
+- Endeavor  
+- Spore  
+- Follow Me  
+
+
+Muk-Alola @ Leftovers  
+Ability: Power of Alchemy  
+Level: 50  
+Tera Type: Water  
+- Knock Off  
+- Toxic  
+- Minimize  
+- Protect  
+
+
+Polteageist @ Weakness Policy  
+Ability: Weak Armor  
+Level: 50  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Shadow Ball  
+- Stored Power  
+- Baton Pass  
+- Endure  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Bug  
+- Fake Out  
+- Wild Charge  
+- Low Kick  
+- Heavy Slam  
+
+

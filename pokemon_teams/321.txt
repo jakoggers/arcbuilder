@@ -1,0 +1,54 @@
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Tera Type: Fairy
+- Thunderclap
+- Draco Meteor
+- Thunderbolt
+- Snarl
+
+
+Zacian @ Rusted Sword
+Ability: Intrepid Sword
+Tera Type: Fairy
+- Iron Head
+- Play Rough
+- Swords Dance
+- Protect
+
+
+Kyogre @ Splash Plate
+Ability: Drizzle
+Tera Type: Grass
+- Water Spout
+- Origin Pulse
+- Ice Beam
+- Protect
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Fire
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+
+Roaring Moon @ Booster Energy
+Ability: Protosynthesis
+Tera Type: Flying
+- Acrobatics
+- Knock Off
+- Tailwind
+- Protect
+
+
+Urshifu-Rapid-Strike @ Mystic Water
+Ability: Unseen Fist
+Tera Type: Water
+- Surging Strikes
+- Aqua Jet
+- Detect
+- Taunt
+
+

@@ -1,0 +1,54 @@
+Lunala @ Leftovers
+Ability: Shadow Shield
+Tera Type: Fairy
+- Moongeist Beam
+- Moonblast
+- Calm Mind
+- Protect
+
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Tera Type: Ghost
+- Spirit Break
+- Thunder Wave
+- Reflect
+- Light Screen
+
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Tera Type: Electric
+- Electro Drift
+- Draco Meteor
+- Snarl
+- Volt Switch
+
+
+Ogerpon-Hearthflame @ Hearthflame Mask
+Ability: Mold Breaker
+Tera Type: Fire
+- Ivy Cudgel
+- Wood Hammer
+- Follow Me
+- Spiky Shield
+
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Bug
+- Will-O-Wisp
+- Knock Off
+- Fake Out
+- Parting Shot
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Water
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+

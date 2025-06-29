@@ -1,0 +1,54 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Tera Type: Grass
+- Flare Blitz
+- Fake Out
+- U-turn
+- Knock Off
+
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Tera Type: Electric
+- Volt Switch
+- Draco Meteor
+- Electro Drift
+- Snarl
+
+
+Iron Treads @ Life Orb
+Ability: Quark Drive
+Tera Type: Ghost
+- High Horsepower
+- Steel Roller
+- Protect
+- Iron Head
+
+
+Calyrex-Ice @ Never-Melt Ice
+Ability: As One
+Tera Type: Fairy
+- Glacial Lance
+- Leech Seed
+- Trick Room
+- Protect
+
+
+Amoonguss @ Mental Herb
+Ability: Regenerator
+Tera Type: Water
+- Spore
+- Pollen Puff
+- Rage Powder
+- Protect
+
+
+Urshifu @ Focus Sash
+Ability: Unseen Fist
+Tera Type: Stellar
+- Wicked Blow
+- Close Combat
+- Sucker Punch
+- Protect
+
+

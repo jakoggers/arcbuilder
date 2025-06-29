@@ -1,0 +1,54 @@
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Tera Type: Water
+- Moonblast
+- Tailwind
+- Light Screen
+- Encore
+
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Tera Type: Ghost
+- Surging Strikes
+- U-turn
+- Aqua Jet
+- Close Combat
+
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Tera Type: Fairy
+- Electro Drift
+- Volt Switch
+- Draco Meteor
+- Dazzling Gleam
+
+
+Lunala @ Electric Seed
+Ability: Shadow Shield
+Tera Type: Fairy
+- Trick Room
+- Moonblast
+- Wide Guard
+- Moongeist Beam
+
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Tera Type: Bug
+- U-turn
+- Knock Off
+- Flare Blitz
+- Fake Out
+
+

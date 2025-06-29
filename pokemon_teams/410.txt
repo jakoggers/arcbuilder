@@ -1,0 +1,54 @@
+Calyrex-Shadow @ Life Orb
+Ability: As One
+Tera Type: Dark
+- Astral Barrage
+- Protect
+- Psychic
+- Encore
+
+
+Sneasler @ Electric Seed
+Ability: Unburden
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Toxic Spikes
+- Fake Out
+
+
+Miraidon @ Assault Vest
+Ability: Hadron Engine
+Tera Type: Fairy
+- Electro Drift
+- Dazzling Gleam
+- Draco Meteor
+- Volt Switch
+
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Tera Type: Ghost
+- Snarl
+- Overheat
+- Heat Wave
+- Dark Pulse
+
+
+Tatsugiri-Droopy @ Focus Sash
+Ability: Commander
+Tera Type: Stellar
+- Draco Meteor
+- Muddy Water
+- Helping Hand
+- Protect
+
+
+Dondozo @ Leftovers
+Ability: Unaware
+Tera Type: Grass
+- Order Up
+- Earthquake
+- Body Press
+- Protect
+
+

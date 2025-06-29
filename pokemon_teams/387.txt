@@ -1,0 +1,54 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Tera Type: Ghost
+- Reflect
+- Light Screen
+- Spirit Break
+- Foul Play
+
+
+Miraidon @ Assault Vest
+Ability: Hadron Engine
+Tera Type: Electric
+- Volt Switch
+- Electro Drift
+- Snarl
+- Draco Meteor
+
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One
+Tera Type: Water
+- Glacial Lance
+- High Horsepower
+- Protect
+- Trick Room
+
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Tera Type: Fire
+- Coaching
+- Final Gambit
+- Rage Fist
+- Brick Break
+
+
+Iron Hands @ Electric Seed
+Ability: Quark Drive
+Tera Type: Bug
+- Fake Out
+- Drain Punch
+- Wild Charge
+- Low Kick
+
+
+Indeedee-F @ Focus Sash
+Ability: Synchronize
+Tera Type: Grass
+- Follow Me
+- Trick Room
+- Fake Out
+- Helping Hand
+
+

@@ -1,0 +1,60 @@
+Koraidon @ Loaded Dice  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Flare Blitz  
+- Collision Course  
+- Scale Shot  
+- Protect  
+
+
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Water  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+
+Lilligant-Hisui @ Focus Sash  
+Ability: Chlorophyll  
+Level: 50  
+Tera Type: Ghost  
+- Solar Blade  
+- Sleep Powder  
+- Coaching  
+- After You  
+
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Water  
+- Drain Punch  
+- Wild Charge  
+- Volt Switch  
+- Fake Out  
+
+
+Flutter Mane @ Choice Specs  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Fairy  
+- Moonblast  
+- Dazzling Gleam  
+- Shadow Ball  
+- Icy Wind  
+
+

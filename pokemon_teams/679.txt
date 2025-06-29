@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Astral Barrage  
+- Expanding Force  
+- Nasty Plot  
+- Protect  
+
+
+Koraidon @ Clear Amulet  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Collision Course  
+- Flare Blitz  
+- Flame Charge  
+- Protect  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Overheat  
+- Dark Pulse  
+- Heat Wave  
+- Snarl  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Stellar  
+IVs: 0 Atk  
+- Moonblast  
+- Shadow Ball  
+- Icy Wind  
+- Protect  
+
+
+Raging Bolt @ Assault Vest  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+IVs: 20 Atk  
+- Thunderbolt  
+- Thunderclap  
+- Draco Meteor  
+- Electroweb  
+
+
+Indeedee-F @ Rocky Helmet  
+Ability: Psychic Surge  
+Level: 50  
+Tera Type: Water  
+IVs: 0 Atk  
+- Imprison  
+- Helping Hand  
+- Follow Me  
+- Trick Room  
+
+

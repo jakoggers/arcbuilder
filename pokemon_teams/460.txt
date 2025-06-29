@@ -1,0 +1,62 @@
+Calyrex-Shadow @ Spooky Plate  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Protect  
+- Astral Barrage  
+- Psychic  
+- Substitute  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Protect  
+- Body Press  
+- Crunch  
+- Wide Guard  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Stellar  
+- Protect  
+- Icicle Crash  
+- Sucker Punch  
+- Sacred Sword  
+
+
+Raging Bolt @ Covert Cloak  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Fairy  
+IVs: 20 Atk  
+- Protect  
+- Thunderclap  
+- Draco Meteor  
+- Electroweb  
+
+
+Ting-Lu @ Rocky Helmet  
+Ability: Vessel of Ruin  
+Level: 50  
+Tera Type: Poison  
+- Ruination  
+- Bulldoze  
+- Whirlwind  
+- Stealth Rock  
+
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Level: 50  
+Tera Type: Grass  
+- Protect  
+- Wave Crash  
+- Yawn  
+- Fissure  
+
+

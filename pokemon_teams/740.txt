@@ -1,0 +1,60 @@
+Sneasler @ Electric Seed  
+Ability: Unburden  
+Level: 50  
+Tera Type: Ghost  
+- Close Combat  
+- Dire Claw  
+- Toxic Spikes  
+- Fake Out  
+
+
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Dark  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Level: 50  
+Tera Type: Grass  
+- Earthquake  
+- Body Press  
+- Order Up  
+- Protect  
+
+
+Tatsugiri (Tatsugiri-Droopy) @ Focus Sash  
+Ability: Commander  
+Level: 50  
+Tera Type: Stellar  
+- Draco Meteor  
+- Muddy Water  
+- Helping Hand  
+- Protect  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+- Overheat  
+- Heat Wave  
+- Dark Pulse  
+- Snarl  
+
+
+Miraidon @ Assault Vest  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Draco Meteor  
+- Dazzling Gleam  
+- Volt Switch  
+
+

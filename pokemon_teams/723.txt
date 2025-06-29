@@ -1,0 +1,60 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Dazzling Gleam  
+- Volt Switch  
+- Draco Meteor  
+
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Normal  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Whimsicott @ Covert Cloak  
+Ability: Prankster  
+Level: 50  
+Tera Type: Water  
+- Moonblast  
+- Tailwind  
+- Light Screen  
+- Encore  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Water  
+- Drain Punch  
+- Heavy Slam  
+- Low Kick  
+- Fake Out  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+- Overheat  
+- Dark Pulse  
+- Heat Wave  
+- Snarl  
+
+
+Farigiraf @ Electric Seed  
+Ability: Armor Tail  
+Level: 50  
+Tera Type: Water  
+- Psychic  
+- Helping Hand  
+- Foul Play  
+- Trick Room  
+
+

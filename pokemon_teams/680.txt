@@ -1,0 +1,63 @@
+Terapagos @ Leftovers  
+Ability: Tera Shift  
+Level: 50  
+Tera Type: Stellar  
+IVs: 15 Atk  
+- Tera Starstorm  
+- Substitute  
+- Calm Mind  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Drum Beating  
+- Fake Out  
+- Grassy Glide  
+- U-turn  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Ghost  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
+
+Gengar @ Focus Sash  
+Ability: Cursed Body  
+Level: 50  
+Tera Type: Dark  
+IVs: 0 Atk  
+- Acid Spray  
+- Dazzling Gleam  
+- Icy Wind  
+- Destiny Bond  
+
+
+Volbeat @ Covert Cloak  
+Ability: Prankster  
+Level: 50  
+Tera Type: Dark  
+IVs: 0 Atk  
+- Struggle Bug  
+- Tailwind  
+- Rain Dance  
+- Light Screen  
+
+

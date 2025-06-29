@@ -1,0 +1,55 @@
+Koraidon @ Ability Shield  
+Ability: Orichalcum Pulse  
+Tera Type: Fire  
+- Flare Blitz  
+- Flame Charge  
+- Collision Course  
+- Protect  
+
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Tera Type: Ghost  
+- Astral Barrage  
+- Psychic  
+- Imprison  
+- Protect  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Tera Type: Ghost  
+- Heat Wave  
+- Dark Pulse  
+- Snarl  
+- Overheat  
+
+
+Weezing-Galar @ Wide Lens  
+Ability: Neutralizing Gas  
+Level: 50  
+Tera Type: Dark  
+- Play Rough  
+- Poison Gas  
+- Taunt  
+- Protect  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Tera Type: Water  
+- Drain Punch  
+- Low Kick  
+- Wild Charge  
+- Fake Out  
+
+
+Jumpluff @ Covert Cloak  
+Ability: Chlorophyll  
+Tera Type: Dark  
+- Sleep Powder  
+- Rage Powder  
+- Tailwind  
+- Encore  
+
+

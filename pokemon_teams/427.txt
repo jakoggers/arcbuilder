@@ -1,0 +1,60 @@
+Miraidon @ Assault Vest  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Dazzling Gleam  
+- Volt Switch  
+- Draco Meteor  
+
+
+Lunala @ Electric Seed  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Water  
+- Moongeist Beam  
+- Psychic  
+- Wide Guard  
+- Trick Room  
+
+
+Whimsicott @ Covert Cloak  
+Ability: Prankster  
+Level: 50  
+Tera Type: Dark  
+- Moonblast  
+- Tailwind  
+- Encore  
+- Light Screen  
+
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Ghost  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Fake Out  
+- Knock Off  
+- Will-O-Wisp  
+- Parting Shot  
+
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Ghost  
+- Earthquake  
+- Facade  
+- Headlong Rush  
+- Protect  
+
+

@@ -1,0 +1,54 @@
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Tera Type: Fairy
+- Electro Drift
+- Volt Switch
+- Draco Meteor
+- Dazzling Gleam
+
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Tera Type: Water
+- Low Kick
+- Wild Charge
+- Drain Punch
+- Fake Out
+
+
+Urshifu @ Focus Sash
+Ability: Unseen Fist
+Tera Type: Stellar
+- Wicked Blow
+- Close Combat
+- Sucker Punch
+- Detect
+
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Tera Type: Water
+- Psychic
+- Foul Play
+- Helping Hand
+- Trick Room
+
+
+Ho-Oh @ Clear Amulet
+Ability: Regenerator
+Tera Type: Grass
+- Sacred Fire
+- Brave Bird
+- Tailwind
+- Protect
+
+
+Iron Bundle @ Booster Energy
+Ability: Quark Drive
+Tera Type: Grass
+- Icy Wind
+- Freeze-Dry
+- Hydro Pump
+- Protect
+
+

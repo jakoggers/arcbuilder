@@ -1,0 +1,62 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Ghost  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Chien-Pao @ Life Orb  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Stellar  
+- Icicle Crash  
+- Crunch  
+- Sucker Punch  
+- Protect  
+
+
+Raging Bolt @ Magnet  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+IVs: 20 Atk  
+- Thunderbolt  
+- Dragon Pulse  
+- Thunderclap  
+- Protect  
+
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+
+Rillaboom @ Miracle Seed  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Water  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+

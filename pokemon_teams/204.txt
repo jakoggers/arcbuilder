@@ -1,0 +1,54 @@
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Tera Type: Fairy
+- Thunderbolt
+- Dragon Pulse
+- Electroweb
+- Thunderclap
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Encore
+- Psychic
+- Protect
+
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Tera Type: Ghost
+- Heat Wave
+- Dark Pulse
+- Snarl
+- Overheat
+
+
+Koraidon @ Ability Shield
+Ability: Orichalcum Pulse
+Tera Type: Fire
+- Collision Course
+- Flare Blitz
+- Flame Charge
+- Protect
+
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Tera Type: Water
+- Spore
+- Protect
+- Grass Knot
+- Rage Powder
+
+
+Weezing-Galar @ Sitrus Berry
+Ability: Neutralizing Gas
+Tera Type: Ghost
+- Strange Steam
+- Will-O-Wisp
+- Taunt
+- Protect
+
+

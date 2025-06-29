@@ -1,0 +1,54 @@
+Brute Bonnet @ Covert Cloak
+Ability: Protosynthesis
+Tera Type: Fairy
+- Seed Bomb
+- Sucker Punch
+- Rage Powder
+- Spore
+
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Tera Type: Fire
+- Flare Blitz
+- Close Combat
+- Flame Charge
+- Protect
+
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Tera Type: Normal
+- Moonblast
+- Taunt
+- Icy Wind
+- Protect
+
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Tera Type: Fairy
+- Flare Blitz
+- Knock Off
+- U-turn
+- Fake Out
+
+
+Lunala @ Leftovers
+Ability: Shadow Shield
+Tera Type: Fairy
+- Moongeist Beam
+- Moonblast
+- Wide Guard
+- Trick Room
+
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+

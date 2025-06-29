@@ -1,0 +1,62 @@
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Ghost  
+IVs: 0 Atk  
+- Weather Ball  
+- Hurricane  
+- Protect  
+- Wide Guard  
+
+
+Calyrex-Ice @ Assault Vest  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Grass  
+- Glacial Lance  
+- High Horsepower  
+- Crunch  
+- Seed Bomb  
+
+
+Sinistcha @ Mental Herb  
+Ability: Hospitality  
+Level: 50  
+Tera Type: Dark  
+IVs: 0 Atk  
+- Matcha Gotcha  
+- Rage Powder  
+- Life Dew  
+- Trick Room  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Rock Slide  
+- Close Combat  
+- U-turn  
+
+
+Miraidon @ Covert Cloak  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Electric  
+- Electro Drift  
+- Dragon Pulse  
+- Calm Mind  
+- Protect  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Knock Off  
+- Fake Out  
+- Will-O-Wisp  
+- Parting Shot  
+
+

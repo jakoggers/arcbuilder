@@ -1,0 +1,61 @@
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+- Heat Wave  
+- Overheat  
+- Snarl  
+- Dark Pulse  
+
+
+Koraidon @ Ability Shield  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Collision Course  
+- Flare Blitz  
+- Flame Charge  
+- Protect  
+
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+- Astral Barrage  
+- Psychic  
+- Imprison  
+- Protect  
+
+
+Jumpluff (F) @ Covert Cloak  
+Ability: Chlorophyll  
+Level: 50  
+Shiny: Yes  
+Tera Type: Water  
+- Sleep Powder  
+- Rage Powder  
+- Encore  
+- Tailwind  
+
+
+Weezing-Galar (M) @ Zoom Lens  
+Ability: Neutralizing Gas  
+Level: 50  
+Tera Type: Ghost  
+- Gunk Shot  
+- Poison Gas  
+- Taunt  
+- Protect  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Water  
+- Fake Out  
+- Drain Punch  
+- Low Kick  
+- Wild Charge  
+
+

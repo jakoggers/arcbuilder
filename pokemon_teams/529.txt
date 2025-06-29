@@ -1,0 +1,60 @@
+Muk-Alola @ Leftovers  
+Ability: Power of Alchemy  
+Level: 50  
+Tera Type: Water  
+- Toxic  
+- Protect  
+- Minimize  
+- Knock Off  
+
+
+Smeargle @ Focus Sash  
+Ability: Moody  
+Level: 50  
+Tera Type: Ghost  
+- Follow Me  
+- Spore  
+- Fake Out  
+- Decorate  
+
+
+Rillaboom (M) @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Seed Bomb  
+- Grassy Glide  
+- Snarl  
+- Fake Out  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Crunch  
+- Body Press  
+- Wide Guard  
+- Protect  
+
+
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Normal  
+- Trick Room  
+- Glacial Lance  
+- Protect  
+- High Horsepower  
+
+
+Roaring Moon @ Booster Energy  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Ghost  
+- Knock Off  
+- Taunt  
+- Tailwind  
+- Protect  
+
+

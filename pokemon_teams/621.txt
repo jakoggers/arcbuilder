@@ -1,0 +1,59 @@
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Water  
+- Moongeist Beam  
+- Meteor Beam  
+- Wide Guard  
+- Trick Room  
+
+
+Koraidon @ Clear Amulet  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Collision Course  
+- Flare Blitz  
+- Flame Charge  
+- Protect  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+- Heat Wave  
+- Dark Pulse  
+- Overheat  
+- Snarl  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Normal  
+- Moonblast  
+- Shadow Ball  
+- Icy Wind  
+- Protect  
+
+
+Brute Bonnet @ Rocky Helmet  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Water  
+- Spore  
+- Rage Powder  
+- Seed Bomb  
+- Sucker Punch  
+
+
+Ditto @ Shell Bell  
+Ability: Imposter  
+Level: 50  
+Shiny: Yes  
+Tera Type: Normal  
+- Transform  
+
+
+

@@ -1,0 +1,60 @@
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Tera Type: Ghost  
+- Foul Play  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+
+
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Electric  
+- Electro Drift  
+- Draco Meteor  
+- Volt Switch  
+- Parabolic Charge  
+
+
+Lunala @ Electric Seed  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Fairy  
+- Moongeist Beam  
+- Moonblast  
+- Trick Room  
+- Wide Guard  
+
+
+Volcarona @ Leftovers  
+Ability: Flame Body  
+Level: 50  
+Tera Type: Water  
+- Fiery Dance  
+- Struggle Bug  
+- Quiver Dance  
+- Protect  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Bug  
+- Drain Punch  
+- Heavy Slam  
+- Wild Charge  
+- Fake Out  
+
+
+Ursaluna (M) @ Flame Orb  
+Ability: Guts  
+Level: 55  
+Tera Type: Ghost  
+- Facade  
+- Headlong Rush  
+- Earthquake  
+- Protect  
+
+

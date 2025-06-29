@@ -1,0 +1,54 @@
+Weezing-Galar @ Sitrus Berry
+Ability: Neutralizing Gas
+Tera Type: Water
+- Protect
+- Poison Gas
+- Toxic Spikes
+- Dazzling Gleam
+
+
+Dondozo @ Leftovers
+Ability: Unaware
+Tera Type: Grass
+- Protect
+- Order Up
+- Body Press
+- Substitute
+
+
+Tatsugiri-Droopy @ Focus Sash
+Ability: Commander
+Tera Type: Normal
+- Protect
+- Muddy Water
+- Icy Wind
+- Draco Meteor
+
+
+Brute Bonnet @ Covert Cloak
+Ability: Protosynthesis
+Tera Type: Water
+- Rage Powder
+- Spore
+- Seed Bomb
+- Sucker Punch
+
+
+Calyrex-Shadow @ Life Orb
+Ability: As One
+Tera Type: Normal
+- Protect
+- Astral Barrage
+- Psychic
+- Pollen Puff
+
+
+Koraidon @ Ability Shield
+Ability: Orichalcum Pulse
+Tera Type: Fire
+- Protect
+- Flame Charge
+- Flare Blitz
+- Collision Course
+
+

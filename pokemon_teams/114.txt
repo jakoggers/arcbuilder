@@ -1,0 +1,61 @@
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Grass  
+- Glacial Lance  
+- Seed Bomb  
+- Trick Room  
+- Protect  
+
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Grass  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Protect  
+
+
+Iron Jugulis @ Booster Energy  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Ghost  
+- Snarl  
+- Rain Dance  
+- Tailwind  
+- Hurricane  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Urshifu-Rapid-Strike @ Life Orb  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Grass  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Detect  
+
+
+Amoonguss @ Rocky Helmet  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Water  
+- Pollen Puff  
+- Rage Powder  
+- Spore  
+- Protect  
+
+
+

@@ -1,0 +1,61 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Electric  
+- Volt Switch  
+- Electro Drift  
+- Draco Meteor  
+- Parabolic Charge  
+
+
+Calyrex-Ice @ Electric Seed  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Grass  
+- Glacial Lance  
+- Body Press  
+- Trick Room  
+- Imprison  
+
+
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Ground  
+- Hurricane  
+- Weather Ball  
+- Helping Hand  
+- Wide Guard  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Ghost  
+- Surging Strikes  
+- Aqua Jet  
+- U-turn  
+- Close Combat  
+
+
+Tsareena @ Wide Lens  
+Ability: Queenly Majesty  
+Level: 50  
+Tera Type: Ice  
+- Protect  
+- Helping Hand  
+- Power Whip  
+- Triple Axel  
+
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Ghost  
+- Facade  
+- Headlong Rush  
+- Swords Dance  
+- Protect  
+
+
+

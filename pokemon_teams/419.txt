@@ -1,0 +1,60 @@
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+- Dark Pulse  
+- Snarl  
+- Heat Wave  
+- Overheat  
+
+
+Brute Bonnet @ Covert Cloak  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Water  
+- Seed Bomb  
+- Sucker Punch  
+- Spore  
+- Rage Powder  
+
+
+Koraidon @ Life Orb  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Protect  
+- Flare Blitz  
+- Close Combat  
+- Flame Charge  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Normal  
+- Moonblast  
+- Protect  
+- Icy Wind  
+- Taunt  
+
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Ghost  
+- Headlong Rush  
+- Facade  
+- Earthquake  
+- Protect  
+
+
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Water  
+- Moongeist Beam  
+- Wide Guard  
+- Trick Room  
+- Meteor Beam  
+
+

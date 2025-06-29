@@ -1,0 +1,60 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Rillaboom (M) @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Incineroar (F) @ Chople Berry  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Grass  
+- Fake Out  
+- Knock Off  
+- Will-O-Wisp  
+- Parting Shot  
+
+
+Urshifu-Rapid-Strike @ Mystic Water  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Taunt  
+- Aqua Jet  
+- Detect  
+
+
+Tornadus @ Rocky Helmet  
+Ability: Prankster  
+Level: 50  
+Tera Type: Dark  
+- Bleakwind Storm  
+- Tailwind  
+- Rain Dance  
+- Protect  
+
+

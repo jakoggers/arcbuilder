@@ -1,0 +1,61 @@
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Water  
+- Meteor Beam  
+- Moongeist Beam  
+- Wide Guard  
+- Expanding Force  
+
+
+Koraidon @ Life Orb  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Flame Charge  
+- Flare Blitz  
+- Protect  
+- Close Combat  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Fairy  
+- Moonblast  
+- Shadow Ball  
+- Protect  
+- Icy Wind  
+
+
+Indeedee-F @ Psychic Seed  
+Ability: Psychic Surge  
+Level: 50  
+Tera Type: Water  
+- Follow Me  
+- Helping Hand  
+- Psychic  
+- Trick Room  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Fire  
+- Heat Wave  
+- Overheat  
+- Snarl  
+- Dark Pulse  
+
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Ghost  
+- Facade  
+- Headlong Rush  
+- Earthquake  
+- Protect  
+
+
+

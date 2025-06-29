@@ -1,0 +1,54 @@
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Dragon
+- Protect
+- Wide Guard
+- Body Press
+- Heavy Slam
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+- U-turn
+
+
+Ogerpon-Hearthflame @ Hearthflame Mask
+Ability: Mold Breaker
+Tera Type: Fire
+- Spiky Shield
+- Ivy Cudgel
+- Follow Me
+- Grassy Glide
+
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Bug
+- Fake Out
+- Parting Shot
+- Knock Off
+- Helping Hand
+
+
+Calyrex-Shadow @ Life Orb
+Ability: As One
+Tera Type: Dark
+- Protect
+- Astral Barrage
+- Nasty Plot
+- Psychic
+
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Tera Type: Water
+- Close Combat
+- Surging Strikes
+- U-turn
+- Aqua Jet
+
+

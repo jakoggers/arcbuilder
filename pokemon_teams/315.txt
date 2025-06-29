@@ -1,0 +1,54 @@
+Urshifu-Rapid-Strike @ Mystic Water
+Ability: Unseen Fist
+Tera Type: Water
+- Surging Strikes
+- Close Combat
+- Aqua Jet
+- Detect
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Will-O-Wisp
+- Pollen Puff
+- Protect
+
+
+Amoonguss @ Mental Herb
+Ability: Regenerator
+Tera Type: Water
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Tera Type: Fairy
+- Moonblast
+- Icy Wind
+- Taunt
+- Thunder Wave
+
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Bug
+- Will-O-Wisp
+- Knock Off
+- Fake Out
+- Parting Shot
+
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Tera Starstorm
+- Earth Power
+- Calm Mind
+- Protect
+
+

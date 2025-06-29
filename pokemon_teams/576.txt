@@ -1,0 +1,60 @@
+Koraidon @ Ability Shield  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Collision Course  
+- Flare Blitz  
+- Flame Charge  
+- Protect  
+
+
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Fairy  
+- Astral Barrage  
+- Expanding Force  
+- Draining Kiss  
+- Protect  
+
+
+Weezing @ Sitrus Berry  
+Ability: Neutralizing Gas  
+Level: 50  
+Tera Type: Dark  
+- Taunt  
+- Clear Smog  
+- Poison Gas  
+- Protect  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Fairy  
+- Moonblast  
+- Dazzling Gleam  
+- Icy Wind  
+- Protect  
+
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Ghost  
+- Fake Out  
+- Knock Off  
+- Flare Blitz  
+- U-turn  
+
+
+Indeedee-F @ Safety Goggles  
+Ability: Psychic Surge  
+Level: 50  
+Tera Type: Fairy  
+- Dazzling Gleam  
+- Follow Me  
+- Helping Hand  
+- Trick Room  
+
+

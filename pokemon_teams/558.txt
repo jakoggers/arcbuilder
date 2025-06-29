@@ -1,0 +1,54 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Rage Powder
+- Protect
+- Sludge Bomb
+- Spore
+
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Tera Type: Water
+- Surging Strikes
+- Close Combat
+- Aqua Jet
+- U-turn
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Protect
+- Encore
+- Astral Barrage
+- Psychic
+
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Tera Type: Grass
+- Moonblast
+- Thunder Wave
+- Fake Tears
+- Taunt
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Bug
+- Fake Out
+- Parting Shot
+- Knock Off
+- Will-O-Wisp
+
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Calm Mind
+- Tera Starstorm
+- Protect
+- Earth Power
+
+

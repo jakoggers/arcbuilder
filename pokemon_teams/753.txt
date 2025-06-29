@@ -1,0 +1,60 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Volt Switch  
+- Draco Meteor  
+- Dazzling Gleam  
+
+
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Water  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+
+Ogerpon-Hearthflame (F) @ Hearthflame Mask  
+Ability: Mold Breaker  
+Level: 50  
+Tera Type: Fire  
+- Ivy Cudgel  
+- Wood Hammer  
+- Follow Me  
+- Spiky Shield  
+
+
+Farigiraf @ Electric Seed  
+Ability: Armor Tail  
+Level: 50  
+Tera Type: Fairy  
+- Psychic  
+- Foul Play  
+- Trick Room  
+- Helping Hand  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Water  
+- Fake Out  
+- Drain Punch  
+- Low Kick  
+- Wild Charge  
+
+
+Iron Bundle @ Focus Sash  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Ghost  
+- Hydro Pump  
+- Freeze-Dry  
+- Icy Wind  
+- Protect  
+
+

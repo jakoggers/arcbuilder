@@ -1,0 +1,59 @@
+Koraidon @ Life Orb  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Close Combat  
+- Flare Blitz  
+- Protect  
+- Flame Charge  
+
+
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Water  
+- Moongeist Beam  
+- Meteor Beam  
+- Wide Guard  
+- Trick Room  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Stellar  
+- Moonblast  
+- Shadow Ball  
+- Icy Wind  
+- Protect  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Tera Type: Ghost  
+- Heat Wave  
+- Snarl  
+- Overheat  
+- Ruination  
+
+
+Brute Bonnet @ Covert Cloak  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Water  
+- Seed Bomb  
+- Sucker Punch  
+- Spore  
+- Rage Powder  
+
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Ghost  
+- Facade  
+- Headlong Rush  
+- Earthquake  
+- Protect  
+
+

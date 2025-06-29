@@ -1,0 +1,60 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+- Protect  
+- Astral Barrage  
+- Will-O-Wisp  
+- Pollen Puff  
+
+
+Terapagos @ Covert Cloak  
+Ability: Tera Shift  
+Level: 50  
+Tera Type: Stellar  
+- Calm Mind  
+- Tera Starstorm  
+- Protect  
+- Earth Power  
+
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Normal  
+- Thunder Wave  
+- Taunt  
+- Moonblast  
+- Icy Wind  
+
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Fake Out  
+- Parting Shot  
+- Will-O-Wisp  
+- Knock Off  
+
+
+Amoonguss @ Rocky Helmet  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Water  
+- Protect  
+- Spore  
+- Pollen Puff  
+- Rage Powder  
+
+
+Ogerpon-Cornerstone (F) @ Cornerstone Mask  
+Ability: Sturdy  
+Level: 50  
+Tera Type: Rock  
+- Spiky Shield  
+- Ivy Cudgel  
+- Power Whip  
+- Follow Me  
+
+

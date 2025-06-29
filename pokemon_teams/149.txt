@@ -1,0 +1,58 @@
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Shiny: Yes  
+Tera Type: Grass  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Protect  
+
+
+Roaring Moon @ Booster Energy  
+Ability: Protosynthesis  
+Shiny: Yes  
+Tera Type: Flying  
+- Acrobatics  
+- Knock Off  
+- Tailwind  
+- Protect  
+
+
+Amoonguss @ Rocky Helmet  
+Ability: Regenerator  
+Level: 75  
+Tera Type: Fire  
+- Pollen Puff  
+- Rage Powder  
+- Protect  
+- Spore  
+
+
+Annihilape @ Choice Scarf  
+Ability: Defiant  
+Level: 78  
+Tera Type: Dark  
+- Shadow Claw  
+- Close Combat  
+- Coaching  
+- Final Gambit  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Stellar  
+- Ice Spinner  
+- Crunch  
+- Sucker Punch  
+- Protect  
+
+
+Zamazenta @ Rusted Shield  
+Ability: Dauntless Shield  
+Tera Type: Grass  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+

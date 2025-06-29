@@ -1,0 +1,60 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Volt Switch  
+- Electro Drift  
+- Draco Meteor  
+- Dazzling Gleam  
+
+
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Fire  
+- Glacial Lance  
+- High Horsepower  
+- Trick Room  
+- Protect  
+
+
+Ogerpon-Cornerstone (F) @ Cornerstone Mask  
+Ability: Sturdy  
+Level: 50  
+Tera Type: Rock  
+- Ivy Cudgel  
+- Power Whip  
+- Follow Me  
+- Spiky Shield  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Grass  
+- Fake Out  
+- Drain Punch  
+- Low Kick  
+- Wild Charge  
+
+
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Ghost  
+- Weather Ball  
+- Hurricane  
+- Tailwind  
+- Wide Guard  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
+

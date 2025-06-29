@@ -1,0 +1,54 @@
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Psychic
+- Encore
+- Protect
+
+
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Tera Type: Electric
+- Thunderclap
+- Thunderbolt
+- Draco Meteor
+- Protect
+
+
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Tera Type: Stellar
+- Icicle Crash
+- Crunch
+- Sucker Punch
+- Protect
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Dark
+- Spore
+- Rage Powder
+- Sludge Bomb
+- Protect
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Fire
+- Body Press
+- Heavy Slam
+- Wide Guard
+- Protect
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+

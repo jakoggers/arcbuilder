@@ -1,0 +1,61 @@
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Fire  
+- Glacial Lance  
+- Close Combat  
+- Trick Room  
+- Protect  
+
+
+Landorus @ Life Orb  
+Ability: Sheer Force  
+Level: 50  
+Tera Type: Poison  
+IVs: 0 Atk  
+- Earth Power  
+- Sludge Bomb  
+- Sandsear Storm  
+- Protect  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+- Knock Off  
+- Taunt  
+- Fake Out  
+- Parting Shot  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Close Combat  
+- Surging Strikes  
+- Aqua Jet  
+- U-turn  
+
+
+Miraidon @ Assault Vest  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Electric  
+- Volt Switch  
+- Parabolic Charge  
+- Electro Drift  
+- Draco Meteor  
+
+
+Grimmsnarl @ Covert Cloak  
+Ability: Prankster  
+Level: 50  
+Tera Type: Ground  
+- Spirit Break  
+- Fake Out  
+- Light Screen  
+- Parting Shot  
+
+

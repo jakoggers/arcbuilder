@@ -1,0 +1,63 @@
+Terapagos-Terastal @ Leftovers  
+Ability: Tera Shell  
+Level: 50  
+Tera Type: Stellar  
+IVs: 15 Atk  
+- Tera Starstorm  
+- Toxic  
+- Substitute  
+- Protect  
+
+
+Eternatus @ Covert Cloak  
+Ability: Pressure  
+Level: 50  
+Tera Type: Water  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Sludge Bomb  
+- Flamethrower  
+- Protect  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Fairy  
+- Knock Off  
+- Fake Out  
+- Will-O-Wisp  
+- Parting Shot  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Urshifu @ Focus Sash  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Ghost  
+- Wicked Blow  
+- Sucker Punch  
+- Close Combat  
+- Detect  
+
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Moonblast  
+- Icy Wind  
+- Thunder Wave  
+- Protect  
+
+

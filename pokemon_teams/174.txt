@@ -1,0 +1,60 @@
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+- Knock Off  
+- Taunt  
+- Parting Shot  
+- Fake Out  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Water  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Stellar  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Detect  
+
+
+Lunala @ Leftovers  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Fairy  
+- Moongeist Beam  
+- Moonblast  
+- Calm Mind  
+- Protect  
+
+
+Miraidon @ Choice Scarf  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Electric  
+- Electro Drift  
+- Draco Meteor  
+- Volt Switch  
+- Snarl  
+
+
+Volcarona @ Rocky Helmet  
+Ability: Flame Body  
+Level: 50  
+Tera Type: Dragon  
+- Fiery Dance  
+- Rage Powder  
+- Will-O-Wisp  
+- Tailwind  
+
+

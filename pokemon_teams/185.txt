@@ -1,0 +1,54 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Tera Type: Fairy
+- Knock Off
+- U-turn
+- Flare Blitz
+- Fake Out
+
+
+Calyrex-Shadow @ Life Orb
+Ability: As One
+Tera Type: Dark
+- Astral Barrage
+- Psychic
+- Nasty Plot
+- Protect
+
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Tera Type: Ghost
+- Ice Spinner
+- Sucker Punch
+- Taunt
+- Protect
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Dragon
+- Body Press
+- Heavy Slam
+- Wide Guard
+- Protect
+
+
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Tera Type: Electric
+- Thunderbolt
+- Dragon Pulse
+- Thunderclap
+- Protect
+
+

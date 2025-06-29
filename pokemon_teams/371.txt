@@ -1,0 +1,54 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Protect
+- Rage Powder
+- Sludge Bomb
+- Spore
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Water
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- U-turn
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Bug
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Knock Off
+
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Tera Type: Rock
+- Spiky Shield
+- Knock Off
+- Ivy Cudgel
+- Follow Me
+
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Protect
+- Calm Mind
+- Earth Power
+- Tera Starstorm
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Protect
+- Astral Barrage
+- Encore
+- Disable
+
+

@@ -1,0 +1,57 @@
+Calyrex-Ice @ Leftovers  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Fairy  
+- Protect  
+- Trick Room  
+- Leech Seed  
+- Glacial Lance  
+
+
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Draco Meteor  
+- Volt Switch  
+- Dazzling Gleam  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Water  
+- Fake Out  
+- Wood Hammer  
+- U-turn  
+- Grassy Glide  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Fake Out  
+- Knock Off  
+- Will-O-Wisp  
+- Parting Shot  
+
+
+Ditto @ Focus Sash  
+Ability: Imposter  
+Level: 50  
+Tera Type: Normal  
+- Transform  
+
+
+Amoonguss @ Mental Herb  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Water  
+- Protect  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+
+

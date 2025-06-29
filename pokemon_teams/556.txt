@@ -1,0 +1,54 @@
+Calyrex-Ice @ Clear Amulet
+Ability: As One
+Tera Type: Water
+- Protect
+- Trick Room
+- Glacial Lance
+- High Horsepower
+
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Tera Type: Steel
+- Struggle Bug
+- Rage Powder
+- Morning Sun
+- Fiery Dance
+
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Tera Type: Fairy
+- Draco Meteor
+- Electro Drift
+- Dazzling Gleam
+- Volt Switch
+
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Tera Type: Water
+- Fake Out
+- Low Kick
+- Drain Punch
+- Wild Charge
+
+
+Ogerpon-Wellspring @ Wellspring Mask
+Ability: Water Absorb
+Tera Type: Water
+- Ivy Cudgel
+- Spiky Shield
+- Follow Me
+- Horn Leech
+
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Tera Type: Dark
+- Trick Room
+- Helping Hand
+- Foul Play
+- Psychic
+
+

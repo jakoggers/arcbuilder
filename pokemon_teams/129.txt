@@ -1,0 +1,61 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Normal  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Water  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Chien-Pao @ Life Orb  
+Ability: Sword of Ruin  
+Level: 50  
+Tera Type: Ghost  
+- Ice Spinner  
+- Sucker Punch  
+- Taunt  
+- Protect  
+
+
+Amoonguss @ Rocky Helmet  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Water  
+- Pollen Puff  
+- Rage Powder  
+- Spore  
+- Protect  
+
+
+Raging Bolt @ Magnet  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+- Thunderbolt  
+- Dragon Pulse  
+- Thunderclap  
+- Protect  
+
+
+Ting-Lu @ Assault Vest  
+Ability: Vessel of Ruin  
+Level: 50  
+Tera Type: Fairy  
+- Sand Tomb  
+- Snarl  
+- Ruination  
+- Stone Edge  
+
+
+

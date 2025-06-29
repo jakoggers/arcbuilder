@@ -1,0 +1,54 @@
+Ho-Oh @ Leftovers
+Ability: Regenerator
+Tera Type: Grass
+- Sacred Fire
+- Brave Bird
+- Tailwind
+- Protect
+
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Bug
+- Parting Shot
+- Knock Off
+- Fake Out
+- Taunt
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Wood Hammer
+- U-turn
+- Fake Out
+- Grassy Glide
+
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Tera Type: Water
+- Rage Powder
+- Matcha Gotcha
+- Life Dew
+- Trick Room
+
+
+Miraidon @ Covert Cloak
+Ability: Hadron Engine
+Tera Type: Fairy
+- Protect
+- Dazzling Gleam
+- Electro Drift
+- Calm Mind
+
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+

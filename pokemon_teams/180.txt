@@ -1,0 +1,60 @@
+Koraidon @ Life Orb  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Protect  
+- Close Combat  
+- Flare Blitz  
+- Flame Charge  
+
+
+Terapagos @ Leftovers  
+Ability: Tera Shell  
+Level: 86  
+Tera Type: Stellar  
+- Tera Starstorm  
+- Earth Power  
+- Calm Mind  
+- Protect  
+
+
+Raging Bolt @ Assault Vest  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+- Thunderclap  
+- Thunderbolt  
+- Dragon Pulse  
+- Snarl  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Fairy  
+- Protect  
+- Moonblast  
+- Icy Wind  
+- Taunt  
+
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Ghost  
+- Parting Shot  
+- Knock Off  
+- Fake Out  
+- Taunt  
+
+
+Amoonguss (M) @ Mental Herb  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Water  
+- Protect  
+- Spore  
+- Pollen Puff  
+- Rage Powder  
+
+

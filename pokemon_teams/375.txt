@@ -1,0 +1,54 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Spore
+- Rage Powder
+- Sludge Bomb
+- Protect
+
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Tera Starstorm
+- Earth Power
+- Calm Mind
+- Protect
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- U-turn
+- Grassy Glide
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Water
+- Fake Out
+- Knock Off
+- Flare Blitz
+- Parting Shot
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Pollen Puff
+- Will-O-Wisp
+- Protect
+
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Tera Type: Water
+- U-turn
+- Surging Strikes
+- Close Combat
+- Rock Tomb
+
+

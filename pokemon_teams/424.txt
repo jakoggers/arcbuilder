@@ -1,0 +1,60 @@
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Knock Off  
+- Flare Blitz  
+- Parting Shot  
+- Fake Out  
+
+
+Terapagos-Terastal @ Leftovers  
+Ability: Tera Shell  
+Level: 50  
+Tera Type: Stellar  
+- Tera Starstorm  
+- Earth Power  
+- Calm Mind  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+- Astral Barrage  
+- Pollen Puff  
+- Will-O-Wisp  
+- Protect  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Close Combat  
+- U-turn  
+- Aqua Jet  
+
+
+Amoonguss @ Covert Cloak  
+Ability: Regenerator  
+Level: 50  
+Tera Type: Water  
+- Pollen Puff  
+- Spore  
+- Rage Powder  
+- Protect  
+
+

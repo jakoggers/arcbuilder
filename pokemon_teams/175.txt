@@ -1,0 +1,57 @@
+Calyrex-Shadow @ Covert Cloak  
+Ability: As One (Spectrier)  
+Tera Type: Fairy  
+- Astral Barrage  
+- Draining Kiss  
+- Nasty Plot  
+- Protect  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Tera Type: Ghost  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+
+
+Clefairy @ Eviolite  
+Ability: Friend Guard  
+Level: 53  
+Tera Type: Water  
+- Follow Me  
+- Helping Hand  
+- Life Dew  
+- Protect  
+
+
+Incineroar @ Safety Goggles  
+Ability: Intimidate  
+Level: 67  
+Tera Type: Water  
+- Fake Out  
+- Knock Off  
+- Parting Shot  
+- Taunt  
+
+
+Ho-Oh @ Clear Amulet  
+Ability: Regenerator  
+Level: 70  
+Tera Type: Grass  
+- Sacred Fire  
+- Brave Bird  
+- Tailwind  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- Fake Out  
+- U-turn  
+
+

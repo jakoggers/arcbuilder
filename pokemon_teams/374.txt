@@ -1,0 +1,54 @@
+Lunala @ Electric Seed
+Ability: Shadow Shield
+Tera Type: Fairy
+- Moongeist Beam
+- Moonblast
+- Wide Guard
+- Trick Room
+
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Tera Type: Ghost
+- Surging Strikes
+- Close Combat
+- Aqua Jet
+- U-turn
+
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Tera Type: Electric
+- Electro Drift
+- Draco Meteor
+- Volt Switch
+- Discharge
+
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Tera Type: Bug
+- Flare Blitz
+- Knock Off
+- U-turn
+- Fake Out
+
+

@@ -1,0 +1,54 @@
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Tera Type: Electric
+- Electro Drift
+- Draco Meteor
+- Snarl
+- Volt Switch
+
+
+Volcarona @ Electric Seed
+Ability: Flame Body
+Tera Type: Grass
+- Protect
+- Quiver Dance
+- Fiery Dance
+- Giga Drain
+
+
+Ogerpon @ Covert Cloak
+Ability: Defiant
+Tera Type: Grass
+- Spiky Shield
+- Ivy Cudgel
+- Taunt
+- Encore
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Water
+- Protect
+- Body Press
+- Iron Head
+- Wide Guard
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Water
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- U-turn
+
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Tera Type: Ghost
+- Protect
+- Sucker Punch
+- Icicle Crash
+- Crunch
+
+

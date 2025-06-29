@@ -1,0 +1,54 @@
+Calyrex-Shadow @ Life Orb
+Ability: As One
+Tera Type: Dark
+- Astral Barrage
+- Psychic
+- Nasty Plot
+- Protect
+
+
+Ogerpon-Hearthflame @ Hearthflame Mask
+Ability: Mold Breaker
+Tera Type: Fire
+- Ivy Cudgel
+- Grassy Glide
+- Follow Me
+- Spiky Shield
+
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Helping Hand
+- Parting Shot
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Tera Type: Electric
+- Thunderbolt
+- Draco Meteor
+- Thunderclap
+- Protect
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Dragon
+- Body Press
+- Heavy Slam
+- Wide Guard
+- Protect
+
+

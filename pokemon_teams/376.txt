@@ -1,0 +1,54 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+
+Calyrex-Ice @ Leftovers
+Ability: As One
+Tera Type: Water
+- Glacial Lance
+- Leech Seed
+- Trick Room
+- Protect
+
+
+Miraidon @ Assault Vest
+Ability: Hadron Engine
+Tera Type: Electric
+- Electro Drift
+- Volt Switch
+- Draco Meteor
+- Snarl
+
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Tera Type: Fairy
+- Facade
+- Earthquake
+- Headlong Rush
+- Protect
+
+
+Urshifu-Rapid-Strike @ Mystic Water
+Ability: Unseen Fist
+Tera Type: Water
+- Surging Strikes
+- U-turn
+- Aqua Jet
+- Detect
+
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Bug
+- Knock Off
+- Will-O-Wisp
+- Parting Shot
+- Fake Out
+
+

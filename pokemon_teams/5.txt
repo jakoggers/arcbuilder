@@ -1,54 +1,54 @@
-Terapagos @ Electric Seed
-Ability: Tera Shift
-Tera Type: Stellar
-- Tera Starstorm
-- Earth Power
-- Calm Mind
+Tornadus @ Sharp Beak
+Ability: Prankster
+Tera Type: Dragon
+- Bleakwind Storm
+- Taunt
+- Tailwind
 - Protect
 
 
-Miraidon @ Assault Vest
-Ability: Hadron Engine
-Tera Type: Electric
-- Electro Drift
-- Draco Meteor
-- Volt Switch
-- Snarl
-
-
-Urshifu-Rapid-Strike @ Choice Scarf
-Ability: Unseen Fist
-Tera Type: Water
-- Surging Strikes
-- Close Combat
-- U-turn
-- Rain Dance
-
-
-Incineroar @ Rocky Helmet
-Ability: Intimidate
-Tera Type: Water
-- Flare Blitz
-- Knock Off
-- Parting Shot
+Smeargle @ Focus Sash
+Ability: Moody
+Tera Type: Ghost
+- Spore
+- Decorate
+- Follow Me
 - Fake Out
 
 
-Sinistcha @ Focus Sash
-Ability: Hospitality
-Tera Type: Fire
-- Shadow Ball
-- Rage Powder
-- Strength Sap
+Calyrex-Shadow @ Life Orb
+Ability: As One
+Tera Type: Dark
+- Astral Barrage
+- Psychic
+- Nasty Plot
 - Protect
 
 
-Iron Treads @ Choice Band
-Ability: Quark Drive
-Tera Type: Bug
-- High Horsepower
-- Iron Head
-- Ice Spinner
-- Steel Roller
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Tera Type: Electric
+- Thunderbolt
+- Draco Meteor
+- Thunderclap
+- Protect
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Grass
+- Body Press
+- Heavy Slam
+- Wide Guard
+- Protect
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out
 
 

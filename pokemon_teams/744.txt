@@ -1,0 +1,55 @@
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Tera Type: Normal  
+- Astral Barrage  
+- Nasty Plot  
+- Protect  
+- Psychic  
+
+
+Terapagos @ Leftovers  
+Ability: Tera Shift  
+Tera Type: Stellar  
+- Calm Mind  
+- Protect  
+- Tera Starstorm  
+- Earth Power  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Water  
+- U-turn  
+- Grassy Glide  
+- Wood Hammer  
+- Fake Out  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Ghost  
+- Will-O-Wisp  
+- Knock Off  
+- Fake Out  
+- Parting Shot  
+
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+- Ivy Cudgel  
+- Grassy Glide  
+- Follow Me  
+- Spiky Shield  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Tera Type: Water  
+- Surging Strikes  
+- Close Combat  
+- U-turn  
+- Aqua Jet  
+
+

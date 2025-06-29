@@ -1,0 +1,54 @@
+Terapagos @ Covert Cloak
+Ability: Tera Shift
+Tera Type: Stellar
+- Tera Starstorm
+- Protect
+- Calm Mind
+- Earth Power
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Bug
+- Knock Off
+- Will-O-Wisp
+- Fake Out
+- Parting Shot
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Pollen Puff
+- Rage Powder
+- Spore
+- Protect
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Protect
+- Psychic
+- Pollen Puff
+
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Tera Type: Normal
+- Moonblast
+- Taunt
+- Thunder Wave
+- Fake Tears
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out
+
+

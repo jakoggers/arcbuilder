@@ -1,0 +1,60 @@
+Torkoal @ Charcoal  
+Ability: Drought  
+Level: 50  
+Tera Type: Fire  
+- Eruption  
+- Weather Ball  
+- Protect  
+- Heat Wave  
+
+
+Calyrex-Ice @ Clear Amulet  
+Ability: As One (Glastrier)  
+Level: 50  
+Tera Type: Water  
+- Close Combat  
+- Trick Room  
+- Protect  
+- Glacial Lance  
+
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Level: 50  
+Tera Type: Ghost  
+- Throat Chop  
+- Headlong Rush  
+- Protect  
+- Facade  
+
+
+Urshifu @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Poison  
+- Wicked Blow  
+- Sucker Punch  
+- U-turn  
+- Close Combat  
+
+
+Lunala @ Rocky Helmet  
+Ability: Shadow Shield  
+Level: 50  
+Tera Type: Fairy  
+- Expanding Force  
+- Trick Room  
+- Wide Guard  
+- Moongeist Beam  
+
+
+Indeedee-F @ Psychic Seed  
+Ability: Psychic Surge  
+Level: 50  
+Tera Type: Fairy  
+- Dazzling Gleam  
+- Follow Me  
+- Helping Hand  
+- Trick Room  
+
+

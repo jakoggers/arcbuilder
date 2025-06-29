@@ -1,0 +1,54 @@
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Bug
+- Flare Blitz
+- U-turn
+- Will-O-Wisp
+- Fake Out
+
+
+Lunala @ Electric Seed
+Ability: Shadow Shield
+Tera Type: Fairy
+- Moongeist Beam
+- Moonblast
+- Trick Room
+- Wide Guard
+
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Tera Type: Ghost
+- Surging Strikes
+- Aqua Jet
+- Close Combat
+- U-turn
+
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+
+Miraidon @ Assault Vest
+Ability: Hadron Engine
+Tera Type: Electric
+- Draco Meteor
+- Electro Drift
+- Volt Switch
+- Snarl
+
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Tera Type: Dark
+- Moonblast
+- Light Screen
+- Tailwind
+- Encore
+
+

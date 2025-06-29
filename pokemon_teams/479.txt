@@ -1,0 +1,63 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Normal  
+IVs: 0 Atk  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Level: 50  
+Tera Type: Grass  
+- Liquidation  
+- Earthquake  
+- Yawn  
+- Protect  
+
+
+Tatsugiri-Droopy @ Rocky Helmet  
+Ability: Commander  
+Level: 50  
+Tera Type: Steel  
+IVs: 0 Atk  
+- Muddy Water  
+- Draco Meteor  
+- Helping Hand  
+- Protect  
+
+
+Eternatus @ Covert Cloak  
+Ability: Pressure  
+Level: 50  
+Tera Type: Fairy  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Sludge Bomb  
+- Toxic Spikes  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Water  
+- Knock Off  
+- U-turn  
+- Fake Out  
+- Roar  
+
+

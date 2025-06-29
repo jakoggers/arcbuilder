@@ -1,0 +1,54 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Pollen Puff
+- Rage Powder
+- Protect
+- Spore
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out
+
+
+Iron Jugulis @ Booster Energy
+Ability: Quark Drive
+Tera Type: Ghost
+- Protect
+- Hurricane
+- Snarl
+- Tailwind
+
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Tera Type: Electric
+- Protect
+- Water Spout
+- Thunder
+- Hydro Pump
+
+
+Calyrex-Ice @ Never-Melt Ice
+Ability: As One
+Tera Type: Grass
+- Glacial Lance
+- Protect
+- Trick Room
+- High Horsepower
+
+
+Urshifu-Rapid-Strike @ Life Orb
+Ability: Unseen Fist
+Tera Type: Grass
+- Surging Strikes
+- Aqua Jet
+- Close Combat
+- Protect
+
+

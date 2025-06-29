@@ -1,0 +1,60 @@
+Terapagos-Terastal (M) @ Leftovers  
+Ability: Tera Shell  
+Level: 50  
+Tera Type: Stellar  
+- Tera Starstorm  
+- Earth Power  
+- Calm Mind  
+- Protect  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Grass  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Parting Shot  
+
+
+Koraidon @ Life Orb  
+Ability: Orichalcum Pulse  
+Level: 50  
+Tera Type: Fire  
+- Flare Blitz  
+- Close Combat  
+- Flame Charge  
+- Protect  
+
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Stellar  
+- Moonblast  
+- Shadow Ball  
+- Icy Wind  
+- Protect  
+
+
+Raging Bolt @ Assault Vest  
+Ability: Protosynthesis  
+Level: 50  
+Tera Type: Electric  
+- Thunderbolt  
+- Thunderclap  
+- Snarl  
+- Draco Meteor  
+
+
+Ogerpon-Cornerstone (F) @ Cornerstone Mask  
+Ability: Sturdy  
+Level: 50  
+Tera Type: Rock  
+- Ivy Cudgel  
+- Power Whip  
+- Follow Me  
+- Spiky Shield  
+
+

@@ -1,0 +1,60 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+- Protect  
+- Astral Barrage  
+- Psychic  
+- Encore  
+
+
+Tornadus @ Rocky Helmet  
+Ability: Prankster  
+Level: 50  
+Tera Type: Dark  
+- Bleakwind Storm  
+- Taunt  
+- Sunny Day  
+- Tailwind  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50  
+Tera Type: Ghost  
+- Heat Wave  
+- Snarl  
+- Overheat  
+- Dark Pulse  
+
+
+Ogerpon-Cornerstone @ Cornerstone Mask  
+Ability: Sturdy  
+Level: 50  
+Tera Type: Rock  
+- Spiky Shield  
+- Ivy Cudgel  
+- Taunt  
+- Follow Me  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Water  
+- Wood Hammer  
+- Grassy Glide  
+- Fake Out  
+- U-turn  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Protect  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+
+

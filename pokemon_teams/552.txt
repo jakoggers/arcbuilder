@@ -1,0 +1,54 @@
+Brute Bonnet @ Covert Cloak
+Ability: Protosynthesis
+Tera Type: Water
+- Spore
+- Sucker Punch
+- Seed Bomb
+- Rage Powder
+
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Tera Type: Ghost
+- Heat Wave
+- Snarl
+- Overheat
+- Dark Pulse
+
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Tera Type: Water
+- Moongeist Beam
+- Trick Room
+- Meteor Beam
+- Wide Guard
+
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Tera Type: Normal
+- Icy Wind
+- Moonblast
+- Shadow Ball
+- Protect
+
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Tera Type: Fire
+- Flare Blitz
+- Flame Charge
+- Close Combat
+- Protect
+
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Tera Type: Ghost
+- Headlong Rush
+- Facade
+- Earthquake
+- Protect
+
+

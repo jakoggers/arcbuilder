@@ -1,0 +1,58 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Tera Type: Fairy  
+- Electro Drift  
+- Draco Meteor  
+- Dazzling Gleam  
+- Volt Switch  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Tera Type: Water  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Shiny: Yes  
+Tera Type: Water  
+- Wild Charge  
+- Low Kick  
+- Drain Punch  
+- Fake Out  
+
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Stellar  
+- Icicle Crash  
+- Sucker Punch  
+- Crunch  
+- Protect  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Shiny: Yes  
+Tera Type: Ghost  
+- Reflect  
+- Spirit Break  
+- Light Screen  
+- Thunder Wave  
+
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Shiny: Yes  
+Tera Type: Normal  
+- Moonblast  
+- Icy Wind  
+- Shadow Ball  
+- Protect  
+
+

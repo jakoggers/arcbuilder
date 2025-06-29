@@ -1,0 +1,66 @@
+Smeargle @ Focus Sash  
+Ability: Moody  
+Tera Type: Dark  
+EVs: 4 HP / 252 Def / 252 Spe  
+Jolly Nature  
+- Spore  
+- Decorate  
+- Follow Me  
+- Fake Out  
+
+
+Sableye @ Eject Pack  
+Ability: Prankster  
+Tera Type: Grass  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Skill Swap  
+- Encore  
+- Feint  
+- Disable  
+
+
+Terapagos-Terastal @ Covert Cloak  
+Ability: Tera Shell  
+Tera Type: Stellar  
+EVs: 212 HP / 4 Def / 116 SpA / 4 SpD / 172 Spe  
+Modest Nature  
+IVs: 15 Atk  
+- Tera Starstorm  
+- Earth Power  
+- Rock Polish  
+- Protect  
+
+
+Zamazenta @ Choice Specs  
+Ability: Dauntless Shield  
+Tera Type: Fairy  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Dazzling Gleam  
+- Snarl  
+- Focus Blast  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 60  
+Tera Type: Psychic  
+EVs: 84 HP / 4 Def / 180 SpA / 4 SpD / 236 Spe  
+Modest Nature  
+- Psychic  
+- Heat Wave  
+- Dark Pulse  
+- Snarl  
+
+
+Ditto @ Safety Goggles  
+Ability: Imposter  
+Tera Type: Normal  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 14 Spe  
+- Transform  
+
+

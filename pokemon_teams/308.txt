@@ -1,0 +1,54 @@
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Tera Type: Electric
+- Protect
+- Thunderbolt
+- Dragon Pulse
+- Thunderclap
+
+
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Tera Type: Stellar
+- Protect
+- Ice Spinner
+- Sucker Punch
+- Taunt
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Normal
+- Protect
+- Astral Barrage
+- Psychic
+- Encore
+
+
+Ting-Lu @ Assault Vest
+Ability: Vessel of Ruin
+Tera Type: Fairy
+- Sand Tomb
+- Ruination
+- Snarl
+- Stone Edge
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Protect
+- Spore
+- Pollen Puff
+- Rage Powder
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Water
+- Protect
+- Body Press
+- Iron Head
+- Wide Guard
+
+

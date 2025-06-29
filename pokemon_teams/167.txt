@@ -1,0 +1,54 @@
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Stellar  
+- Icicle Crash  
+- Sucker Punch  
+- Sacred Sword  
+- Protect  
+
+
+Zacian @ Rusted Sword  
+Ability: Intrepid Sword  
+Tera Type: Fairy  
+- Iron Head  
+- Play Rough  
+- Swords Dance  
+- Protect  
+
+
+Kyogre @ Splash Plate  
+Ability: Drizzle  
+Tera Type: Grass  
+- Water Spout  
+- Origin Pulse  
+- Hydro Pump  
+- Protect  
+
+
+Urshifu-Rapid-Strike @ Mystic Water  
+Ability: Unseen Fist  
+Tera Type: Water  
+- Surging Strikes  
+- Aqua Jet  
+- Taunt  
+- Detect  
+
+
+Roaring Moon @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Flying  
+- Acrobatics  
+- Knock Off  
+- Tailwind  
+- Protect  
+
+
+Amoonguss @ Rocky Helmet  
+Ability: Regenerator  
+Tera Type: Water  
+- Pollen Puff  
+- Spore  
+- Rage Powder  
+- Protect  
+
+

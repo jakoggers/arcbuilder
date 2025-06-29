@@ -1,0 +1,54 @@
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Tera Starstorm
+- Calm Mind
+- Earth Power
+- Protect
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Encore
+- Disable
+- Protect
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Sludge Bomb
+- Spore
+- Rage Powder
+- Protect
+
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Tera Type: Grass
+- Surging Strikes
+- Aqua Jet
+- Close Combat
+- U-turn
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Water
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Water
+- Fake Out
+- Knock Off
+- Flare Blitz
+- Parting Shot
+
+

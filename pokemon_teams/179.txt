@@ -1,0 +1,60 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Level: 50  
+Tera Type: Fairy  
+- Electro Drift  
+- Draco Meteor  
+- Dazzling Gleam  
+- Volt Switch  
+
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Shiny: Yes  
+Tera Type: Ghost  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+
+
+Volcarona (M) @ Covert Cloak  
+Ability: Flame Body  
+Level: 50  
+Shiny: Yes  
+Tera Type: Grass  
+- Fiery Dance  
+- Giga Drain  
+- Quiver Dance  
+- Protect  
+
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Shiny: Yes  
+Tera Type: Dragon  
+- Heavy Slam  
+- Body Press  
+- Wide Guard  
+- Protect  
+
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Water  
+- Volt Switch  
+- Wild Charge  
+- Fake Out  
+- Low Kick  
+
+
+Andreotti (Ditto) @ Focus Sash  
+Ability: Imposter  
+Level: 50  
+Tera Type: Ghost  
+- Transform  
+
+

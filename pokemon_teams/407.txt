@@ -1,0 +1,54 @@
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- U-turn
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Psychic
+- Encore
+- Protect
+
+
+Urshifu-Rapid-Strike @ Mystic Water
+Ability: Unseen Fist
+Tera Type: Water
+- Surging Strikes
+- Close Combat
+- Aqua Jet
+- Detect
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Ghost
+- Body Press
+- Heavy Slam
+- Wide Guard
+- Protect
+
+
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Tera Type: Stellar
+- Icicle Crash
+- Crunch
+- Sucker Punch
+- Protect
+
+
+Tornadus @ Rocky Helmet
+Ability: Prankster
+Tera Type: Dark
+- Bleakwind Storm
+- Tailwind
+- Rain Dance
+- Protect
+
+

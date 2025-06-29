@@ -1,0 +1,61 @@
+Koraidon @ Ability Shield  
+Ability: Orichalcum Pulse  
+Level: 50
+Tera Type: Fire  
+- Protect  
+- Flare Blitz  
+- Collision Course  
+- Flame Charge  
+
+
+Calyrex-Shadow @ Spooky Plate  
+Ability: As One (Spectrier)  
+Level: 50
+Tera Type: Dark  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Weezing-Galar @ Covert Cloak  
+Ability: Neutralizing Gas  
+Level: 50
+Tera Type: Water  
+- Protect  
+- Poison Gas  
+- Play Rough  
+- Taunt  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Level: 50
+Tera Type: Ghost  
+- Heat Wave  
+- Snarl  
+- Flamethrower  
+- Dark Pulse  
+
+
+Walking Wake @ Assault Vest  
+Ability: Protosynthesis  
+Level: 50
+Tera Type: Water  
+- Hydro Steam  
+- Draco Meteor  
+- Snarl  
+- Aqua Jet  
+
+
+Brute Bonnet @ Rocky Helmet  
+Ability: Protosynthesis  
+Level: 50
+Tera Type: Fire  
+- Sucker Punch  
+- Spore  
+- Rage Powder  
+- Seed Bomb  
+
+
+

@@ -1,0 +1,54 @@
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Tera Starstorm
+- Earth Power
+- Calm Mind
+- Protect
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Fairy
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Tera Type: Rock
+- Ivy Cudgel
+- Follow Me
+- Power Whip
+- Spiky Shield
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Pollen Puff
+- Will-O-Wisp
+- Protect
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- U-turn
+- Wood Hammer
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Bug
+- Will-O-Wisp
+- Knock Off
+- Fake Out
+- Parting Shot
+
+

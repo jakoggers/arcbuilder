@@ -1,0 +1,54 @@
+Pelipper @ Focus Sash
+Ability: Drizzle
+Tera Type: Water
+- Hurricane
+- Weather Ball
+- Wide Guard
+- Tailwind
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+
+Lunala @ Grassy Seed
+Ability: Shadow Shield
+Tera Type: Fairy
+- Moongeist Beam
+- Moonblast
+- Calm Mind
+- Protect
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Tera Type: Electric
+- Thunderbolt
+- Thunderclap
+- Draco Meteor
+- Protect
+
+
+Zamazenta @ Rusted Shield
+Ability: Dauntless Shield
+Tera Type: Dragon
+- Body Press
+- Heavy Slam
+- Wide Guard
+- Protect
+
+

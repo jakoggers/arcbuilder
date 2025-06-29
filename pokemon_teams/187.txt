@@ -1,0 +1,54 @@
+Ogerpon-Hearthflame @ Hearthflame Mask
+Ability: Mold Breaker
+Tera Type: Fire
+- Ivy Cudgel
+- Wood Hammer
+- Follow Me
+- Spiky Shield
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+
+Lunala @ Leftovers
+Ability: Shadow Shield
+Tera Type: Fairy
+- Moongeist Beam
+- Moonblast
+- Calm Mind
+- Protect
+
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Tera Type: Electric
+- Electro Drift
+- Volt Switch
+- Snarl
+- Draco Meteor
+
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Tera Type: Water
+- Will-O-Wisp
+- Knock Off
+- Parting Shot
+- Fake Out
+
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+

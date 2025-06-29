@@ -1,0 +1,61 @@
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50
+Tera Type: Grass  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Level: 50
+Tera Type: Ghost  
+- Origin Pulse  
+- Water Spout  
+- Ice Beam  
+- Tera Blast  
+
+
+Tornadus @ Covert Cloak  
+Ability: Prankster  
+Level: 50
+Tera Type: Dark  
+- Bleakwind Storm  
+- Tailwind  
+- Rain Dance  
+- Taunt  
+
+
+Landorus @ Life Orb  
+Ability: Sand Force  
+Level: 50
+Tera Type: Grass  
+- Earth Power  
+- Sludge Bomb  
+- Sandsear Storm  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50
+Tera Type: Fire  
+- Fake Out  
+- Grassy Glide  
+- Wood Hammer  
+- U-turn  
+
+
+Raging Bolt @ Booster Energy  
+Ability: Protosynthesis  
+Level: 50
+Tera Type: Fairy  
+- Thunderclap  
+- Thunderbolt  
+- Draco Meteor  
+- Protect  
+
+
+

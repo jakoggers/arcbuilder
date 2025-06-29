@@ -1,0 +1,60 @@
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+Level: 50  
+Tera Type: Dragon  
+- Body Press  
+- Heavy Slam  
+- Wide Guard  
+- Protect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+
+Calyrex-Shadow @ Life Orb  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Dark  
+- Astral Barrage  
+- Psychic  
+- Protect  
+- Nasty Plot  
+
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
+
+Ogerpon-Hearthflame (F) @ Hearthflame Mask  
+Ability: Mold Breaker  
+Level: 50  
+Tera Type: Fire  
+- Ivy Cudgel  
+- Grassy Glide  
+- Follow Me  
+- Spiky Shield  
+
+
+Incineroar @ Rocky Helmet  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Bug  
+- Knock Off  
+- Fake Out  
+- Parting Shot  
+- Helping Hand  
+
+

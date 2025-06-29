@@ -1,0 +1,56 @@
+Koraidon @ Clear Amulet  
+Ability: Orichalcum Pulse  
+Tera Type: Fire  
+- Flare Blitz  
+- Flame Charge  
+- Collision Course  
+- Protect  
+
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Tera Type: Ghost  
+- Heat Wave  
+- Overheat  
+- Dark Pulse  
+- Ruination  
+
+
+Raging Bolt @ Safety Goggles  
+Ability: Protosynthesis  
+Tera Type: Electric  
+- Thunderbolt  
+- Thunderclap  
+- Dragon Pulse  
+- Protect  
+
+
+Brute Bonnet @ Covert Cloak  
+Ability: Protosynthesis  
+Level: 79  
+Tera Type: Poison  
+- Sucker Punch  
+- Spore  
+- Rage Powder  
+- Protect  
+
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 82  
+Tera Type: Ghost  
+- Astral Barrage  
+- Psychic  
+- Encore  
+- Protect  
+
+
+Tornadus @ Ability Shield  
+Ability: Prankster  
+Tera Type: Ghost  
+- Tailwind  
+- Bleakwind Storm  
+- Sunny Day  
+- Protect  
+
+

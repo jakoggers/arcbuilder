@@ -1,0 +1,54 @@
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Tera Type: Rock
+- Ivy Cudgel
+- Spiky Shield
+- Follow Me
+- Taunt
+
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Tera Type: Water
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+
+Porygon2 @ Eviolite
+Ability: Download
+Tera Type: Flying
+- Tera Blast
+- Shadow Ball
+- Trick Room
+- Recover
+
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Tera Type: Bug
+- Will-O-Wisp
+- Knock Off
+- Parting Shot
+- Fake Out
+
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Tera Type: Stellar
+- Tera Starstorm
+- Calm Mind
+- Earth Power
+- Protect
+
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One
+Tera Type: Ghost
+- Astral Barrage
+- Encore
+- Disable
+- Protect
+
+

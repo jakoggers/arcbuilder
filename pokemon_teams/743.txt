@@ -1,0 +1,60 @@
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Tera Type: Water  
+- Play Rough  
+- Behemoth Blade  
+- Sacred Sword  
+- Protect  
+
+
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Level: 50  
+Tera Type: Ghost  
+- Astral Barrage  
+- Psychic  
+- Imprison  
+- Protect  
+
+
+Tornadus @ Ability Shield  
+Ability: Prankster  
+Level: 50  
+Tera Type: Dark  
+- Bleakwind Storm  
+- Tailwind  
+- Rain Dance  
+- Protect  
+
+
+Urshifu-Rapid-Strike (M) @ Mystic Water  
+Ability: Unseen Fist  
+Level: 50  
+Tera Type: Water  
+- Surging Strikes  
+- Aqua Jet  
+- Taunt  
+- Detect  
+
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+- Wood Hammer  
+- Grassy Glide  
+- Knock Off  
+- Fake Out  
+
+
+Ogerpon-Cornerstone (F) @ Cornerstone Mask  
+Ability: Sturdy  
+Level: 50  
+Tera Type: Rock  
+- Ivy Cudgel  
+- Power Whip  
+- Follow Me  
+- Spiky Shield  
+
+
