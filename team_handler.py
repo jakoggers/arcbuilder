@@ -1,45 +1,48 @@
-#imports
+# imports
 import requests, json
 from bs4 import BeautifulSoup
-from teams import pokemon_team
+from teams import pokemon_team_structure
+from algo import run_algo
 
-def ev_and_iv_organizer(pokemon_num, ev_or_iv, which_one):
+def ev_and_iv_organizer(pokemon_num, ev_or_iv, which_one, given_pokemon_team):
 	find_char = ev_or_iv.index(":")
-	findWspace = ev_or_iv.index("\n")
-	evLine = ev_or_iv[find_char + 2:findWspace - 2].split("/") # slice the line by its slashes
-	for i in range(len(evLine)): # remove the white space
-		evLine[i] = evLine[i].strip()
-	for stat_change in evLine: # use the method to filter and add the evs
+	find_wspace = ev_or_iv.index("\n")
+	ev_line = ev_or_iv[find_char + 2:find_wspace - 2].split("/") # slice the line by its slashes
+	for i in range(len(ev_line)): # remove the white space
+		ev_line[i] = ev_line[i].strip()
+	for stat_change in ev_line: # use the method to filter and add the evs
 		match stat_change:
 			case stat_change if "HP" in stat_change:
-				hp = stat_change[:len(stat_change) - 3].strip()
-				pokemon_team[pokemon_num][which_one + "-hp"] = hp
+				hp = int(stat_change[:len(stat_change) - 3].strip())
+				given_pokemon_team[pokemon_num][which_one + "_hp"] = hp
 				# print("The HP ev in question: " + hp)
 			case stat_change if "Atk" in stat_change:
-				attack = stat_change[:len(stat_change) - 3].strip()
-				pokemon_team[pokemon_num][which_one + "-attack"] = attack
+				attack = int(stat_change[:len(stat_change) - 3].strip())
+				given_pokemon_team[pokemon_num][which_one + "_attack"] = attack
 				#print("The Attack ev in question: " + attack)
 			case stat_change if "Def" in stat_change:
-				defense = stat_change[:len(stat_change) - 3].strip()
-				pokemon_team[pokemon_num][which_one + "-defense"] = defense
+				defense = int(stat_change[:len(stat_change) - 3].strip())
+				given_pokemon_team[pokemon_num][which_one + "_defense"] = defense
 				#print("The Defense ev in question: " + defense)
 			case stat_change if "SpA" in stat_change:
-				special_attack = stat_change[:len(stat_change) - 3].strip()
-				pokemon_team[pokemon_num][which_one + "-special attack"] = special_attack
+				special_attack = int(stat_change[:len(stat_change) - 3].strip())
+				given_pokemon_team[pokemon_num][which_one + "_special_attack"] = special_attack
 				#print("The Special Attack ev in question: " + special_attack)
 			case stat_change if "SpD" in stat_change:
-				special_defense = stat_change[:len(stat_change) - 3].strip()
-				pokemon_team[pokemon_num][which_one + "-special defense"] = special_defense
+				special_defense = int(stat_change[:len(stat_change) - 3].strip())
+				given_pokemon_team[pokemon_num][which_one + "_special_defense"] = special_defense
 				#print("The Special Defense ev in question: " + special_defense)
 			case stat_change if "Spe" in stat_change:
-				speed = stat_change[:len(stat_change) - 3].strip()
-				pokemon_team[pokemon_num][which_one + "-speed"] = speed
+				speed = int(stat_change[:len(stat_change) - 3].strip())
+				given_pokemon_team[pokemon_num][which_one + "_speed"] = speed
 				#print("The Speed ev in question: " + speed)
 	# print(ev_or_iv)
 
-# to function!
-def write_team_data(given_link): # write this to Pokemon Folder link
-	with open(given_link) as f:
+# write this to Pokemon Folder link
+def write_team_data(given_link, given_json_location, given_pokemon_team):
+	# Assumes EVERY Pokemon holds an item
+
+	with open(given_link, 'r+', encoding="utf-8") as f:
 		# read every indiviual line
 		read_line = f.readline()
 		move_counter = 1 # specifically increment through moves 1 by 1
@@ -55,98 +58,87 @@ def write_team_data(given_link): # write this to Pokemon Folder link
 					name = read_line[:find_char].strip()
 					item = read_line[find_char + 2:].strip()
 					# For every pokemon, initialize the value given in the section
-					pokemon_team[which_pokemon]["name"] = name
-					pokemon_team[which_pokemon]["item"] = item
+					given_pokemon_team[which_pokemon]["name"] = name
+					given_pokemon_team[which_pokemon]["item"] = item
 
 				# Write ability:
 				case read_line if "Ability: " in read_line:
 					find_char = read_line.index(":")
 					ability = read_line[find_char + 2:].strip()
-					pokemon_team[which_pokemon]["ability"] = ability
+					given_pokemon_team[which_pokemon]["ability"] = ability
 
 				# Write Level:
 				case read_line if "Level: " in read_line:
 					find_char = read_line.index(":")
-					level = read_line[find_char:].strip()
-					pokemon_team[which_pokemon]["level"] = level
+					level = int(read_line[find_char + 2:].strip())
+					given_pokemon_team[which_pokemon]["level"] = level
 
 				# Write Tera Type:
 				case read_line if "Tera Type: " in read_line:
 					find_char = read_line.index(":")
 					tera_type = read_line[find_char + 2:].strip()
-					pokemon_team[which_pokemon]["tera type"] = tera_type
+					given_pokemon_team[which_pokemon]["tera type"] = tera_type
 
 				# Write Nature:
 				case read_line if "Nature" in read_line:
 					find_char = read_line.index("Nature")
 					nature = read_line[:find_char].strip()
-					pokemon_team[which_pokemon]["nature"] = nature
+					given_pokemon_team[which_pokemon]["nature"] = nature
 
 				# Write EVs
 				case read_line if "EVs: " in read_line:
-					ev_and_iv_organizer(which_pokemon, read_line, "ev")
+					ev_and_iv_organizer(which_pokemon, read_line, "ev", given_pokemon_team)
 
 				# Write IVs
 				case read_line if "IVs:" in read_line:
-					ev_and_iv_organizer(which_pokemon, read_line, "iv")
+					ev_and_iv_organizer(which_pokemon, read_line, "iv", given_pokemon_team)
 
 				# Write in all moves:
 				case read_line if "-" in read_line: #given lineis a move
 					find_char = read_line.index("-")
 					move_name = read_line[find_char + 2:].strip()
-					pokemon_team[which_pokemon]["move-" + str(move_counter)] = move_name
+					given_pokemon_team[which_pokemon]["move_" + str(move_counter)] = move_name
 					move_counter += 1
-
-				case _:
-					print("Error")
-					break
 
 			read_line = f.readline()
 
+			with open(given_json_location, "w", encoding="utf-8") as write_json:
+				write_json.write(json.dumps(given_pokemon_team, indent=4, ensure_ascii=False))
+
 # Give it a pokepaste
 def team_handler(get_url, file_name):
-	# pokepaste link !!!!!!
-
+	# Assumes ALL teams have 6 pokemon
+	#monitor_file = open("misc/monitor_file", "w", encoding="utf-8")
 	# get the url from pokepaste
-	print(f"File I'm working with: {file_name}")
-	
+	print(f"\nFile I'm working with: {file_name}.txt \n")
+
 	page = requests.get(get_url)
-	link_to_pokemon_team_folder = "pokemon_teams/" + file_name + ".txt"
-
-	print(f"Writing into: {link_to_pokemon_team_folder}")
-
-	# opens a new file, writes the html of the site to the page
-	htmlPokemon = open("newPokemonTeam.html", "w", encoding="utf-8") # also checks for pokemon that are in a different language
-	htmlPokemon.write(page.text)
+	create_team_file = "pokemon_teams/" + file_name + ".txt"
+	create_team_json = f"pokemon_team_jsons/{file_name}_JSON.json"
 
 	# Utilizing BeautifulSoup, take all pokemon data and parse it.
 	soup = BeautifulSoup(page.content, "html.parser")
 	pokemon_stats = soup.find_all("pre")
 
-	# The txt file we're gonna work from
-	newPokemonFile = open(link_to_pokemon_team_folder, "w", encoding="utf-8")
+	# Write the Team Data into the given Text file:
+	print(f"Writing into: {create_team_file}")
+	newPokemonFile = open(create_team_file, "w", encoding="utf-8")
 	for stat in pokemon_stats:
 		newPokemonFile.write(stat.text + "\n")
+	newPokemonFile.close()
 
 	#------------- organize the data -------------------------------------------------------
-	# newPokemonFile = open(link_to_pokemon_team_folder, "w")
 
-	# Writes all team_data
-	write_team_data(link_to_pokemon_team_folder)
-
-	# dumps it into JSON (might remove later)
-	#readable_dict = open("jakoggerTeam.json", "w")
-	#readable_dict.write(json.dumps(pokemon_team, indent=4, ensure_ascii=False))
-
+	# Writes all team_data into a JSON file
+	print(f"Writing JSON into: {create_team_json} from {create_team_file}")
+	write_team_data(create_team_file, create_team_json, pokemon_team_structure)
 	# Close all the files, memory management type shiii >:)
-	#readable_dict.close()
-	newPokemonFile.close()
-	htmlPokemon.close()
+	#print("Algorithm Results: ")
+	#run_algo(create_team_json)
 
-	print(f"File: {file_name} written!")
+	print(f"\nFile: {file_name} written! No problems (hopefully)")
 
-
-
+	#monitor_file.close()
 
 # Test Teams:
 """
@@ -162,12 +154,3 @@ def team_handler(get_url, file_name):
 # organize_data()
 
 # Write dictionary VALUES as a txt file
-""" counter = 0
-for poggermon in pokemon_team:
-	readable_dict.write("Pokemon " + str(counter + 1))
-	readable_dict.write("\n")
-	for key, value in poggermon.items():
-		readable_dict.write(f"{key}: {value}")
-		readable_dict.write("\n")
-	readable_dict.write("\n")
-	counter += 1 """

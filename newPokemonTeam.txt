@@ -1,74 +1,69 @@
-Amoonguss (F) @ Rocky Helmet  
+Amoonguss @ Sitrus Berry  
 Ability: Regenerator  
-Level: 59  
-Tera Type: Dark  
-EVs: 244 HP / 188 Def / 76 SpD  
+Tera Type: Fire  
+EVs: 236 HP / 196 Def / 76 SpD  
 Calm Nature  
-IVs: 0 Atk / 16 Spe  
+IVs: 0 Atk  
+- Pollen Puff  
 - Spore  
 - Rage Powder  
-- Pollen Puff  
 - Protect  
 
 
-Calyrex-Ice @ Leftovers  
-Ability: As One (Glastrier)  
-Level: 80  
+Iron Valiant @ Choice Specs  
+Ability: Quark Drive  
 Tera Type: Fairy  
-EVs: 252 HP / 100 Def / 156 SpD  
-Relaxed Nature  
-IVs: 16 Spe  
-- Glacial Lance  
-- Leech Seed  
-- Trick Room  
-- Protect  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Thunderbolt  
+- Shadow Ball  
+- Psyshock  
 
 
-Kyogre @ Mystic Water  
-Ability: Drizzle  
-Tera Type: Grass  
-EVs: 52 HP / 4 Def / 236 SpA / 4 SpD / 212 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Water Spout  
-- Origin Pulse  
-- Hydro Pump  
-- Protect  
+Gallade @ Life Orb  
+Ability: Sharpness  
+Shiny: Yes  
+Tera Type: Fighting  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Sacred Sword  
+- Psycho Cut  
+- Shadow Sneak  
 
 
-Grimmsnarl @ Light Clay  
-Ability: Prankster  
-Level: 57  
-Tera Type: Ghost  
-EVs: 252 HP / 4 Atk / 108 Def / 116 SpD / 28 Spe  
-Careful Nature  
-- Spirit Break  
-- Sucker Punch  
-- Reflect  
-- Light Screen  
+Pawmot @ Focus Sash  
+Ability: Volt Absorb  
+Tera Type: Electric  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Double Shock  
+- Revival Blessing  
+- Close Combat  
+- Nuzzle  
 
 
-Flutter Mane @ Focus Sash  
-Ability: Protosynthesis  
-Level: 86  
-Tera Type: Fairy  
-EVs: 4 HP / 252 SpA / 252 Spe  
+Iron Bundle @ Heavy-Duty Boots  
+Ability: Quark Drive  
+Tera Type: Ice  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Icy Wind  
-- Shadow Ball  
-- Moonblast  
+- Freeze-Dry  
+- Hydro Pump  
+- Electric Terrain  
 - Taunt  
 
 
-Basculegion @ Life Orb  
-Ability: Swift Swim  
-Tera Type: Ghost  
-EVs: 100 HP / 252 Atk / 28 Def / 20 SpD / 108 Spe  
-Adamant Nature  
-- Wave Crash  
-- Last Respects  
-- Aqua Jet  
-- Protect  
+Volcarona @ Heavy-Duty Boots  
+Ability: Flame Body  
+Tera Type: Grass  
+EVs: 248 HP / 108 Def / 152 Spe  
+Timid Nature  
+- Quiver Dance  
+- Fiery Dance  
+- Morning Sun  
+- Giga Drain  
 
 
