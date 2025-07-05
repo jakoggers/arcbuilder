@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Lunala",
         "item": "Mental Herb",
         "ability": "Shadow Shield",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 92,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 148,
+        "tera_type": "Dark",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Moongeist Beam",
-        "move_3": "Moonlight",
-        "move_4": "Psych Up"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 92,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 148
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Moongeist Beam",
+            "move_3": "Moonlight",
+            "move_4": "Psych Up"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Smeargle",
         "item": "Focus Sash",
         "ability": "Moody",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 4,
-        "ev_attack": 36,
-        "ev_defense": 252,
-        "ev_special_attack": 100,
-        "ev_special_defense": 60,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spore",
-        "move_2": "Follow Me",
-        "move_3": "Wide Guard",
-        "move_4": "Salt Cure"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 36,
+            "ev_defense": 252,
+            "ev_special_attack": 220,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Follow Me",
+            "move_3": "Wide Guard",
+            "move_4": "Salt Cure"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Muk-Alola",
         "item": "Leftovers",
         "ability": "Power of Alchemy",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 228,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 60,
-        "ev_special_defense": 28,
-        "ev_speed": 4,
+        "tera_type": "Grass",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Poison Gas",
-        "move_3": "Minimize",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 60,
+            "ev_special_defense": 28,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Poison Gas",
+            "move_3": "Minimize",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Flamigo",
         "item": "White Herb",
         "ability": "Costar",
         "level": 50,
-        "tera type": "Steel",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 36,
-        "ev_speed": 252,
+        "tera_type": "Steel",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Acrobatics",
-        "move_2": "Close Combat",
-        "move_3": "Substitute",
-        "move_4": "Wide Guard"
+        "evs": {
+            "ev_hp": 12,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 244,
+            "ev_special_defense": 28,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Acrobatics",
+            "move_2": "Close Combat",
+            "move_3": "Substitute",
+            "move_4": "Wide Guard"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Valiant",
         "item": "Booster Energy",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Poison",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 84,
-        "ev_special_attack": 4,
-        "ev_special_defense": 52,
-        "ev_speed": 116,
+        "tera_type": "Poison",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Stored Power",
-        "move_3": "Skill Swap",
-        "move_4": "Psych Up"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 84,
+            "ev_special_attack": 4,
+            "ev_special_defense": 52,
+            "ev_speed": 116
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Stored Power",
+            "move_3": "Skill Swap",
+            "move_4": "Psych Up"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ho-Oh",
         "item": "Safety Goggles",
         "ability": "Pressure",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 236,
-        "ev_attack": 4,
-        "ev_defense": 252,
-        "ev_special_attack": 252,
-        "ev_special_defense": 132,
-        "ev_speed": 140,
+        "tera_type": "Water",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Sacred Fire",
-        "move_2": "Brave Bird",
-        "move_3": "Psych Up",
-        "move_4": "Recover"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 4,
+            "ev_defense": 204,
+            "ev_special_attack": 252,
+            "ev_special_defense": 132,
+            "ev_speed": 140
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Sacred Fire",
+            "move_2": "Brave Bird",
+            "move_3": "Psych Up",
+            "move_4": "Recover"
+        }
     }
 ]

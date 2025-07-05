@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Encore",
-        "move_3": "Psychic",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Encore",
+            "move_3": "Psychic",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
         "ability": "Intrepid Sword",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 92,
-        "ev_attack": 252,
-        "ev_defense": 220,
-        "ev_special_attack": 156,
-        "ev_special_defense": 20,
-        "ev_speed": 164,
+        "tera_type": "Fairy",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Behemoth Blade",
-        "move_2": "Play Rough",
-        "move_3": "Sacred Sword",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 92,
+            "ev_attack": 252,
+            "ev_defense": 220,
+            "ev_special_attack": 156,
+            "ev_special_defense": 20,
+            "ev_speed": 164
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Behemoth Blade",
+            "move_2": "Play Rough",
+            "move_3": "Sacred Sword",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Weezing",
         "item": "Rocky Helmet",
         "ability": "Neutralizing Gas",
         "level": 50,
-        "tera type": "Poison",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 252,
-        "ev_special_attack": 4,
-        "ev_special_defense": 236,
-        "ev_speed": 20,
+        "tera_type": "Poison",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Toxic Spikes",
-        "move_2": "Taunt",
-        "move_3": "Gunk Shot",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 252,
+            "ev_special_attack": 4,
+            "ev_special_defense": 236,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Toxic Spikes",
+            "move_2": "Taunt",
+            "move_3": "Gunk Shot",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Chien-Pao",
         "item": "Life Orb",
         "ability": "Sword of Ruin",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 132,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ice Spinner",
-        "move_2": "Crunch",
-        "move_3": "Sucker Punch",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 132,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ice Spinner",
+            "move_2": "Crunch",
+            "move_3": "Sucker Punch",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Dragonite",
         "item": "Choice Band",
         "ability": "Inner Focus",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 76,
-        "ev_special_defense": 92,
-        "ev_speed": 92,
+        "tera_type": "Normal",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Extreme Speed",
-        "move_2": "Aerial Ace",
-        "move_3": "Outrage",
-        "move_4": "Iron Head"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 76,
+            "ev_special_defense": 92,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Extreme Speed",
+            "move_2": "Aerial Ace",
+            "move_3": "Outrage",
+            "move_4": "Iron Head"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 60,
-        "ev_attack": 252,
-        "ev_defense": 196,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "U-turn",
-        "move_4": "Aqua Jet"
+        "evs": {
+            "ev_hp": 60,
+            "ev_attack": 252,
+            "ev_defense": 196,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "U-turn",
+            "move_4": "Aqua Jet"
+        }
     }
 ]

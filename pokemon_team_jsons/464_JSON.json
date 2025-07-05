@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Scarf",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 156,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Draco Meteor",
-        "move_3": "Volt Switch",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 156
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Draco Meteor",
+            "move_3": "Volt Switch",
+            "move_4": "Snarl"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Ho-Oh",
         "item": "Life Orb",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Ground",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 124,
-        "ev_special_attack": 252,
-        "ev_special_defense": 12,
-        "ev_speed": 116,
+        "tera_type": "Ground",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Sacred Fire",
-        "move_2": "Brave Bird",
-        "move_3": "Tera Blast",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 124,
+            "ev_special_attack": 252,
+            "ev_special_defense": 12,
+            "ev_speed": 116
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Sacred Fire",
+            "move_2": "Brave Bird",
+            "move_3": "Tera Blast",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Urshifu-Rapid-Strike",
         "item": "Iron Ball",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 188,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Aqua Jet",
-        "move_3": "Fling",
-        "move_4": "Detect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 188,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Aqua Jet",
+            "move_3": "Fling",
+            "move_4": "Detect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Ditto",
         "item": "Focus Sash",
         "ability": "Imposter",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 68,
-        "ev_defense": 4,
-        "ev_special_attack": 36,
-        "ev_special_defense": 252,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Calm",
-        "iv_hp": 31,
-        "iv_attack": 30,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Transform",
-        "move_2": "Foul Play",
-        "move_3": "Helping Hand",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 68,
+            "ev_defense": 4,
+            "ev_special_attack": 36,
+            "ev_special_defense": 252,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 30,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Transform",
+            "move_2": "Foul Play",
+            "move_3": "Helping Hand",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Whimsicott",
         "item": "Eject Button",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 252,
-        "ev_speed": 252,
+        "tera_type": "Normal",
         "nature": "Calm",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Light Screen",
-        "move_3": "Protect",
-        "move_4": "Tailwind"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 252,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Light Screen",
+            "move_3": "Protect",
+            "move_4": "Tailwind"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 84,
-        "ev_attack": 228,
-        "ev_defense": 76,
-        "ev_special_attack": 252,
-        "ev_special_defense": 108,
-        "ev_speed": 8,
+        "tera_type": "Grass",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Drain Punch",
-        "move_2": "Wild Charge",
-        "move_3": "Low Kick",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 84,
+            "ev_attack": 228,
+            "ev_defense": 76,
+            "ev_special_attack": 252,
+            "ev_special_defense": 108,
+            "ev_speed": 8
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Wild Charge",
+            "move_3": "Low Kick",
+            "move_4": "Fake Out"
+        }
     }
 ]

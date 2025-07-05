@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Whimsicott",
         "item": "Ability Shield",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 172,
-        "ev_special_attack": 244,
-        "ev_special_defense": 84,
-        "ev_speed": 12,
+        "tera_type": "Dark",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Tailwind",
-        "move_3": "Cotton Spore",
-        "move_4": "Fake Tears"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 172,
+            "ev_special_attack": 244,
+            "ev_special_defense": 84,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Tailwind",
+            "move_3": "Cotton Spore",
+            "move_4": "Fake Tears"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Terapagos-Terastal",
         "item": "Life Orb",
         "ability": "Tera Shell",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 28,
-        "ev_attack": 116,
-        "ev_defense": 44,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 180,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Tera Starstorm",
-        "move_2": "Earth Power",
-        "move_3": "Dark Pulse",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 116,
+            "ev_defense": 44,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 180
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Tera Starstorm",
+            "move_2": "Earth Power",
+            "move_3": "Dark Pulse",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 124,
-        "ev_special_attack": 132,
-        "ev_special_defense": 212,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Encore",
-        "move_3": "Disable",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 124,
+            "ev_special_attack": 132,
+            "ev_special_defense": 212,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Encore",
+            "move_3": "Disable",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Iron Valiant",
         "item": "Booster Energy",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 20,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 44,
-        "ev_speed": 188,
+        "tera_type": "Dark",
         "nature": "Timid",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Moonblast",
-        "move_2": "Encore",
-        "move_3": "Disable",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 20,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 44,
+            "ev_speed": 188
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Encore",
+            "move_3": "Disable",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Ogerpon-Cornerstone (F)",
         "item": "Cornerstone Mask",
         "ability": "Sturdy",
         "level": 50,
-        "tera type": "Rock",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 92,
-        "ev_speed": 252,
+        "tera_type": "Rock",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Brick Break",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 92,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Brick Break",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Brute Bonnet",
         "item": "Covert Cloak",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 164,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 68,
+        "tera_type": "Water",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Sucker Punch",
-        "move_2": "Seed Bomb",
-        "move_3": "Spore",
-        "move_4": "Rage Powder"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 164,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Sucker Punch",
+            "move_2": "Seed Bomb",
+            "move_3": "Spore",
+            "move_4": "Rage Powder"
+        }
     }
 ]

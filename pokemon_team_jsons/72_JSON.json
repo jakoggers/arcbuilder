@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ground",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 20,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ground",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 8,
-        "move_1": "Spirit Break",
-        "move_2": "Sucker Punch",
-        "move_3": "Reflect",
-        "move_4": "Light Screen"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 20,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 8
+        },
+        "moves": {
+            "move_1": "Spirit Break",
+            "move_2": "Sucker Punch",
+            "move_3": "Reflect",
+            "move_4": "Light Screen"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Incineroar",
         "item": "Chople Berry",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 108,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Knock Off",
-        "move_2": "Fake Out",
-        "move_3": "Will-O-Wisp",
-        "move_4": "Parting Shot"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 108,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Fake Out",
+            "move_3": "Will-O-Wisp",
+            "move_4": "Parting Shot"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Calyrex-Shadow",
         "item": "Covert Cloak",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 12,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 4,
-        "ev_special_defense": 252,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 22,
-        "move_1": "Astral Barrage",
-        "move_2": "Draining Kiss",
-        "move_3": "Calm Mind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 12,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 4,
+            "ev_special_defense": 252,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 22
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Draining Kiss",
+            "move_3": "Calm Mind",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Koraidon",
         "item": "Choice Band",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 204,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 252,
-        "ev_speed": 12,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Close Combat",
-        "move_2": "Breaking Swipe",
-        "move_3": "Flare Blitz",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 252,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Close Combat",
+            "move_2": "Breaking Swipe",
+            "move_3": "Flare Blitz",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Ogerpon-Hearthflame (F)",
         "item": "Hearthflame Mask",
         "ability": "Mold Breaker",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 68,
-        "ev_attack": 220,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 212,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Encore",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 68,
+            "ev_attack": 220,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 212
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Encore",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Raging Bolt",
         "item": "Assault Vest",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 116,
-        "ev_special_attack": 4,
-        "ev_special_defense": 164,
-        "ev_speed": 92,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Thunderbolt",
-        "move_2": "Dragon Pulse",
-        "move_3": "Thunderclap",
-        "move_4": "Electroweb"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 116,
+            "ev_special_attack": 4,
+            "ev_special_defense": 164,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Thunderbolt",
+            "move_2": "Dragon Pulse",
+            "move_3": "Thunderclap",
+            "move_4": "Electroweb"
+        }
     }
 ]

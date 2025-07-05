@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Lunala",
         "item": "Power Herb",
         "ability": "Shadow Shield",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 244,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 244,
-        "ev_special_defense": 4,
-        "ev_speed": 4,
+        "tera_type": "Dark",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moongeist Beam",
-        "move_2": "Meteor Beam",
-        "move_3": "Dazzling Gleam",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 244,
+            "ev_special_defense": 4,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moongeist Beam",
+            "move_2": "Meteor Beam",
+            "move_3": "Dazzling Gleam",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Groudon",
         "item": "Assault Vest",
         "ability": "Drought",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 92,
-        "ev_speed": 252,
+        "tera_type": "Fire",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Precipice Blades",
-        "move_2": "Heat Crash",
-        "move_3": "High Horsepower",
-        "move_4": "Eruption"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 92,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Precipice Blades",
+            "move_2": "Heat Crash",
+            "move_3": "High Horsepower",
+            "move_4": "Eruption"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Walking Wake",
         "item": "Covert Cloak",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 244,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 68,
-        "ev_speed": 196,
+        "tera_type": "Normal",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Hydro Steam",
-        "move_2": "Roar",
-        "move_3": "Snarl",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 68,
+            "ev_speed": 196
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Hydro Steam",
+            "move_2": "Roar",
+            "move_3": "Snarl",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Raging Bolt",
         "item": "Zap Plate",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 52,
-        "ev_attack": 116,
-        "ev_defense": 204,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 68,
+        "tera_type": "Electric",
         "nature": "Quiet",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 28,
-        "move_1": "Thunderclap",
-        "move_2": "Draco Meteor",
-        "move_3": "Thunderbolt",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 52,
+            "ev_attack": 116,
+            "ev_defense": 204,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 28
+        },
+        "moves": {
+            "move_1": "Thunderclap",
+            "move_2": "Draco Meteor",
+            "move_3": "Thunderbolt",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Flutter Mane",
         "item": "Focus Sash",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 188,
-        "ev_special_attack": 252,
-        "ev_special_defense": 212,
-        "ev_speed": 252,
+        "tera_type": "Normal",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Shadow Ball",
-        "move_3": "Dazzling Gleam",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 188,
+            "ev_special_attack": 252,
+            "ev_special_defense": 212,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Shadow Ball",
+            "move_3": "Dazzling Gleam",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 244,
-        "ev_defense": 252,
-        "ev_special_attack": 28,
-        "ev_special_defense": 12,
-        "ev_speed": 4,
+        "tera_type": "Grass",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Knock Off",
-        "move_2": "Flare Blitz",
-        "move_3": "Parting Shot",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 244,
+            "ev_defense": 252,
+            "ev_special_attack": 28,
+            "ev_special_defense": 12,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Flare Blitz",
+            "move_3": "Parting Shot",
+            "move_4": "Fake Out"
+        }
     }
 ]

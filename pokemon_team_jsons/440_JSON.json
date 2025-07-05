@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Glimmora",
         "item": "Power Herb",
         "ability": "Toxic Debris",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 172,
-        "ev_attack": 148,
-        "ev_defense": 4,
-        "ev_special_attack": 156,
-        "ev_special_defense": 4,
-        "ev_speed": 180,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Mortal Spin",
-        "move_2": "Spiky Shield",
-        "move_3": "Meteor Beam",
-        "move_4": "Earth Power"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 148,
+            "ev_defense": 4,
+            "ev_special_attack": 156,
+            "ev_special_defense": 4,
+            "ev_speed": 180
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Mortal Spin",
+            "move_2": "Spiky Shield",
+            "move_3": "Meteor Beam",
+            "move_4": "Earth Power"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Leftovers",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 116,
-        "ev_defense": 68,
-        "ev_special_attack": 244,
-        "ev_special_defense": 76,
-        "ev_speed": 68,
+        "tera_type": "Water",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Leech Seed",
-        "move_2": "Glacial Lance",
-        "move_3": "Protect",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 116,
+            "ev_defense": 68,
+            "ev_special_attack": 244,
+            "ev_special_defense": 76,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Leech Seed",
+            "move_2": "Glacial Lance",
+            "move_3": "Protect",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 204,
-        "ev_attack": 252,
-        "ev_defense": 236,
-        "ev_special_attack": 4,
-        "ev_special_defense": 68,
-        "ev_speed": 68,
+        "tera_type": "Dragon",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Wide Guard",
-        "move_2": "Heavy Slam",
-        "move_3": "Body Press",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 252,
+            "ev_defense": 236,
+            "ev_special_attack": 4,
+            "ev_special_defense": 68,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wide Guard",
+            "move_2": "Heavy Slam",
+            "move_3": "Body Press",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 204,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 76,
-        "ev_speed": 108,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 14,
-        "iv_special_defense": 31,
-        "iv_speed": 12,
-        "move_1": "Fake Out",
-        "move_2": "Wood Hammer",
-        "move_3": "Grassy Glide",
-        "move_4": "High Horsepower"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 76,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 14,
+            "iv_special_defense": 31,
+            "iv_speed": 12
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Wood Hammer",
+            "move_3": "Grassy Glide",
+            "move_4": "High Horsepower"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Amoonguss",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 196,
-        "ev_defense": 180,
-        "ev_special_attack": 4,
-        "ev_special_defense": 76,
-        "ev_speed": 92,
+        "tera_type": "Fire",
         "nature": "Sassy",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Rage Powder",
-        "move_2": "Spore",
-        "move_3": "Clear Smog",
-        "move_4": "Pollen Puff"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 196,
+            "ev_defense": 180,
+            "ev_special_attack": 4,
+            "ev_special_defense": 76,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Rage Powder",
+            "move_2": "Spore",
+            "move_3": "Clear Smog",
+            "move_4": "Pollen Puff"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ursaluna",
         "item": "Flame Orb",
         "ability": "Guts",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 116,
-        "ev_special_attack": 60,
-        "ev_special_defense": 4,
-        "ev_speed": 4,
+        "tera_type": "Ghost",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 2,
-        "move_1": "Facade",
-        "move_2": "Headlong Rush",
-        "move_3": "Close Combat",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 116,
+            "ev_special_attack": 60,
+            "ev_special_defense": 4,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Facade",
+            "move_2": "Headlong Rush",
+            "move_3": "Close Combat",
+            "move_4": "Protect"
+        }
     }
 ]

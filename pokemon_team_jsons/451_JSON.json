@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Iron Boulder",
         "item": "Choice Band",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Rock",
-        "ev_hp": 108,
-        "ev_attack": 252,
-        "ev_defense": 108,
-        "ev_special_attack": 212,
-        "ev_special_defense": 28,
-        "ev_speed": 228,
+        "tera_type": "Rock",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Mighty Cleave",
-        "move_2": "Psycho Cut",
-        "move_3": "Quick Attack",
-        "move_4": "Throat Chop"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 252,
+            "ev_defense": 108,
+            "ev_special_attack": 212,
+            "ev_special_defense": 28,
+            "ev_speed": 228
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Mighty Cleave",
+            "move_2": "Psycho Cut",
+            "move_3": "Quick Attack",
+            "move_4": "Throat Chop"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Kyogre",
         "item": "Assault Vest",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Steel",
-        "ev_hp": 244,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 20,
+        "tera_type": "Steel",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Liquidation",
-        "move_2": "Body Slam",
-        "move_3": "Heavy Slam",
-        "move_4": "Sheer Cold"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Liquidation",
+            "move_2": "Body Slam",
+            "move_3": "Heavy Slam",
+            "move_4": "Sheer Cold"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Miraidon",
         "item": "Electric Seed",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Flying",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 116,
-        "ev_speed": 252,
+        "tera_type": "Flying",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 14,
-        "iv_speed": 2,
-        "move_1": "Acrobatics",
-        "move_2": "Supercell Slam",
-        "move_3": "Swords Dance",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 116,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 14,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Acrobatics",
+            "move_2": "Supercell Slam",
+            "move_3": "Swords Dance",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Brute Bonnet",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 28,
-        "ev_special_attack": 4,
-        "ev_special_defense": 132,
-        "ev_speed": 228,
+        "tera_type": "Bug",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 14,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Pollen Puff",
-        "move_2": "Spore",
-        "move_3": "Rage Powder",
-        "move_4": "Dark Pulse"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 28,
+            "ev_special_attack": 4,
+            "ev_special_defense": 132,
+            "ev_speed": 228
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 14,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Pollen Puff",
+            "move_2": "Spore",
+            "move_3": "Rage Powder",
+            "move_4": "Dark Pulse"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Thundurus",
         "item": "Covert Cloak",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 156,
-        "ev_special_attack": 12,
-        "ev_special_defense": 84,
-        "ev_speed": 4,
+        "tera_type": "Dark",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Thunder",
-        "move_2": "Eerie Impulse",
-        "move_3": "Electric Terrain",
-        "move_4": "Scary Face"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 156,
+            "ev_special_attack": 12,
+            "ev_special_defense": 84,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Thunder",
+            "move_2": "Eerie Impulse",
+            "move_3": "Electric Terrain",
+            "move_4": "Scary Face"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Valiant",
         "item": "Mental Herb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 92,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Shadow Ball",
-        "move_3": "Encore",
-        "move_4": "Coaching"
+        "evs": {
+            "ev_hp": 92,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Shadow Ball",
+            "move_3": "Encore",
+            "move_4": "Coaching"
+        }
     }
 ]

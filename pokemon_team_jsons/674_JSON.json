@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Scarf",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Draco Meteor",
-        "move_2": "Overheat",
-        "move_3": "Electro Drift",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Draco Meteor",
+            "move_2": "Overheat",
+            "move_3": "Electro Drift",
+            "move_4": "Volt Switch"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 108,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Normal",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 0,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Protect",
-        "move_3": "Taunt",
-        "move_4": "Hyper Beam"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 108,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 0,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Protect",
+            "move_3": "Taunt",
+            "move_4": "Hyper Beam"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Dondozo",
         "item": "Leftovers",
         "ability": "Unaware",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 252,
-        "ev_speed": 188,
+        "tera_type": "Grass",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Body Press",
-        "move_3": "Earthquake",
-        "move_4": "Order Up"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 252,
+            "ev_speed": 188
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Body Press",
+            "move_3": "Earthquake",
+            "move_4": "Order Up"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Tatsugiri-Droopy",
         "item": "Focus Sash",
         "ability": "Commander",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 4,
-        "ev_attack": 100,
-        "ev_defense": 52,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Muddy Water",
-        "move_2": "Draco Meteor",
-        "move_3": "Helping Hand",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 100,
+            "ev_defense": 52,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Muddy Water",
+            "move_2": "Draco Meteor",
+            "move_3": "Helping Hand",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Weezing-Galar",
         "item": "Covert Cloak",
         "ability": "Neutralizing Gas",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 252,
-        "ev_speed": 12,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Strange Steam",
-        "move_2": "Poison Gas",
-        "move_3": "Toxic Spikes",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 252,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Strange Steam",
+            "move_2": "Poison Gas",
+            "move_3": "Toxic Spikes",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 188,
-        "ev_attack": 164,
-        "ev_defense": 28,
-        "ev_special_attack": 252,
-        "ev_special_defense": 92,
-        "ev_speed": 36,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Drain Punch",
-        "move_2": "Heavy Slam",
-        "move_3": "Fake Out",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 188,
+            "ev_attack": 164,
+            "ev_defense": 28,
+            "ev_special_attack": 252,
+            "ev_special_defense": 92,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Heavy Slam",
+            "move_3": "Fake Out",
+            "move_4": "Volt Switch"
+        }
     }
 ]

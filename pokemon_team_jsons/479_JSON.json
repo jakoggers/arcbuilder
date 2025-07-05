@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 76,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 172,
+        "tera_type": "Normal",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 76,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 172
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Dondozo",
         "item": "Leftovers",
         "ability": "Unaware",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 140,
-        "ev_special_attack": 76,
-        "ev_special_defense": 4,
-        "ev_speed": 36,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Liquidation",
-        "move_2": "Earthquake",
-        "move_3": "Yawn",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 140,
+            "ev_special_attack": 76,
+            "ev_special_defense": 4,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Liquidation",
+            "move_2": "Earthquake",
+            "move_3": "Yawn",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Tatsugiri-Droopy",
         "item": "Rocky Helmet",
         "ability": "Commander",
         "level": 50,
-        "tera type": "Steel",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 172,
-        "ev_special_attack": 252,
-        "ev_special_defense": 76,
-        "ev_speed": 4,
+        "tera_type": "Steel",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Muddy Water",
-        "move_2": "Draco Meteor",
-        "move_3": "Helping Hand",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 172,
+            "ev_special_attack": 252,
+            "ev_special_defense": 76,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Muddy Water",
+            "move_2": "Draco Meteor",
+            "move_3": "Helping Hand",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Eternatus",
         "item": "Covert Cloak",
         "ability": "Pressure",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 84,
-        "ev_speed": 12,
+        "tera_type": "Fairy",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Dynamax Cannon",
-        "move_2": "Sludge Bomb",
-        "move_3": "Toxic Spikes",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 84,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Dynamax Cannon",
+            "move_2": "Sludge Bomb",
+            "move_3": "Toxic Spikes",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 44,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 204,
+        "tera_type": "Fire",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Wood Hammer",
-        "move_2": "Grassy Glide",
-        "move_3": "U-turn",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 44,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 204
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "Grassy Glide",
+            "move_3": "U-turn",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Incineroar",
         "item": "Sitrus Berry",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 100,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 30,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "U-turn",
-        "move_3": "Fake Out",
-        "move_4": "Roar"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 100,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 30,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "U-turn",
+            "move_3": "Fake Out",
+            "move_4": "Roar"
+        }
     }
 ]

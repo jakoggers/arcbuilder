@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Dragonite",
         "item": "Loaded Dice",
         "ability": "Multiscale",
         "level": 74,
-        "tera type": "Normal",
-        "ev_hp": 28,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 220,
+        "tera_type": "Normal",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Tailwind",
-        "move_2": "Scale Shot",
-        "move_3": "Extreme Speed",
-        "move_4": "Encore"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 220
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Tailwind",
+            "move_2": "Scale Shot",
+            "move_3": "Extreme Speed",
+            "move_4": "Encore"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 83,
-        "tera type": "Ghost",
-        "ev_hp": 172,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Weezing-Galar (M)",
         "item": "Sitrus Berry",
         "ability": "Neutralizing Gas",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 28,
-        "ev_special_defense": 196,
-        "ev_speed": 28,
+        "tera_type": "Water",
         "nature": "Calm",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Toxic",
-        "move_3": "Strange Steam",
-        "move_4": "Will-O-Wisp"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 28,
+            "ev_special_defense": 196,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Toxic",
+            "move_3": "Strange Steam",
+            "move_4": "Will-O-Wisp"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 164,
-        "ev_attack": 12,
-        "ev_defense": 236,
-        "ev_special_attack": 116,
-        "ev_special_defense": 4,
-        "ev_speed": 92,
+        "tera_type": "Ghost",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Body Press",
-        "move_2": "Behemoth Bash",
-        "move_3": "Wide Guard",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 164,
+            "ev_attack": 12,
+            "ev_defense": 236,
+            "ev_special_attack": 116,
+            "ev_special_defense": 4,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Behemoth Bash",
+            "move_3": "Wide Guard",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
         "ability": "Unseen Fist",
         "level": 84,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 204,
-        "ev_special_attack": 252,
-        "ev_special_defense": 28,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Aqua Jet",
-        "move_2": "Surging Strikes",
-        "move_3": "Close Combat",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 204,
+            "ev_special_attack": 252,
+            "ev_special_defense": 28,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Aqua Jet",
+            "move_2": "Surging Strikes",
+            "move_3": "Close Combat",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Accelerator (Chien-Pao)",
         "item": "Life Orb",
         "ability": "Sword of Ruin",
         "level": 72,
-        "tera type": "Stellar",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 76,
-        "ev_speed": 252,
+        "tera_type": "Stellar",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Icicle Crash",
-        "move_2": "Sucker Punch",
-        "move_3": "Ice Shard",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 76,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Icicle Crash",
+            "move_2": "Sucker Punch",
+            "move_3": "Ice Shard",
+            "move_4": "Protect"
+        }
     }
 ]

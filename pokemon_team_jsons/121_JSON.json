@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 28,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 220,
+        "tera_type": "Fire",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Body Press",
-        "move_2": "Behemoth Bash",
-        "move_3": "Iron Defense",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 220
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Behemoth Bash",
+            "move_3": "Iron Defense",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Miraidon",
         "item": "Assault Vest",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 172,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Electric",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Draco Meteor",
-        "move_2": "Electro Drift",
-        "move_3": "Volt Switch",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Draco Meteor",
+            "move_2": "Electro Drift",
+            "move_3": "Volt Switch",
+            "move_4": "Snarl"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 28,
-        "ev_special_defense": 196,
-        "ev_speed": 28,
+        "tera_type": "Ghost",
         "nature": "Calm",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Thunder Wave",
-        "move_2": "Spirit Break",
-        "move_3": "Light Screen",
-        "move_4": "Reflect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 28,
+            "ev_special_defense": 196,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Thunder Wave",
+            "move_2": "Spirit Break",
+            "move_3": "Light Screen",
+            "move_4": "Reflect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Sinistcha-Masterpiece",
         "item": "Rocky Helmet",
         "ability": "Hospitality",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 164,
-        "ev_attack": 12,
-        "ev_defense": 236,
-        "ev_special_attack": 116,
-        "ev_special_defense": 4,
-        "ev_speed": 92,
+        "tera_type": "Water",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Shadow Ball",
-        "move_2": "Matcha Gotcha",
-        "move_3": "Rage Powder",
-        "move_4": "Life Dew"
+        "evs": {
+            "ev_hp": 164,
+            "ev_attack": 12,
+            "ev_defense": 236,
+            "ev_special_attack": 116,
+            "ev_special_defense": 4,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Shadow Ball",
+            "move_2": "Matcha Gotcha",
+            "move_3": "Rage Powder",
+            "move_4": "Life Dew"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Regieleki",
         "item": "Focus Sash",
         "ability": "Transistor",
         "level": 50,
-        "tera type": "Ice",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 204,
-        "ev_special_attack": 252,
-        "ev_special_defense": 28,
-        "ev_speed": 252,
+        "tera_type": "Ice",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electroweb",
-        "move_2": "Thunder Cage",
-        "move_3": "Tera Blast",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 204,
+            "ev_special_attack": 252,
+            "ev_special_defense": 28,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electroweb",
+            "move_2": "Thunder Cage",
+            "move_3": "Tera Blast",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
         "ability": "Mold Breaker",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 76,
-        "ev_speed": 252,
+        "tera_type": "Fire",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Wood Hammer",
-        "move_2": "Ivy Cudgel",
-        "move_3": "Taunt",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 76,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "Ivy Cudgel",
+            "move_3": "Taunt",
+            "move_4": "Spiky Shield"
+        }
     }
 ]

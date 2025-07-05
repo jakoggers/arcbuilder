@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Koraidon",
         "item": "Ability Shield",
         "ability": "Orichalcum Pulse",
         "level": 77,
-        "tera type": "Fire",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 252,
+        "tera_type": "Fire",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Flare Blitz",
-        "move_2": "Flame Charge",
-        "move_3": "Collision Course",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Flame Charge",
+            "move_3": "Collision Course",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 84,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 108,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 140,
-        "ev_speed": 4,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Imprison",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 108,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 140,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Imprison",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Chi-Yu",
         "item": "Choice Scarf",
         "ability": "Beads of Ruin",
         "level": 80,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 132,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Sassy",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Heat Wave",
-        "move_2": "Dark Pulse",
-        "move_3": "Snarl",
-        "move_4": "Overheat"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 132,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Heat Wave",
+            "move_2": "Dark Pulse",
+            "move_3": "Snarl",
+            "move_4": "Overheat"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Weezing-Galar",
         "item": "Wide Lens",
         "ability": "Neutralizing Gas",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 92,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 156,
+        "tera_type": "Dark",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Play Rough",
-        "move_2": "Poison Gas",
-        "move_3": "Taunt",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 92,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 156
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Play Rough",
+            "move_2": "Poison Gas",
+            "move_3": "Taunt",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 108,
-        "ev_special_attack": 116,
-        "ev_special_defense": 140,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 22,
-        "iv_special_defense": 31,
-        "iv_speed": 2,
-        "move_1": "Drain Punch",
-        "move_2": "Low Kick",
-        "move_3": "Wild Charge",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 108,
+            "ev_special_attack": 116,
+            "ev_special_defense": 140,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 22,
+            "iv_special_defense": 31,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Low Kick",
+            "move_3": "Wild Charge",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Jumpluff",
         "item": "Covert Cloak",
         "ability": "Chlorophyll",
         "level": 59,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 196,
-        "ev_special_attack": 4,
-        "ev_special_defense": 60,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Sleep Powder",
-        "move_2": "Rage Powder",
-        "move_3": "Tailwind",
-        "move_4": "Encore"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 196,
+            "ev_special_attack": 4,
+            "ev_special_defense": 60,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Sleep Powder",
+            "move_2": "Rage Powder",
+            "move_3": "Tailwind",
+            "move_4": "Encore"
+        }
     }
 ]

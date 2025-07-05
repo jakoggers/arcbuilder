@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 12,
-        "ev_special_attack": 244,
-        "ev_special_defense": 60,
-        "ev_speed": 68,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 12,
+            "ev_special_attack": 244,
+            "ev_special_defense": 60,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Miraidon",
         "item": "Assault Vest",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 36,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 20,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Draco Meteor",
-        "move_3": "Volt Switch",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 36,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Draco Meteor",
+            "move_3": "Volt Switch",
+            "move_4": "Snarl"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Ursaluna",
         "item": "Flame Orb",
         "ability": "Guts",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 124,
-        "ev_special_attack": 132,
-        "ev_special_defense": 20,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Facade",
-        "move_2": "Headlong Rush",
-        "move_3": "Earthquake",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 124,
+            "ev_special_attack": 132,
+            "ev_special_defense": 20,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Facade",
+            "move_2": "Headlong Rush",
+            "move_3": "Earthquake",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Volcarona",
         "item": "Rocky Helmet",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 252,
-        "ev_defense": 252,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Fiery Dance",
-        "move_2": "Rage Powder",
-        "move_3": "Morning Sun",
-        "move_4": "Will-O-Wisp"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 252,
+            "ev_defense": 252,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Fiery Dance",
+            "move_2": "Rage Powder",
+            "move_3": "Morning Sun",
+            "move_4": "Will-O-Wisp"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Annihilape",
         "item": "Choice Scarf",
         "ability": "Defiant",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 92,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Close Combat",
-        "move_2": "Rage Fist",
-        "move_3": "Final Gambit",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 92,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Close Combat",
+            "move_2": "Rage Fist",
+            "move_3": "Final Gambit",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 204,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 20,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spirit Break",
-        "move_2": "Light Screen",
-        "move_3": "Reflect",
-        "move_4": "Thunder Wave"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 204,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spirit Break",
+            "move_2": "Light Screen",
+            "move_3": "Reflect",
+            "move_4": "Thunder Wave"
+        }
     }
 ]

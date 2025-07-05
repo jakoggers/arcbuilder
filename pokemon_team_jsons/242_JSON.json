@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Zoroark-Hisui",
         "item": "Focus Sash",
         "ability": "Illusion",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 4,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 252,
+        "tera_type": "Normal",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Bitter Malice",
-        "move_2": "Hyper Voice",
-        "move_3": "Burning Jealousy",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Bitter Malice",
+            "move_2": "Hyper Voice",
+            "move_3": "Burning Jealousy",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Dialga-Origin",
         "item": "Adamant Crystal",
         "ability": "Telepathy",
         "level": 50,
-        "tera type": "Ground",
-        "ev_hp": 252,
-        "ev_attack": 172,
-        "ev_defense": 84,
-        "ev_special_attack": 236,
-        "ev_special_defense": 20,
-        "ev_speed": 164,
+        "tera_type": "Ground",
         "nature": "Quiet",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Flash Cannon",
-        "move_2": "Draco Meteor",
-        "move_3": "Earth Power",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 172,
+            "ev_defense": 84,
+            "ev_special_attack": 236,
+            "ev_special_defense": 20,
+            "ev_speed": 164
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Flash Cannon",
+            "move_2": "Draco Meteor",
+            "move_3": "Earth Power",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 252,
-        "ev_attack": 196,
-        "ev_defense": 124,
-        "ev_special_attack": 180,
-        "ev_special_defense": 60,
-        "ev_speed": 28,
+        "tera_type": "Dragon",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 196,
+            "ev_defense": 124,
+            "ev_special_attack": 180,
+            "ev_special_defense": 60,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Incineroar",
         "item": "Assault Vest",
         "ability": "Blaze",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 100,
-        "ev_special_defense": 76,
-        "ev_speed": 164,
+        "tera_type": "Bug",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 28,
-        "move_1": "Flare Blitz",
-        "move_2": "Knock Off",
-        "move_3": "U-turn",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 100,
+            "ev_special_defense": 76,
+            "ev_speed": 164
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 28
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Knock Off",
+            "move_3": "U-turn",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Ursaluna",
         "item": "Flame Orb",
         "ability": "Guts",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 108,
-        "ev_attack": 244,
-        "ev_defense": 52,
-        "ev_special_attack": 100,
-        "ev_special_defense": 156,
-        "ev_speed": 156,
+        "tera_type": "Ghost",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Facade",
-        "move_2": "Headlong Rush",
-        "move_3": "Earthquake",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 244,
+            "ev_defense": 52,
+            "ev_special_attack": 100,
+            "ev_special_defense": 156,
+            "ev_speed": 156
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Facade",
+            "move_2": "Headlong Rush",
+            "move_3": "Earthquake",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ogerpon-Wellspring (F)",
         "item": "Wellspring Mask",
         "ability": "Water Absorb",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 68,
-        "ev_defense": 28,
-        "ev_special_attack": 252,
-        "ev_special_defense": 92,
-        "ev_speed": 68,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Horn Leech",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 68,
+            "ev_defense": 28,
+            "ev_special_attack": 252,
+            "ev_special_defense": 92,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Horn Leech",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     }
 ]

@@ -14,27 +14,27 @@ def ev_and_iv_organizer(pokemon_num, ev_or_iv, which_one, given_pokemon_team):
 		match stat_change:
 			case stat_change if "HP" in stat_change:
 				hp = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][which_one + "_hp"] = hp
+				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_hp"] = hp
 				# print("The HP ev in question: " + hp)
 			case stat_change if "Atk" in stat_change:
 				attack = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][which_one + "_attack"] = attack
+				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_attack"] = attack
 				#print("The Attack ev in question: " + attack)
 			case stat_change if "Def" in stat_change:
 				defense = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][which_one + "_defense"] = defense
+				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_defense"] = defense
 				#print("The Defense ev in question: " + defense)
 			case stat_change if "SpA" in stat_change:
 				special_attack = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][which_one + "_special_attack"] = special_attack
+				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_special_attack"] = special_attack
 				#print("The Special Attack ev in question: " + special_attack)
 			case stat_change if "SpD" in stat_change:
 				special_defense = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][which_one + "_special_defense"] = special_defense
+				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_special_defense"] = special_defense
 				#print("The Special Defense ev in question: " + special_defense)
 			case stat_change if "Spe" in stat_change:
 				speed = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][which_one + "_speed"] = speed
+				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_speed"] = speed
 				#print("The Speed ev in question: " + speed)
 	# print(ev_or_iv)
 
@@ -77,7 +77,7 @@ def write_team_data(given_link, given_json_location, given_pokemon_team):
 				case read_line if "Tera Type: " in read_line:
 					find_char = read_line.index(":")
 					tera_type = read_line[find_char + 2:].strip()
-					given_pokemon_team[which_pokemon]["tera type"] = tera_type
+					given_pokemon_team[which_pokemon]["tera_type"] = tera_type
 
 				# Write Nature:
 				case read_line if "Nature" in read_line:
@@ -97,7 +97,7 @@ def write_team_data(given_link, given_json_location, given_pokemon_team):
 				case read_line if "-" in read_line: #given lineis a move
 					find_char = read_line.index("-")
 					move_name = read_line[find_char + 2:].strip()
-					given_pokemon_team[which_pokemon]["move_" + str(move_counter)] = move_name
+					given_pokemon_team[which_pokemon]["moves"]["move_" + str(move_counter)] = move_name
 					move_counter += 1
 
 			read_line = f.readline()

@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Tornadus",
         "item": "Covert Cloak",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Steel",
-        "ev_hp": 116,
-        "ev_attack": 116,
-        "ev_defense": 20,
-        "ev_special_attack": 116,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Steel",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Hurricane",
-        "move_2": "Tailwind",
-        "move_3": "Rain Dance",
-        "move_4": "Taunt"
+        "evs": {
+            "ev_hp": 116,
+            "ev_attack": 116,
+            "ev_defense": 20,
+            "ev_special_attack": 116,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Hurricane",
+            "move_2": "Tailwind",
+            "move_3": "Rain Dance",
+            "move_4": "Taunt"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Kyogre",
         "item": "Mystic Water",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 36,
-        "ev_attack": 76,
-        "ev_defense": 108,
-        "ev_special_attack": 220,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Water Spout",
-        "move_2": "Origin Pulse",
-        "move_3": "Ice Beam",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 36,
+            "ev_attack": 76,
+            "ev_defense": 108,
+            "ev_special_attack": 220,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Origin Pulse",
+            "move_3": "Ice Beam",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 12,
-        "ev_attack": 4,
-        "ev_defense": 44,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 14,
-        "iv_speed": 24,
-        "move_1": "Thunder",
-        "move_2": "Volt Switch",
-        "move_3": "Draco Meteor",
-        "move_4": "Dazzling Gleam"
+        "evs": {
+            "ev_hp": 12,
+            "ev_attack": 4,
+            "ev_defense": 44,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 14,
+            "iv_speed": 24
+        },
+        "moves": {
+            "move_1": "Thunder",
+            "move_2": "Volt Switch",
+            "move_3": "Draco Meteor",
+            "move_4": "Dazzling Gleam"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 244,
-        "ev_attack": 244,
-        "ev_defense": 92,
-        "ev_special_attack": 180,
-        "ev_special_defense": 172,
-        "ev_speed": 252,
+        "tera_type": "Bug",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Drain Punch",
-        "move_2": "Low Kick",
-        "move_3": "Wild Charge",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 244,
+            "ev_defense": 92,
+            "ev_special_attack": 180,
+            "ev_special_defense": 172,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Low Kick",
+            "move_3": "Wild Charge",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Tsareena",
         "item": "Wide Lens",
         "ability": "Queenly Majesty",
         "level": 50,
-        "tera type": "Ice",
-        "ev_hp": 20,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 68,
-        "ev_special_defense": 204,
-        "ev_speed": 252,
+        "tera_type": "Ice",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Power Whip",
-        "move_2": "Triple Axel",
-        "move_3": "Taunt",
-        "move_4": "Helping Hand"
+        "evs": {
+            "ev_hp": 20,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 68,
+            "ev_special_defense": 204,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Power Whip",
+            "move_2": "Triple Axel",
+            "move_3": "Taunt",
+            "move_4": "Helping Hand"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 12,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Surging Strikes",
-        "move_2": "Aqua Jet",
-        "move_3": "Close Combat",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Aqua Jet",
+            "move_3": "Close Combat",
+            "move_4": "U-turn"
+        }
     }
 ]

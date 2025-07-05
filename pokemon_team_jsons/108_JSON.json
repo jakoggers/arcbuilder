@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Incineroar",
         "item": "Sitrus Berry",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 212,
-        "ev_speed": 4,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Flare Blitz",
-        "move_2": "Knock Off",
-        "move_3": "Parting Shot",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 212,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Knock Off",
+            "move_3": "Parting Shot",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 68,
-        "ev_special_attack": 116,
-        "ev_special_defense": 4,
-        "ev_speed": 68,
+        "tera_type": "Normal",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Expanding Force",
-        "move_3": "Protect",
-        "move_4": "Nasty Plot"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 68,
+            "ev_special_attack": 116,
+            "ev_special_defense": 4,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Expanding Force",
+            "move_3": "Protect",
+            "move_4": "Nasty Plot"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Indeedee-F",
         "item": "Safety Goggles",
         "ability": "Psychic Surge",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 124,
-        "ev_special_attack": 4,
-        "ev_special_defense": 116,
-        "ev_speed": 12,
+        "tera_type": "Fairy",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Psychic",
-        "move_2": "Helping Hand",
-        "move_3": "Follow Me",
-        "move_4": "Heal Pulse"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 124,
+            "ev_special_attack": 4,
+            "ev_special_defense": 116,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Psychic",
+            "move_2": "Helping Hand",
+            "move_3": "Follow Me",
+            "move_4": "Heal Pulse"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Amoonguss",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 196,
-        "ev_special_defense": 20,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Pollen Puff",
-        "move_2": "Rage Powder",
-        "move_3": "Spore",
-        "move_4": "Clear Smog"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 196,
+            "ev_special_defense": 20,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Pollen Puff",
+            "move_2": "Rage Powder",
+            "move_3": "Spore",
+            "move_4": "Clear Smog"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 28,
-        "ev_attack": 252,
-        "ev_defense": 20,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 204,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 30,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "U-turn",
-        "move_4": "Rock Tomb"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 252,
+            "ev_defense": 20,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 204
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 30,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "U-turn",
+            "move_4": "Rock Tomb"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 244,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 132,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Body Press",
-        "move_2": "Wide Guard",
-        "move_3": "Snarl",
-        "move_4": "Behemoth Bash"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 244,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 132,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Wide Guard",
+            "move_3": "Snarl",
+            "move_4": "Behemoth Bash"
+        }
     }
 ]

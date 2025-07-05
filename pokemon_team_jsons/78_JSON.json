@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Leftovers",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 60,
-        "ev_special_attack": 20,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Glacial Lance",
-        "move_3": "Leech Seed",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 60,
+            "ev_special_attack": 20,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Glacial Lance",
+            "move_3": "Leech Seed",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Kyogre",
         "item": "Mystic Water",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 148,
-        "ev_special_attack": 100,
-        "ev_special_defense": 4,
-        "ev_speed": 4,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Water Spout",
-        "move_3": "Thunder",
-        "move_4": "Hydro Pump"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 148,
+            "ev_special_attack": 100,
+            "ev_special_defense": 4,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Water Spout",
+            "move_3": "Thunder",
+            "move_4": "Hydro Pump"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 252,
-        "ev_special_attack": 60,
-        "ev_special_defense": 4,
-        "ev_speed": 44,
+        "tera_type": "Water",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Will-O-Wisp",
-        "move_3": "Parting Shot",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 252,
+            "ev_special_attack": 60,
+            "ev_special_defense": 4,
+            "ev_speed": 44
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Will-O-Wisp",
+            "move_3": "Parting Shot",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 68,
-        "ev_speed": 148,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Wood Hammer",
-        "move_2": "U-turn",
-        "move_3": "Grassy Glide",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 68,
+            "ev_speed": 148
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "U-turn",
+            "move_3": "Grassy Glide",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Overqwil",
         "item": "Black Sludge",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Poison",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 52,
-        "ev_special_attack": 4,
-        "ev_special_defense": 204,
-        "ev_speed": 52,
+        "tera_type": "Poison",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Barb Barrage",
-        "move_3": "Taunt",
-        "move_4": "Toxic Spikes"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 52,
+            "ev_special_attack": 4,
+            "ev_special_defense": 204,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Barb Barrage",
+            "move_3": "Taunt",
+            "move_4": "Toxic Spikes"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Grimmsnarl",
         "item": "Lagging Tail",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 220,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 4,
+        "tera_type": "Fire",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spirit Break",
-        "move_2": "Trick",
-        "move_3": "Reflect",
-        "move_4": "Light Screen"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 220,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spirit Break",
+            "move_2": "Trick",
+            "move_3": "Reflect",
+            "move_4": "Light Screen"
+        }
     }
 ]

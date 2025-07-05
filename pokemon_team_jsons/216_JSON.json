@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Pelipper",
         "item": "Ability Shield",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 132,
-        "ev_special_defense": 116,
-        "ev_speed": 4,
+        "tera_type": "Dark",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Hurricane",
-        "move_2": "Weather Ball",
-        "move_3": "Wide Guard",
-        "move_4": "Helping Hand"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 132,
+            "ev_special_defense": 116,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Hurricane",
+            "move_2": "Weather Ball",
+            "move_3": "Wide Guard",
+            "move_4": "Helping Hand"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 164,
-        "ev_attack": 252,
-        "ev_defense": 156,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 25,
-        "move_1": "Surging Strikes",
-        "move_2": "U-turn",
-        "move_3": "Aqua Jet",
-        "move_4": "Close Combat"
+        "evs": {
+            "ev_hp": 164,
+            "ev_attack": 252,
+            "ev_defense": 156,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 25
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "U-turn",
+            "move_3": "Aqua Jet",
+            "move_4": "Close Combat"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Miraidon",
         "item": "Assault Vest",
         "ability": "Hadron Engine",
         "level": 72,
-        "tera type": "Electric",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 20,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 36,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Volt Switch",
-        "move_3": "Draco Meteor",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 20,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Volt Switch",
+            "move_3": "Draco Meteor",
+            "move_4": "Snarl"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Incineroar",
         "item": "Covert Cloak",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 244,
-        "ev_attack": 204,
-        "ev_defense": 244,
-        "ev_special_attack": 4,
-        "ev_special_defense": 20,
-        "ev_speed": 28,
+        "tera_type": "Bug",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Parting Shot",
-        "move_3": "Taunt",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 204,
+            "ev_defense": 244,
+            "ev_special_attack": 4,
+            "ev_special_defense": 20,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Parting Shot",
+            "move_3": "Taunt",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Treads",
         "item": "Life Orb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 92,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "High Horsepower",
-        "move_2": "Steel Roller",
-        "move_3": "Knock Off",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 92,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "High Horsepower",
+            "move_2": "Steel Roller",
+            "move_3": "Knock Off",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Calyrex-Ice",
         "item": "Leftovers",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 188,
-        "ev_attack": 36,
-        "ev_defense": 28,
-        "ev_special_attack": 252,
-        "ev_special_defense": 252,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "Leech Seed",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 188,
+            "ev_attack": 36,
+            "ev_defense": 28,
+            "ev_special_attack": 252,
+            "ev_special_defense": 252,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "Leech Seed",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     }
 ]

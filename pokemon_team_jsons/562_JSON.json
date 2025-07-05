@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Fred (Koraidon)",
         "item": "Clear Amulet",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 60,
-        "ev_attack": 196,
-        "ev_defense": 4,
-        "ev_special_attack": 108,
-        "ev_special_defense": 12,
-        "ev_speed": 236,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 29,
-        "move_1": "Collision Course",
-        "move_2": "Flare Blitz",
-        "move_3": "Flame Charge",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 60,
+            "ev_attack": 196,
+            "ev_defense": 4,
+            "ev_special_attack": 108,
+            "ev_special_defense": 12,
+            "ev_speed": 236
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 29
+        },
+        "moves": {
+            "move_1": "Collision Course",
+            "move_2": "Flare Blitz",
+            "move_3": "Flame Charge",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Wilma (Calyrex-Shadow)",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 28,
-        "ev_attack": 4,
-        "ev_defense": 84,
-        "ev_special_attack": 132,
-        "ev_special_defense": 12,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 4,
+            "ev_defense": 84,
+            "ev_special_attack": 132,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Dino (Raging Bolt)",
         "item": "Assault Vest",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 148,
-        "ev_attack": 4,
-        "ev_defense": 68,
-        "ev_special_attack": 100,
-        "ev_special_defense": 4,
-        "ev_speed": 188,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Thunderbolt",
-        "move_2": "Electroweb",
-        "move_3": "Draco Meteor",
-        "move_4": "Thunderclap"
+        "evs": {
+            "ev_hp": 148,
+            "ev_attack": 4,
+            "ev_defense": 68,
+            "ev_special_attack": 100,
+            "ev_special_defense": 4,
+            "ev_speed": 188
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Thunderbolt",
+            "move_2": "Electroweb",
+            "move_3": "Draco Meteor",
+            "move_4": "Thunderclap"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Barney (Incineroar)",
         "item": "Safety Goggles",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 92,
-        "ev_special_attack": 212,
-        "ev_special_defense": 116,
-        "ev_speed": 52,
+        "tera_type": "Bug",
         "nature": "Impish",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Will-O-Wisp",
-        "move_3": "Parting Shot",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 92,
+            "ev_special_attack": 212,
+            "ev_special_defense": 116,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Will-O-Wisp",
+            "move_3": "Parting Shot",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Pebbles (Ogerpon-Cornerstone)",
         "item": "Cornerstone Mask",
         "ability": "Sturdy",
         "level": 50,
-        "tera type": "Rock",
-        "ev_hp": 116,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 140,
-        "ev_speed": 252,
+        "tera_type": "Rock",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Power Whip",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 116,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 140,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Power Whip",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Bamm Bamm (Brute Bonnet)",
         "item": "Covert Cloak",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 196,
-        "ev_attack": 36,
-        "ev_defense": 204,
-        "ev_special_attack": 172,
-        "ev_special_defense": 60,
-        "ev_speed": 12,
+        "tera_type": "Fairy",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 29,
-        "move_1": "Seed Bomb",
-        "move_2": "Sucker Punch",
-        "move_3": "Rage Powder",
-        "move_4": "Spore"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 36,
+            "ev_defense": 204,
+            "ev_special_attack": 172,
+            "ev_special_defense": 60,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 29
+        },
+        "moves": {
+            "move_1": "Seed Bomb",
+            "move_2": "Sucker Punch",
+            "move_3": "Rage Powder",
+            "move_4": "Spore"
+        }
     }
 ]

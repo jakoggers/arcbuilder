@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Smeargle",
         "item": "Focus Sash",
         "ability": "Moody",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 4,
-        "ev_attack": 228,
-        "ev_defense": 252,
-        "ev_special_attack": 244,
-        "ev_special_defense": 84,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Spore",
-        "move_2": "Decorate",
-        "move_3": "Follow Me",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 228,
+            "ev_defense": 252,
+            "ev_special_attack": 244,
+            "ev_special_defense": 84,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Decorate",
+            "move_3": "Follow Me",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Sableye",
         "item": "Eject Pack",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 132,
-        "ev_defense": 252,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Skill Swap",
-        "move_2": "Encore",
-        "move_3": "Feint",
-        "move_4": "Disable"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 132,
+            "ev_defense": 252,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Skill Swap",
+            "move_2": "Encore",
+            "move_3": "Feint",
+            "move_4": "Disable"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Terapagos-Terastal",
         "item": "Covert Cloak",
         "ability": "Tera Shell",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 212,
-        "ev_attack": 172,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 4,
-        "ev_speed": 172,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Tera Starstorm",
-        "move_2": "Earth Power",
-        "move_3": "Rock Polish",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 212,
+            "ev_attack": 172,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 4,
+            "ev_speed": 172
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Tera Starstorm",
+            "move_2": "Earth Power",
+            "move_3": "Rock Polish",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Zamazenta",
         "item": "Choice Specs",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 108,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Moonblast",
-        "move_2": "Dazzling Gleam",
-        "move_3": "Snarl",
-        "move_4": "Focus Blast"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Dazzling Gleam",
+            "move_3": "Snarl",
+            "move_4": "Focus Blast"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Chi-Yu",
         "item": "Choice Scarf",
         "ability": "Beads of Ruin",
         "level": 60,
-        "tera type": "Psychic",
-        "ev_hp": 84,
-        "ev_attack": 44,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 4,
-        "ev_speed": 236,
+        "tera_type": "Psychic",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Psychic",
-        "move_2": "Heat Wave",
-        "move_3": "Dark Pulse",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 84,
+            "ev_attack": 44,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 4,
+            "ev_speed": 236
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Psychic",
+            "move_2": "Heat Wave",
+            "move_3": "Dark Pulse",
+            "move_4": "Snarl"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ditto",
         "item": "Safety Goggles",
         "ability": "Imposter",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 252,
-        "ev_special_attack": 244,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Normal",
         "nature": "Relaxed",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 14,
-        "move_1": "Transform",
-        "move_2": "Trick Room",
-        "move_3": "Helping Hand",
-        "move_4": "Psychic"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 252,
+            "ev_special_attack": 244,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 14
+        },
+        "moves": {
+            "move_1": "Transform",
+            "move_2": "Trick Room",
+            "move_3": "Helping Hand",
+            "move_4": "Psychic"
+        }
     }
 ]

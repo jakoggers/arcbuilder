@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 52,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Shadow Ball",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 52,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Shadow Ball",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 220,
-        "ev_speed": 12,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "U-turn",
-        "move_2": "Fake Out",
-        "move_3": "Grassy Glide",
-        "move_4": "Wood Hammer"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 220,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "U-turn",
+            "move_2": "Fake Out",
+            "move_3": "Grassy Glide",
+            "move_4": "Wood Hammer"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 44,
-        "ev_special_attack": 4,
-        "ev_special_defense": 156,
-        "ev_speed": 52,
+        "tera_type": "Bug",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Parting Shot",
-        "move_2": "Flare Blitz",
-        "move_3": "Fake Out",
-        "move_4": "Taunt"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 44,
+            "ev_special_attack": 4,
+            "ev_special_defense": 156,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Parting Shot",
+            "move_2": "Flare Blitz",
+            "move_3": "Fake Out",
+            "move_4": "Taunt"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Amoonguss",
         "item": "Mental Herb",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 236,
-        "ev_attack": 252,
-        "ev_defense": 236,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Spore",
-        "move_2": "Pollen Puff",
-        "move_3": "Protect",
-        "move_4": "Rage Powder"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 252,
+            "ev_defense": 236,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Pollen Puff",
+            "move_3": "Protect",
+            "move_4": "Rage Powder"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Terapagos-Terastal",
         "item": "Leftovers",
         "ability": "Tera Shell",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 180,
-        "ev_attack": 236,
-        "ev_defense": 84,
-        "ev_special_attack": 156,
-        "ev_special_defense": 4,
-        "ev_speed": 84,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Tera Starstorm",
-        "move_2": "Substitute",
-        "move_3": "Calm Mind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 180,
+            "ev_attack": 236,
+            "ev_defense": 84,
+            "ev_special_attack": 156,
+            "ev_special_defense": 4,
+            "ev_speed": 84
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Tera Starstorm",
+            "move_2": "Substitute",
+            "move_3": "Calm Mind",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 252,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 16,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Aqua Jet",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 252,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 16,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Aqua Jet",
+            "move_4": "U-turn"
+        }
     }
 ]

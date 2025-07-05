@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Amoonguss",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 156,
-        "ev_attack": 76,
-        "ev_defense": 4,
-        "ev_special_attack": 236,
-        "ev_special_defense": 4,
-        "ev_speed": 108,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Protect",
-        "move_2": "Spore",
-        "move_3": "Pollen Puff",
-        "move_4": "Rage Powder"
+        "evs": {
+            "ev_hp": 156,
+            "ev_attack": 76,
+            "ev_defense": 4,
+            "ev_special_attack": 236,
+            "ev_special_defense": 4,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Spore",
+            "move_3": "Pollen Puff",
+            "move_4": "Rage Powder"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 132,
-        "ev_attack": 252,
-        "ev_defense": 164,
-        "ev_special_attack": 180,
-        "ev_special_defense": 4,
-        "ev_speed": 28,
+        "tera_type": "Bug",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Drain Punch",
-        "move_2": "Wild Charge",
-        "move_3": "Low Kick",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 132,
+            "ev_attack": 252,
+            "ev_defense": 164,
+            "ev_special_attack": 180,
+            "ev_special_defense": 4,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Wild Charge",
+            "move_3": "Low Kick",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Zacian",
         "item": "Rusted Sword",
         "ability": "Intrepid Sword",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 44,
-        "ev_special_attack": 4,
-        "ev_special_defense": 68,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Iron Head",
-        "move_2": "Swords Dance",
-        "move_3": "Protect",
-        "move_4": "Play Rough"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 44,
+            "ev_special_attack": 4,
+            "ev_special_defense": 68,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Iron Head",
+            "move_2": "Swords Dance",
+            "move_3": "Protect",
+            "move_4": "Play Rough"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 208,
-        "ev_special_attack": 4,
-        "ev_special_defense": 52,
-        "ev_speed": 60,
+        "tera_type": "Water",
         "nature": "Calm",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 25,
-        "move_1": "Surging Strikes",
-        "move_2": "Detect",
-        "move_3": "Taunt",
-        "move_4": "Aqua Jet"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 208,
+            "ev_special_attack": 4,
+            "ev_special_defense": 52,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 25
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Detect",
+            "move_3": "Taunt",
+            "move_4": "Aqua Jet"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Kyogre",
         "item": "Splash Plate",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 124,
-        "ev_special_attack": 68,
-        "ev_special_defense": 116,
-        "ev_speed": 12,
+        "tera_type": "Grass",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Water Spout",
-        "move_2": "Protect",
-        "move_3": "Ice Beam",
-        "move_4": "Origin Pulse"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 124,
+            "ev_special_attack": 68,
+            "ev_special_defense": 116,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Protect",
+            "move_3": "Ice Beam",
+            "move_4": "Origin Pulse"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Roaring Moon",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Flying",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 100,
-        "ev_special_attack": 100,
-        "ev_special_defense": 156,
-        "ev_speed": 132,
+        "tera_type": "Flying",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 29,
-        "move_1": "Acrobatics",
-        "move_2": "Knock Off",
-        "move_3": "Tailwind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 100,
+            "ev_special_attack": 100,
+            "ev_special_defense": 156,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 29
+        },
+        "moves": {
+            "move_1": "Acrobatics",
+            "move_2": "Knock Off",
+            "move_3": "Tailwind",
+            "move_4": "Protect"
+        }
     }
 ]

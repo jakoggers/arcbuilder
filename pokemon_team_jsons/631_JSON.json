@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Ho-Oh",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 220,
-        "ev_attack": 76,
-        "ev_defense": 148,
-        "ev_special_attack": 76,
-        "ev_special_defense": 4,
-        "ev_speed": 60,
+        "tera_type": "Electric",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Brave Bird",
-        "move_3": "Sacred Fire",
-        "move_4": "Tailwind"
+        "evs": {
+            "ev_hp": 220,
+            "ev_attack": 76,
+            "ev_defense": 148,
+            "ev_special_attack": 76,
+            "ev_special_defense": 4,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Brave Bird",
+            "move_3": "Sacred Fire",
+            "move_4": "Tailwind"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 44,
-        "ev_attack": 156,
-        "ev_defense": 12,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Snarl",
-        "move_3": "Draco Meteor",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 44,
+            "ev_attack": 156,
+            "ev_defense": 12,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Snarl",
+            "move_3": "Draco Meteor",
+            "move_4": "Volt Switch"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 12,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Coaching",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Coaching",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Iron Treads",
         "item": "Life Orb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 12,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 12,
-        "ev_speed": 228,
+        "tera_type": "Water",
         "nature": "Jolly",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 5,
-        "move_1": "Protect",
-        "move_2": "High Horsepower",
-        "move_3": "Knock Off",
-        "move_4": "Iron Head"
+        "evs": {
+            "ev_hp": 12,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 12,
+            "ev_speed": 228
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 5
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "High Horsepower",
+            "move_3": "Knock Off",
+            "move_4": "Iron Head"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 92,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 148,
-        "ev_speed": 108,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 21,
-        "move_1": "Drain Punch",
-        "move_2": "Low Kick",
-        "move_3": "Wild Charge",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 92,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 148,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 21
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Low Kick",
+            "move_3": "Wild Charge",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 212,
-        "ev_attack": 236,
-        "ev_defense": 180,
-        "ev_special_attack": 180,
-        "ev_special_defense": 116,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Light Screen",
-        "move_2": "Reflect",
-        "move_3": "Thunder Wave",
-        "move_4": "Foul Play"
+        "evs": {
+            "ev_hp": 212,
+            "ev_attack": 236,
+            "ev_defense": 180,
+            "ev_special_attack": 180,
+            "ev_special_defense": 116,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Light Screen",
+            "move_2": "Reflect",
+            "move_3": "Thunder Wave",
+            "move_4": "Foul Play"
+        }
     }
 ]

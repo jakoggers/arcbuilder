@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Spooky Plate",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Astral Barrage",
-        "move_3": "Psychic",
-        "move_4": "Substitute"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Astral Barrage",
+            "move_3": "Psychic",
+            "move_4": "Substitute"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 196,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 52,
+        "tera_type": "Dragon",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Body Press",
-        "move_3": "Crunch",
-        "move_4": "Wide Guard"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Body Press",
+            "move_3": "Crunch",
+            "move_4": "Wide Guard"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Chien-Pao",
         "item": "Focus Sash",
         "ability": "Sword of Ruin",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 4,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 252,
+        "tera_type": "Stellar",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 14,
-        "iv_speed": 2,
-        "move_1": "Protect",
-        "move_2": "Icicle Crash",
-        "move_3": "Sucker Punch",
-        "move_4": "Sacred Sword"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 14,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Icicle Crash",
+            "move_3": "Sucker Punch",
+            "move_4": "Sacred Sword"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Raging Bolt",
         "item": "Covert Cloak",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 68,
-        "ev_defense": 44,
-        "ev_special_attack": 4,
-        "ev_special_defense": 76,
-        "ev_speed": 68,
+        "tera_type": "Fairy",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Thunderclap",
-        "move_3": "Draco Meteor",
-        "move_4": "Electroweb"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 68,
+            "ev_defense": 44,
+            "ev_special_attack": 4,
+            "ev_special_defense": 76,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Thunderclap",
+            "move_3": "Draco Meteor",
+            "move_4": "Electroweb"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Ting-Lu",
         "item": "Rocky Helmet",
         "ability": "Vessel of Ruin",
         "level": 50,
-        "tera type": "Poison",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 132,
-        "ev_special_attack": 252,
-        "ev_special_defense": 116,
-        "ev_speed": 4,
+        "tera_type": "Poison",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ruination",
-        "move_2": "Bulldoze",
-        "move_3": "Whirlwind",
-        "move_4": "Stealth Rock"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 132,
+            "ev_special_attack": 252,
+            "ev_special_defense": 116,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ruination",
+            "move_2": "Bulldoze",
+            "move_3": "Whirlwind",
+            "move_4": "Stealth Rock"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Dondozo",
         "item": "Leftovers",
         "ability": "Unaware",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 44,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Wave Crash",
-        "move_3": "Yawn",
-        "move_4": "Fissure"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 44,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Wave Crash",
+            "move_3": "Yawn",
+            "move_4": "Fissure"
+        }
     }
 ]

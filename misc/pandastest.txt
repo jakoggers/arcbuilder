@@ -1,0 +1,29 @@
+import numpy as np
+import pandas as pd
+
+s = pd.Series([1, 3, 5, np.nan, 6, 8])
+dates = pd.date_range("20110101", periods=10)
+print(dates)
+
+df = pd.DataFrame(np.random.randn(10, 4), index=dates, columns=list("ABCD")) # value, Y, X
+print(df)
+
+# passing in a dictionary of objects where keys are the column lagbels and the values are the column values
+df2 = pd.DataFrame(
+	{
+		"A": 1.0,
+		"B": pd.Timestamp("20130102"),
+		"C": pd.Series(1, index=list(range(4)), dtype="float32"),
+		"D": np.array([3] * 4, dtype="int32"),
+		"E": pd.Categorical(["test", "train", "test", "train"]),
+		"F": "foo",
+	}
+)
+
+print(df2)
+print()
+#print(df.index)
+#print(df.columns)
+#pring(df.to_numpy)
+
+print(df["A"])

@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Terapagos-Terastal",
         "item": "Leftovers",
         "ability": "Tera Shell",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 172,
-        "ev_attack": 252,
-        "ev_defense": 52,
-        "ev_special_attack": 132,
-        "ev_special_defense": 4,
-        "ev_speed": 148,
+        "tera_type": "Stellar",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Tera Starstorm",
-        "move_2": "Earth Power",
-        "move_3": "Protect",
-        "move_4": "Calm Mind"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 252,
+            "ev_defense": 52,
+            "ev_special_attack": 132,
+            "ev_special_defense": 4,
+            "ev_speed": 148
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Tera Starstorm",
+            "move_2": "Earth Power",
+            "move_3": "Protect",
+            "move_4": "Calm Mind"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 188,
-        "ev_special_attack": 180,
-        "ev_special_defense": 60,
-        "ev_speed": 12,
+        "tera_type": "Bug",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 0,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Fake Out",
-        "move_3": "Parting Shot",
-        "move_4": "Will-O-Wisp"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 188,
+            "ev_special_attack": 180,
+            "ev_special_defense": 60,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 0,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Fake Out",
+            "move_3": "Parting Shot",
+            "move_4": "Will-O-Wisp"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 244,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 220,
-        "ev_speed": 4,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Grassy Glide",
-        "move_2": "Wood Hammer",
-        "move_3": "Fake Out",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 220,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Grassy Glide",
+            "move_2": "Wood Hammer",
+            "move_3": "Fake Out",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Ogerpon-Cornerstone (F)",
         "item": "Cornerstone Mask",
         "ability": "Sturdy",
         "level": 50,
-        "tera type": "Rock",
-        "ev_hp": 12,
-        "ev_attack": 188,
-        "ev_defense": 52,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Rock",
         "nature": "Jolly",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Spiky Shield",
-        "move_3": "Follow Me",
-        "move_4": "Power Whip"
+        "evs": {
+            "ev_hp": 12,
+            "ev_attack": 188,
+            "ev_defense": 52,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Spiky Shield",
+            "move_3": "Follow Me",
+            "move_4": "Power Whip"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Flutter Mane",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 108,
-        "ev_attack": 4,
-        "ev_defense": 188,
-        "ev_special_attack": 108,
-        "ev_special_defense": 116,
-        "ev_speed": 212,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Icy Wind",
-        "move_3": "Thunder Wave",
-        "move_4": "Taunt"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 4,
+            "ev_defense": 188,
+            "ev_special_attack": 108,
+            "ev_special_defense": 116,
+            "ev_speed": 212
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Icy Wind",
+            "move_3": "Thunder Wave",
+            "move_4": "Taunt"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 100,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Protect",
-        "move_3": "Will-O-Wisp",
-        "move_4": "Pollen Puff"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 100,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Protect",
+            "move_3": "Will-O-Wisp",
+            "move_4": "Pollen Puff"
+        }
     }
 ]

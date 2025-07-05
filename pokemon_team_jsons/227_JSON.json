@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Covert Cloak",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 140,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 100,
-        "ev_special_defense": 12,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Astral Barrage",
-        "move_2": "Draining Kiss",
-        "move_3": "Nasty Plot",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 100,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Draining Kiss",
+            "move_3": "Nasty Plot",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Clefairy",
         "item": "Eviolite",
         "ability": "Friend Guard",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 252,
-        "ev_defense": 252,
-        "ev_special_attack": 4,
-        "ev_special_defense": 12,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Relaxed",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Follow Me",
-        "move_2": "Helping Hand",
-        "move_3": "Life Dew",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 252,
+            "ev_defense": 252,
+            "ev_special_attack": 4,
+            "ev_special_defense": 12,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Follow Me",
+            "move_2": "Helping Hand",
+            "move_3": "Life Dew",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 196,
-        "ev_attack": 4,
-        "ev_defense": 172,
-        "ev_special_attack": 196,
-        "ev_special_defense": 116,
-        "ev_speed": 20,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spirit Break",
-        "move_2": "Reflect",
-        "move_3": "Light Screen",
-        "move_4": "Thunder Wave"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 4,
+            "ev_defense": 172,
+            "ev_special_attack": 196,
+            "ev_special_defense": 116,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spirit Break",
+            "move_2": "Reflect",
+            "move_3": "Light Screen",
+            "move_4": "Thunder Wave"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Incineroar",
         "item": "Safety Goggles",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 188,
-        "ev_special_attack": 4,
-        "ev_special_defense": 28,
-        "ev_speed": 44,
+        "tera_type": "Water",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Parting Shot",
-        "move_3": "Taunt",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 188,
+            "ev_special_attack": 4,
+            "ev_special_defense": 28,
+            "ev_speed": 44
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Parting Shot",
+            "move_3": "Taunt",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Koraidon",
         "item": "Clear Amulet",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 172,
-        "ev_attack": 196,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 68,
-        "ev_speed": 68,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Collision Course",
-        "move_2": "Flare Blitz",
-        "move_3": "Flame Charge",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 196,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 68,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Collision Course",
+            "move_2": "Flare Blitz",
+            "move_3": "Flame Charge",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 172,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 148,
-        "ev_speed": 148,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Wood Hammer",
-        "move_2": "Grassy Glide",
-        "move_3": "U-turn",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 148,
+            "ev_speed": 148
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "Grassy Glide",
+            "move_3": "U-turn",
+            "move_4": "Fake Out"
+        }
     }
 ]

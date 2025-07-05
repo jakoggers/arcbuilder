@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Kyogre",
         "item": "Choice Specs",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Water Spout",
-        "move_2": "Origin Pulse",
-        "move_3": "Hydro Pump",
-        "move_4": "Ice Beam"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Origin Pulse",
+            "move_3": "Hydro Pump",
+            "move_4": "Ice Beam"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
         "ability": "Intrepid Sword",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 68,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 156,
-        "ev_special_defense": 4,
-        "ev_speed": 180,
+        "tera_type": "Normal",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Behemoth Blade",
-        "move_2": "Play Rough",
-        "move_3": "Sacred Sword",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 68,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 156,
+            "ev_special_defense": 4,
+            "ev_speed": 180
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Behemoth Blade",
+            "move_2": "Play Rough",
+            "move_3": "Sacred Sword",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Iron Jugulis",
         "item": "Booster Energy",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 132,
-        "ev_speed": 124,
+        "tera_type": "Fire",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 6,
-        "move_1": "Snarl",
-        "move_2": "Hurricane",
-        "move_3": "Taunt",
-        "move_4": "Tailwind"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 132,
+            "ev_speed": 124
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 6
+        },
+        "moves": {
+            "move_1": "Snarl",
+            "move_2": "Hurricane",
+            "move_3": "Taunt",
+            "move_4": "Tailwind"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 84,
-        "ev_speed": 12,
+        "tera_type": "Fairy",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Drum Beating",
-        "move_2": "U-turn",
-        "move_3": "Grassy Glide",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 84,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drum Beating",
+            "move_2": "U-turn",
+            "move_3": "Grassy Glide",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Chien-Pao",
         "item": "Never-Melt Ice",
         "ability": "Sword of Ruin",
         "level": 50,
-        "tera type": "Ice",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ice",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Ice Spinner",
-        "move_2": "Ruination",
-        "move_3": "Ice Shard",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Ice Spinner",
+            "move_2": "Ruination",
+            "move_3": "Ice Shard",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Volcarona",
         "item": "Utility Umbrella",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 172,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 76,
+        "tera_type": "Grass",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 22,
-        "move_1": "Struggle Bug",
-        "move_2": "Rage Powder",
-        "move_3": "Morning Sun",
-        "move_4": "Rain Dance"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 172,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 76
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 22
+        },
+        "moves": {
+            "move_1": "Struggle Bug",
+            "move_2": "Rage Powder",
+            "move_3": "Morning Sun",
+            "move_4": "Rain Dance"
+        }
     }
 ]

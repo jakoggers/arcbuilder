@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Incineroar",
         "item": "Assault Vest",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 108,
-        "ev_attack": 0,
-        "ev_defense": 52,
-        "ev_special_attack": 212,
-        "ev_special_defense": 4,
-        "ev_speed": 132,
+        "tera_type": "Grass",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Flare Blitz",
-        "move_2": "Fake Out",
-        "move_3": "U-turn",
-        "move_4": "Knock Off"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 0,
+            "ev_defense": 52,
+            "ev_special_attack": 212,
+            "ev_special_defense": 4,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Fake Out",
+            "move_3": "U-turn",
+            "move_4": "Knock Off"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Miraidon",
         "item": "Choice Scarf",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 0,
-        "ev_special_defense": 180,
-        "ev_speed": 36,
+        "tera_type": "Electric",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Volt Switch",
-        "move_2": "Draco Meteor",
-        "move_3": "Electro Drift",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 0,
+            "ev_special_defense": 180,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Volt Switch",
+            "move_2": "Draco Meteor",
+            "move_3": "Electro Drift",
+            "move_4": "Snarl"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Iron Treads",
         "item": "Life Orb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 36,
-        "ev_special_attack": 0,
-        "ev_special_defense": 28,
-        "ev_speed": 76,
+        "tera_type": "Ghost",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "High Horsepower",
-        "move_2": "Steel Roller",
-        "move_3": "Protect",
-        "move_4": "Iron Head"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 36,
+            "ev_special_attack": 0,
+            "ev_special_defense": 28,
+            "ev_speed": 76
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "High Horsepower",
+            "move_2": "Steel Roller",
+            "move_3": "Protect",
+            "move_4": "Iron Head"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Calyrex-Ice",
         "item": "Never-Melt Ice",
         "ability": "As One",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 220,
-        "ev_attack": 0,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 28,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Glacial Lance",
-        "move_2": "Leech Seed",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 220,
+            "ev_attack": 0,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "Leech Seed",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Amoonguss",
         "item": "Mental Herb",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 0,
-        "ev_special_attack": 0,
-        "ev_special_defense": 0,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Spore",
-        "move_2": "Pollen Puff",
-        "move_3": "Rage Powder",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Pollen Puff",
+            "move_3": "Rage Powder",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Urshifu",
         "item": "Focus Sash",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 116,
-        "ev_attack": 0,
-        "ev_defense": 156,
-        "ev_special_attack": 156,
-        "ev_special_defense": 76,
-        "ev_speed": 4,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Wicked Blow",
-        "move_2": "Close Combat",
-        "move_3": "Sucker Punch",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 116,
+            "ev_attack": 0,
+            "ev_defense": 156,
+            "ev_special_attack": 156,
+            "ev_special_defense": 76,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Wicked Blow",
+            "move_2": "Close Combat",
+            "move_3": "Sucker Punch",
+            "move_4": "Protect"
+        }
     }
 ]

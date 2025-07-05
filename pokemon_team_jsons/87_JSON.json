@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 132,
-        "ev_defense": 48,
-        "ev_special_attack": 36,
-        "ev_special_defense": 56,
-        "ev_speed": 116,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Volt Switch",
-        "move_3": "Draco Meteor",
-        "move_4": "Dazzling Gleam"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 132,
+            "ev_defense": 48,
+            "ev_special_attack": 36,
+            "ev_special_defense": 56,
+            "ev_speed": 116
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Volt Switch",
+            "move_3": "Draco Meteor",
+            "move_4": "Dazzling Gleam"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Leftovers",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 196,
-        "ev_speed": 20,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "Leech Seed",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 196,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "Leech Seed",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 124,
-        "ev_special_attack": 60,
-        "ev_special_defense": 116,
-        "ev_speed": 12,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spirit Break",
-        "move_2": "Thunder Wave",
-        "move_3": "Reflect",
-        "move_4": "Light Screen"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 124,
+            "ev_special_attack": 60,
+            "ev_special_defense": 116,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spirit Break",
+            "move_2": "Thunder Wave",
+            "move_3": "Reflect",
+            "move_4": "Light Screen"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Incineroar",
         "item": "Assault Vest",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 180,
-        "ev_special_attack": 4,
-        "ev_special_defense": 68,
-        "ev_speed": 12,
+        "tera_type": "Bug",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "U-turn",
-        "move_2": "Knock Off",
-        "move_3": "Flare Blitz",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 180,
+            "ev_special_attack": 244,
+            "ev_special_defense": 68,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "U-turn",
+            "move_2": "Knock Off",
+            "move_3": "Flare Blitz",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Amoonguss",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 236,
-        "ev_special_attack": 4,
-        "ev_special_defense": 20,
-        "ev_speed": 92,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Spore",
-        "move_2": "Rage Powder",
-        "move_3": "Pollen Puff",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 236,
+            "ev_special_attack": 4,
+            "ev_special_defense": 20,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Rage Powder",
+            "move_3": "Pollen Puff",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Treads",
         "item": "Life Orb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 28,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 36,
-        "ev_speed": 188,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Steel Roller",
-        "move_2": "High Horsepower",
-        "move_3": "Knock Off",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 36,
+            "ev_speed": 188
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Steel Roller",
+            "move_2": "High Horsepower",
+            "move_3": "Knock Off",
+            "move_4": "Protect"
+        }
     }
 ]

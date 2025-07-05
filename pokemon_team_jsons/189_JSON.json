@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
         "ability": "As One",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 28,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 220,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Substitute",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 220,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Substitute",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
         "ability": "Mold Breaker",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 84,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 172,
+        "tera_type": "Fire",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Wood Hammer",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 84,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 172
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Wood Hammer",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Zamazenta",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 76,
-        "ev_attack": 236,
-        "ev_defense": 180,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 252,
+        "tera_type": "Dragon",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Body Press",
-        "move_2": "Heavy Slam",
-        "move_3": "Wide Guard",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 76,
+            "ev_attack": 236,
+            "ev_defense": 180,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Heavy Slam",
+            "move_3": "Wide Guard",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Raging Bolt",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 236,
-        "ev_attack": 252,
-        "ev_defense": 188,
-        "ev_special_attack": 196,
-        "ev_special_defense": 84,
-        "ev_speed": 156,
+        "tera_type": "Fairy",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Thunderbolt",
-        "move_2": "Dragon Pulse",
-        "move_3": "Thunderclap",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 252,
+            "ev_defense": 188,
+            "ev_special_attack": 196,
+            "ev_special_defense": 84,
+            "ev_speed": 156
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Thunderbolt",
+            "move_2": "Dragon Pulse",
+            "move_3": "Thunderclap",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Whimsicott",
         "item": "Covert Cloak",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 76,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 156,
-        "ev_speed": 20,
+        "tera_type": "Dark",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 22,
-        "iv_special_defense": 31,
-        "iv_speed": 2,
-        "move_1": "Moonblast",
-        "move_2": "Tailwind",
-        "move_3": "Fake Tears",
-        "move_4": "Encore"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 76,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 156,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 22,
+            "iv_special_defense": 31,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Tailwind",
+            "move_3": "Fake Tears",
+            "move_4": "Encore"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Chien-Pao",
         "item": "Focus Sash",
         "ability": "Sword of Ruin",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 116,
-        "ev_attack": 252,
-        "ev_defense": 76,
-        "ev_special_attack": 244,
-        "ev_special_defense": 4,
-        "ev_speed": 68,
+        "tera_type": "Ghost",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Ice Spinner",
-        "move_2": "Taunt",
-        "move_3": "Sucker Punch",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 116,
+            "ev_attack": 252,
+            "ev_defense": 76,
+            "ev_special_attack": 244,
+            "ev_special_defense": 4,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Ice Spinner",
+            "move_2": "Taunt",
+            "move_3": "Sucker Punch",
+            "move_4": "Protect"
+        }
     }
 ]

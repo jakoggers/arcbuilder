@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Toxapex",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 132,
-        "ev_special_attack": 252,
-        "ev_special_defense": 116,
-        "ev_speed": 4,
+        "tera_type": "Dark",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Wide Guard",
-        "move_2": "Toxic",
-        "move_3": "Baneful Bunker",
-        "move_4": "Haze"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 132,
+            "ev_special_attack": 252,
+            "ev_special_defense": 116,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wide Guard",
+            "move_2": "Toxic",
+            "move_3": "Baneful Bunker",
+            "move_4": "Haze"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Rhydon",
         "item": "Eviolite",
         "ability": "Lightning Rod",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 84,
-        "ev_attack": 76,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 172,
-        "ev_speed": 172,
+        "tera_type": "Fairy",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "High Horsepower",
-        "move_2": "Rock Slide",
-        "move_3": "Swords Dance",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 84,
+            "ev_attack": 76,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 172,
+            "ev_speed": 172
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "High Horsepower",
+            "move_2": "Rock Slide",
+            "move_3": "Swords Dance",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Ho-Oh",
         "item": "Leftovers",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 52,
-        "ev_special_attack": 36,
-        "ev_special_defense": 148,
-        "ev_speed": 20,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Tailwind",
-        "move_3": "Sacred Fire",
-        "move_4": "Brave Bird"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 52,
+            "ev_special_attack": 36,
+            "ev_special_defense": 148,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Tailwind",
+            "move_3": "Sacred Fire",
+            "move_4": "Brave Bird"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Walking Wake",
         "item": "Life Orb",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 76,
-        "ev_defense": 140,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 36,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Draco Meteor",
-        "move_3": "Snarl",
-        "move_4": "Hydro Steam"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 76,
+            "ev_defense": 140,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Draco Meteor",
+            "move_3": "Snarl",
+            "move_4": "Hydro Steam"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Koraidon",
         "item": "Assault Vest",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 196,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Fire",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Collision Course",
-        "move_2": "U-turn",
-        "move_3": "Flame Charge",
-        "move_4": "Flare Blitz"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Collision Course",
+            "move_2": "U-turn",
+            "move_3": "Flame Charge",
+            "move_4": "Flare Blitz"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Comfey",
         "item": "Sitrus Berry",
         "ability": "Triage",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 220,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 44,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Draining Kiss",
-        "move_2": "Synthesis",
-        "move_3": "Protect",
-        "move_4": "Floral Healing"
+        "evs": {
+            "ev_hp": 220,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 44
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Draining Kiss",
+            "move_2": "Synthesis",
+            "move_3": "Protect",
+            "move_4": "Floral Healing"
+        }
     }
 ]

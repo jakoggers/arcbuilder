@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Bayleef",
         "item": "Eviolite",
         "ability": "Leaf Guard",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 116,
-        "ev_defense": 156,
-        "ev_special_attack": 36,
-        "ev_special_defense": 108,
-        "ev_speed": 28,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Synthesis",
-        "move_2": "Protect",
-        "move_3": "Leech Seed",
-        "move_4": "Heal Pulse"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 116,
+            "ev_defense": 156,
+            "ev_special_attack": 36,
+            "ev_special_defense": 108,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Synthesis",
+            "move_2": "Protect",
+            "move_3": "Leech Seed",
+            "move_4": "Heal Pulse"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Eternatus",
         "item": "Covert Cloak",
         "ability": "Pressure",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 196,
-        "ev_attack": 180,
-        "ev_defense": 124,
-        "ev_special_attack": 180,
-        "ev_special_defense": 188,
-        "ev_speed": 4,
+        "tera_type": "Fairy",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Fire Spin",
-        "move_2": "Protect",
-        "move_3": "Cosmic Power",
-        "move_4": "Recover"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 180,
+            "ev_defense": 124,
+            "ev_special_attack": 180,
+            "ev_special_defense": 188,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Fire Spin",
+            "move_2": "Protect",
+            "move_3": "Cosmic Power",
+            "move_4": "Recover"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Lugia",
         "item": "Binding Band",
         "ability": "Pressure",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 188,
-        "ev_special_attack": 76,
-        "ev_special_defense": 68,
-        "ev_speed": 12,
+        "tera_type": "Normal",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Recover",
-        "move_3": "Psych Up",
-        "move_4": "Whirlpool"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 188,
+            "ev_special_attack": 76,
+            "ev_special_defense": 68,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Recover",
+            "move_3": "Psych Up",
+            "move_4": "Whirlpool"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Smeargle",
         "item": "Focus Sash",
         "ability": "Moody",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 156,
-        "ev_special_attack": 68,
-        "ev_special_defense": 100,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 26,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 25,
-        "move_1": "Spiky Shield",
-        "move_2": "Fake Out",
-        "move_3": "Follow Me",
-        "move_4": "Wide Guard"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 156,
+            "ev_special_attack": 68,
+            "ev_special_defense": 100,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 26,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 25
+        },
+        "moves": {
+            "move_1": "Spiky Shield",
+            "move_2": "Fake Out",
+            "move_3": "Follow Me",
+            "move_4": "Wide Guard"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Muk-Alola",
         "item": "Leftovers",
         "ability": "Power of Alchemy",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 220,
-        "ev_attack": 4,
-        "ev_defense": 100,
-        "ev_special_attack": 252,
-        "ev_special_defense": 92,
-        "ev_speed": 92,
+        "tera_type": "Grass",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Toxic",
-        "move_3": "Minimize",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 220,
+            "ev_attack": 4,
+            "ev_defense": 100,
+            "ev_special_attack": 252,
+            "ev_special_defense": 92,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Toxic",
+            "move_3": "Minimize",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Poison",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 132,
-        "ev_special_attack": 4,
-        "ev_special_defense": 124,
-        "ev_speed": 12,
+        "tera_type": "Poison",
         "nature": "Relaxed",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fake Out",
-        "move_2": "Metronome",
-        "move_3": "Reflect",
-        "move_4": "Light Screen"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 132,
+            "ev_special_attack": 4,
+            "ev_special_defense": 124,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Metronome",
+            "move_3": "Reflect",
+            "move_4": "Light Screen"
+        }
     }
 ]

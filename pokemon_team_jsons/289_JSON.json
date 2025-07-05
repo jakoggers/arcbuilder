@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 52,
-        "ev_special_attack": 116,
-        "ev_special_defense": 76,
-        "ev_speed": 12,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Draco Meteor",
-        "move_3": "Dazzling Gleam",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 52,
+            "ev_special_attack": 116,
+            "ev_special_defense": 76,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Draco Meteor",
+            "move_3": "Dazzling Gleam",
+            "move_4": "Volt Switch"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 236,
-        "ev_attack": 196,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 12,
-        "ev_speed": 60,
+        "tera_type": "Normal",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 196,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 12,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Volcarona",
         "item": "Sitrus Berry",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 220,
-        "ev_special_attack": 4,
-        "ev_special_defense": 60,
-        "ev_speed": 36,
+        "tera_type": "Dragon",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Overheat",
-        "move_2": "Struggle Bug",
-        "move_3": "Rage Powder",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 220,
+            "ev_special_attack": 4,
+            "ev_special_defense": 60,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Overheat",
+            "move_2": "Struggle Bug",
+            "move_3": "Rage Powder",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Urshifu-Rapid-Strike",
         "item": "Focus Sash",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 188,
-        "ev_attack": 252,
-        "ev_defense": 68,
-        "ev_special_attack": 180,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Stellar",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Aqua Jet",
-        "move_4": "Detect"
+        "evs": {
+            "ev_hp": 188,
+            "ev_attack": 252,
+            "ev_defense": 68,
+            "ev_special_attack": 180,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Aqua Jet",
+            "move_4": "Detect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Archaludon",
         "item": "Power Herb",
         "ability": "Sturdy",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 252,
-        "ev_attack": 172,
-        "ev_defense": 180,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Meteor Beam",
-        "move_2": "Draco Meteor",
-        "move_3": "Flash Cannon",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 172,
+            "ev_defense": 180,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Meteor Beam",
+            "move_2": "Draco Meteor",
+            "move_3": "Flash Cannon",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 76,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 236,
-        "ev_speed": 28,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Wild Charge",
-        "move_2": "Low Kick",
-        "move_3": "Drain Punch",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 76,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 236,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wild Charge",
+            "move_2": "Low Kick",
+            "move_3": "Drain Punch",
+            "move_4": "Fake Out"
+        }
     }
 ]

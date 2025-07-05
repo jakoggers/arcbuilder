@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Leftovers",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 100,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Relaxed",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Glacial Lance",
-        "move_2": "Leech Seed",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 100,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "Leech Seed",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Miraidon",
         "item": "Choice Scarf",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 140,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 108,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 28,
-        "move_1": "Electro Drift",
-        "move_2": "Volt Switch",
-        "move_3": "Draco Meteor",
-        "move_4": "Dazzling Gleam"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 28
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Volt Switch",
+            "move_3": "Draco Meteor",
+            "move_4": "Dazzling Gleam"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 84,
-        "ev_speed": 52,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Wood Hammer",
-        "move_2": "Grassy Glide",
-        "move_3": "U-turn",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 84,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "Grassy Glide",
+            "move_3": "U-turn",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 164,
-        "ev_special_attack": 20,
-        "ev_special_defense": 92,
-        "ev_speed": 12,
+        "tera_type": "Ghost",
         "nature": "Impish",
-        "iv_hp": 19,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Fake Out",
-        "move_3": "Will-O-Wisp",
-        "move_4": "Parting Shot"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 164,
+            "ev_special_attack": 20,
+            "ev_special_defense": 92,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Fake Out",
+            "move_3": "Will-O-Wisp",
+            "move_4": "Parting Shot"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Mandibuzz",
         "item": "Electric Seed",
         "ability": "Overcoat",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 252,
-        "ev_attack": 244,
-        "ev_defense": 204,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 4,
+        "tera_type": "Dragon",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Foul Play",
-        "move_2": "Snarl",
-        "move_3": "Taunt",
-        "move_4": "Roost"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 244,
+            "ev_defense": 204,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Foul Play",
+            "move_2": "Snarl",
+            "move_3": "Taunt",
+            "move_4": "Roost"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Glimmora",
         "item": "Focus Sash",
         "ability": "Toxic Debris",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 8,
-        "move_1": "Sludge Bomb",
-        "move_2": "Mortal Spin",
-        "move_3": "Power Gem",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 8
+        },
+        "moves": {
+            "move_1": "Sludge Bomb",
+            "move_2": "Mortal Spin",
+            "move_3": "Power Gem",
+            "move_4": "Spiky Shield"
+        }
     }
 ]

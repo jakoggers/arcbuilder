@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Assault Vest",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 44,
-        "ev_attack": 100,
-        "ev_defense": 20,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 212,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 8,
-        "move_1": "Electro Drift",
-        "move_2": "Draco Meteor",
-        "move_3": "Snarl",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 44,
+            "ev_attack": 100,
+            "ev_defense": 20,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 212
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 8
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Draco Meteor",
+            "move_3": "Snarl",
+            "move_4": "Volt Switch"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 108,
-        "ev_speed": 108,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Body Press",
-        "move_2": "Heavy Slam",
-        "move_3": "Iron Defense",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 108,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Heavy Slam",
+            "move_3": "Iron Defense",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Gouging Fire",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 252,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 22,
-        "move_1": "Breaking Swipe",
-        "move_2": "Burning Bulwark",
-        "move_3": "Leer",
-        "move_4": "Flare Blitz"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 252,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 22
+        },
+        "moves": {
+            "move_1": "Breaking Swipe",
+            "move_2": "Burning Bulwark",
+            "move_3": "Leer",
+            "move_4": "Flare Blitz"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Rillaboom",
         "item": "Miracle Seed",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 204,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 44,
+        "tera_type": "Fairy",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Grassy Glide",
-        "move_2": "Drum Beating",
-        "move_3": "Fake Out",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 204,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 44
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Grassy Glide",
+            "move_2": "Drum Beating",
+            "move_3": "Fake Out",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Kingambit",
         "item": "Muscle Band",
         "ability": "Defiant",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 76,
-        "ev_special_attack": 252,
-        "ev_special_defense": 140,
-        "ev_speed": 36,
+        "tera_type": "Dark",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Kowtow Cleave",
-        "move_3": "Sucker Punch",
-        "move_4": "Iron Head"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 76,
+            "ev_special_attack": 252,
+            "ev_special_defense": 140,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Kowtow Cleave",
+            "move_3": "Sucker Punch",
+            "move_4": "Iron Head"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ting-Lu",
         "item": "Electric Seed",
         "ability": "Vessel of Ruin",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 116,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ruination",
-        "move_2": "Body Press",
-        "move_3": "Whirlwind",
-        "move_4": "Stealth Rock"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 116,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ruination",
+            "move_2": "Body Press",
+            "move_3": "Whirlwind",
+            "move_4": "Stealth Rock"
+        }
     }
 ]

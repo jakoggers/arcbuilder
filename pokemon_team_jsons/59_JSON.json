@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Terapagos",
         "item": "Power Herb",
         "ability": "Tera Shift",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 204,
-        "ev_attack": 100,
-        "ev_defense": 20,
-        "ev_special_attack": 180,
-        "ev_special_defense": 4,
-        "ev_speed": 180,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Tera Starstorm",
-        "move_2": "Meteor Beam",
-        "move_3": "Earth Power",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 100,
+            "ev_defense": 20,
+            "ev_special_attack": 180,
+            "ev_special_defense": 4,
+            "ev_speed": 180
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Tera Starstorm",
+            "move_2": "Meteor Beam",
+            "move_3": "Earth Power",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 4,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 252,
+        "tera_type": "Normal",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Grimmsnarl",
         "item": "Covert Cloak",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 228,
-        "ev_attack": 4,
-        "ev_defense": 164,
-        "ev_special_attack": 4,
-        "ev_special_defense": 44,
-        "ev_speed": 68,
+        "tera_type": "Normal",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fake Out",
-        "move_2": "Spirit Break",
-        "move_3": "Fake Tears",
-        "move_4": "Thunder Wave"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 4,
+            "ev_defense": 164,
+            "ev_special_attack": 4,
+            "ev_special_defense": 44,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Spirit Break",
+            "move_3": "Fake Tears",
+            "move_4": "Thunder Wave"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Volcarona",
         "item": "Rocky Helmet",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 252,
-        "ev_defense": 20,
-        "ev_special_attack": 116,
-        "ev_special_defense": 68,
-        "ev_speed": 60,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Flamethrower",
-        "move_2": "Will-O-Wisp",
-        "move_3": "Rage Powder",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 252,
+            "ev_defense": 20,
+            "ev_special_attack": 116,
+            "ev_special_defense": 68,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Flamethrower",
+            "move_2": "Will-O-Wisp",
+            "move_3": "Rage Powder",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 44,
-        "ev_attack": 140,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 116,
-        "ev_speed": 204,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fake Out",
-        "move_2": "Low Kick",
-        "move_3": "Brick Break",
-        "move_4": "Heavy Slam"
+        "evs": {
+            "ev_hp": 44,
+            "ev_attack": 140,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 116,
+            "ev_speed": 204
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Low Kick",
+            "move_3": "Brick Break",
+            "move_4": "Heavy Slam"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Amoonguss",
         "item": "Occa Berry",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 36,
-        "ev_defense": 124,
-        "ev_special_attack": 4,
-        "ev_special_defense": 76,
-        "ev_speed": 28,
+        "tera_type": "Water",
         "nature": "Sassy",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Pollen Puff",
-        "move_2": "Rage Powder",
-        "move_3": "Spore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 36,
+            "ev_defense": 124,
+            "ev_special_attack": 4,
+            "ev_special_defense": 76,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Pollen Puff",
+            "move_2": "Rage Powder",
+            "move_3": "Spore",
+            "move_4": "Protect"
+        }
     }
 ]

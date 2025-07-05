@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 196,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 60,
-        "ev_speed": 220,
+        "tera_type": "Fairy",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 2,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Volt Switch",
-        "move_3": "Draco Meteor",
-        "move_4": "Dazzling Gleam"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 196,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 60,
+            "ev_speed": 220
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 2,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Volt Switch",
+            "move_3": "Draco Meteor",
+            "move_4": "Dazzling Gleam"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 4,
-        "ev_attack": 4,
-        "ev_defense": 252,
-        "ev_special_attack": 180,
-        "ev_special_defense": 252,
-        "ev_speed": 20,
+        "tera_type": "Fire",
         "nature": "Sassy",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "Protect",
-        "move_3": "Trick Room",
-        "move_4": "High Horsepower"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 4,
+            "ev_defense": 252,
+            "ev_special_attack": 180,
+            "ev_special_defense": 252,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "Protect",
+            "move_3": "Trick Room",
+            "move_4": "High Horsepower"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Ogerpon-Cornerstone (F)",
         "item": "Cornerstone Mask",
         "ability": "Sturdy",
         "level": 50,
-        "tera type": "Rock",
-        "ev_hp": 236,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 12,
+        "tera_type": "Rock",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Knock Off",
-        "move_3": "Spiky Shield",
-        "move_4": "Follow Me"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Knock Off",
+            "move_3": "Spiky Shield",
+            "move_4": "Follow Me"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 228,
-        "ev_attack": 92,
-        "ev_defense": 164,
-        "ev_special_attack": 124,
-        "ev_special_defense": 116,
-        "ev_speed": 52,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 14,
-        "iv_special_defense": 31,
-        "iv_speed": 21,
-        "move_1": "Low Kick",
-        "move_2": "Fake Out",
-        "move_3": "Wild Charge",
-        "move_4": "Drain Punch"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 92,
+            "ev_defense": 164,
+            "ev_special_attack": 124,
+            "ev_special_defense": 116,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 14,
+            "iv_special_defense": 31,
+            "iv_speed": 21
+        },
+        "moves": {
+            "move_1": "Low Kick",
+            "move_2": "Fake Out",
+            "move_3": "Wild Charge",
+            "move_4": "Drain Punch"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Farigiraf",
         "item": "Electric Seed",
         "ability": "Armor Tail",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 44,
-        "ev_special_attack": 196,
-        "ev_special_defense": 116,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Foul Play",
-        "move_2": "Helping Hand",
-        "move_3": "Psychic Noise",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 44,
+            "ev_special_attack": 196,
+            "ev_special_defense": 116,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Foul Play",
+            "move_2": "Helping Hand",
+            "move_3": "Psychic Noise",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Volcarona",
         "item": "Rocky Helmet",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 76,
-        "ev_attack": 180,
-        "ev_defense": 12,
-        "ev_special_attack": 180,
-        "ev_special_defense": 236,
-        "ev_speed": 52,
+        "tera_type": "Dragon",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fiery Dance",
-        "move_2": "Struggle Bug",
-        "move_3": "Rage Powder",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 76,
+            "ev_attack": 180,
+            "ev_defense": 12,
+            "ev_special_attack": 180,
+            "ev_special_defense": 236,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fiery Dance",
+            "move_2": "Struggle Bug",
+            "move_3": "Rage Powder",
+            "move_4": "Protect"
+        }
     }
 ]

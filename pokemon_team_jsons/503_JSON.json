@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Leftovers",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 100,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Relaxed",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Glacial Lance",
-        "move_3": "Leech Seed",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 100,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Glacial Lance",
+            "move_3": "Leech Seed",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Ho-Oh",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 220,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 36,
+        "tera_type": "Dragon",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Sacred Fire",
-        "move_3": "Recover",
-        "move_4": "Whirlwind"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 220,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Sacred Fire",
+            "move_3": "Recover",
+            "move_4": "Whirlwind"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Iron Valiant",
         "item": "Booster Energy",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Steel",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 84,
-        "ev_special_attack": 4,
-        "ev_special_defense": 28,
-        "ev_speed": 140,
+        "tera_type": "Steel",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Moonblast",
-        "move_3": "Coaching",
-        "move_4": "Disable"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 84,
+            "ev_special_attack": 4,
+            "ev_special_defense": 28,
+            "ev_speed": 140
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Moonblast",
+            "move_3": "Coaching",
+            "move_4": "Disable"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Ting-Lu",
         "item": "Choice Band",
         "ability": "Vessel of Ruin",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 148,
-        "ev_special_attack": 4,
-        "ev_special_defense": 252,
-        "ev_speed": 4,
+        "tera_type": "Fire",
         "nature": "Brave",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Stomping Tantrum",
-        "move_2": "Lash Out",
-        "move_3": "Rock Slide",
-        "move_4": "Earthquake"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 148,
+            "ev_special_attack": 4,
+            "ev_special_defense": 252,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Stomping Tantrum",
+            "move_2": "Lash Out",
+            "move_3": "Rock Slide",
+            "move_4": "Earthquake"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Toxapex",
         "item": "Mental Herb",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 108,
-        "ev_special_attack": 196,
-        "ev_special_defense": 148,
-        "ev_speed": 180,
+        "tera_type": "Dark",
         "nature": "Sassy",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Baneful Bunker",
-        "move_2": "Infestation",
-        "move_3": "Wide Guard",
-        "move_4": "Toxic Spikes"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 108,
+            "ev_special_attack": 196,
+            "ev_special_defense": 148,
+            "ev_speed": 180
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Baneful Bunker",
+            "move_2": "Infestation",
+            "move_3": "Wide Guard",
+            "move_4": "Toxic Spikes"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Glimmora",
         "item": "Assault Vest",
         "ability": "Toxic Debris",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 204,
-        "ev_special_attack": 252,
-        "ev_special_defense": 196,
-        "ev_speed": 60,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Sludge Bomb",
-        "move_2": "Power Gem",
-        "move_3": "Earth Power",
-        "move_4": "Mortal Spin"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 204,
+            "ev_special_attack": 252,
+            "ev_special_defense": 196,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Sludge Bomb",
+            "move_2": "Power Gem",
+            "move_3": "Earth Power",
+            "move_4": "Mortal Spin"
+        }
     }
 ]

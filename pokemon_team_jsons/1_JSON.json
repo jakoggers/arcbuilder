@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 0,
-        "ev_attack": 0,
-        "ev_defense": 0,
-        "ev_special_attack": 0,
-        "ev_special_defense": 0,
-        "ev_speed": 0,
+        "tera_type": "Fire",
         "nature": "",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Wood Hammer",
-        "move_2": "Grassy Glide",
-        "move_3": "U-turn",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 0,
+            "ev_attack": 0,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
+            "ev_speed": 0
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "Grassy Glide",
+            "move_3": "U-turn",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
         "ability": "As One",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 0,
-        "ev_attack": 0,
-        "ev_defense": 0,
-        "ev_special_attack": 0,
-        "ev_special_defense": 0,
-        "ev_speed": 0,
+        "tera_type": "Dark",
         "nature": "",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Nasty Plot",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 0,
+            "ev_attack": 0,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
+            "ev_speed": 0
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Nasty Plot",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Zamazenta",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 0,
-        "ev_attack": 0,
-        "ev_defense": 0,
-        "ev_special_attack": 0,
-        "ev_special_defense": 0,
-        "ev_speed": 0,
+        "tera_type": "Water",
         "nature": "",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Body Press",
-        "move_2": "Heavy Slam",
-        "move_3": "Wide Guard",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 0,
+            "ev_attack": 0,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
+            "ev_speed": 0
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Heavy Slam",
+            "move_3": "Wide Guard",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 0,
-        "ev_attack": 0,
-        "ev_defense": 0,
-        "ev_special_attack": 0,
-        "ev_special_defense": 0,
-        "ev_speed": 0,
+        "tera_type": "Water",
         "nature": "",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Knock Off",
-        "move_2": "Helping Hand",
-        "move_3": "Parting Shot",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 0,
+            "ev_attack": 0,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
+            "ev_speed": 0
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Helping Hand",
+            "move_3": "Parting Shot",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Raging Bolt",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 0,
-        "ev_attack": 0,
-        "ev_defense": 0,
-        "ev_special_attack": 0,
-        "ev_special_defense": 0,
-        "ev_speed": 0,
+        "tera_type": "Electric",
         "nature": "",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Thunderbolt",
-        "move_2": "Dragon Pulse",
-        "move_3": "Thunderclap",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 0,
+            "ev_attack": 0,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
+            "ev_speed": 0
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Thunderbolt",
+            "move_2": "Dragon Pulse",
+            "move_3": "Thunderclap",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
         "ability": "Mold Breaker",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 0,
-        "ev_attack": 0,
-        "ev_defense": 0,
-        "ev_special_attack": 0,
-        "ev_special_defense": 0,
-        "ev_speed": 0,
+        "tera_type": "Fire",
         "nature": "",
-        "iv_hp": 31,
-        "iv_attack": 31,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Grassy Glide",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 0,
+            "ev_attack": 0,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
+            "ev_speed": 0
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 31,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Grassy Glide",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     }
 ]

@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Kyogre",
         "item": "Choice Scarf",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Water Spout",
-        "move_2": "Ice Beam",
-        "move_3": "Origin Pulse",
-        "move_4": "Thunder"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Ice Beam",
+            "move_3": "Origin Pulse",
+            "move_4": "Thunder"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Never-Melt Ice",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 244,
-        "ev_attack": 132,
-        "ev_defense": 4,
-        "ev_special_attack": 44,
-        "ev_special_defense": 92,
-        "ev_speed": 36,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 0,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 132,
+            "ev_defense": 4,
+            "ev_special_attack": 44,
+            "ev_special_defense": 92,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 0,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Urshifu-Rapid-Strike",
         "item": "Focus Sash",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 52,
-        "ev_special_attack": 252,
-        "ev_special_defense": 212,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 29,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Aqua Jet",
-        "move_4": "Detect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 52,
+            "ev_special_attack": 252,
+            "ev_special_defense": 212,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 29
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Aqua Jet",
+            "move_4": "Detect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Raging Bolt",
         "item": "Assault Vest",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 148,
-        "ev_attack": 252,
-        "ev_defense": 148,
-        "ev_special_attack": 124,
-        "ev_special_defense": 4,
-        "ev_speed": 84,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 19,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 20,
-        "move_1": "Thunderbolt",
-        "move_2": "Draco Meteor",
-        "move_3": "Snarl",
-        "move_4": "Thunderclap"
+        "evs": {
+            "ev_hp": 148,
+            "ev_attack": 252,
+            "ev_defense": 148,
+            "ev_special_attack": 124,
+            "ev_special_defense": 4,
+            "ev_speed": 84
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 20
+        },
+        "moves": {
+            "move_1": "Thunderbolt",
+            "move_2": "Draco Meteor",
+            "move_3": "Snarl",
+            "move_4": "Thunderclap"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Indeedee-F",
         "item": "Safety Goggles",
         "ability": "Psychic Surge",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 252,
-        "ev_attack": 180,
-        "ev_defense": 252,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Dragon",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Psychic",
-        "move_2": "Follow Me",
-        "move_3": "Helping Hand",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 180,
+            "ev_defense": 252,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Psychic",
+            "move_2": "Follow Me",
+            "move_3": "Helping Hand",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Landorus",
         "item": "Life Orb",
         "ability": "Sheer Force",
         "level": 50,
-        "tera type": "Poison",
-        "ev_hp": 4,
-        "ev_attack": 236,
-        "ev_defense": 164,
-        "ev_special_attack": 252,
-        "ev_special_defense": 76,
-        "ev_speed": 252,
+        "tera_type": "Poison",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 4,
-        "iv_special_attack": 20,
-        "iv_special_defense": 4,
-        "iv_speed": 6,
-        "move_1": "Earth Power",
-        "move_2": "Sludge Bomb",
-        "move_3": "Sandsear Storm",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 236,
+            "ev_defense": 164,
+            "ev_special_attack": 252,
+            "ev_special_defense": 76,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 4,
+            "iv_special_attack": 20,
+            "iv_special_defense": 4,
+            "iv_speed": 6
+        },
+        "moves": {
+            "move_1": "Earth Power",
+            "move_2": "Sludge Bomb",
+            "move_3": "Sandsear Storm",
+            "move_4": "Protect"
+        }
     }
 ]

@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Raging Bolt",
         "item": "Magnet",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 220,
-        "ev_attack": 124,
-        "ev_defense": 84,
-        "ev_special_attack": 156,
-        "ev_special_defense": 4,
-        "ev_speed": 44,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Protect",
-        "move_2": "Thunderbolt",
-        "move_3": "Dragon Pulse",
-        "move_4": "Thunderclap"
+        "evs": {
+            "ev_hp": 220,
+            "ev_attack": 124,
+            "ev_defense": 84,
+            "ev_special_attack": 156,
+            "ev_special_defense": 4,
+            "ev_speed": 44
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Thunderbolt",
+            "move_3": "Dragon Pulse",
+            "move_4": "Thunderclap"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Chien-Pao",
         "item": "Life Orb",
         "ability": "Sword of Ruin",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 132,
-        "ev_special_defense": 100,
-        "ev_speed": 36,
+        "tera_type": "Stellar",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Protect",
-        "move_2": "Ice Spinner",
-        "move_3": "Sucker Punch",
-        "move_4": "Taunt"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 132,
+            "ev_special_defense": 100,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Ice Spinner",
+            "move_3": "Sucker Punch",
+            "move_4": "Taunt"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 108,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 236,
-        "ev_special_defense": 180,
-        "ev_speed": 60,
+        "tera_type": "Normal",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Astral Barrage",
-        "move_3": "Psychic",
-        "move_4": "Encore"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 236,
+            "ev_special_defense": 180,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Astral Barrage",
+            "move_3": "Psychic",
+            "move_4": "Encore"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Ting-Lu",
         "item": "Assault Vest",
         "ability": "Vessel of Ruin",
         "level": 57,
-        "tera type": "Fairy",
-        "ev_hp": 236,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 244,
-        "ev_special_defense": 116,
-        "ev_speed": 236,
+        "tera_type": "Fairy",
         "nature": "Relaxed",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 25,
-        "move_1": "Sand Tomb",
-        "move_2": "Ruination",
-        "move_3": "Snarl",
-        "move_4": "Stone Edge"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 244,
+            "ev_special_defense": 116,
+            "ev_speed": 236
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 25
+        },
+        "moves": {
+            "move_1": "Sand Tomb",
+            "move_2": "Ruination",
+            "move_3": "Snarl",
+            "move_4": "Stone Edge"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Amoonguss",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 95,
-        "tera type": "Water",
-        "ev_hp": 236,
-        "ev_attack": 116,
-        "ev_defense": 36,
-        "ev_special_attack": 68,
-        "ev_special_defense": 68,
-        "ev_speed": 100,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 15,
-        "move_1": "Protect",
-        "move_2": "Spore",
-        "move_3": "Pollen Puff",
-        "move_4": "Rage Powder"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 116,
+            "ev_defense": 36,
+            "ev_special_attack": 68,
+            "ev_special_defense": 68,
+            "ev_speed": 100
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 15
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Spore",
+            "move_3": "Pollen Puff",
+            "move_4": "Rage Powder"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Zamazenta",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 76,
-        "ev_speed": 60,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Body Press",
-        "move_3": "Iron Head",
-        "move_4": "Wide Guard"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 76,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Body Press",
+            "move_3": "Iron Head",
+            "move_4": "Wide Guard"
+        }
     }
 ]

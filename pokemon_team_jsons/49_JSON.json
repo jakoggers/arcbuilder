@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Dirk (Koraidon)",
         "item": "Life Orb",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 100,
-        "ev_special_attack": 20,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fire",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 26,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Flare Blitz",
-        "move_2": "Close Combat",
-        "move_3": "Flame Charge",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 100,
+            "ev_special_attack": 20,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 26,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Close Combat",
+            "move_3": "Flame Charge",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Stripe (Incineroar)",
         "item": "Safety Goggles",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 236,
-        "ev_attack": 4,
-        "ev_defense": 36,
-        "ev_special_attack": 196,
-        "ev_special_defense": 156,
-        "ev_speed": 76,
+        "tera_type": "Bug",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Taunt",
-        "move_2": "Knock Off",
-        "move_3": "Fake Out",
-        "move_4": "Parting Shot"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 4,
+            "ev_defense": 36,
+            "ev_special_attack": 196,
+            "ev_special_defense": 156,
+            "ev_speed": 76
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Taunt",
+            "move_2": "Knock Off",
+            "move_3": "Fake Out",
+            "move_4": "Parting Shot"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Cuervo (Volcarona)",
         "item": "Grassy Seed",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 132,
-        "ev_attack": 4,
-        "ev_defense": 100,
-        "ev_special_attack": 36,
-        "ev_special_defense": 4,
-        "ev_speed": 236,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Quiver Dance",
-        "move_2": "Fiery Dance",
-        "move_3": "Giga Drain",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 132,
+            "ev_attack": 4,
+            "ev_defense": 100,
+            "ev_special_attack": 36,
+            "ev_special_defense": 4,
+            "ev_speed": 236
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Quiver Dance",
+            "move_2": "Fiery Dance",
+            "move_3": "Giga Drain",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Boopsey (Flutter Mane)",
         "item": "Focus Sash",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 236,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Stellar",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Shadow Ball",
-        "move_3": "Icy Wind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Shadow Ball",
+            "move_3": "Icy Wind",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Nebby (Lunala)",
         "item": "Leftovers",
         "ability": "Shadow Shield",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 220,
-        "ev_attack": 252,
-        "ev_defense": 84,
-        "ev_special_attack": 100,
-        "ev_special_defense": 4,
-        "ev_speed": 100,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moongeist Beam",
-        "move_2": "Moonblast",
-        "move_3": "Calm Mind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 220,
+            "ev_attack": 252,
+            "ev_defense": 84,
+            "ev_special_attack": 100,
+            "ev_special_defense": 4,
+            "ev_speed": 100
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moongeist Beam",
+            "move_2": "Moonblast",
+            "move_3": "Calm Mind",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Amaretto (Rillaboom) (M)",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 196,
-        "ev_attack": 60,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 92,
-        "ev_speed": 156,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fake Out",
-        "move_2": "Wood Hammer",
-        "move_3": "U-turn",
-        "move_4": "Grassy Glide"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 60,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 92,
+            "ev_speed": 156
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Wood Hammer",
+            "move_3": "U-turn",
+            "move_4": "Grassy Glide"
+        }
     }
 ]

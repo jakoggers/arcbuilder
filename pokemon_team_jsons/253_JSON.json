@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Safety Goggles",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 100,
-        "ev_speed": 36,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 100,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Terapagos-Stellar",
         "item": "Power Herb",
         "ability": "Teraform Zero",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 100,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 148,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Tera Starstorm",
-        "move_2": "Meteor Beam",
-        "move_3": "Earth Power",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 100,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 148
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Tera Starstorm",
+            "move_2": "Meteor Beam",
+            "move_3": "Earth Power",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Smeargle",
         "item": "Focus Sash",
         "ability": "Moody",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 100,
-        "ev_attack": 68,
-        "ev_defense": 108,
-        "ev_special_attack": 252,
-        "ev_special_defense": 44,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Spore",
-        "move_2": "Follow Me",
-        "move_3": "Decorate",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 100,
+            "ev_attack": 68,
+            "ev_defense": 108,
+            "ev_special_attack": 252,
+            "ev_special_defense": 44,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Follow Me",
+            "move_3": "Decorate",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Ogerpon-Cornerstone (F)",
         "item": "Cornerstone Mask",
         "ability": "Sturdy",
         "level": 50,
-        "tera type": "Rock",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 252,
-        "ev_special_attack": 100,
-        "ev_special_defense": 20,
-        "ev_speed": 252,
+        "tera_type": "Rock",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 28,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Follow Me",
-        "move_3": "Spiky Shield",
-        "move_4": "Power Whip"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 252,
+            "ev_special_attack": 100,
+            "ev_special_defense": 20,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 28
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Follow Me",
+            "move_3": "Spiky Shield",
+            "move_4": "Power Whip"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 108,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 252,
-        "ev_special_defense": 108,
-        "ev_speed": 28,
+        "tera_type": "Ghost",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Aqua Jet",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 252,
+            "ev_special_defense": 108,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Aqua Jet",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Tornadus",
         "item": "Rocky Helmet",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 76,
-        "ev_defense": 204,
-        "ev_special_attack": 36,
-        "ev_special_defense": 4,
-        "ev_speed": 12,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Tailwind",
-        "move_2": "Bleakwind Storm",
-        "move_3": "Dark Pulse",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 76,
+            "ev_defense": 204,
+            "ev_special_attack": 36,
+            "ev_special_defense": 4,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Tailwind",
+            "move_2": "Bleakwind Storm",
+            "move_3": "Dark Pulse",
+            "move_4": "Protect"
+        }
     }
 ]

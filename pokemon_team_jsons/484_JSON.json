@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Bright Powder",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 196,
-        "ev_defense": 212,
-        "ev_special_attack": 20,
-        "ev_special_defense": 60,
-        "ev_speed": 20,
+        "tera_type": "Water",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 196,
+            "ev_defense": 212,
+            "ev_special_attack": 20,
+            "ev_special_defense": 60,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Necrozma-Dawn-Wings",
         "item": "Power Herb",
         "ability": "Prism Armor",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 180,
-        "ev_defense": 76,
-        "ev_special_attack": 180,
-        "ev_special_defense": 4,
-        "ev_speed": 84,
+        "tera_type": "Water",
         "nature": "Quiet",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moongeist Beam",
-        "move_2": "Expanding Force",
-        "move_3": "Meteor Beam",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 180,
+            "ev_defense": 76,
+            "ev_special_attack": 180,
+            "ev_special_defense": 4,
+            "ev_speed": 84
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moongeist Beam",
+            "move_2": "Expanding Force",
+            "move_3": "Meteor Beam",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Indeedee-F",
         "item": "Eject Button",
         "ability": "Psychic Surge",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 12,
-        "ev_defense": 196,
-        "ev_special_attack": 4,
-        "ev_special_defense": 60,
-        "ev_speed": 52,
+        "tera_type": "Fairy",
         "nature": "Relaxed",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Dazzling Gleam",
-        "move_2": "Follow Me",
-        "move_3": "Helping Hand",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 12,
+            "ev_defense": 196,
+            "ev_special_attack": 4,
+            "ev_special_defense": 60,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Dazzling Gleam",
+            "move_2": "Follow Me",
+            "move_3": "Helping Hand",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Alcremie",
         "item": "Iron Ball",
         "ability": "Sweet Veil",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 196,
-        "ev_special_attack": 116,
-        "ev_special_defense": 60,
-        "ev_speed": 36,
+        "tera_type": "Grass",
         "nature": "Relaxed",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Dazzling Gleam",
-        "move_2": "Decorate",
-        "move_3": "Encore",
-        "move_4": "Light Screen"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 196,
+            "ev_special_attack": 116,
+            "ev_special_defense": 60,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Dazzling Gleam",
+            "move_2": "Decorate",
+            "move_3": "Encore",
+            "move_4": "Light Screen"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Gallade",
         "item": "Scope Lens",
         "ability": "Sharpness",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 196,
-        "ev_defense": 20,
-        "ev_special_attack": 60,
-        "ev_special_defense": 36,
-        "ev_speed": 20,
+        "tera_type": "Grass",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Psycho Cut",
-        "move_2": "Sacred Sword",
-        "move_3": "Leaf Blade",
-        "move_4": "Wide Guard"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 196,
+            "ev_defense": 20,
+            "ev_special_attack": 60,
+            "ev_special_defense": 36,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Psycho Cut",
+            "move_2": "Sacred Sword",
+            "move_3": "Leaf Blade",
+            "move_4": "Wide Guard"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ursaluna",
         "item": "Flame Orb",
         "ability": "Guts",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 100,
-        "ev_special_defense": 116,
-        "ev_speed": 108,
+        "tera_type": "Fairy",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Facade",
-        "move_2": "Headlong Rush",
-        "move_3": "Brick Break",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 100,
+            "ev_special_defense": 116,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Facade",
+            "move_2": "Headlong Rush",
+            "move_3": "Brick Break",
+            "move_4": "Protect"
+        }
     }
 ]

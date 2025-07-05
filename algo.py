@@ -13,7 +13,7 @@ def get_pokemon_info(name):
 	else:
 		print(f"Failed. Code: {response.status_code}")
 
-pokemon_name = "Miraidon"
+pokemon_name = "ursaluna"
 pokemon_info = get_pokemon_info(pokemon_name)
 
 if pokemon_info:
@@ -27,6 +27,9 @@ if pokemon_info:
 	print(f"Num of Abilities: {len(pokemon_info["abilities"])}")
 	for pokemon_ability in range(len(pokemon_info["abilities"])):
 		print(f"Type: {pokemon_info["abilities"][pokemon_ability]['ability']['name']}")
+
+	for move in range(len(pokemon_info["moves"])):
+		print(f"Move {move}: {pokemon_info["moves"][move]['move']['name']}") # check n
 
 	print()
 

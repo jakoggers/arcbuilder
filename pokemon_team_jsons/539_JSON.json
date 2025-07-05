@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 172,
-        "ev_special_attack": 252,
-        "ev_special_defense": 12,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Draco Meteor",
-        "move_3": "Dazzling Gleam",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 172,
+            "ev_special_attack": 252,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Draco Meteor",
+            "move_3": "Dazzling Gleam",
+            "move_4": "Volt Switch"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Ho-Oh",
         "item": "Clear Amulet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 204,
-        "ev_attack": 76,
-        "ev_defense": 156,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 68,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Sacred Fire",
-        "move_2": "Brave Bird",
-        "move_3": "Tailwind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 76,
+            "ev_defense": 156,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Sacred Fire",
+            "move_2": "Brave Bird",
+            "move_3": "Tailwind",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Iron Treads",
         "item": "Life Orb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ground",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ground",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "High Horsepower",
-        "move_2": "Steel Roller",
-        "move_3": "Earthquake",
-        "move_4": "Knock Off"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "High Horsepower",
+            "move_2": "Steel Roller",
+            "move_3": "Earthquake",
+            "move_4": "Knock Off"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Farigiraf",
         "item": "Electric Seed",
         "ability": "Armor Tail",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 228,
-        "ev_attack": 220,
-        "ev_defense": 164,
-        "ev_special_attack": 4,
-        "ev_special_defense": 84,
-        "ev_speed": 28,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Psychic",
-        "move_2": "Foul Play",
-        "move_3": "Helping Hand",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 220,
+            "ev_defense": 164,
+            "ev_special_attack": 4,
+            "ev_special_defense": 84,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Psychic",
+            "move_2": "Foul Play",
+            "move_3": "Helping Hand",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Bundle",
         "item": "Focus Sash",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 116,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Freeze-Dry",
-        "move_2": "Icy Wind",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 116,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Freeze-Dry",
+            "move_2": "Icy Wind",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 84,
-        "ev_attack": 172,
-        "ev_defense": 12,
-        "ev_special_attack": 252,
-        "ev_special_defense": 236,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Low Kick",
-        "move_2": "Wild Charge",
-        "move_3": "Drain Punch",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 84,
+            "ev_attack": 172,
+            "ev_defense": 12,
+            "ev_special_attack": 252,
+            "ev_special_defense": 236,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Low Kick",
+            "move_2": "Wild Charge",
+            "move_3": "Drain Punch",
+            "move_4": "Fake Out"
+        }
     }
 ]

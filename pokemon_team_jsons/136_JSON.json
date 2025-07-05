@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 180,
-        "ev_attack": 124,
-        "ev_defense": 4,
-        "ev_special_attack": 212,
-        "ev_special_defense": 4,
-        "ev_speed": 108,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Electro Drift",
-        "move_2": "Volt Switch",
-        "move_3": "Draco Meteor",
-        "move_4": "Dazzling Gleam"
+        "evs": {
+            "ev_hp": 180,
+            "ev_attack": 124,
+            "ev_defense": 4,
+            "ev_special_attack": 212,
+            "ev_special_defense": 4,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Volt Switch",
+            "move_3": "Draco Meteor",
+            "move_4": "Dazzling Gleam"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Chien-Pao",
         "item": "Focus Sash",
         "ability": "Sword of Ruin",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 244,
-        "ev_special_attack": 252,
-        "ev_special_defense": 12,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Icicle Crash",
-        "move_2": "Crunch",
-        "move_3": "Sucker Punch",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 244,
+            "ev_special_attack": 252,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Icicle Crash",
+            "move_2": "Crunch",
+            "move_3": "Sucker Punch",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 12,
-        "ev_attack": 76,
-        "ev_defense": 244,
-        "ev_special_attack": 4,
-        "ev_special_defense": 132,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Body Press",
-        "move_2": "Heavy Slam",
-        "move_3": "Wide Guard",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 12,
+            "ev_attack": 76,
+            "ev_defense": 244,
+            "ev_special_attack": 4,
+            "ev_special_defense": 132,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Heavy Slam",
+            "move_3": "Wide Guard",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Volcarona",
         "item": "Leftovers",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 228,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 36,
-        "ev_special_defense": 4,
-        "ev_speed": 236,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Flamethrower",
-        "move_2": "Giga Drain",
-        "move_3": "Quiver Dance",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 36,
+            "ev_special_defense": 4,
+            "ev_speed": 236
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Flamethrower",
+            "move_2": "Giga Drain",
+            "move_3": "Quiver Dance",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 92,
-        "ev_attack": 244,
-        "ev_defense": 44,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 84,
+        "tera_type": "Bug",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Drain Punch",
-        "move_2": "Low Kick",
-        "move_3": "Wild Charge",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 92,
+            "ev_attack": 244,
+            "ev_defense": 44,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 84
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Low Kick",
+            "move_3": "Wild Charge",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Farigiraf",
         "item": "Electric Seed",
         "ability": "Armor Tail",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 228,
-        "ev_attack": 76,
-        "ev_defense": 164,
-        "ev_special_attack": 180,
-        "ev_special_defense": 116,
-        "ev_speed": 148,
+        "tera_type": "Dark",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Psychic",
-        "move_2": "Foul Play",
-        "move_3": "Trick Room",
-        "move_4": "Helping Hand"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 76,
+            "ev_defense": 164,
+            "ev_special_attack": 180,
+            "ev_special_defense": 116,
+            "ev_speed": 148
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Psychic",
+            "move_2": "Foul Play",
+            "move_3": "Trick Room",
+            "move_4": "Helping Hand"
+        }
     }
 ]

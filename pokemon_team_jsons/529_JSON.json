@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Muk-Alola",
         "item": "Leftovers",
         "ability": "Power of Alchemy",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 100,
-        "ev_special_defense": 236,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Toxic",
-        "move_2": "Protect",
-        "move_3": "Minimize",
-        "move_4": "Knock Off"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 100,
+            "ev_special_defense": 236,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Toxic",
+            "move_2": "Protect",
+            "move_3": "Minimize",
+            "move_4": "Knock Off"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Smeargle",
         "item": "Focus Sash",
         "ability": "Moody",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 172,
-        "ev_attack": 156,
-        "ev_defense": 164,
-        "ev_special_attack": 44,
-        "ev_special_defense": 4,
-        "ev_speed": 124,
+        "tera_type": "Ghost",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Follow Me",
-        "move_2": "Spore",
-        "move_3": "Fake Out",
-        "move_4": "Decorate"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 156,
+            "ev_defense": 164,
+            "ev_special_attack": 44,
+            "ev_special_defense": 4,
+            "ev_speed": 124
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Follow Me",
+            "move_2": "Spore",
+            "move_3": "Fake Out",
+            "move_4": "Decorate"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Rillaboom (M)",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 28,
-        "ev_attack": 76,
-        "ev_defense": 148,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Seed Bomb",
-        "move_2": "Grassy Glide",
-        "move_3": "Snarl",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 76,
+            "ev_defense": 148,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Seed Bomb",
+            "move_2": "Grassy Glide",
+            "move_3": "Snarl",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 4,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Dragon",
         "nature": "Timid",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Crunch",
-        "move_2": "Body Press",
-        "move_3": "Wide Guard",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Crunch",
+            "move_2": "Body Press",
+            "move_3": "Wide Guard",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 204,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 252,
-        "ev_speed": 12,
+        "tera_type": "Normal",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Trick Room",
-        "move_2": "Glacial Lance",
-        "move_3": "Protect",
-        "move_4": "High Horsepower"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 252,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Trick Room",
+            "move_2": "Glacial Lance",
+            "move_3": "Protect",
+            "move_4": "High Horsepower"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Roaring Moon",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 12,
+        "tera_type": "Ghost",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 29,
-        "move_1": "Knock Off",
-        "move_2": "Taunt",
-        "move_3": "Tailwind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 29
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Taunt",
+            "move_3": "Tailwind",
+            "move_4": "Protect"
+        }
     }
 ]

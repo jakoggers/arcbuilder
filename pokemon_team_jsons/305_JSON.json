@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Amoonguss (F)",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 59,
-        "tera type": "Dark",
-        "ev_hp": 244,
-        "ev_attack": 68,
-        "ev_defense": 188,
-        "ev_special_attack": 228,
-        "ev_special_defense": 76,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Calm",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Spore",
-        "move_2": "Rage Powder",
-        "move_3": "Pollen Puff",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 68,
+            "ev_defense": 188,
+            "ev_special_attack": 228,
+            "ev_special_defense": 76,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Rage Powder",
+            "move_3": "Pollen Puff",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Leftovers",
         "ability": "As One (Glastrier)",
         "level": 80,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 100,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 4,
+        "tera_type": "Fairy",
         "nature": "Relaxed",
-        "iv_hp": 31,
-        "iv_attack": 18,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Glacial Lance",
-        "move_2": "Leech Seed",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 100,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 18,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "Leech Seed",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Kyogre",
         "item": "Mystic Water",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 52,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 236,
-        "ev_special_defense": 4,
-        "ev_speed": 212,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Water Spout",
-        "move_2": "Origin Pulse",
-        "move_3": "Hydro Pump",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 52,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 236,
+            "ev_special_defense": 4,
+            "ev_speed": 212
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Origin Pulse",
+            "move_3": "Hydro Pump",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 57,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 108,
-        "ev_special_attack": 252,
-        "ev_special_defense": 116,
-        "ev_speed": 28,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 14,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 25,
-        "move_1": "Spirit Break",
-        "move_2": "Sucker Punch",
-        "move_3": "Reflect",
-        "move_4": "Light Screen"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 108,
+            "ev_special_attack": 252,
+            "ev_special_defense": 116,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 14,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 25
+        },
+        "moves": {
+            "move_1": "Spirit Break",
+            "move_2": "Sucker Punch",
+            "move_3": "Reflect",
+            "move_4": "Light Screen"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Flutter Mane",
         "item": "Focus Sash",
         "ability": "Protosynthesis",
         "level": 86,
-        "tera type": "Fairy",
-        "ev_hp": 4,
-        "ev_attack": 116,
-        "ev_defense": 244,
-        "ev_special_attack": 252,
-        "ev_special_defense": 76,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 15,
-        "move_1": "Icy Wind",
-        "move_2": "Shadow Ball",
-        "move_3": "Moonblast",
-        "move_4": "Taunt"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 116,
+            "ev_defense": 244,
+            "ev_special_attack": 252,
+            "ev_special_defense": 76,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 15
+        },
+        "moves": {
+            "move_1": "Icy Wind",
+            "move_2": "Shadow Ball",
+            "move_3": "Moonblast",
+            "move_4": "Taunt"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Basculegion",
         "item": "Life Orb",
         "ability": "Swift Swim",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 100,
-        "ev_attack": 252,
-        "ev_defense": 28,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 108,
+        "tera_type": "Ghost",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Wave Crash",
-        "move_2": "Last Respects",
-        "move_3": "Aqua Jet",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 100,
+            "ev_attack": 252,
+            "ev_defense": 28,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wave Crash",
+            "move_2": "Last Respects",
+            "move_3": "Aqua Jet",
+            "move_4": "Protect"
+        }
     }
 ]

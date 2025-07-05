@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Choice Specs",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 188,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 156,
-        "ev_special_defense": 4,
-        "ev_speed": 148,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Astral Barrage",
-        "move_2": "Expanding Force",
-        "move_3": "Shadow Ball",
-        "move_4": "Psychic"
+        "evs": {
+            "ev_hp": 188,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 156,
+            "ev_special_defense": 4,
+            "ev_speed": 148
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Expanding Force",
+            "move_3": "Shadow Ball",
+            "move_4": "Psychic"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Indeedee",
         "item": "Focus Sash",
         "ability": "Psychic Surge",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 244,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 236,
+        "tera_type": "Water",
         "nature": "Quiet",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Expanding Force",
-        "move_2": "Dazzling Gleam",
-        "move_3": "After You",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 244,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 236
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Expanding Force",
+            "move_2": "Dazzling Gleam",
+            "move_3": "After You",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 164,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 108,
-        "ev_speed": 36,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 2,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Aqua Jet",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 164,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 108,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Aqua Jet",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Whimsicott",
         "item": "Life Orb",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 28,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 188,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Dazzling Gleam",
-        "move_3": "Grass Knot",
-        "move_4": "Tailwind"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 188
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Dazzling Gleam",
+            "move_3": "Grass Knot",
+            "move_4": "Tailwind"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Tsareena",
         "item": "Iron Ball",
         "ability": "Sweet Veil",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Power Whip",
-        "move_2": "Triple Axel",
-        "move_3": "Fling",
-        "move_4": "Low Kick"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Power Whip",
+            "move_2": "Triple Axel",
+            "move_3": "Fling",
+            "move_4": "Low Kick"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Kyogre",
         "item": "Power Lens",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 148,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Quiet",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Water Spout",
-        "move_2": "Origin Pulse",
-        "move_3": "Thunder",
-        "move_4": "Ice Beam"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 148,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Origin Pulse",
+            "move_3": "Thunder",
+            "move_4": "Ice Beam"
+        }
     }
 ]

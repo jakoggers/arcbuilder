@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Covert Cloak",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 28,
-        "ev_special_attack": 196,
-        "ev_special_defense": 20,
-        "ev_speed": 124,
+        "tera_type": "Electric",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Dragon Pulse",
-        "move_3": "Parabolic Charge",
-        "move_4": "Calm Mind"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 28,
+            "ev_special_attack": 196,
+            "ev_special_defense": 20,
+            "ev_speed": 124
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Dragon Pulse",
+            "move_3": "Parabolic Charge",
+            "move_4": "Calm Mind"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Koraidon",
         "item": "Clear Amulet",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 124,
-        "ev_attack": 196,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 52,
-        "ev_speed": 132,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Flare Blitz",
-        "move_3": "Collision Course",
-        "move_4": "Flame Charge"
+        "evs": {
+            "ev_hp": 124,
+            "ev_attack": 196,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 52,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Flare Blitz",
+            "move_3": "Collision Course",
+            "move_4": "Flame Charge"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Volcarona",
         "item": "Electric Seed",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 212,
-        "ev_attack": 252,
-        "ev_defense": 196,
-        "ev_special_attack": 252,
-        "ev_special_defense": 68,
-        "ev_speed": 100,
+        "tera_type": "Grass",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Fiery Dance",
-        "move_3": "Giga Drain",
-        "move_4": "Quiver Dance"
+        "evs": {
+            "ev_hp": 212,
+            "ev_attack": 252,
+            "ev_defense": 196,
+            "ev_special_attack": 252,
+            "ev_special_defense": 68,
+            "ev_speed": 100
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Fiery Dance",
+            "move_3": "Giga Drain",
+            "move_4": "Quiver Dance"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 132,
-        "ev_special_attack": 252,
-        "ev_special_defense": 116,
-        "ev_speed": 12,
+        "tera_type": "Ghost",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 28,
-        "move_1": "Light Screen",
-        "move_2": "Reflect",
-        "move_3": "Spirit Break",
-        "move_4": "Sucker Punch"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 132,
+            "ev_special_attack": 252,
+            "ev_special_defense": 116,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 28
+        },
+        "moves": {
+            "move_1": "Light Screen",
+            "move_2": "Reflect",
+            "move_3": "Spirit Break",
+            "move_4": "Sucker Punch"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Incineroar",
         "item": "Assault Vest",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 252,
-        "ev_attack": 140,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 28,
-        "ev_speed": 84,
+        "tera_type": "Bug",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Flare Blitz",
-        "move_3": "U-turn",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 140,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 28,
+            "ev_speed": 84
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Flare Blitz",
+            "move_3": "U-turn",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Walking Wake",
         "item": "Life Orb",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 76,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 236,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Hydro Steam",
-        "move_2": "Draco Meteor",
-        "move_3": "Weather Ball",
-        "move_4": "Dragon Cheer"
+        "evs": {
+            "ev_hp": 76,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 236
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Hydro Steam",
+            "move_2": "Draco Meteor",
+            "move_3": "Weather Ball",
+            "move_4": "Dragon Cheer"
+        }
     }
 ]

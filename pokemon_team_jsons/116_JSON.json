@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 80,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 196,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Astral Barrage",
-        "move_2": "Protect",
-        "move_3": "Psychic",
-        "move_4": "Encore"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 196,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Protect",
+            "move_3": "Psychic",
+            "move_4": "Encore"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Zamazenta",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 196,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 156,
-        "ev_special_defense": 4,
-        "ev_speed": 60,
+        "tera_type": "Dragon",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Body Press",
-        "move_2": "Wide Guard",
-        "move_3": "Protect",
-        "move_4": "Iron Head"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 156,
+            "ev_special_defense": 4,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Body Press",
+            "move_2": "Wide Guard",
+            "move_3": "Protect",
+            "move_4": "Iron Head"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
         "ability": "Sturdy",
         "level": 70,
-        "tera type": "Rock",
-        "ev_hp": 108,
-        "ev_attack": 84,
-        "ev_defense": 148,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 164,
+        "tera_type": "Rock",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Spiky Shield",
-        "move_3": "Follow Me",
-        "move_4": "Knock Off"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 84,
+            "ev_defense": 148,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 164
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Spiky Shield",
+            "move_3": "Follow Me",
+            "move_4": "Knock Off"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Chien-Pao",
         "item": "Life Orb",
         "ability": "Sword of Ruin",
         "level": 60,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 116,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Ice Spinner",
-        "move_2": "Protect",
-        "move_3": "Sucker Punch",
-        "move_4": "Taunt"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 116,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Ice Spinner",
+            "move_2": "Protect",
+            "move_3": "Sucker Punch",
+            "move_4": "Taunt"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Raging Bolt",
         "item": "Magnet",
         "ability": "Protosynthesis",
         "level": 75,
-        "tera type": "Electric",
-        "ev_hp": 196,
-        "ev_attack": 236,
-        "ev_defense": 36,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 4,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Thunderclap",
-        "move_2": "Thunderbolt",
-        "move_3": "Protect",
-        "move_4": "Dragon Pulse"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 236,
+            "ev_defense": 36,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Thunderclap",
+            "move_2": "Thunderbolt",
+            "move_3": "Protect",
+            "move_4": "Dragon Pulse"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Amoonguss (M)",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 69,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 244,
-        "ev_defense": 180,
-        "ev_special_attack": 116,
-        "ev_special_defense": 76,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Calm",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spore",
-        "move_2": "Rage Powder",
-        "move_3": "Protect",
-        "move_4": "Pollen Puff"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 244,
+            "ev_defense": 180,
+            "ev_special_attack": 116,
+            "ev_special_defense": 76,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Rage Powder",
+            "move_3": "Protect",
+            "move_4": "Pollen Puff"
+        }
     }
 ]

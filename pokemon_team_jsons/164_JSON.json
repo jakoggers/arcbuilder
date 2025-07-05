@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 108,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 228,
-        "ev_special_defense": 20,
-        "ev_speed": 108,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "U-turn",
-        "move_2": "Wood Hammer",
-        "move_3": "Grassy Glide",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 108,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 228,
+            "ev_special_defense": 20,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "U-turn",
+            "move_2": "Wood Hammer",
+            "move_3": "Grassy Glide",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Urshifu",
         "item": "Focus Sash",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Stellar",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Wicked Blow",
-        "move_2": "Sucker Punch",
-        "move_3": "Close Combat",
-        "move_4": "Detect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Wicked Blow",
+            "move_2": "Sucker Punch",
+            "move_3": "Close Combat",
+            "move_4": "Detect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Calyrex-Shadow",
         "item": "Choice Specs",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Psychic",
-        "move_2": "Energy Ball",
-        "move_3": "Shadow Ball",
-        "move_4": "Astral Barrage"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Psychic",
+            "move_2": "Energy Ball",
+            "move_3": "Shadow Ball",
+            "move_4": "Astral Barrage"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 204,
-        "ev_attack": 4,
-        "ev_defense": 236,
-        "ev_special_attack": 196,
-        "ev_special_defense": 28,
-        "ev_speed": 36,
+        "tera_type": "Dragon",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Heavy Slam",
-        "move_2": "Body Press",
-        "move_3": "Iron Defense",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 4,
+            "ev_defense": 236,
+            "ev_special_attack": 196,
+            "ev_special_defense": 28,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Heavy Slam",
+            "move_2": "Body Press",
+            "move_3": "Iron Defense",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Chi-Yu",
         "item": "Choice Scarf",
         "ability": "Beads of Ruin",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 22,
-        "iv_special_defense": 31,
-        "iv_speed": 2,
-        "move_1": "Heat Wave",
-        "move_2": "Dark Pulse",
-        "move_3": "Snarl",
-        "move_4": "Flamethrower"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 22,
+            "iv_special_defense": 31,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Heat Wave",
+            "move_2": "Dark Pulse",
+            "move_3": "Snarl",
+            "move_4": "Flamethrower"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Whimsicott",
         "item": "Mental Herb",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 212,
-        "ev_speed": 36,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Tailwind",
-        "move_3": "Helping Hand",
-        "move_4": "Charm"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 212,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Tailwind",
+            "move_3": "Helping Hand",
+            "move_4": "Charm"
+        }
     }
 ]

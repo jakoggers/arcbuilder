@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Ho-Oh",
         "item": "Clear Amulet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 140,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 164,
-        "ev_special_defense": 4,
-        "ev_speed": 196,
+        "tera_type": "Grass",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Brave Bird",
-        "move_2": "Protect",
-        "move_3": "Sacred Fire",
-        "move_4": "Tailwind"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 164,
+            "ev_special_defense": 4,
+            "ev_speed": 196
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Brave Bird",
+            "move_2": "Protect",
+            "move_3": "Sacred Fire",
+            "move_4": "Tailwind"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Koraidon",
         "item": "Loaded Dice",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 84,
-        "ev_speed": 52,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 0,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Flare Blitz",
-        "move_2": "Scale Shot",
-        "move_3": "Collision Course",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 84,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 0,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Scale Shot",
+            "move_3": "Collision Course",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 68,
-        "ev_special_attack": 36,
-        "ev_special_defense": 116,
-        "ev_speed": 68,
+        "tera_type": "Water",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Will-O-Wisp",
-        "move_2": "Knock Off",
-        "move_3": "Fake Out",
-        "move_4": "Parting Shot"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 68,
+            "ev_special_attack": 36,
+            "ev_special_defense": 116,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Will-O-Wisp",
+            "move_2": "Knock Off",
+            "move_3": "Fake Out",
+            "move_4": "Parting Shot"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Flutter Mane",
         "item": "Focus Sash",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 220,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 28,
+        "tera_type": "Stellar",
         "nature": "Bold",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Icy Wind",
-        "move_2": "Shadow Ball",
-        "move_3": "Protect",
-        "move_4": "Moonblast"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 220,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Icy Wind",
+            "move_2": "Shadow Ball",
+            "move_3": "Protect",
+            "move_4": "Moonblast"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Raging Bolt",
         "item": "Assault Vest",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 4,
-        "ev_attack": 196,
-        "ev_defense": 12,
-        "ev_special_attack": 36,
-        "ev_special_defense": 44,
-        "ev_speed": 252,
+        "tera_type": "Electric",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Thunderclap",
-        "move_2": "Draco Meteor",
-        "move_3": "Electroweb",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 196,
+            "ev_defense": 12,
+            "ev_special_attack": 36,
+            "ev_special_defense": 44,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Thunderclap",
+            "move_2": "Draco Meteor",
+            "move_3": "Electroweb",
+            "move_4": "Snarl"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Treads",
         "item": "Life Orb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 236,
-        "ev_attack": 252,
-        "ev_defense": 108,
-        "ev_special_attack": 4,
-        "ev_special_defense": 148,
-        "ev_speed": 12,
+        "tera_type": "Ghost",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Iron Head",
-        "move_2": "Knock Off",
-        "move_3": "Protect",
-        "move_4": "High Horsepower"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 252,
+            "ev_defense": 108,
+            "ev_special_attack": 4,
+            "ev_special_defense": 148,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Iron Head",
+            "move_2": "Knock Off",
+            "move_3": "Protect",
+            "move_4": "High Horsepower"
+        }
     }
 ]

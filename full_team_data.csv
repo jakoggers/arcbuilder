@@ -1,0 +1,13 @@
+name,item,ability,level,tera_type,nature,evs.ev_hp,evs.ev_attack,evs.ev_defense,evs.ev_special_attack,evs.ev_special_defense,evs.ev_speed,ivs.iv_hp,ivs.iv_attack,ivs.iv_defense,ivs.iv_special_attack,ivs.iv_special_defense,ivs.iv_speed,moves.move_1,moves.move_2,moves.move_3,moves.move_4
+Miraidon,Choice Scarf,Hadron Engine,50,Electric,Timid,108,0,52,212,4,132,31,31,31,31,31,31,Electro Drift,Draco Meteor,Snarl,Volt Switch
+Volcarona,Electric Seed,Flame Body,50,Grass,Adamant,252,36,4,0,180,36,31,31,31,31,31,31,Protect,Quiver Dance,Fiery Dance,Giga Drain
+Ogerpon,Covert Cloak,Defiant,50,Grass,Adamant,252,116,36,0,28,76,31,31,31,31,31,31,Spiky Shield,Ivy Cudgel,Taunt,Encore
+Zamazenta,Rusted Shield,Dauntless Shield,50,Water,Modest,220,0,4,252,4,28,31,0,31,31,31,31,Protect,Body Press,Iron Head,Wide Guard
+Rillaboom,Assault Vest,Grassy Surge,50,Water,Adamant,4,252,0,0,0,252,31,31,31,31,31,31,Grassy Glide,Fake Out,Wood Hammer,U-turn
+Chien-Pao,Focus Sash,Sword of Ruin,50,Ghost,Modest,116,0,156,156,76,4,31,0,31,31,31,31,Protect,Sucker Punch,Icicle Crash,Crunch
+Terapagos,Electric Seed,Tera Shift,50,Stellar,Timid,108,0,52,212,4,132,31,31,31,31,31,31,Tera Starstorm,Earth Power,Calm Mind,Protect
+Miraidon,Assault Vest,Hadron Engine,50,Electric,Adamant,252,36,4,0,180,36,31,31,31,31,31,31,Electro Drift,Draco Meteor,Volt Switch,Snarl
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,50,Water,Adamant,252,116,36,0,28,76,31,31,31,31,31,31,Surging Strikes,Close Combat,U-turn,Rain Dance
+Incineroar,Rocky Helmet,Intimidate,50,Water,Modest,220,0,4,252,4,28,31,0,31,31,31,31,Flare Blitz,Knock Off,Parting Shot,Fake Out
+Sinistcha,Focus Sash,Hospitality,50,Fire,Adamant,4,252,0,0,0,252,31,31,31,31,31,31,Shadow Ball,Rage Powder,Strength Sap,Protect
+Iron Treads,Choice Band,Quark Drive,50,Bug,Modest,116,0,156,156,76,4,31,0,31,31,31,31,High Horsepower,Iron Head,Ice Spinner,Steel Roller

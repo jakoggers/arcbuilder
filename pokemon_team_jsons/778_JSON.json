@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Groudon",
         "item": "Clear Amulet",
         "ability": "Drought",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 76,
-        "ev_defense": 44,
-        "ev_special_attack": 196,
-        "ev_special_defense": 108,
-        "ev_speed": 28,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Precipice Blades",
-        "move_2": "Heat Crash",
-        "move_3": "Protect",
-        "move_4": "High Horsepower"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 76,
+            "ev_defense": 44,
+            "ev_special_attack": 196,
+            "ev_special_defense": 108,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Precipice Blades",
+            "move_2": "Heat Crash",
+            "move_3": "Protect",
+            "move_4": "High Horsepower"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Lunala",
         "item": "Power Herb",
         "ability": "Shadow Shield",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 228,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 100,
-        "ev_special_defense": 116,
-        "ev_speed": 52,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 0,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moongeist Beam",
-        "move_2": "Meteor Beam",
-        "move_3": "Wide Guard",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 100,
+            "ev_special_defense": 116,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 0,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moongeist Beam",
+            "move_2": "Meteor Beam",
+            "move_3": "Wide Guard",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Raging Bolt",
         "item": "Assault Vest",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 148,
-        "ev_attack": 252,
-        "ev_defense": 148,
-        "ev_special_attack": 100,
-        "ev_special_defense": 52,
-        "ev_speed": 60,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Volt Switch",
-        "move_2": "Thunderclap",
-        "move_3": "Draco Meteor",
-        "move_4": "Electroweb"
+        "evs": {
+            "ev_hp": 148,
+            "ev_attack": 252,
+            "ev_defense": 148,
+            "ev_special_attack": 100,
+            "ev_special_defense": 52,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Volt Switch",
+            "move_2": "Thunderclap",
+            "move_3": "Draco Meteor",
+            "move_4": "Electroweb"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 188,
-        "ev_special_attack": 252,
-        "ev_special_defense": 68,
-        "ev_speed": 252,
+        "tera_type": "Bug",
         "nature": "Relaxed",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 24,
-        "move_1": "Fake Out",
-        "move_2": "Knock Off",
-        "move_3": "Will-O-Wisp",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 188,
+            "ev_special_attack": 252,
+            "ev_special_defense": 68,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 24
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Knock Off",
+            "move_3": "Will-O-Wisp",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Iron Valiant",
         "item": "Booster Energy",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ground",
-        "ev_hp": 124,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 204,
-        "ev_speed": 172,
+        "tera_type": "Ground",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Spirit Break",
-        "move_2": "Wide Guard",
-        "move_3": "Coaching",
-        "move_4": "Icy Wind"
+        "evs": {
+            "ev_hp": 124,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 204,
+            "ev_speed": 172
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Spirit Break",
+            "move_2": "Wide Guard",
+            "move_3": "Coaching",
+            "move_4": "Icy Wind"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
         "ability": "Mold Breaker",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 228,
-        "ev_attack": 12,
-        "ev_defense": 244,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 20,
+        "tera_type": "Fire",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 4,
-        "iv_special_attack": 20,
-        "iv_special_defense": 4,
-        "iv_speed": 29,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Horn Leech",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 12,
+            "ev_defense": 244,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 4,
+            "iv_special_attack": 20,
+            "iv_special_defense": 4,
+            "iv_speed": 29
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Horn Leech",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     }
 ]

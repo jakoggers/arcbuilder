@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Assault Vest",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 116,
-        "ev_attack": 164,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 132,
+        "tera_type": "Electric",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Dazzling Gleam",
-        "move_2": "Draco Meteor",
-        "move_3": "Electro Drift",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 116,
+            "ev_attack": 164,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Dazzling Gleam",
+            "move_2": "Draco Meteor",
+            "move_3": "Electro Drift",
+            "move_4": "Volt Switch"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Lunala",
         "item": "Electric Seed",
         "ability": "Shadow Shield",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 132,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Moongeist Beam",
-        "move_3": "Trick Room",
-        "move_4": "Wide Guard"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Moongeist Beam",
+            "move_3": "Trick Room",
+            "move_4": "Wide Guard"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 132,
-        "ev_special_attack": 252,
-        "ev_special_defense": 76,
-        "ev_speed": 44,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Fake Out",
-        "move_2": "Spirit Break",
-        "move_3": "Light Screen",
-        "move_4": "Reflect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 132,
+            "ev_special_attack": 252,
+            "ev_special_defense": 76,
+            "ev_speed": 44
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Spirit Break",
+            "move_3": "Light Screen",
+            "move_4": "Reflect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Ursaluna",
         "item": "Flame Orb",
         "ability": "Guts",
         "level": 50,
-        "tera type": "Poison",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 108,
-        "ev_speed": 12,
+        "tera_type": "Poison",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Facade",
-        "move_2": "Headlong Rush",
-        "move_3": "Earthquake",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 108,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Facade",
+            "move_2": "Headlong Rush",
+            "move_3": "Earthquake",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Ice",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 188,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ice",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Ice Spinner",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 188,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Ice Spinner",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 60,
-        "ev_special_attack": 252,
-        "ev_special_defense": 188,
-        "ev_speed": 4,
+        "tera_type": "Bug",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fake Out",
-        "move_2": "Flare Blitz",
-        "move_3": "Knock Off",
-        "move_4": "Parting Shot"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 60,
+            "ev_special_attack": 252,
+            "ev_special_defense": 188,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Flare Blitz",
+            "move_3": "Knock Off",
+            "move_4": "Parting Shot"
+        }
     }
 ]

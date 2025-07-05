@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Assault Vest",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 228,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 12,
-        "ev_speed": 164,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Seed Bomb",
-        "move_4": "Crunch"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 12,
+            "ev_speed": 164
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Seed Bomb",
+            "move_4": "Crunch"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Farigiraf",
         "item": "Mental Herb",
         "ability": "Armor Tail",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 228,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 76,
-        "ev_special_defense": 124,
-        "ev_speed": 92,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 31,
-        "move_1": "Foul Play",
-        "move_2": "Trick Room",
-        "move_3": "Imprison",
-        "move_4": "Helping Hand"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 76,
+            "ev_special_defense": 124,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 31
+        },
+        "moves": {
+            "move_1": "Foul Play",
+            "move_2": "Trick Room",
+            "move_3": "Imprison",
+            "move_4": "Helping Hand"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Smeargle",
         "item": "Focus Sash",
         "ability": "Moody",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spore",
-        "move_2": "Decorate",
-        "move_3": "Follow Me",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Decorate",
+            "move_3": "Follow Me",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Maushold-Four",
         "item": "Wide Lens",
         "ability": "Technician",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 76,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 252,
+        "tera_type": "Normal",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Population Bomb",
-        "move_2": "Bite",
-        "move_3": "Follow Me",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 76,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Population Bomb",
+            "move_2": "Bite",
+            "move_3": "Follow Me",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Kyogre",
         "item": "Choice Scarf",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 252,
-        "ev_defense": 116,
-        "ev_special_attack": 252,
-        "ev_special_defense": 92,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Water Spout",
-        "move_2": "Origin Pulse",
-        "move_3": "Hydro Pump",
-        "move_4": "Thunder"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 252,
+            "ev_defense": 116,
+            "ev_special_attack": 252,
+            "ev_special_defense": 92,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Origin Pulse",
+            "move_3": "Hydro Pump",
+            "move_4": "Thunder"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Volcarona",
         "item": "Rocky Helmet",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 60,
-        "ev_defense": 252,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Flamethrower",
-        "move_2": "Rage Powder",
-        "move_3": "Tailwind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 60,
+            "ev_defense": 252,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Flamethrower",
+            "move_2": "Rage Powder",
+            "move_3": "Tailwind",
+            "move_4": "Protect"
+        }
     }
 ]

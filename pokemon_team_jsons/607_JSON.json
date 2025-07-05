@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 68,
-        "ev_special_attack": 44,
-        "ev_special_defense": 140,
-        "ev_speed": 252,
+        "tera_type": "Fire",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "High Horsepower",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 68,
+            "ev_special_attack": 44,
+            "ev_special_defense": 140,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "High Horsepower",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 4,
-        "ev_attack": 236,
-        "ev_defense": 124,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Draco Meteor",
-        "move_3": "Dazzling Gleam",
-        "move_4": "Volt Switch"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 236,
+            "ev_defense": 124,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Draco Meteor",
+            "move_3": "Dazzling Gleam",
+            "move_4": "Volt Switch"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Okidogi",
         "item": "Assault Vest",
         "ability": "Guard Dog",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 100,
-        "ev_attack": 172,
-        "ev_defense": 4,
-        "ev_special_attack": 44,
-        "ev_special_defense": 140,
-        "ev_speed": 92,
+        "tera_type": "Dark",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Drain Punch",
-        "move_2": "Poison Jab",
-        "move_3": "Knock Off",
-        "move_4": "Upper Hand"
+        "evs": {
+            "ev_hp": 100,
+            "ev_attack": 172,
+            "ev_defense": 4,
+            "ev_special_attack": 44,
+            "ev_special_defense": 140,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Poison Jab",
+            "move_3": "Knock Off",
+            "move_4": "Upper Hand"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Farigiraf",
         "item": "Electric Seed",
         "ability": "Armor Tail",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 236,
-        "ev_special_attack": 4,
-        "ev_special_defense": 116,
-        "ev_speed": 12,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Psychic",
-        "move_2": "Foul Play",
-        "move_3": "Helping Hand",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 236,
+            "ev_special_attack": 4,
+            "ev_special_defense": 116,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Psychic",
+            "move_2": "Foul Play",
+            "move_3": "Helping Hand",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Volcarona",
         "item": "Rocky Helmet",
         "ability": "Flame Body",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 244,
-        "ev_special_attack": 124,
-        "ev_special_defense": 4,
-        "ev_speed": 12,
+        "tera_type": "Grass",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fiery Dance",
-        "move_2": "Rage Powder",
-        "move_3": "Will-O-Wisp",
-        "move_4": "Tailwind"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 244,
+            "ev_special_attack": 124,
+            "ev_special_defense": 4,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fiery Dance",
+            "move_2": "Rage Powder",
+            "move_3": "Will-O-Wisp",
+            "move_4": "Tailwind"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Flutter Mane",
         "item": "Booster Energy",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 20,
-        "ev_attack": 252,
-        "ev_defense": 196,
-        "ev_special_attack": 156,
-        "ev_special_defense": 4,
-        "ev_speed": 132,
+        "tera_type": "Normal",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Shadow Ball",
-        "move_3": "Icy Wind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 20,
+            "ev_attack": 252,
+            "ev_defense": 196,
+            "ev_special_attack": 156,
+            "ev_special_defense": 4,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Shadow Ball",
+            "move_3": "Icy Wind",
+            "move_4": "Protect"
+        }
     }
 ]

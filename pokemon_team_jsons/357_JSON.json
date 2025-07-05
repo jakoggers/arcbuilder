@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Gouging Fire",
         "item": "Clear Amulet",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 124,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 12,
-        "ev_speed": 252,
+        "tera_type": "Grass",
         "nature": "Jolly",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Burning Bulwark",
-        "move_2": "Breaking Swipe",
-        "move_3": "Flare Blitz",
-        "move_4": "Dragon Dance"
+        "evs": {
+            "ev_hp": 124,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 12,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Burning Bulwark",
+            "move_2": "Breaking Swipe",
+            "move_3": "Flare Blitz",
+            "move_4": "Dragon Dance"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Groudon",
         "item": "Choice Band",
         "ability": "Drought",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 76,
-        "ev_defense": 12,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 20,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 16,
-        "move_1": "Precipice Blades",
-        "move_2": "Thunder Punch",
-        "move_3": "Fire Punch",
-        "move_4": "High Horsepower"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 76,
+            "ev_defense": 12,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 16
+        },
+        "moves": {
+            "move_1": "Precipice Blades",
+            "move_2": "Thunder Punch",
+            "move_3": "Fire Punch",
+            "move_4": "High Horsepower"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Flutter Mane",
         "item": "Choice Specs",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 156,
-        "ev_attack": 4,
-        "ev_defense": 180,
-        "ev_special_attack": 92,
-        "ev_special_defense": 12,
-        "ev_speed": 68,
+        "tera_type": "Fairy",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Dazzling Gleam",
-        "move_2": "Shadow Ball",
-        "move_3": "Moonblast",
-        "move_4": "Icy Wind"
+        "evs": {
+            "ev_hp": 156,
+            "ev_attack": 4,
+            "ev_defense": 180,
+            "ev_special_attack": 92,
+            "ev_special_defense": 12,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Dazzling Gleam",
+            "move_2": "Shadow Ball",
+            "move_3": "Moonblast",
+            "move_4": "Icy Wind"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 244,
-        "ev_attack": 36,
-        "ev_defense": 36,
-        "ev_special_attack": 180,
-        "ev_special_defense": 76,
-        "ev_speed": 116,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 25,
-        "move_1": "Wood Hammer",
-        "move_2": "Grassy Glide",
-        "move_3": "Fake Out",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 36,
+            "ev_defense": 36,
+            "ev_special_attack": 180,
+            "ev_special_defense": 76,
+            "ev_speed": 116
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 25
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "Grassy Glide",
+            "move_3": "Fake Out",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Grimmsnarl",
         "item": "Light Clay",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 244,
-        "ev_attack": 244,
-        "ev_defense": 44,
-        "ev_special_attack": 68,
-        "ev_special_defense": 220,
-        "ev_speed": 4,
+        "tera_type": "Ghost",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Light Screen",
-        "move_2": "Reflect",
-        "move_3": "Foul Play",
-        "move_4": "Thunder Wave"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 244,
+            "ev_defense": 44,
+            "ev_special_attack": 68,
+            "ev_special_defense": 220,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Light Screen",
+            "move_2": "Reflect",
+            "move_3": "Foul Play",
+            "move_4": "Thunder Wave"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Dragon",
-        "ev_hp": 172,
-        "ev_attack": 4,
-        "ev_defense": 244,
-        "ev_special_attack": 252,
-        "ev_special_defense": 76,
-        "ev_speed": 12,
+        "tera_type": "Dragon",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 29,
-        "move_1": "Wide Guard",
-        "move_2": "Behemoth Bash",
-        "move_3": "Body Press",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 4,
+            "ev_defense": 244,
+            "ev_special_attack": 252,
+            "ev_special_defense": 76,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 29
+        },
+        "moves": {
+            "move_1": "Wide Guard",
+            "move_2": "Behemoth Bash",
+            "move_3": "Body Press",
+            "move_4": "Protect"
+        }
     }
 ]

@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 84,
-        "ev_speed": 52,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Glacial Lance",
-        "move_2": "Seed Bomb",
-        "move_3": "Trick Room",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 84,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Glacial Lance",
+            "move_2": "Seed Bomb",
+            "move_3": "Trick Room",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Kyogre",
         "item": "Choice Specs",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 140,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 108,
+        "tera_type": "Water",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Water Spout",
-        "move_2": "Origin Pulse",
-        "move_3": "Tera Blast",
-        "move_4": "Thunder"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 108
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Origin Pulse",
+            "move_3": "Tera Blast",
+            "move_4": "Thunder"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Iron Jugulis",
         "item": "Booster Energy",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 212,
-        "ev_special_attack": 252,
-        "ev_special_defense": 132,
-        "ev_speed": 124,
+        "tera_type": "Fire",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Snarl",
-        "move_2": "Hurricane",
-        "move_3": "Tailwind",
-        "move_4": "Taunt"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 212,
+            "ev_special_attack": 252,
+            "ev_special_defense": 132,
+            "ev_speed": 124
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Snarl",
+            "move_2": "Hurricane",
+            "move_3": "Tailwind",
+            "move_4": "Taunt"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
         "ability": "Unseen Fist",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 124,
-        "ev_attack": 196,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 164,
-        "ev_speed": 20,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Surging Strikes",
-        "move_2": "Close Combat",
-        "move_3": "Aqua Jet",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 124,
+            "ev_attack": 196,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 164,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Surging Strikes",
+            "move_2": "Close Combat",
+            "move_3": "Aqua Jet",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Rhyperior",
         "item": "Assault Vest",
         "ability": "Lightning Rod",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 100,
-        "ev_attack": 156,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 252,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Brave",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "High Horsepower",
-        "move_2": "Rock Slide",
-        "move_3": "Crunch",
-        "move_4": "Counter"
+        "evs": {
+            "ev_hp": 100,
+            "ev_attack": 156,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 252,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "High Horsepower",
+            "move_2": "Rock Slide",
+            "move_3": "Crunch",
+            "move_4": "Counter"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Amoonguss",
         "item": "Rocky Helmet",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 236,
-        "ev_attack": 252,
-        "ev_defense": 236,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 12,
+        "tera_type": "Dark",
         "nature": "Relaxed",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spore",
-        "move_2": "Rage Powder",
-        "move_3": "Pollen Puff",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 252,
+            "ev_defense": 236,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Rage Powder",
+            "move_3": "Pollen Puff",
+            "move_4": "Protect"
+        }
     }
 ]

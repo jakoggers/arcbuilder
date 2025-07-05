@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Kyogre",
         "item": "Choice Scarf",
         "ability": "Drizzle",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Water Spout",
-        "move_2": "Thunder",
-        "move_3": "Hydro Pump",
-        "move_4": "Origin Pulse"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Water Spout",
+            "move_2": "Thunder",
+            "move_3": "Hydro Pump",
+            "move_4": "Origin Pulse"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Never-Melt Ice",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 108,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 140,
-        "ev_speed": 4,
+        "tera_type": "Grass",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Icicle Spear",
-        "move_2": "Glacial Lance",
-        "move_3": "Protect",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 108,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 140,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Icicle Spear",
+            "move_2": "Glacial Lance",
+            "move_3": "Protect",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Incineroar",
         "item": "Covert Cloak",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 236,
-        "ev_defense": 132,
-        "ev_special_attack": 252,
-        "ev_special_defense": 124,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Sassy",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Fake Out",
-        "move_2": "Parting Shot",
-        "move_3": "Roar",
-        "move_4": "Knock Off"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 236,
+            "ev_defense": 132,
+            "ev_special_attack": 252,
+            "ev_special_defense": 124,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Parting Shot",
+            "move_3": "Roar",
+            "move_4": "Knock Off"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Basculegion",
         "item": "Power Herb",
         "ability": "Swift Swim",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 92,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 156,
+        "tera_type": "Grass",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Aqua Jet",
-        "move_2": "Phantom Force",
-        "move_3": "Last Respects",
-        "move_4": "Wave Crash"
+        "evs": {
+            "ev_hp": 92,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 156
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Aqua Jet",
+            "move_2": "Phantom Force",
+            "move_3": "Last Respects",
+            "move_4": "Wave Crash"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Rillaboom",
         "item": "Choice Band",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 108,
-        "ev_special_attack": 116,
-        "ev_special_defense": 140,
-        "ev_speed": 4,
+        "tera_type": "Water",
         "nature": "Careful",
-        "iv_hp": 31,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 22,
-        "iv_special_defense": 31,
-        "iv_speed": 2,
-        "move_1": "Wood Hammer",
-        "move_2": "Grassy Glide",
-        "move_3": "High Horsepower",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 108,
+            "ev_special_attack": 116,
+            "ev_special_defense": 140,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 22,
+            "iv_special_defense": 31,
+            "iv_speed": 2
+        },
+        "moves": {
+            "move_1": "Wood Hammer",
+            "move_2": "Grassy Glide",
+            "move_3": "High Horsepower",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Amoonguss",
         "item": "Mental Herb",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 196,
-        "ev_special_attack": 4,
-        "ev_special_defense": 60,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Clear Smog",
-        "move_2": "Spore",
-        "move_3": "Pollen Puff",
-        "move_4": "Rage Powder"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 196,
+            "ev_special_attack": 4,
+            "ev_special_defense": 60,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Clear Smog",
+            "move_2": "Spore",
+            "move_3": "Pollen Puff",
+            "move_4": "Rage Powder"
+        }
     }
 ]

@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Koraidon",
         "item": "Ability Shield",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 124,
-        "ev_attack": 132,
-        "ev_defense": 68,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 116,
+        "tera_type": "Fire",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Collision Course",
-        "move_2": "Flare Blitz",
-        "move_3": "Flame Charge",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 124,
+            "ev_attack": 132,
+            "ev_defense": 68,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 116
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Collision Course",
+            "move_2": "Flare Blitz",
+            "move_3": "Flame Charge",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Shadow",
         "item": "Spooky Plate",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 36,
-        "ev_defense": 164,
-        "ev_special_attack": 4,
-        "ev_special_defense": 68,
-        "ev_speed": 20,
+        "tera_type": "Dark",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Expanding Force",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 36,
+            "ev_defense": 164,
+            "ev_special_attack": 4,
+            "ev_special_defense": 68,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Expanding Force",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Weezing-Galar",
         "item": "Covert Cloak",
         "ability": "Neutralizing Gas",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 244,
-        "ev_attack": 4,
-        "ev_defense": 84,
-        "ev_special_attack": 60,
-        "ev_special_defense": 156,
-        "ev_speed": 20,
+        "tera_type": "Water",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Play Rough",
-        "move_2": "Poison Gas",
-        "move_3": "Taunt",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 4,
+            "ev_defense": 84,
+            "ev_special_attack": 60,
+            "ev_special_defense": 156,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Play Rough",
+            "move_2": "Poison Gas",
+            "move_3": "Taunt",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Brute Bonnet",
         "item": "Rocky Helmet",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 68,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 172,
-        "ev_speed": 12,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 4,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Seed Bomb",
-        "move_2": "Sucker Punch",
-        "move_3": "Spore",
-        "move_4": "Rage Powder"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 68,
+            "ev_defense": 4,
+            "ev_special_attack": 244,
+            "ev_special_defense": 172,
+            "ev_speed": 12
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 4,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Seed Bomb",
+            "move_2": "Sucker Punch",
+            "move_3": "Spore",
+            "move_4": "Rage Powder"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Walking Wake",
         "item": "Assault Vest",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 84,
-        "ev_attack": 236,
-        "ev_defense": 12,
-        "ev_special_attack": 4,
-        "ev_special_defense": 84,
-        "ev_speed": 92,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Hydro Steam",
-        "move_2": "Draco Meteor",
-        "move_3": "Snarl",
-        "move_4": "Aqua Jet"
+        "evs": {
+            "ev_hp": 84,
+            "ev_attack": 236,
+            "ev_defense": 12,
+            "ev_special_attack": 4,
+            "ev_special_defense": 84,
+            "ev_speed": 92
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Hydro Steam",
+            "move_2": "Draco Meteor",
+            "move_3": "Snarl",
+            "move_4": "Aqua Jet"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Chi-Yu",
         "item": "Choice Scarf",
         "ability": "Beads of Ruin",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 172,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 132,
+        "tera_type": "Ghost",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Heat Wave",
-        "move_2": "Flamethrower",
-        "move_3": "Dark Pulse",
-        "move_4": "Snarl"
+        "evs": {
+            "ev_hp": 172,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Heat Wave",
+            "move_2": "Flamethrower",
+            "move_3": "Dark Pulse",
+            "move_4": "Snarl"
+        }
     }
 ]

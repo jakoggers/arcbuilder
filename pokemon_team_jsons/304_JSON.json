@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 28,
-        "ev_attack": 68,
-        "ev_defense": 4,
-        "ev_special_attack": 228,
-        "ev_special_defense": 84,
-        "ev_speed": 252,
+        "tera_type": "Dark",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Astral Barrage",
-        "move_3": "Psychic",
-        "move_4": "Nasty Plot"
+        "evs": {
+            "ev_hp": 28,
+            "ev_attack": 68,
+            "ev_defense": 4,
+            "ev_special_attack": 228,
+            "ev_special_defense": 84,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Astral Barrage",
+            "move_3": "Psychic",
+            "move_4": "Nasty Plot"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Clefairy",
         "item": "Eviolite",
         "ability": "Friend Guard",
         "level": 50,
-        "tera type": "Grass",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 252,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 4,
+        "tera_type": "Grass",
         "nature": "Relaxed",
-        "iv_hp": 31,
-        "iv_attack": 18,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Follow Me",
-        "move_3": "Helping Hand",
-        "move_4": "Encore"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 252,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 18,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Follow Me",
+            "move_3": "Helping Hand",
+            "move_4": "Encore"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 220,
-        "ev_special_attack": 20,
-        "ev_special_defense": 140,
-        "ev_speed": 52,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 31,
-        "iv_special_defense": 14,
-        "iv_speed": 0,
-        "move_1": "Grassy Glide",
-        "move_2": "Wood Hammer",
-        "move_3": "U-turn",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 220,
+            "ev_special_attack": 20,
+            "ev_special_defense": 140,
+            "ev_speed": 52
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 31,
+            "iv_special_defense": 14,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Grassy Glide",
+            "move_2": "Wood Hammer",
+            "move_3": "U-turn",
+            "move_4": "Fake Out"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Raging Bolt",
         "item": "Magnet",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Electric",
-        "ev_hp": 188,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 60,
+        "tera_type": "Electric",
         "nature": "Modest",
-        "iv_hp": 31,
-        "iv_attack": 14,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 25,
-        "move_1": "Protect",
-        "move_2": "Thunderbolt",
-        "move_3": "Draco Meteor",
-        "move_4": "Thunderclap"
+        "evs": {
+            "ev_hp": 188,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 14,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 25
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Thunderbolt",
+            "move_3": "Draco Meteor",
+            "move_4": "Thunderclap"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
         "ability": "Dauntless Shield",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 196,
-        "ev_attack": 116,
-        "ev_defense": 244,
-        "ev_special_attack": 116,
-        "ev_special_defense": 76,
-        "ev_speed": 68,
+        "tera_type": "Water",
         "nature": "Impish",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 15,
-        "move_1": "Protect",
-        "move_2": "Body Press",
-        "move_3": "Heavy Slam",
-        "move_4": "Wide Guard"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 116,
+            "ev_defense": 244,
+            "ev_special_attack": 116,
+            "ev_special_defense": 76,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 15
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Body Press",
+            "move_3": "Heavy Slam",
+            "move_4": "Wide Guard"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 188,
-        "ev_special_attack": 252,
-        "ev_special_defense": 68,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Fake Out",
-        "move_3": "Flare Blitz",
-        "move_4": "Parting Shot"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 188,
+            "ev_special_attack": 252,
+            "ev_special_defense": 68,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Fake Out",
+            "move_3": "Flare Blitz",
+            "move_4": "Parting Shot"
+        }
     }
 ]

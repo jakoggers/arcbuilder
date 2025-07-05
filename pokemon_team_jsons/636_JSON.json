@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Miraidon",
         "item": "Choice Specs",
         "ability": "Hadron Engine",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 44,
-        "ev_attack": 76,
-        "ev_defense": 12,
-        "ev_special_attack": 196,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Fairy",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Electro Drift",
-        "move_2": "Draco Meteor",
-        "move_3": "Volt Switch",
-        "move_4": "Dazzling Gleam"
+        "evs": {
+            "ev_hp": 44,
+            "ev_attack": 76,
+            "ev_defense": 12,
+            "ev_special_attack": 196,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Electro Drift",
+            "move_2": "Draco Meteor",
+            "move_3": "Volt Switch",
+            "move_4": "Dazzling Gleam"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
         "ability": "As One (Glastrier)",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 252,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 196,
-        "ev_special_defense": 68,
-        "ev_speed": 68,
+        "tera_type": "Water",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 24,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Protect",
-        "move_2": "Glacial Lance",
-        "move_3": "High Horsepower",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 196,
+            "ev_special_defense": 68,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 24,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Glacial Lance",
+            "move_3": "High Horsepower",
+            "move_4": "Trick Room"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Whimsicott",
         "item": "Covert Cloak",
         "ability": "Prankster",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 236,
-        "ev_attack": 236,
-        "ev_defense": 20,
-        "ev_special_attack": 4,
-        "ev_special_defense": 116,
-        "ev_speed": 132,
+        "tera_type": "Dark",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Tailwind",
-        "move_3": "Light Screen",
-        "move_4": "Encore"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 236,
+            "ev_defense": 20,
+            "ev_special_attack": 4,
+            "ev_special_defense": 116,
+            "ev_speed": 132
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Tailwind",
+            "move_3": "Light Screen",
+            "move_4": "Encore"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Ogerpon-Hearthflame (F)",
         "item": "Hearthflame Mask",
         "ability": "Mold Breaker",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 204,
-        "ev_attack": 76,
-        "ev_defense": 4,
-        "ev_special_attack": 180,
-        "ev_special_defense": 12,
-        "ev_speed": 212,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 12,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Wood Hammer",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 76,
+            "ev_defense": 4,
+            "ev_special_attack": 180,
+            "ev_special_defense": 12,
+            "ev_speed": 212
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 12,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Wood Hammer",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Farigiraf",
         "item": "Electric Seed",
         "ability": "Armor Tail",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 236,
-        "ev_attack": 252,
-        "ev_defense": 108,
-        "ev_special_attack": 4,
-        "ev_special_defense": 132,
-        "ev_speed": 28,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 21,
-        "move_1": "Foul Play",
-        "move_2": "Psychic Noise",
-        "move_3": "Trick Room",
-        "move_4": "Helping Hand"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 252,
+            "ev_defense": 108,
+            "ev_special_attack": 4,
+            "ev_special_defense": 132,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 21
+        },
+        "moves": {
+            "move_1": "Foul Play",
+            "move_2": "Psychic Noise",
+            "move_3": "Trick Room",
+            "move_4": "Helping Hand"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Iron Hands",
         "item": "Assault Vest",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 92,
-        "ev_attack": 156,
-        "ev_defense": 20,
-        "ev_special_attack": 4,
-        "ev_special_defense": 236,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Brave",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Drain Punch",
-        "move_2": "Low Kick",
-        "move_3": "Wild Charge",
-        "move_4": "Fake Out"
+        "evs": {
+            "ev_hp": 92,
+            "ev_attack": 156,
+            "ev_defense": 20,
+            "ev_special_attack": 4,
+            "ev_special_defense": 236,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drain Punch",
+            "move_2": "Low Kick",
+            "move_3": "Wild Charge",
+            "move_4": "Fake Out"
+        }
     }
 ]

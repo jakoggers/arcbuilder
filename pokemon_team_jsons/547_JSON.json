@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Incineroar",
         "item": "Safety Goggles",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 252,
-        "ev_attack": 4,
-        "ev_defense": 132,
-        "ev_special_attack": 252,
-        "ev_special_defense": 116,
-        "ev_speed": 4,
+        "tera_type": "Fairy",
         "nature": "Careful",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Fake Out",
-        "move_2": "Flare Blitz",
-        "move_3": "Knock Off",
-        "move_4": "U-turn"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 4,
+            "ev_defense": 132,
+            "ev_special_attack": 252,
+            "ev_special_defense": 116,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Flare Blitz",
+            "move_3": "Knock Off",
+            "move_4": "U-turn"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Koraidon",
         "item": "Life Orb",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 84,
-        "ev_attack": 76,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 172,
-        "ev_speed": 172,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Flare Blitz",
-        "move_2": "Close Combat",
-        "move_3": "Flame Charge",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 84,
+            "ev_attack": 76,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 172,
+            "ev_speed": 172
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Close Combat",
+            "move_3": "Flame Charge",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Flutter Mane",
         "item": "Focus Sash",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Normal",
-        "ev_hp": 252,
-        "ev_attack": 252,
-        "ev_defense": 52,
-        "ev_special_attack": 36,
-        "ev_special_defense": 148,
-        "ev_speed": 20,
+        "tera_type": "Normal",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 18,
-        "iv_special_attack": 11,
-        "iv_special_defense": 0,
-        "iv_speed": 0,
-        "move_1": "Moonblast",
-        "move_2": "Shadow Ball",
-        "move_3": "Icy Wind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 52,
+            "ev_special_attack": 36,
+            "ev_special_defense": 148,
+            "ev_speed": 20
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 18,
+            "iv_special_attack": 11,
+            "iv_special_defense": 0,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moonblast",
+            "move_2": "Shadow Ball",
+            "move_3": "Icy Wind",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Amoonguss",
         "item": "Covert Cloak",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Dark",
-        "ev_hp": 252,
-        "ev_attack": 76,
-        "ev_defense": 140,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 36,
+        "tera_type": "Dark",
         "nature": "Adamant",
-        "iv_hp": 19,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Spore",
-        "move_2": "Rage Powder",
-        "move_3": "Pollen Puff",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 76,
+            "ev_defense": 140,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 36
+        },
+        "ivs": {
+            "iv_hp": 19,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Rage Powder",
+            "move_3": "Pollen Puff",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Ursaluna",
         "item": "Flame Orb",
         "ability": "Guts",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 196,
-        "ev_attack": 4,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 156,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Facade",
-        "move_2": "Earthquake",
-        "move_3": "Headlong Rush",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 4,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 156,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Facade",
+            "move_2": "Earthquake",
+            "move_3": "Headlong Rush",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Lunala",
         "item": "Leftovers",
         "ability": "Shadow Shield",
         "level": 50,
-        "tera type": "Fairy",
-        "ev_hp": 220,
-        "ev_attack": 236,
-        "ev_defense": 4,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 44,
+        "tera_type": "Fairy",
         "nature": "Adamant",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 30,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Moongeist Beam",
-        "move_2": "Moonblast",
-        "move_3": "Wide Guard",
-        "move_4": "Trick Room"
+        "evs": {
+            "ev_hp": 220,
+            "ev_attack": 236,
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 44
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 30,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Moongeist Beam",
+            "move_2": "Moonblast",
+            "move_3": "Wide Guard",
+            "move_4": "Trick Room"
+        }
     }
 ]

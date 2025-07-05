@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Terapagos-Terastal",
         "item": "Covert Cloak",
         "ability": "Tera Shell",
         "level": 50,
-        "tera type": "Stellar",
-        "ev_hp": 204,
-        "ev_attack": 4,
-        "ev_defense": 4,
-        "ev_special_attack": 236,
-        "ev_special_defense": 4,
-        "ev_speed": 60,
+        "tera_type": "Stellar",
         "nature": "Modest",
-        "iv_hp": 0,
-        "iv_attack": 15,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 1,
-        "move_1": "Tera Starstorm",
-        "move_2": "Earth Power",
-        "move_3": "Calm Mind",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 4,
+            "ev_defense": 4,
+            "ev_special_attack": 236,
+            "ev_special_defense": 4,
+            "ev_speed": 60
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 15,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 1
+        },
+        "moves": {
+            "move_1": "Tera Starstorm",
+            "move_2": "Earth Power",
+            "move_3": "Calm Mind",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Ogerpon-Cornerstone (F)",
         "item": "Cornerstone Mask",
         "ability": "Sturdy",
         "level": 50,
-        "tera type": "Rock",
-        "ev_hp": 4,
-        "ev_attack": 204,
-        "ev_defense": 44,
-        "ev_special_attack": 4,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Rock",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 17,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Ivy Cudgel",
-        "move_2": "Taunt",
-        "move_3": "Follow Me",
-        "move_4": "Spiky Shield"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 204,
+            "ev_defense": 44,
+            "ev_special_attack": 4,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 17,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Ivy Cudgel",
+            "move_2": "Taunt",
+            "move_3": "Follow Me",
+            "move_4": "Spiky Shield"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Incineroar",
         "item": "Rocky Helmet",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 236,
-        "ev_attack": 4,
-        "ev_defense": 196,
-        "ev_special_attack": 180,
-        "ev_special_defense": 44,
-        "ev_speed": 28,
+        "tera_type": "Ghost",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 20,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Knock Off",
-        "move_2": "Fake Out",
-        "move_3": "Parting Shot",
-        "move_4": "Will-O-Wisp"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 4,
+            "ev_defense": 196,
+            "ev_special_attack": 180,
+            "ev_special_defense": 44,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 20,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Knock Off",
+            "move_2": "Fake Out",
+            "move_3": "Parting Shot",
+            "move_4": "Will-O-Wisp"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Rillaboom",
         "item": "Assault Vest",
         "ability": "Grassy Surge",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 228,
-        "ev_attack": 84,
-        "ev_defense": 4,
-        "ev_special_attack": 4,
-        "ev_special_defense": 116,
-        "ev_speed": 68,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 29,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Drum Beating",
-        "move_2": "Fake Out",
-        "move_3": "U-turn",
-        "move_4": "Grassy Glide"
+        "evs": {
+            "ev_hp": 228,
+            "ev_attack": 84,
+            "ev_defense": 4,
+            "ev_special_attack": 4,
+            "ev_special_defense": 116,
+            "ev_speed": 68
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 29,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Drum Beating",
+            "move_2": "Fake Out",
+            "move_3": "U-turn",
+            "move_4": "Grassy Glide"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 196,
-        "ev_attack": 252,
-        "ev_defense": 12,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 13,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Astral Barrage",
-        "move_2": "Protect",
-        "move_3": "Disable",
-        "move_4": "Psychic"
+        "evs": {
+            "ev_hp": 196,
+            "ev_attack": 252,
+            "ev_defense": 12,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 13,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Protect",
+            "move_3": "Disable",
+            "move_4": "Psychic"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Garganacl",
         "item": "Leftovers",
         "ability": "Purifying Salt",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 252,
-        "ev_attack": 108,
-        "ev_defense": 156,
-        "ev_special_attack": 252,
-        "ev_special_defense": 100,
-        "ev_speed": 28,
+        "tera_type": "Ghost",
         "nature": "Relaxed",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 0,
-        "iv_special_defense": 31,
-        "iv_speed": 4,
-        "move_1": "Protect",
-        "move_2": "Wide Guard",
-        "move_3": "Salt Cure",
-        "move_4": "Recover"
+        "evs": {
+            "ev_hp": 252,
+            "ev_attack": 108,
+            "ev_defense": 156,
+            "ev_special_attack": 252,
+            "ev_special_defense": 100,
+            "ev_speed": 28
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 0,
+            "iv_special_defense": 31,
+            "iv_speed": 4
+        },
+        "moves": {
+            "move_1": "Protect",
+            "move_2": "Wide Guard",
+            "move_3": "Salt Cure",
+            "move_4": "Recover"
+        }
     }
 ]

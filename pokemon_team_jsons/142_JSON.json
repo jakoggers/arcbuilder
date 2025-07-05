@@ -1,152 +1,182 @@
 [
     {
-        "pokemon_num": 1,
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
         "ability": "As One (Spectrier)",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 4,
-        "ev_attack": 36,
-        "ev_defense": 84,
-        "ev_special_attack": 252,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Timid",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 16,
-        "iv_special_defense": 31,
-        "iv_speed": 22,
-        "move_1": "Astral Barrage",
-        "move_2": "Psychic",
-        "move_3": "Encore",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 4,
+            "ev_attack": 36,
+            "ev_defense": 84,
+            "ev_special_attack": 252,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 16,
+            "iv_special_defense": 31,
+            "iv_speed": 22
+        },
+        "moves": {
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Encore",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 2,
         "name": "Koraidon",
         "item": "Clear Amulet",
         "ability": "Orichalcum Pulse",
         "level": 50,
-        "tera type": "Fire",
-        "ev_hp": 204,
-        "ev_attack": 36,
-        "ev_defense": 4,
-        "ev_special_attack": 220,
-        "ev_special_defense": 60,
-        "ev_speed": 204,
+        "tera_type": "Fire",
         "nature": "Adamant",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Flare Blitz",
-        "move_2": "Collision Course",
-        "move_3": "Flame Charge",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 204,
+            "ev_attack": 36,
+            "ev_defense": 4,
+            "ev_special_attack": 220,
+            "ev_special_defense": 60,
+            "ev_speed": 204
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Flare Blitz",
+            "move_2": "Collision Course",
+            "move_3": "Flame Charge",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 3,
         "name": "Incineroar",
         "item": "Safety Goggles",
         "ability": "Intimidate",
         "level": 50,
-        "tera type": "Bug",
-        "ev_hp": 244,
-        "ev_attack": 252,
-        "ev_defense": 244,
-        "ev_special_attack": 252,
-        "ev_special_defense": 20,
-        "ev_speed": 4,
+        "tera_type": "Bug",
         "nature": "Impish",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Fake Out",
-        "move_2": "Knock Off",
-        "move_3": "Will-O-Wisp",
-        "move_4": "Parting Shot"
+        "evs": {
+            "ev_hp": 244,
+            "ev_attack": 252,
+            "ev_defense": 244,
+            "ev_special_attack": 252,
+            "ev_special_defense": 20,
+            "ev_speed": 4
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Fake Out",
+            "move_2": "Knock Off",
+            "move_3": "Will-O-Wisp",
+            "move_4": "Parting Shot"
+        }
     },
     {
-        "pokemon_num": 4,
         "name": "Iron Treads",
         "item": "Life Orb",
         "ability": "Quark Drive",
         "level": 50,
-        "tera type": "Ghost",
-        "ev_hp": 36,
-        "ev_attack": 252,
-        "ev_defense": 4,
-        "ev_special_attack": 244,
-        "ev_special_defense": 4,
-        "ev_speed": 252,
+        "tera_type": "Ghost",
         "nature": "Jolly",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 26,
-        "iv_special_defense": 31,
-        "iv_speed": 26,
-        "move_1": "Steel Roller",
-        "move_2": "High Horsepower",
-        "move_3": "Knock Off",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 36,
+            "ev_attack": 252,
+            "ev_defense": 4,
+            "ev_special_attack": 244,
+            "ev_special_defense": 4,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 26,
+            "iv_special_defense": 31,
+            "iv_speed": 26
+        },
+        "moves": {
+            "move_1": "Steel Roller",
+            "move_2": "High Horsepower",
+            "move_3": "Knock Off",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 5,
         "name": "Amoonguss",
         "item": "Mental Herb",
         "ability": "Regenerator",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 236,
-        "ev_attack": 68,
-        "ev_defense": 236,
-        "ev_special_attack": 252,
-        "ev_special_defense": 36,
-        "ev_speed": 252,
+        "tera_type": "Water",
         "nature": "Bold",
-        "iv_hp": 31,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 31,
-        "iv_special_defense": 31,
-        "iv_speed": 27,
-        "move_1": "Spore",
-        "move_2": "Rage Powder",
-        "move_3": "Pollen Puff",
-        "move_4": "Protect"
+        "evs": {
+            "ev_hp": 236,
+            "ev_attack": 68,
+            "ev_defense": 236,
+            "ev_special_attack": 252,
+            "ev_special_defense": 36,
+            "ev_speed": 252
+        },
+        "ivs": {
+            "iv_hp": 31,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 31,
+            "iv_special_defense": 31,
+            "iv_speed": 27
+        },
+        "moves": {
+            "move_1": "Spore",
+            "move_2": "Rage Powder",
+            "move_3": "Pollen Puff",
+            "move_4": "Protect"
+        }
     },
     {
-        "pokemon_num": 6,
         "name": "Walking Wake",
         "item": "Assault Vest",
         "ability": "Protosynthesis",
         "level": 50,
-        "tera type": "Water",
-        "ev_hp": 140,
-        "ev_attack": 116,
-        "ev_defense": 4,
-        "ev_special_attack": 172,
-        "ev_special_defense": 4,
-        "ev_speed": 188,
+        "tera_type": "Water",
         "nature": "Timid",
-        "iv_hp": 0,
-        "iv_attack": 0,
-        "iv_defense": 31,
-        "iv_special_attack": 20,
-        "iv_special_defense": 31,
-        "iv_speed": 0,
-        "move_1": "Hydro Steam",
-        "move_2": "Draco Meteor",
-        "move_3": "Snarl",
-        "move_4": "Weather Ball"
+        "evs": {
+            "ev_hp": 140,
+            "ev_attack": 116,
+            "ev_defense": 4,
+            "ev_special_attack": 172,
+            "ev_special_defense": 4,
+            "ev_speed": 188
+        },
+        "ivs": {
+            "iv_hp": 0,
+            "iv_attack": 0,
+            "iv_defense": 31,
+            "iv_special_attack": 20,
+            "iv_special_defense": 31,
+            "iv_speed": 0
+        },
+        "moves": {
+            "move_1": "Hydro Steam",
+            "move_2": "Draco Meteor",
+            "move_3": "Snarl",
+            "move_4": "Weather Ball"
+        }
     }
 ]
