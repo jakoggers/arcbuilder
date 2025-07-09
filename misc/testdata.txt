@@ -1,69 +1,30 @@
-Amoonguss @ Sitrus Berry  
-Ability: Regenerator  
-Tera Type: Fire  
-EVs: 236 HP / 196 Def / 76 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Pollen Puff  
-- Spore  
-- Rage Powder  
-- Protect  
+Code ATtepmpts:
+"""
+# O(n) time.... smh # incorrect solution, this didn't clean add the files to the csv efficiently...
+for i in range(num_of_jsons - 1):
+	test_file = f"{json_path}/{i}_JSON.json"
+	test_file_2 = f"{json_path}/{i + 1}_JSON.json"
 
+	with open(test_file, "r", encoding="utf-8") as first_json:
+		read_json_file = pd.read_json(test_file)
+		data = json.load(first_json)
 
-Iron Valiant @ Choice Specs  
-Ability: Quark Drive  
-Tera Type: Fairy  
-EVs: 4 Def / 252 SpA / 252 Spe  
-Timid Nature  
-- Moonblast  
-- Thunderbolt  
-- Shadow Ball  
-- Psyshock  
+	with open(test_file_2, "r", encoding="utf-8") as next_json:
+		read_next_json_file = pd.read_json(test_file_2)
+		next_data = json.load(next_json)
 
+	flattened_json = pd.json_normalize(data)
+	next_flattened_json = pd.json_normalize(next_data)
+	fused_json = pd.concat([flattened_json, next_flattened_json])
+	fused_json.to_csv(f"full_team_data.csv", mode="a+", encoding="utf-8", index=False)
+"""
+"""
+sns.relplot(
+	data = tips,
+	x="total_bill", y="tip", col="time",
+	hue="smoker", style="smoker",size="size",
+)
 
-Gallade @ Life Orb  
-Ability: Sharpness  
-Shiny: Yes  
-Tera Type: Fighting  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Adamant Nature  
-- Swords Dance  
-- Sacred Sword  
-- Psycho Cut  
-- Shadow Sneak  
-
-
-Pawmot @ Focus Sash  
-Ability: Volt Absorb  
-Tera Type: Electric  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Double Shock  
-- Revival Blessing  
-- Close Combat  
-- Nuzzle  
-
-
-Iron Bundle @ Heavy-Duty Boots  
-Ability: Quark Drive  
-Tera Type: Ice  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Freeze-Dry  
-- Hydro Pump  
-- Electric Terrain  
-- Taunt  
-
-
-Volcarona @ Heavy-Duty Boots  
-Ability: Flame Body  
-Tera Type: Grass  
-EVs: 248 HP / 108 Def / 152 Spe  
-Timid Nature  
-- Quiver Dance  
-- Fiery Dance  
-- Morning Sun  
-- Giga Drain  
-
-
+tera_types = read_json_file["tera_type"]
+iv_column = read_json_file["ivs"][3]
+"""

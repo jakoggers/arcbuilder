@@ -29,3 +29,7 @@ idk
 
 6/28-29/25
 i finally fixed the error where the teams were not showing: hidden ofc, to save space.
+
+7/9
+FINALLY I CSV'D THE DATA TO PREP FOR ANALYSIS
+but, now I need to freaking read the data lmao... the fun part ?!?!

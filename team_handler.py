@@ -1,8 +1,12 @@
 # imports
 import requests, json
+import os
+import pandas as pd
 from bs4 import BeautifulSoup
 from teams import pokemon_team_structure
 from algo import run_algo
+
+
 
 def ev_and_iv_organizer(pokemon_num, ev_or_iv, which_one, given_pokemon_team):
 	find_char = ev_or_iv.index(":")
@@ -139,6 +143,27 @@ def team_handler(get_url, file_name):
 	print(f"\nFile: {file_name} written! No problems (hopefully)")
 
 	#monitor_file.close()
+
+def team_to_csv(given_json_path):
+	json_path = os.path.basename(given_json_path)
+	list_of_jsons = os.listdir("pokemon_team_jsons")
+	num_of_jsons = len(list_of_jsons)
+
+	rows_to_csv = []
+	for i in range(num_of_jsons):
+		json_to_read = f"{json_path}/{i}_JSON.json"
+
+		with open(json_to_read, "r", encoding="utf-8") as open_json:
+			json_data = json.load(open_json)
+			flattened_json = pd.json_normalize(json_data)
+			rows_to_csv.append(flattened_json)
+
+	fused_json = pd.concat(rows_to_csv, ignore_index=False)
+	fused_json = fused_json.reset_index(drop=True)
+
+	fused_json.to_csv("Full Team Data.csv", encoding="utf-8", index=False)
+	# clean the data, bruh whose idea was it to clean the data like this smh... making it O(n)^2... what a geek
+	print("CSV'd the file gangana!!!!")
 
 # Test Teams:
 """
