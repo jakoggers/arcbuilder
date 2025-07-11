@@ -2,6 +2,7 @@
     {
         "name": "Incineroar",
         "item": "Sitrus Berry",
+        "gender": "",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",

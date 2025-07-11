@@ -6,8 +6,33 @@ EVs: 228 HP / 116 Atk / 164 Spe
 Adamant Nature  
 - Glacial Lance  
 - High Horsepower  
-- Seed Bomb  
 - Crunch  
+- Seed Bomb  
+
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Water  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Hydro Pump  
+- Thunder  
+
+
+Smeargle @ Focus Sash  
+Ability: Moody  
+Level: 50  
+Tera Type: Ghost  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Follow Me  
+- Spore  
+- Fake Out  
+- Decorate  
 
 
 Farigiraf @ Mental Herb  
@@ -19,25 +44,13 @@ Bold Nature
 IVs: 0 Atk  
 - Foul Play  
 - Trick Room  
-- Imprison  
 - Helping Hand  
+- Imprison  
 
 
-Smeargle @ Focus Sash  
-Ability: Moody  
-Level: 50  
-Tera Type: Ghost  
-EVs: 252 HP / 4 Atk / 252 Spe  
-Jolly Nature  
-- Spore  
-- Decorate  
-- Follow Me  
-- Fake Out  
-
-
-Maushold-Four @ Wide Lens  
+Maushold @ Wide Lens  
 Ability: Technician  
-Level: 50  
+Level: 53  
 Tera Type: Normal  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
@@ -45,19 +58,6 @@ Jolly Nature
 - Bite  
 - Follow Me  
 - Protect  
-
-
-Kyogre @ Choice Scarf  
-Ability: Drizzle  
-Level: 50  
-Tera Type: Water  
-EVs: 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Water Spout  
-- Origin Pulse  
-- Hydro Pump  
-- Thunder  
 
 
 Volcarona @ Rocky Helmet  

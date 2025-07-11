@@ -2,6 +2,7 @@
     {
         "name": "Annihilape",
         "item": "Choice Scarf",
+        "gender": "",
         "ability": "Defiant",
         "level": 50,
         "tera_type": "Grass",

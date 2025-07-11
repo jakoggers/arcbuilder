@@ -2,6 +2,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",

@@ -4,9 +4,7 @@ import os
 import pandas as pd
 from bs4 import BeautifulSoup
 from teams import pokemon_team_structure
-from algo import run_algo
-
-
+from lists import pokemon_gender
 
 def ev_and_iv_organizer(pokemon_num, ev_or_iv, which_one, given_pokemon_team):
 	find_char = ev_or_iv.index(":")
@@ -42,6 +40,58 @@ def ev_and_iv_organizer(pokemon_num, ev_or_iv, which_one, given_pokemon_team):
 				#print("The Speed ev in question: " + speed)
 	# print(ev_or_iv)
 
+def gender_or_nickname(name, given_pokemon_team, which_pokemon):
+	# Set genders of all pokemon
+
+	# find if it has a nickame
+	# Check if there are more than two left parentheses
+	# If theres one, that means there's either a nickname or gender
+		# Add a gender if the len of it equals 3
+		# If not, make it equal the name within
+	# If there's two, that means there's both
+		# At first position, take the name and add to "name"
+		# At second left-paran, check gender and add to "gender"
+	paran_count = name.count("(")
+	find_first_lparan = name.find("(")
+	find_next_paran = name.find(")")
+	find_gender = name[find_first_lparan:find_next_paran + 1]
+	find_name = name[find_first_lparan+1:find_next_paran]
+	get_gender = pokemon_gender.get(name.lower())
+	if paran_count == 1:
+		if len(find_gender) == 3:
+			if find_gender == "(M)":
+				given_pokemon_team[which_pokemon]["gender"] = "Male"
+			else:
+				given_pokemon_team[which_pokemon]["gender"] = "Female"
+			given_pokemon_team[which_pokemon]["name"] = final_name
+			final_name = name[find_first_lparan].strip()
+		else:
+			given_pokemon_team[which_pokemon]["name"] = find_name
+			get_gender = pokemon_gender.get(find_name.lower())
+			if get_gender:
+				print(f"Name w/ specific gender: {name}, Gender: {get_gender}")
+			else:
+				print(f"Name w/o specified gender: {name}, Gender: {get_gender}")
+	elif paran_count == 2:
+		find_second_lparan = name[find_first_lparan + 1:].find("(")
+		split_lparan_string = name[find_first_lparan + 1:]
+		given_pokemon_team[which_pokemon]["name"] = find_name
+		gender = split_lparan_string[find_second_lparan:]
+		if gender == "(M)":
+			given_pokemon_team[which_pokemon]["gender"] = "Male"
+		else:
+			given_pokemon_team[which_pokemon]["gender"] = "Female"
+
+	else:
+		# If neither, add the name AND specified gender immediately
+		# ok ik there's like a ratio, but for simplicity i'm gonna 50/50 everything that ISN'T specified
+		if get_gender:
+			print(f"Name w/ specific gender: {name}, Gender: {get_gender}")
+		else:
+			print(f"Name w/o specified gender: {name}, Gender: {get_gender}")
+
+		given_pokemon_team[which_pokemon]["name"] = name
+
 # write this to Pokemon Folder link
 def write_team_data(given_link, given_json_location, given_pokemon_team):
 	# Assumes EVERY Pokemon holds an item
@@ -62,7 +112,8 @@ def write_team_data(given_link, given_json_location, given_pokemon_team):
 					name = read_line[:find_char].strip()
 					item = read_line[find_char + 2:].strip()
 					# For every pokemon, initialize the value given in the section
-					given_pokemon_team[which_pokemon]["name"] = name
+					gender_or_nickname(name, given_pokemon_team, which_pokemon)
+					# Add item ofc ASSUMING THERE'S AN ITEM
 					given_pokemon_team[which_pokemon]["item"] = item
 
 				# Write ability:

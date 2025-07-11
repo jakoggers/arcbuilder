@@ -2,6 +2,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Water",

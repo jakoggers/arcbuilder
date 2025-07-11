@@ -2,6 +2,7 @@
     {
         "name": "Landorus",
         "item": "Choice Scarf",
+        "gender": "",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Ghost",

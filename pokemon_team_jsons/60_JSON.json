@@ -2,6 +2,7 @@
     {
         "name": "Kyogre",
         "item": "Power Lens",
+        "gender": "",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",
@@ -39,9 +40,9 @@
         "evs": {
             "ev_hp": 4,
             "ev_attack": 4,
-            "ev_defense": 156,
+            "ev_defense": 4,
             "ev_special_attack": 252,
-            "ev_special_defense": 124,
+            "ev_special_defense": 28,
             "ev_speed": 252
         },
         "ivs": {
@@ -98,7 +99,7 @@
         "nature": "Modest",
         "evs": {
             "ev_hp": 12,
-            "ev_attack": 252,
+            "ev_attack": 36,
             "ev_defense": 4,
             "ev_special_attack": 212,
             "ev_special_defense": 36,
@@ -130,7 +131,7 @@
             "ev_hp": 28,
             "ev_attack": 140,
             "ev_defense": 4,
-            "ev_special_attack": 252,
+            "ev_special_attack": 44,
             "ev_special_defense": 236,
             "ev_speed": 244
         },

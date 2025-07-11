@@ -2,6 +2,7 @@
     {
         "name": "Don Bastio (Bastiodon)",
         "item": "Electric Seed",
+        "gender": "",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Grass",

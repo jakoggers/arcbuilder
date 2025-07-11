@@ -2,6 +2,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",

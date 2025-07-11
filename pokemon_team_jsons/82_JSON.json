@@ -2,6 +2,7 @@
     {
         "name": "Lunala",
         "item": "Mental Herb",
+        "gender": "",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Dark",

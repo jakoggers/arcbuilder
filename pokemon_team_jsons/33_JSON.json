@@ -2,6 +2,7 @@
     {
         "name": "Kyogre",
         "item": "Mystic Water",
+        "gender": "",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Grass",

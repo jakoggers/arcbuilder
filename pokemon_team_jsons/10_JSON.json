@@ -2,6 +2,7 @@
     {
         "name": "Sneasler",
         "item": "Electric Seed",
+        "gender": "",
         "ability": "Unburden",
         "level": 50,
         "tera_type": "Dark",

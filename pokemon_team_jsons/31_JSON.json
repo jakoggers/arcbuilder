@@ -2,6 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Grassy Seed",
+        "gender": "",
         "ability": "Tera Shift",
         "level": 85,
         "tera_type": "Stellar",

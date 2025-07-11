@@ -2,6 +2,7 @@
     {
         "name": "ミライドン (Miraidon)",
         "item": "Choice Specs",
+        "gender": "",
         "ability": "Hadron Engine",
         "level": 72,
         "tera_type": "Electric",

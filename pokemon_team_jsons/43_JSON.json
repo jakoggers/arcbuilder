@@ -2,6 +2,7 @@
     {
         "name": "Iron Jugulis",
         "item": "Booster Energy",
+        "gender": "",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Steel",

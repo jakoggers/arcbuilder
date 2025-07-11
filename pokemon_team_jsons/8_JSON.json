@@ -2,6 +2,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",

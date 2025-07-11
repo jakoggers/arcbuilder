@@ -2,6 +2,7 @@
     {
         "name": "Volcarona (F)",
         "item": "Leftovers",
+        "gender": "",
         "ability": "Flame Body",
         "level": 59,
         "tera_type": "Water",

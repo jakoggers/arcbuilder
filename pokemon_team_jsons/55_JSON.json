@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Assault Vest",
+        "gender": "",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Grass",
@@ -25,24 +26,24 @@
         "moves": {
             "move_1": "Glacial Lance",
             "move_2": "High Horsepower",
-            "move_3": "Seed Bomb",
-            "move_4": "Crunch"
+            "move_3": "Crunch",
+            "move_4": "Seed Bomb"
         }
     },
     {
-        "name": "Farigiraf",
-        "item": "Mental Herb",
-        "ability": "Armor Tail",
+        "name": "Kyogre",
+        "item": "Choice Scarf",
+        "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",
-        "nature": "Bold",
+        "nature": "Timid",
         "evs": {
-            "ev_hp": 228,
+            "ev_hp": 204,
             "ev_attack": 4,
-            "ev_defense": 156,
-            "ev_special_attack": 76,
-            "ev_special_defense": 124,
-            "ev_speed": 92
+            "ev_defense": 4,
+            "ev_special_attack": 252,
+            "ev_special_defense": 28,
+            "ev_speed": 252
         },
         "ivs": {
             "iv_hp": 31,
@@ -53,10 +54,10 @@
             "iv_speed": 31
         },
         "moves": {
-            "move_1": "Foul Play",
-            "move_2": "Trick Room",
-            "move_3": "Imprison",
-            "move_4": "Helping Hand"
+            "move_1": "Water Spout",
+            "move_2": "Origin Pulse",
+            "move_3": "Hydro Pump",
+            "move_4": "Thunder"
         }
     },
     {
@@ -83,26 +84,26 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Spore",
-            "move_2": "Decorate",
-            "move_3": "Follow Me",
-            "move_4": "Fake Out"
+            "move_1": "Follow Me",
+            "move_2": "Spore",
+            "move_3": "Fake Out",
+            "move_4": "Decorate"
         }
     },
     {
-        "name": "Maushold-Four",
-        "item": "Wide Lens",
-        "ability": "Technician",
+        "name": "Farigiraf",
+        "item": "Mental Herb",
+        "ability": "Armor Tail",
         "level": 50,
-        "tera_type": "Normal",
-        "nature": "Jolly",
+        "tera_type": "Water",
+        "nature": "Bold",
         "evs": {
-            "ev_hp": 4,
-            "ev_attack": 252,
-            "ev_defense": 76,
+            "ev_hp": 228,
+            "ev_attack": 36,
+            "ev_defense": 156,
             "ev_special_attack": 252,
             "ev_special_defense": 124,
-            "ev_speed": 252
+            "ev_speed": 20
         },
         "ivs": {
             "iv_hp": 31,
@@ -113,24 +114,24 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Population Bomb",
-            "move_2": "Bite",
-            "move_3": "Follow Me",
-            "move_4": "Protect"
+            "move_1": "Foul Play",
+            "move_2": "Trick Room",
+            "move_3": "Helping Hand",
+            "move_4": "Imprison"
         }
     },
     {
-        "name": "Kyogre",
-        "item": "Choice Scarf",
-        "ability": "Drizzle",
-        "level": 50,
-        "tera_type": "Water",
-        "nature": "Timid",
+        "name": "Maushold",
+        "item": "Wide Lens",
+        "ability": "Technician",
+        "level": 53,
+        "tera_type": "Normal",
+        "nature": "Jolly",
         "evs": {
-            "ev_hp": 244,
+            "ev_hp": 4,
             "ev_attack": 252,
             "ev_defense": 116,
-            "ev_special_attack": 252,
+            "ev_special_attack": 44,
             "ev_special_defense": 92,
             "ev_speed": 252
         },
@@ -143,10 +144,10 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Water Spout",
-            "move_2": "Origin Pulse",
-            "move_3": "Hydro Pump",
-            "move_4": "Thunder"
+            "move_1": "Population Bomb",
+            "move_2": "Bite",
+            "move_3": "Follow Me",
+            "move_4": "Protect"
         }
     },
     {

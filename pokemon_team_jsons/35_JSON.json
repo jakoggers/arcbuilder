@@ -2,6 +2,7 @@
     {
         "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "",
         "ability": "Beads of Ruin",
         "level": 50,
         "tera_type": "Ghost",

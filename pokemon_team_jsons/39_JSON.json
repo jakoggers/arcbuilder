@@ -2,6 +2,7 @@
     {
         "name": "狩星巡日 (Koraidon)",
         "item": "Ability Shield",
+        "gender": "",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",

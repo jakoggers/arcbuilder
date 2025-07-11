@@ -2,17 +2,17 @@
     {
         "name": "Mòrag (Lunala)",
         "item": "Electric Seed",
-        "ability": "Shadow Shield",
+        "ability": "As One (Spectrier)",
         "level": 50,
-        "tera_type": "Fairy",
-        "nature": "Modest",
+        "tera_type": "Normal",
+        "nature": "Timid",
         "evs": {
-            "ev_hp": 116,
+            "ev_hp": 4,
             "ev_attack": 4,
-            "ev_defense": 100,
+            "ev_defense": 156,
             "ev_special_attack": 252,
             "ev_special_defense": 20,
-            "ev_speed": 20
+            "ev_speed": 252
         },
         "ivs": {
             "iv_hp": 0,
@@ -23,26 +23,26 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Moongeist Beam",
-            "move_2": "Moonblast",
-            "move_3": "Trick Room",
-            "move_4": "Wide Guard"
+            "move_1": "Astral Barrage",
+            "move_2": "Psychic",
+            "move_3": "Encore",
+            "move_4": "Protect"
         }
     },
     {
-        "name": "Zeke (Miraidon)",
-        "item": "Choice Specs",
-        "ability": "Hadron Engine",
+        "name": "Zamazenta-Crowned",
+        "item": "Rusted Shield",
+        "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Ghost",
-        "nature": "Modest",
+        "nature": "Quiet",
         "evs": {
-            "ev_hp": 4,
+            "ev_hp": 252,
             "ev_attack": 172,
-            "ev_defense": 4,
-            "ev_special_attack": 244,
-            "ev_special_defense": 4,
-            "ev_speed": 252
+            "ev_defense": 84,
+            "ev_special_attack": 236,
+            "ev_special_defense": 20,
+            "ev_speed": 164
         },
         "ivs": {
             "iv_hp": 31,
@@ -53,26 +53,26 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Electro Drift",
-            "move_2": "Draco Meteor",
-            "move_3": "Discharge",
-            "move_4": "Volt Switch"
+            "move_1": "Body Press",
+            "move_2": "Heavy Slam",
+            "move_3": "Wide Guard",
+            "move_4": "Protect"
         }
     },
     {
-        "name": "Tora (Tornadus)",
-        "item": "Covert Cloak",
-        "ability": "Prankster",
+        "name": "Chien-Pao",
+        "item": "Life Orb",
+        "ability": "Sword of Ruin",
         "level": 50,
-        "tera_type": "Dark",
-        "nature": "Timid",
+        "tera_type": "Stellar",
+        "nature": "Brave",
         "evs": {
-            "ev_hp": 244,
+            "ev_hp": 252,
             "ev_attack": 196,
-            "ev_defense": 156,
-            "ev_special_attack": 4,
-            "ev_special_defense": 4,
-            "ev_speed": 100
+            "ev_defense": 124,
+            "ev_special_attack": 180,
+            "ev_special_defense": 60,
+            "ev_speed": 28
         },
         "ivs": {
             "iv_hp": 0,
@@ -83,26 +83,26 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Bleakwind Storm",
-            "move_2": "Tailwind",
-            "move_3": "Rain Dance",
-            "move_4": "Taunt"
+            "move_1": "Ice Spinner",
+            "move_2": "Crunch",
+            "move_3": "Sucker Punch",
+            "move_4": "Protect"
         }
     },
     {
-        "name": "Nia (Incineroar)",
-        "item": "Rocky Helmet",
-        "ability": "Intimidate",
+        "name": "Raging Bolt",
+        "item": "Magnet",
+        "ability": "Protosynthesis",
         "level": 50,
-        "tera_type": "Grass",
-        "nature": "Careful",
+        "tera_type": "Electric",
+        "nature": "Brave",
         "evs": {
-            "ev_hp": 244,
-            "ev_attack": 4,
-            "ev_defense": 100,
+            "ev_hp": 252,
+            "ev_attack": 252,
+            "ev_defense": 4,
             "ev_special_attack": 100,
             "ev_special_defense": 76,
-            "ev_speed": 84
+            "ev_speed": 164
         },
         "ivs": {
             "iv_hp": 31,
@@ -113,26 +113,26 @@
             "iv_speed": 28
         },
         "moves": {
-            "move_1": "Flare Blitz",
-            "move_2": "Knock Off",
-            "move_3": "U-turn",
-            "move_4": "Fake Out"
+            "move_1": "Thunderbolt",
+            "move_2": "Dragon Pulse",
+            "move_3": "Thunderclap",
+            "move_4": "Protect"
         }
     },
     {
-        "name": "Rex (Urshifu-Rapid-Strike)",
-        "item": "Focus Sash",
-        "ability": "Unseen Fist",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
         "level": 50,
-        "tera_type": "Stellar",
-        "nature": "Adamant",
+        "tera_type": "Water",
+        "nature": "Brave",
         "evs": {
-            "ev_hp": 4,
-            "ev_attack": 252,
+            "ev_hp": 108,
+            "ev_attack": 244,
             "ev_defense": 52,
             "ev_special_attack": 100,
             "ev_special_defense": 156,
-            "ev_speed": 252
+            "ev_speed": 156
         },
         "ivs": {
             "iv_hp": 31,
@@ -143,26 +143,26 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Surging Strikes",
-            "move_2": "Aqua Jet",
-            "move_3": "Close Combat",
-            "move_4": "Detect"
+            "move_1": "Wood Hammer",
+            "move_2": "Grassy Glide",
+            "move_3": "Fake Out",
+            "move_4": "U-turn"
         }
     },
     {
-        "name": "Vandham (Ursaluna)",
-        "item": "Flame Orb",
-        "ability": "Guts",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
         "level": 50,
-        "tera_type": "Ghost",
+        "tera_type": "Water",
         "nature": "Adamant",
         "evs": {
-            "ev_hp": 12,
-            "ev_attack": 252,
-            "ev_defense": 4,
+            "ev_hp": 252,
+            "ev_attack": 68,
+            "ev_defense": 28,
             "ev_special_attack": 252,
-            "ev_special_defense": 84,
-            "ev_speed": 156
+            "ev_special_defense": 92,
+            "ev_speed": 68
         },
         "ivs": {
             "iv_hp": 0,
@@ -173,9 +173,9 @@
             "iv_speed": 0
         },
         "moves": {
-            "move_1": "Earthquake",
-            "move_2": "Headlong Rush",
-            "move_3": "Facade",
+            "move_1": "Spore",
+            "move_2": "Rage Powder",
+            "move_3": "Sludge Bomb",
             "move_4": "Protect"
         }
     }

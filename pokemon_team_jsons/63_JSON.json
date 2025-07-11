@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -130,7 +131,7 @@
             "ev_hp": 140,
             "ev_attack": 196,
             "ev_defense": 4,
-            "ev_special_attack": 252,
+            "ev_special_attack": 44,
             "ev_special_defense": 108,
             "ev_speed": 60
         },

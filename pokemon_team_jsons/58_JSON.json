@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -39,9 +40,9 @@
         "evs": {
             "ev_hp": 4,
             "ev_attack": 4,
-            "ev_defense": 156,
+            "ev_defense": 4,
             "ev_special_attack": 252,
-            "ev_special_defense": 124,
+            "ev_special_defense": 28,
             "ev_speed": 252
         },
         "ivs": {
@@ -98,7 +99,7 @@
         "nature": "Adamant",
         "evs": {
             "ev_hp": 244,
-            "ev_attack": 252,
+            "ev_attack": 36,
             "ev_defense": 20,
             "ev_special_attack": 116,
             "ev_special_defense": 68,
@@ -130,7 +131,7 @@
             "ev_hp": 44,
             "ev_attack": 140,
             "ev_defense": 4,
-            "ev_special_attack": 252,
+            "ev_special_attack": 44,
             "ev_special_defense": 116,
             "ev_speed": 204
         },

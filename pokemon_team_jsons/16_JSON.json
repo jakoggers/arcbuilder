@@ -2,6 +2,7 @@
     {
         "name": "Volcarona",
         "item": "Rocky Helmet",
+        "gender": "",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Dragon",

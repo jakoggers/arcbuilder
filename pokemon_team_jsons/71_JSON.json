@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Loaded Dice",
+        "gender": "",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -130,7 +131,7 @@
             "ev_hp": 68,
             "ev_attack": 220,
             "ev_defense": 4,
-            "ev_special_attack": 252,
+            "ev_special_attack": 44,
             "ev_special_defense": 4,
             "ev_speed": 212
         },

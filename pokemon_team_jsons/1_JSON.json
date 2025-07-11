@@ -2,6 +2,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",

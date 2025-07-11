@@ -2,6 +2,7 @@
     {
         "name": "Whimsicott (F)",
         "item": "Covert Cloak",
+        "gender": "",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",

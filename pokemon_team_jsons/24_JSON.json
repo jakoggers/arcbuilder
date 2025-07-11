@@ -2,6 +2,7 @@
     {
         "name": "Dragonite",
         "item": "Loaded Dice",
+        "gender": "",
         "ability": "Multiscale",
         "level": 50,
         "tera_type": "Poison",

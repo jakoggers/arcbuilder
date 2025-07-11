@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -98,7 +99,7 @@
         "nature": "Timid",
         "evs": {
             "ev_hp": 252,
-            "ev_attack": 252,
+            "ev_attack": 36,
             "ev_defense": 212,
             "ev_special_attack": 212,
             "ev_special_defense": 36,
@@ -130,7 +131,7 @@
             "ev_hp": 252,
             "ev_attack": 140,
             "ev_defense": 4,
-            "ev_special_attack": 252,
+            "ev_special_attack": 44,
             "ev_special_defense": 4,
             "ev_speed": 252
         },

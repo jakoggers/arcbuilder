@@ -2,6 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Leftovers",
+        "gender": "",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",

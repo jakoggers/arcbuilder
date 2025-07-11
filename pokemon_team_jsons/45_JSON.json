@@ -2,6 +2,7 @@
     {
         "name": "Gouging Fire",
         "item": "Clear Amulet",
+        "gender": "",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Grass",

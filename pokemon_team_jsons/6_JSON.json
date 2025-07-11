@@ -2,6 +2,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
+        "gender": "",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",

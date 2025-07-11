@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Life Orb",
+        "gender": "",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",

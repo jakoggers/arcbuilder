@@ -2,6 +2,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Covert Cloak",
+        "gender": "",
         "ability": "Prankster",
         "level": 59,
         "tera_type": "Fire",

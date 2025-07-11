@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "",
         "ability": "As One",
         "level": 50,
         "tera_type": "Fairy",

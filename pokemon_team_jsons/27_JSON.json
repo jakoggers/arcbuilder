@@ -1,16 +1,17 @@
 [
     {
-        "name": "Sensei (Grimmsnarl)",
+        "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Genderless",
         "ability": "Prankster",
-        "level": 59,
+        "level": 50,
         "tera_type": "Ghost",
         "nature": "Careful",
         "evs": {
             "ev_hp": 228,
             "ev_attack": 4,
             "ev_defense": 132,
-            "ev_special_attack": 4,
+            "ev_special_attack": 0,
             "ev_special_defense": 116,
             "ev_speed": 28
         },
@@ -20,7 +21,7 @@
             "iv_defense": 31,
             "iv_special_attack": 31,
             "iv_special_defense": 31,
-            "iv_speed": 0
+            "iv_speed": 31
         },
         "moves": {
             "move_1": "Spirit Break",
@@ -30,15 +31,16 @@
         }
     },
     {
-        "name": "Yuuka (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
         "nature": "Timid",
         "evs": {
             "ev_hp": 108,
-            "ev_attack": 156,
+            "ev_attack": 0,
             "ev_defense": 4,
             "ev_special_attack": 252,
             "ev_special_defense": 4,
@@ -46,7 +48,7 @@
         },
         "ivs": {
             "iv_hp": 31,
-            "iv_attack": 20,
+            "iv_attack": 31,
             "iv_defense": 31,
             "iv_special_attack": 31,
             "iv_special_defense": 31,
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Mika (Rillaboom) (F)",
+        "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -70,13 +73,13 @@
             "ev_hp": 228,
             "ev_attack": 36,
             "ev_defense": 4,
-            "ev_special_attack": 196,
+            "ev_special_attack": 0,
             "ev_special_defense": 92,
             "ev_speed": 148
         },
         "ivs": {
             "iv_hp": 31,
-            "iv_attack": 0,
+            "iv_attack": 31,
             "iv_defense": 31,
             "iv_special_attack": 31,
             "iv_special_defense": 31,
@@ -90,27 +93,28 @@
         }
     },
     {
-        "name": "Kayoko (Incineroar) (F)",
+        "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
-        "level": 58,
+        "level": 50,
         "tera_type": "Bug",
         "nature": "Impish",
         "evs": {
             "ev_hp": 252,
             "ev_attack": 4,
             "ev_defense": 188,
-            "ev_special_attack": 252,
+            "ev_special_attack": 0,
             "ev_special_defense": 12,
             "ev_speed": 52
         },
         "ivs": {
             "iv_hp": 31,
-            "iv_attack": 0,
+            "iv_attack": 31,
             "iv_defense": 31,
             "iv_special_attack": 31,
             "iv_special_defense": 31,
-            "iv_speed": 0
+            "iv_speed": 31
         },
         "moves": {
             "move_1": "Knock Off",
@@ -120,27 +124,28 @@
         }
     },
     {
-        "name": "Ako (Calyrex-Ice)",
+        "name": "Calyrex-Ice",
         "item": "Icicle Plate",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
-        "level": 80,
+        "level": 50,
         "tera_type": "Water",
         "nature": "Adamant",
         "evs": {
             "ev_hp": 228,
             "ev_attack": 36,
             "ev_defense": 4,
-            "ev_special_attack": 116,
+            "ev_special_attack": 0,
             "ev_special_defense": 196,
             "ev_speed": 44
         },
         "ivs": {
             "iv_hp": 31,
-            "iv_attack": 0,
+            "iv_attack": 31,
             "iv_defense": 31,
             "iv_special_attack": 31,
             "iv_special_defense": 31,
-            "iv_speed": 23
+            "iv_speed": 31
         },
         "moves": {
             "move_1": "Glacial Lance",
@@ -150,27 +155,28 @@
         }
     },
     {
-        "name": "Hina (Annihilape) (F)",
+        "name": "Annihilape",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Defiant",
-        "level": 99,
+        "level": 50,
         "tera_type": "Grass",
         "nature": "Jolly",
         "evs": {
             "ev_hp": 228,
             "ev_attack": 44,
-            "ev_defense": 236,
-            "ev_special_attack": 4,
-            "ev_special_defense": 44,
+            "ev_defense": 0,
+            "ev_special_attack": 0,
+            "ev_special_defense": 0,
             "ev_speed": 236
         },
         "ivs": {
             "iv_hp": 31,
-            "iv_attack": 28,
+            "iv_attack": 31,
             "iv_defense": 31,
             "iv_special_attack": 31,
             "iv_special_defense": 31,
-            "iv_speed": 28
+            "iv_speed": 31
         },
         "moves": {
             "move_1": "Close Combat",

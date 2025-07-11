@@ -1,54 +1,69 @@
-Whimsicott @ Covert Cloak
-Ability: Prankster
-Tera Type: Water
-- Moonblast
-- Tailwind
-- Light Screen
-- Encore
+Amoonguss @ Sitrus Berry  
+Ability: Regenerator  
+Tera Type: Fire  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Pollen Puff  
+- Spore  
+- Rage Powder  
+- Protect  
 
 
-Urshifu-Rapid-Strike @ Choice Band
-Ability: Unseen Fist
-Tera Type: Ghost
-- Surging Strikes
-- U-turn
-- Aqua Jet
-- Close Combat
+Iron Valiant @ Choice Specs  
+Ability: Quark Drive  
+Tera Type: Fairy  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Thunderbolt  
+- Shadow Ball  
+- Psyshock  
 
 
-Ursaluna @ Flame Orb
-Ability: Guts
-Tera Type: Ghost
-- Facade
-- Headlong Rush
-- Earthquake
-- Protect
+Gallade @ Life Orb  
+Ability: Sharpness  
+Shiny: Yes  
+Tera Type: Fighting  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Sacred Sword  
+- Psycho Cut  
+- Shadow Sneak  
 
 
-Miraidon @ Choice Specs
-Ability: Hadron Engine
-Tera Type: Fairy
-- Electro Drift
-- Volt Switch
-- Draco Meteor
-- Dazzling Gleam
+Pawmot @ Focus Sash  
+Ability: Volt Absorb  
+Tera Type: Electric  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Double Shock  
+- Revival Blessing  
+- Close Combat  
+- Nuzzle  
 
 
-Lunala @ Electric Seed
-Ability: Shadow Shield
-Tera Type: Fairy
-- Trick Room
-- Moonblast
-- Wide Guard
-- Moongeist Beam
+Iron Bundle @ Heavy-Duty Boots  
+Ability: Quark Drive  
+Tera Type: Ice  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Hydro Pump  
+- Electric Terrain  
+- Taunt  
 
 
-Incineroar @ Assault Vest
-Ability: Intimidate
-Tera Type: Bug
-- U-turn
-- Knock Off
-- Flare Blitz
-- Fake Out
+Volcarona @ Heavy-Duty Boots  
+Ability: Flame Body  
+Tera Type: Grass  
+EVs: 248 HP / 108 Def / 152 Spe  
+Timid Nature  
+- Quiver Dance  
+- Fiery Dance  
+- Morning Sun  
+- Giga Drain  
 
 

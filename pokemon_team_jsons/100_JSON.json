@@ -2,6 +2,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "",
         "ability": "Intimidate",
         "level": 68,
         "tera_type": "Bug",

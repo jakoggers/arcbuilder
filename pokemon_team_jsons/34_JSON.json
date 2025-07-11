@@ -2,6 +2,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Grass",

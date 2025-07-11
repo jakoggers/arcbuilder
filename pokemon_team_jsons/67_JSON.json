@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -130,7 +131,7 @@
             "ev_hp": 252,
             "ev_attack": 4,
             "ev_defense": 76,
-            "ev_special_attack": 252,
+            "ev_special_attack": 44,
             "ev_special_defense": 140,
             "ev_speed": 36
         },

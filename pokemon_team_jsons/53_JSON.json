@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",

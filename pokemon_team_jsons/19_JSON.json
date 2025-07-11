@@ -2,6 +2,7 @@
     {
         "name": "Brute Bonnet",
         "item": "Sitrus Berry",
+        "gender": "",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",

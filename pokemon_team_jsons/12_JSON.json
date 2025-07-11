@@ -2,6 +2,7 @@
     {
         "name": "Iron Treads",
         "item": "Life Orb",
+        "gender": "",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ghost",

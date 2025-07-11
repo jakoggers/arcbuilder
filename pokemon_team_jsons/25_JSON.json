@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fire",

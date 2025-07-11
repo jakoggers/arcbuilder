@@ -2,6 +2,7 @@
     {
         "name": "I'm Fakin (Incineroar) (F)",
         "item": "Safety Goggles",
+        "gender": "",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",

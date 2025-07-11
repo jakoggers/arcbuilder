@@ -2,6 +2,7 @@
     {
         "name": "Tornadus",
         "item": "Sharp Beak",
+        "gender": "",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dragon",
