@@ -2,6 +2,7 @@
     {
         "name": "Iron Jugulis",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ground",
@@ -32,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Scope Lens",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Palkia",
         "item": "Lustrous Orb",
+        "gender": "Genderless",
         "ability": "Telepathy",
         "level": 50,
         "tera_type": "Steel",
@@ -122,6 +126,7 @@
     {
         "name": "Iron Moth",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Fairy",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Ogerpon-Cornerstone (F)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",

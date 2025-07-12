@@ -2,6 +2,7 @@
     {
         "name": "Groudon",
         "item": "Weakness Policy",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Jumpluff",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Chlorophyll",
         "level": 50,
         "tera_type": "Normal",
@@ -92,6 +95,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -122,6 +126,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Stellar",
@@ -152,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",

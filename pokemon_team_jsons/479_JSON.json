@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Normal",
@@ -32,6 +33,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Unaware",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Tatsugiri-Droopy",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Commander",
         "level": 50,
         "tera_type": "Steel",
@@ -92,6 +95,7 @@
     {
         "name": "Eternatus",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Pressure",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Sitrus Berry",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",

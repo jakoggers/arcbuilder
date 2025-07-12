@@ -2,6 +2,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Psychic",
@@ -32,6 +33,7 @@
     {
         "name": "Koraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fighting",
@@ -62,6 +64,7 @@
     {
         "name": "Indeedee-F",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Fairy",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Ogerpon-Hearthflame (F)",
+        "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Flutter Mane",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Ground",
@@ -152,6 +157,7 @@
     {
         "name": "Roaring Moon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Flying",

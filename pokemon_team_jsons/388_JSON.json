@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Amoonguss",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -92,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",

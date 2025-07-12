@@ -2,7 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -33,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Electric Seed",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Grass",
@@ -63,6 +64,7 @@
     {
         "name": "Pelipper",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Ground",
@@ -93,6 +95,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Tsareena",
         "item": "Wide Lens",
+        "gender": "Female",
         "ability": "Queenly Majesty",
         "level": 50,
         "tera_type": "Ice",
@@ -153,6 +157,7 @@
     {
         "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",

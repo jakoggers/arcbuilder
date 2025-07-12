@@ -2,6 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Male",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Moody",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Muk-Alola",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Power of Alchemy",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Polteageist",
         "item": "Weakness Policy",
+        "gender": "Genderless",
         "ability": "Weak Armor",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Bug",

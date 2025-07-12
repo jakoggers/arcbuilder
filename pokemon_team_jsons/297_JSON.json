@@ -2,6 +2,7 @@
     {
         "name": "Bayleef",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Leaf Guard",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Eternatus",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Pressure",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Lugia",
         "item": "Binding Band",
+        "gender": "Genderless",
         "ability": "Pressure",
         "level": 50,
         "tera_type": "Normal",
@@ -92,6 +95,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Moody",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Muk-Alola",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Power of Alchemy",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Poison",

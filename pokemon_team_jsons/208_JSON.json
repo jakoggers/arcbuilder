@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Raging Bolt",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 75,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Clefairy",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Friend Guard",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Grass",

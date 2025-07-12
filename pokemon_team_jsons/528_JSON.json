@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Terapagos-Terastal",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Teraform Zero",
         "level": 50,
         "tera_type": "Stellar",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Ogerpon-Cornerstone (F)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",
@@ -92,6 +95,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Normal",
@@ -122,6 +126,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",

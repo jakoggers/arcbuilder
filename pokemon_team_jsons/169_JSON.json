@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 80,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 70,
         "tera_type": "Dragon",
@@ -62,6 +64,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -92,6 +95,7 @@
     {
         "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 79,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Raging Bolt",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 82,
         "tera_type": "Electric",
@@ -152,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",

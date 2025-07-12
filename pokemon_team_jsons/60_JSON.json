@@ -2,7 +2,7 @@
     {
         "name": "Kyogre",
         "item": "Power Lens",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",
@@ -33,6 +33,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Dark",
@@ -63,6 +64,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -93,6 +95,7 @@
     {
         "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Steel",
@@ -123,6 +126,7 @@
     {
         "name": "Smeargle",
         "item": "Eject Pack",
+        "gender": "Female",
         "ability": "Moody",
         "level": 50,
         "tera_type": "Ground",
@@ -153,6 +157,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Grass",

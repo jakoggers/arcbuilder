@@ -2,6 +2,7 @@
     {
         "name": "Kyogre",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Poison",
@@ -32,6 +33,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Female",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Dragon",
@@ -62,6 +64,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Volcarona",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Grass",
@@ -122,6 +126,7 @@
     {
         "name": "Flutter Mane",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Dragonite",
         "item": "Loaded Dice",
+        "gender": "Female",
         "ability": "Multiscale",
         "level": 50,
         "tera_type": "Normal",

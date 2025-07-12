@@ -2,6 +2,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Grass",
@@ -32,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Sitrus Berry",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Sinistcha",
         "item": "Rocky Helmet",
+        "gender": "Genderless",
         "ability": "Hospitality",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Urshifu",
         "item": "Choice Band",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Ting-Lu",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Vessel of Ruin",
         "level": 50,
         "tera_type": "Fairy",

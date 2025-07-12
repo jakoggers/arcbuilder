@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Terapagos",
         "item": "Choice Specs",
+        "gender": "Female",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",
@@ -62,6 +64,7 @@
     {
         "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Roaring Moon",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Flying",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Ogerpon-Cornerstone (F)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",
@@ -152,6 +157,7 @@
     {
         "name": "Volcarona",
         "item": "Sitrus Berry",
+        "gender": "Male",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Grass",

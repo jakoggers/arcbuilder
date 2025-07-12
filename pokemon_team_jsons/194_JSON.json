@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -62,6 +64,7 @@
     {
         "name": "Raging Bolt",
         "item": "Magnet",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -92,6 +95,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",

@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Annihilape",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Defiant",
         "level": 50,
         "tera_type": "Ground",
@@ -62,6 +64,7 @@
     {
         "name": "Ho-Oh",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 70,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Sinistcha",
         "item": "Sitrus Berry",
+        "gender": "Genderless",
         "ability": "Hospitality",
         "level": 50,
         "tera_type": "Water",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Incineroar (F)",
+        "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",

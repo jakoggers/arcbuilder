@@ -2,6 +2,7 @@
     {
         "name": "Terapagos-Terastal",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -32,6 +33,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Scream Tail",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Dark",

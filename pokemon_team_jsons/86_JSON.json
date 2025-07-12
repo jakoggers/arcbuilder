@@ -1,8 +1,8 @@
 [
     {
-        "name": "ミライドン (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Specs",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 72,
         "tera_type": "Electric",
@@ -31,8 +31,9 @@
         }
     },
     {
-        "name": "オーロンゲ (Grimmsnarl)",
+        "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "バドレックス (Calyrex-Ice)",
+        "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fairy",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "ウーラオス (Urshifu-Rapid-Strike) (M)",
+        "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "ガオガエン (Incineroar) (M)",
+        "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 64,
         "tera_type": "Bug",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "ガチグマ (Ursaluna)",
+        "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",

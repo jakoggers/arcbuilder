@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Electric Seed",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Ursaluna (F)",
+        "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Female",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Urshifu-Rapid-Strike (F)",
+        "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Incineroar (F)",
+        "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Whimsicott (F)",
+        "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Water",

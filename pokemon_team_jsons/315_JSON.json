@@ -2,6 +2,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Amoonguss",
         "item": "Mental Herb",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Flutter Mane",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -152,6 +157,7 @@
     {
         "name": "Terapagos",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",

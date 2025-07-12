@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Ho-Oh",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Walking Wake",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Sandy Shocks",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Stellar",
@@ -152,6 +157,7 @@
     {
         "name": "Cobalion",
         "item": "Grassy Seed",
+        "gender": "Genderless",
         "ability": "Justified",
         "level": 50,
         "tera_type": "Fairy",

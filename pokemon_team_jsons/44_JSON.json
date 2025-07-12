@@ -2,7 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Clear Amulet",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -33,6 +33,7 @@
     {
         "name": "Scovillain",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Chlorophyll",
         "level": 53,
         "tera_type": "Ghost",
@@ -63,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -93,6 +95,7 @@
     {
         "name": "Chesnaught",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Bulletproof",
         "level": 73,
         "tera_type": "Steel",
@@ -123,6 +126,7 @@
     {
         "name": "Clefairy",
         "item": "Eviolite",
+        "gender": "Female",
         "ability": "Friend Guard",
         "level": 52,
         "tera_type": "Ground",
@@ -153,6 +157,7 @@
     {
         "name": "Indeedee-F",
         "item": "Psychic Seed",
+        "gender": "Male",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Fire",

@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Terapagos-Terastal",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -92,6 +95,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Stellar",

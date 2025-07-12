@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 91,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Brute Bonnet",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 77,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 76,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 55,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 77,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 84,
         "tera_type": "Fairy",

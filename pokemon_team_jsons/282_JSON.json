@@ -2,6 +2,7 @@
     {
         "name": "Lunala",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -92,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Stellar",
@@ -152,6 +157,7 @@
     {
         "name": "Volcarona",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Dragon",

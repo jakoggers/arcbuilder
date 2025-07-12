@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Male",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Ogerpon-Cornerstone (F)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",
@@ -92,6 +95,7 @@
     {
         "name": "Volcarona",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Brute Bonnet",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Rillaboom",
         "item": "Miracle Seed",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Grass",

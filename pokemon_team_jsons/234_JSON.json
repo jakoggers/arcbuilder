@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Dragon",
@@ -32,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Splash Plate",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Venonat",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Compound Eyes",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Farigiraf",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",

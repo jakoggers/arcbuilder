@@ -2,7 +2,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
-        "gender": "",
+        "gender": "Male",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",
@@ -33,6 +33,7 @@
     {
         "name": "Chien-Pao",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Ghost",
@@ -63,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -93,6 +95,7 @@
     {
         "name": "Raging Bolt",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -123,6 +126,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -153,6 +157,7 @@
     {
         "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",

@@ -2,6 +2,7 @@
     {
         "name": "Indeedee-F",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Ursaluna-Bloodmoon",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Mind's Eye",
         "level": 50,
         "tera_type": "Normal",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Smeargle (M)",
+        "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Own Tempo",
         "level": 50,
         "tera_type": "Grass",
@@ -122,6 +126,7 @@
     {
         "name": "Urshifu",
         "item": "Choice Band",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Grass",

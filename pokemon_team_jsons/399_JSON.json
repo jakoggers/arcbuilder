@@ -2,6 +2,7 @@
     {
         "name": "Toedscruel",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Mycelium Might",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Weezing-Galar",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Neutralizing Gas",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Porygon2",
         "item": "Eviolite",
+        "gender": "Genderless",
         "ability": "Download",
         "level": 50,
         "tera_type": "Ground",
@@ -92,6 +95,7 @@
     {
         "name": "Miraidon",
         "item": "Electric Seed",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",

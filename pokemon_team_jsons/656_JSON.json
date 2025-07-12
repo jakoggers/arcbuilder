@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Ho-Oh",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Iron Valiant",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Steel",
@@ -152,6 +157,7 @@
     {
         "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",

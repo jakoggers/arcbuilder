@@ -1,8 +1,8 @@
 [
     {
-        "name": "Don Bastio (Bastiodon)",
+        "name": "Bastiodon",
         "item": "Electric Seed",
-        "gender": "",
+        "gender": "Male",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Grass",
@@ -31,8 +31,9 @@
         }
     },
     {
-        "name": "Don Buttons (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "Don Arrogance (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "Don $90 (Urshifu-Rapid-Strike)",
+        "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Grass",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "Don VGC (Incineroar)",
+        "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "Don HateCrime (Whimsicott)",
+        "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Fire",

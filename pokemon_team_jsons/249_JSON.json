@@ -2,6 +2,7 @@
     {
         "name": "Whimsicott",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -62,6 +64,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -92,6 +95,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Sitrus Berry",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Volcarona",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Grass",

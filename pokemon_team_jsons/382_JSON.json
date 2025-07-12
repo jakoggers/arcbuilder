@@ -1,7 +1,8 @@
 [
     {
-        "name": "Nokt (Lunala)",
+        "name": "Lunala",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "nyoom (Koraidon)",
+        "name": "Koraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Azelleah (Azelf)",
+        "name": "Azelf",
         "item": "Normal Gem",
+        "gender": "Genderless",
         "ability": "Levitate",
         "level": 50,
         "tera_type": "Normal",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Coughing Baby (Flutter Mane)",
+        "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Normal",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Flikker (Chi-Yu)",
+        "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 50,
         "tera_type": "Ghost",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Bolstabär (Ursaluna) (F)",
+        "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Female",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Water",

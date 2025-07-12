@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Sinistcha",
         "item": "Sitrus Berry",
+        "gender": "Genderless",
         "ability": "Hospitality",
         "level": 50,
         "tera_type": "Normal",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Valiant",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ghost",

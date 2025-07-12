@@ -2,7 +2,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",
@@ -33,6 +33,7 @@
     {
         "name": "Raging Bolt",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -63,6 +64,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fairy",
@@ -93,6 +95,7 @@
     {
         "name": "Chien-Pao",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Stellar",
@@ -123,6 +126,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -153,6 +157,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Ghost",

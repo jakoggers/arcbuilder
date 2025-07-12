@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 81,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 77,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 76,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 57,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Whimsicott",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 77,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 60,
         "tera_type": "Ghost",

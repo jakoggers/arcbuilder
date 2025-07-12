@@ -2,7 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -33,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Grass",
@@ -63,6 +64,7 @@
     {
         "name": "Raging Bolt",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -93,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -123,6 +126,7 @@
     {
         "name": "Tornadus",
         "item": "Sharp Beak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dragon",
@@ -153,6 +157,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Moody",
         "level": 50,
         "tera_type": "Grass",

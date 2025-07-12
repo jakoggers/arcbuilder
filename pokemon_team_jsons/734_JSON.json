@@ -2,6 +2,7 @@
     {
         "name": "Kyogre",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Never-Melt Ice",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -122,6 +126,7 @@
     {
         "name": "Indeedee-F",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Dragon",
@@ -152,6 +157,7 @@
     {
         "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Poison",

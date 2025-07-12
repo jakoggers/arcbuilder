@@ -2,6 +2,7 @@
     {
         "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Entei",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Inner Focus",
         "level": 50,
         "tera_type": "Normal",
@@ -62,6 +64,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 56,
         "tera_type": "Bug",
@@ -92,6 +95,7 @@
     {
         "name": "Urshifu",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 55,
         "tera_type": "Stellar",
@@ -122,6 +126,7 @@
     {
         "name": "Lunala",
         "item": "Electric Seed",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",

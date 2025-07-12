@@ -1,8 +1,8 @@
 [
     {
-        "name": "狩星巡日 (Koraidon)",
+        "name": "Koraidon",
         "item": "Ability Shield",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -31,8 +31,9 @@
         }
     },
     {
-        "name": "大震撼 (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "烽火漠上烟 (Weezing-Galar) (M)",
+        "name": "Weezing-Galar",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Neutralizing Gas",
         "level": 50,
         "tera_type": "Water",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "捷足飞贼 (Chien-Pao)",
+        "name": "Chien-Pao",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Stellar",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "苍龙濯世 (Walking Wake)",
+        "name": "Walking Wake",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "旃檀薪尽 (Brute Bonnet)",
+        "name": "Brute Bonnet",
         "item": "Rocky Helmet",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",

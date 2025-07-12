@@ -2,6 +2,7 @@
     {
         "name": "Terapagos-Terastal",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Ogerpon-Cornerstone (F)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Garganacl",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Purifying Salt",
         "level": 50,
         "tera_type": "Ghost",

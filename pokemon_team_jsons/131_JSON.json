@@ -2,6 +2,7 @@
     {
         "name": "Ho-Oh",
         "item": "Rocky Helmet",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Overqwil",
         "item": "Black Sludge",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Poison",
@@ -62,6 +64,7 @@
     {
         "name": "Ting-Lu",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Vessel of Ruin",
         "level": 50,
         "tera_type": "Fire",
@@ -92,6 +95,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",

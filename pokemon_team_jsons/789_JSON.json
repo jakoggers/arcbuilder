@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Female",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Normal",
@@ -62,6 +64,7 @@
     {
         "name": "Walking Wake",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Stellar",
@@ -92,6 +95,7 @@
     {
         "name": "Raging Bolt",
         "item": "Magnet",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -122,6 +126,7 @@
     {
         "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -152,6 +157,7 @@
     {
         "name": "Ditto",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Imposter",
         "level": 50,
         "tera_type": "Ghost",

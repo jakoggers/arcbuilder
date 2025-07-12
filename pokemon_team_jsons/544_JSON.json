@@ -2,6 +2,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Grass",
@@ -32,6 +33,7 @@
     {
         "name": "Terapagos",
         "item": "Expert Belt",
+        "gender": "Male",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",
@@ -62,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Crown",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ground",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Whimsicott",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",

@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Sitrus Berry",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -92,6 +95,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",

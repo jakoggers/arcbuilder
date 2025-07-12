@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Indeedee",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Whimsicott",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Stellar",
@@ -122,6 +126,7 @@
     {
         "name": "Tsareena",
         "item": "Iron Ball",
+        "gender": "Female",
         "ability": "Sweet Veil",
         "level": 50,
         "tera_type": "Dark",
@@ -152,6 +157,7 @@
     {
         "name": "Kyogre",
         "item": "Power Lens",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",

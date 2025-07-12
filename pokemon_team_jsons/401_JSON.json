@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Safety Goggles",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 77,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Enamorus-Therian",
         "item": "Choice Specs",
+        "gender": "Female",
         "ability": "Overcoat",
         "level": 95,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Okidogi",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Guard Dog",
         "level": 70,
         "tera_type": "Grass",
@@ -122,6 +126,7 @@
     {
         "name": "Indeedee-F",
         "item": "Psychic Seed",
+        "gender": "Male",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Technician",
         "level": 66,
         "tera_type": "Grass",

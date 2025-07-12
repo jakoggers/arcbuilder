@@ -1,8 +1,8 @@
 [
     {
-        "name": "Shamone Rider (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Focus Sash",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -33,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -63,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -93,6 +95,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Armor Tail",
         "level": 70,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -153,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",

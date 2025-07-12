@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Groudon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Volcarona",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Ditto",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Imposter",
         "level": 50,
         "tera_type": "Normal",

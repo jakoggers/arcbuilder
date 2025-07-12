@@ -2,6 +2,7 @@
     {
         "name": "Sneasler",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Unburden",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -62,6 +64,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Unaware",
         "level": 50,
         "tera_type": "Grass",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Tatsugiri (Tatsugiri-Droopy)",
+        "name": "Tatsugiri-Droopy",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Commander",
         "level": 50,
         "tera_type": "Stellar",
@@ -122,6 +126,7 @@
     {
         "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",

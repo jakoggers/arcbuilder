@@ -2,6 +2,7 @@
     {
         "name": "Volcarona",
         "item": "Sitrus Berry",
+        "gender": "Male",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Grass",
@@ -32,6 +33,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Bug",

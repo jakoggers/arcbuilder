@@ -2,6 +2,7 @@
     {
         "name": "Vaporeon",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Koraidon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Water",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Ogerpon-Hearthflame (F)",
+        "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Indeedee-F",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",

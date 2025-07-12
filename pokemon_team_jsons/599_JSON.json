@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Male",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Pelipper",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Raging Bolt",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",

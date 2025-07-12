@@ -2,6 +2,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Solgaleo",
         "item": "Weakness Policy",
+        "gender": "Genderless",
         "ability": "Full Metal Body",
         "level": 50,
         "tera_type": "Rock",

@@ -2,6 +2,7 @@
     {
         "name": "Clefairy",
         "item": "Eviolite",
+        "gender": "Female",
         "ability": "Friend Guard",
         "level": 82,
         "tera_type": "Ground",
@@ -32,6 +33,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 72,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Wo-Chien",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Tablets of Ruin",
         "level": 50,
         "tera_type": "Poison",
@@ -92,6 +95,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 80,
         "tera_type": "Grass",
@@ -122,6 +126,7 @@
     {
         "name": "Kyogre",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 60,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",

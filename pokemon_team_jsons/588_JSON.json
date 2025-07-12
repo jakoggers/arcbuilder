@@ -2,6 +2,7 @@
     {
         "name": "Regidrago",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Dragon's Maw",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Whimsicott",
         "item": "Ring Target",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Regieleki",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Transistor",
         "level": 50,
         "tera_type": "Normal",
@@ -122,6 +126,7 @@
     {
         "name": "Chien-Pao",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Dragon",

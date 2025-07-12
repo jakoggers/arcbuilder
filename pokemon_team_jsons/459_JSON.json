@@ -1,7 +1,8 @@
 [
     {
-        "name": "Balthus (Koraidon)",
+        "name": "Koraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Lysithea (Lunala)",
+        "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Hubert (Flutter Mane)",
+        "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Raphael (Incineroar) (M)",
+        "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Unga Bungus (Brute Bonnet)",
+        "name": "Brute Bonnet",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Robin (Landorus)",
+        "name": "Landorus",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Ghost",

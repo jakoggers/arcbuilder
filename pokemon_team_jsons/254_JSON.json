@@ -2,6 +2,7 @@
     {
         "name": "Dragonite",
         "item": "Loaded Dice",
+        "gender": "Female",
         "ability": "Multiscale",
         "level": 50,
         "tera_type": "Normal",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Male",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -92,6 +95,7 @@
     {
         "name": "Chien-Pao",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Stellar",
@@ -122,6 +126,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Weezing-Galar",
         "item": "Sitrus Berry",
+        "gender": "Female",
         "ability": "Neutralizing Gas",
         "level": 50,
         "tera_type": "Water",

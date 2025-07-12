@@ -1,7 +1,8 @@
 [
     {
-        "name": "Fred (Koraidon)",
+        "name": "Koraidon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Wilma (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Dino (Raging Bolt)",
+        "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Barney (Incineroar)",
+        "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Pebbles (Ogerpon-Cornerstone)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Bamm Bamm (Brute Bonnet)",
+        "name": "Brute Bonnet",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",

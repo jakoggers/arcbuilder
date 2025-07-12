@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Normal",
@@ -62,6 +64,7 @@
     {
         "name": "Iron Bundle",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ground",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Hands",
         "item": "Iron Ball",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Dark",
@@ -122,6 +126,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Ground",
@@ -152,6 +157,7 @@
     {
         "name": "Regieleki",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Transistor",
         "level": 50,
         "tera_type": "Normal",

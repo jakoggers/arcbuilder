@@ -2,47 +2,49 @@
 import requests, json
 import os
 import pandas as pd
+import random as rd
 from bs4 import BeautifulSoup
 from teams import pokemon_team_structure
 from lists import pokemon_gender
 
-def ev_and_iv_organizer(pokemon_num, ev_or_iv, which_one, given_pokemon_team):
-	find_char = ev_or_iv.index(":")
-	find_wspace = ev_or_iv.index("\n")
-	ev_line = ev_or_iv[find_char + 2:find_wspace - 2].split("/") # slice the line by its slashes
+# because ev's and iv's can be parsed the same way initalizing both depending on the input
+def ev_and_iv_organizer(given_line, given_pokemon_team, pokemon_num, chosen_stat):
+	find_char = given_line.index(":")
+	find_wspace = given_line.index("\n")
+	ev_line = given_line[find_char + 2:find_wspace - 2].split("/") # slice the line by its slashes
 	for i in range(len(ev_line)): # remove the white space
 		ev_line[i] = ev_line[i].strip()
 	for stat_change in ev_line: # use the method to filter and add the evs
 		match stat_change:
 			case stat_change if "HP" in stat_change:
 				hp = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_hp"] = hp
+				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_hp"] = hp
 				# print("The HP ev in question: " + hp)
 			case stat_change if "Atk" in stat_change:
 				attack = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_attack"] = attack
+				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_attack"] = attack
 				#print("The Attack ev in question: " + attack)
 			case stat_change if "Def" in stat_change:
 				defense = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_defense"] = defense
+				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_defense"] = defense
 				#print("The Defense ev in question: " + defense)
 			case stat_change if "SpA" in stat_change:
 				special_attack = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_special_attack"] = special_attack
+				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_special_attack"] = special_attack
 				#print("The Special Attack ev in question: " + special_attack)
 			case stat_change if "SpD" in stat_change:
 				special_defense = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_special_defense"] = special_defense
+				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_special_defense"] = special_defense
 				#print("The Special Defense ev in question: " + special_defense)
 			case stat_change if "Spe" in stat_change:
 				speed = int(stat_change[:len(stat_change) - 3].strip())
-				given_pokemon_team[pokemon_num][f"{which_one}s"][f"{which_one}_speed"] = speed
+				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_speed"] = speed
 				#print("The Speed ev in question: " + speed)
-	# print(ev_or_iv)
+	# print(given_line)
 
+# check if the parsed name has a name or a gender, checking parentheses
 def gender_or_nickname(name, given_pokemon_team, which_pokemon):
 	# Set genders of all pokemon
-
 	# find if it has a nickame
 	# Check if there are more than two left parentheses
 	# If theres one, that means there's either a nickname or gender
@@ -61,17 +63,19 @@ def gender_or_nickname(name, given_pokemon_team, which_pokemon):
 		if len(find_gender) == 3:
 			if find_gender == "(M)":
 				given_pokemon_team[which_pokemon]["gender"] = "Male"
-			else:
+			elif find_gender == "(F)":
 				given_pokemon_team[which_pokemon]["gender"] = "Female"
+			final_name = name[:find_first_lparan].strip()
 			given_pokemon_team[which_pokemon]["name"] = final_name
-			final_name = name[find_first_lparan].strip()
 		else:
 			given_pokemon_team[which_pokemon]["name"] = find_name
 			get_gender = pokemon_gender.get(find_name.lower())
 			if get_gender:
-				print(f"Name w/ specific gender: {name}, Gender: {get_gender}")
+				given_pokemon_team[which_pokemon]["gender"] = get_gender
 			else:
-				print(f"Name w/o specified gender: {name}, Gender: {get_gender}")
+				get_gender = rd.choice(["Male", "Female"])
+				given_pokemon_team[which_pokemon]["gender"] = get_gender
+	# has both nickname and gender
 	elif paran_count == 2:
 		find_second_lparan = name[find_first_lparan + 1:].find("(")
 		split_lparan_string = name[find_first_lparan + 1:]
@@ -86,16 +90,17 @@ def gender_or_nickname(name, given_pokemon_team, which_pokemon):
 		# If neither, add the name AND specified gender immediately
 		# ok ik there's like a ratio, but for simplicity i'm gonna 50/50 everything that ISN'T specified
 		if get_gender:
-			print(f"Name w/ specific gender: {name}, Gender: {get_gender}")
+			#print(f"Name w/ specific gender: {name}, Gender: {get_gender}")
+			given_pokemon_team[which_pokemon]["gender"] = get_gender
 		else:
-			print(f"Name w/o specified gender: {name}, Gender: {get_gender}")
-
+			get_gender = rd.choice(["Male", "Female"])
+			given_pokemon_team[which_pokemon]["gender"] = get_gender
+			#print(f"Name w/o specified gender: {name}, Gender: {get_gender}")
 		given_pokemon_team[which_pokemon]["name"] = name
 
 # write this to Pokemon Folder link
 def write_team_data(given_link, given_json_location, given_pokemon_team):
 	# Assumes EVERY Pokemon holds an item
-
 	with open(given_link, 'r+', encoding="utf-8") as f:
 		# read every indiviual line
 		read_line = f.readline()
@@ -111,9 +116,7 @@ def write_team_data(given_link, given_json_location, given_pokemon_team):
 					find_char = read_line.index("@")
 					name = read_line[:find_char].strip()
 					item = read_line[find_char + 2:].strip()
-					# For every pokemon, initialize the value given in the section
 					gender_or_nickname(name, given_pokemon_team, which_pokemon)
-					# Add item ofc ASSUMING THERE'S AN ITEM
 					given_pokemon_team[which_pokemon]["item"] = item
 
 				# Write ability:
@@ -142,11 +145,11 @@ def write_team_data(given_link, given_json_location, given_pokemon_team):
 
 				# Write EVs
 				case read_line if "EVs: " in read_line:
-					ev_and_iv_organizer(which_pokemon, read_line, "ev", given_pokemon_team)
+					ev_and_iv_organizer(read_line, given_pokemon_team, which_pokemon, "ev")
 
 				# Write IVs
 				case read_line if "IVs:" in read_line:
-					ev_and_iv_organizer(which_pokemon, read_line, "iv", given_pokemon_team)
+					ev_and_iv_organizer(read_line, given_pokemon_team, which_pokemon, "iv")
 
 				# Write in all moves:
 				case read_line if "-" in read_line: #given lineis a move
@@ -165,40 +168,38 @@ def team_handler(get_url, file_name):
 	# Assumes ALL teams have 6 pokemon
 	#monitor_file = open("misc/monitor_file", "w", encoding="utf-8")
 	# get the url from pokepaste
-	print(f"\nFile I'm working with: {file_name}.txt \n")
 
 	page = requests.get(get_url)
 	create_team_file = "pokemon_teams/" + file_name + ".txt"
 	create_team_json = f"pokemon_team_jsons/{file_name}_JSON.json"
+
+	print(f"\nFile I'm working with: {file_name}.txt \n")
+	print(f"Writing into: {create_team_file}")
+	print(f"Writing JSON into: {create_team_json} from {create_team_file}")
+	print(f"\nFile: {file_name} written! No problems (hopefully)")
 
 	# Utilizing BeautifulSoup, take all pokemon data and parse it.
 	soup = BeautifulSoup(page.content, "html.parser")
 	pokemon_stats = soup.find_all("pre")
 
 	# Write the Team Data into the given Text file:
-	print(f"Writing into: {create_team_file}")
 	newPokemonFile = open(create_team_file, "w", encoding="utf-8")
 	for stat in pokemon_stats:
 		newPokemonFile.write(stat.text + "\n")
 	newPokemonFile.close()
 
 	#------------- organize the data -------------------------------------------------------
-
 	# Writes all team_data into a JSON file
-	print(f"Writing JSON into: {create_team_json} from {create_team_file}")
 	write_team_data(create_team_file, create_team_json, pokemon_team_structure)
 	# Close all the files, memory management type shiii >:)
-	#print("Algorithm Results: ")
-	#run_algo(create_team_json)
 
-	print(f"\nFile: {file_name} written! No problems (hopefully)")
-
-	#monitor_file.close()
-
+# Compile every team into a readable csv file
 def team_to_csv(given_json_path):
 	json_path = os.path.basename(given_json_path)
 	list_of_jsons = os.listdir("pokemon_team_jsons")
 	num_of_jsons = len(list_of_jsons)
+
+	print(json_path)
 
 	rows_to_csv = []
 	for i in range(num_of_jsons):
@@ -215,18 +216,3 @@ def team_to_csv(given_json_path):
 	fused_json.to_csv("Full Team Data.csv", encoding="utf-8", index=False)
 	# clean the data, bruh whose idea was it to clean the data like this smh... making it O(n)^2... what a geek
 	print("CSV'd the file gangana!!!!")
-
-# Test Teams:
-"""
-	https://pokepast.es/46e426ed62136f59 // made by hsxd_snakob himself
-	https://pokepast.es/ef6920d4f30db897 // made by idk
-	https://pokepast.es/722a7a53b4f46592 - made by
-	https://pokepast.es/84c0b7c14de37a87 // portland champion team, scarvi regulation I: centered around Kyogre
-	https://pokepast.es/8a2335a101620d91 // team around ho-oh
-	https://pokepast.es/5ee3277dc45acb8c // team around zamazenta
-"""
-
-# Call organize data function!!!!
-# organize_data()
-
-# Write dictionary VALUES as a txt file

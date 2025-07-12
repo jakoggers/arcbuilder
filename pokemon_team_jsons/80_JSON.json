@@ -2,7 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fairy",
@@ -33,6 +33,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Water",
@@ -63,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "Ogerpon-Wellspring (F)",
+        "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Amoonguss",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",

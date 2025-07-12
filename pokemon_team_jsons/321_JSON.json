@@ -2,6 +2,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Zacian",
         "item": "Rusted Sword",
+        "gender": "Genderless",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Kyogre",
         "item": "Splash Plate",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Roaring Moon",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Flying",
@@ -152,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",

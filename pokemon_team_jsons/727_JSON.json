@@ -2,6 +2,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ground",
@@ -62,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Archaludon",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Stamina",
         "level": 50,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Bastiodon",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Poison",
@@ -152,6 +157,7 @@
     {
         "name": "Gastrodon-East",
         "item": "Sitrus Berry",
+        "gender": "Male",
         "ability": "Storm Drain",
         "level": 50,
         "tera_type": "Fire",

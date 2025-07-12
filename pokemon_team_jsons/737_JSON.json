@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Male",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Normal",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Ogerpon-Cornerstone (F)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",
@@ -122,6 +126,7 @@
     {
         "name": "Volcarona",
         "item": "Sitrus Berry",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Lilligant-Hisui",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Chlorophyll",
         "level": 50,
         "tera_type": "Normal",

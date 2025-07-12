@@ -2,7 +2,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
-        "gender": "",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -33,6 +33,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Water",
@@ -63,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -93,6 +95,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Lunala",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",

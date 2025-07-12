@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Female",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Weezing",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Neutralizing Gas",
         "level": 50,
         "tera_type": "Poison",
@@ -92,6 +95,7 @@
     {
         "name": "Chien-Pao",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Dragonite",
         "item": "Choice Band",
+        "gender": "Male",
         "ability": "Inner Focus",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",

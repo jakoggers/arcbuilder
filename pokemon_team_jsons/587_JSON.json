@@ -2,6 +2,7 @@
     {
         "name": "Toxapex",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Rhydon",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Lightning Rod",
         "level": 62,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Ho-Oh",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Walking Wake",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Koraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Comfey",
         "item": "Sitrus Berry",
+        "gender": "Male",
         "ability": "Triage",
         "level": 50,
         "tera_type": "Water",

@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Safety Goggles",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Technician",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Indeedee-F",
         "item": "Psychic Seed",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -122,6 +126,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Water",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Ogerpon-Wellspring (F)",
+        "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",

@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 72,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 80,
         "tera_type": "Water",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Farigiraf (M)",
+        "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Armor Tail",
         "level": 56,
         "tera_type": "Dark",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 57,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Treads",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 97,
         "tera_type": "Ghost",

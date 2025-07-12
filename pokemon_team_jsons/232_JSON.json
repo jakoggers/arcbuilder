@@ -1,7 +1,8 @@
 [
     {
-        "name": "Ducktile's sheep (Cresselia)",
+        "name": "Cresselia",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Levitate",
         "level": 50,
         "tera_type": "Fairy",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Duckhand (Iron Hands)",
+        "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Water",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Ducktile's horse (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Ducktile's bike (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Ducktile (Ursaluna)",
+        "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Faketile (Sneasler)",
+        "name": "Sneasler",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Unburden",
         "level": 50,
         "tera_type": "Fighting",

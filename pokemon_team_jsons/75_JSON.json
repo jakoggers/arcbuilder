@@ -2,7 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -33,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -63,6 +64,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -93,6 +95,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -153,6 +157,7 @@
     {
         "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Steel",

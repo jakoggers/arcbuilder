@@ -2,7 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Spell Tag",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -33,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -63,6 +64,7 @@
     {
         "name": "Volcarona",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Grass",
@@ -93,6 +95,7 @@
     {
         "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -153,6 +157,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",

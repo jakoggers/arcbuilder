@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Ho-Oh",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Ground",
@@ -62,6 +64,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Iron Ball",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Ditto",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Imposter",
         "level": 50,
         "tera_type": "Dark",
@@ -122,6 +126,7 @@
     {
         "name": "Whimsicott",
         "item": "Eject Button",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Grass",

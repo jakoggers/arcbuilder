@@ -2,6 +2,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Groudon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -92,6 +95,7 @@
     {
         "name": "Jumpluff",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Chlorophyll",
         "level": 50,
         "tera_type": "Dark",
@@ -122,6 +126,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Raging Bolt",
         "item": "Magnet",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",

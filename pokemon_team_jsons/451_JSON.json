@@ -2,6 +2,7 @@
     {
         "name": "Iron Boulder",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Rock",
@@ -32,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Steel",
@@ -62,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Electric Seed",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Flying",
@@ -92,6 +95,7 @@
     {
         "name": "Brute Bonnet",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Thundurus",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Valiant",
         "item": "Mental Herb",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ghost",

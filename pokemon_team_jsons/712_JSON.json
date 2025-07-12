@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Spooky Plate",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Male",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Chien-Pao",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Stellar",
@@ -92,6 +95,7 @@
     {
         "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Steel",
@@ -122,6 +126,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -152,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Sitrus Berry",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",

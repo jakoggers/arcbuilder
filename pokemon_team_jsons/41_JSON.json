@@ -1,8 +1,8 @@
 [
     {
-        "name": "Mikoto (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Specs",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -33,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "Sogiita (Iron Hands)",
+        "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Water",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "Kuroko (Farigiraf)",
+        "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Water",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "Touma (Landorus)",
+        "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Poison",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "Uiharu (Whimsicott)",
+        "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",

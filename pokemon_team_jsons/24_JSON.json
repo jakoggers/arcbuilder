@@ -2,7 +2,7 @@
     {
         "name": "Dragonite",
         "item": "Loaded Dice",
-        "gender": "",
+        "gender": "Male",
         "ability": "Multiscale",
         "level": 50,
         "tera_type": "Poison",
@@ -33,6 +33,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Male",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Dark",
@@ -63,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -93,6 +95,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",

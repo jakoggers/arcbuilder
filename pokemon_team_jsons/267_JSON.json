@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Electric Seed",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Power Bracer",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Zapdos-Galar",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Defiant",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Sinistcha",
         "item": "Rocky Helmet",
+        "gender": "Genderless",
         "ability": "Hospitality",
         "level": 50,
         "tera_type": "Normal",

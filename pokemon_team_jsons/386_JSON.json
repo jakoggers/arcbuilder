@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Dragon",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Chople Berry",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -92,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Mental Herb",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Urshifu",
         "item": "Black Glasses",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Dark",

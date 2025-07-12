@@ -2,6 +2,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Pelipper",
         "item": "Life Orb",
+        "gender": "Female",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Flutter Mane",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Normal",
@@ -122,6 +126,7 @@
     {
         "name": "Terapagos-Terastal",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -152,6 +157,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Normal",

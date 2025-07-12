@@ -2,6 +2,7 @@
     {
         "name": "Groudon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Ground",
@@ -32,6 +33,7 @@
     {
         "name": "Ho-Oh",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Flutter Mane",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Sableye",
         "item": "Red Card",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Steel",
@@ -152,6 +157,7 @@
     {
         "name": "Infernape",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Blaze",
         "level": 50,
         "tera_type": "Fire",

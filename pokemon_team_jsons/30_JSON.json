@@ -2,7 +2,7 @@
     {
         "name": "Landorus",
         "item": "Choice Scarf",
-        "gender": "",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Ghost",
@@ -33,6 +33,7 @@
     {
         "name": "Okidogi",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Guard Dog",
         "level": 50,
         "tera_type": "Grass",
@@ -63,6 +64,7 @@
     {
         "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",
@@ -93,6 +95,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -153,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",

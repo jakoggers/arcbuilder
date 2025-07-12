@@ -1,8 +1,8 @@
 [
     {
-        "name": "I'm Fakin (Incineroar) (F)",
+        "name": "Incineroar",
         "item": "Safety Goggles",
-        "gender": "",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -31,8 +31,9 @@
         }
     },
     {
-        "name": "CindyLouWho (Ogerpon-Wellspring)",
+        "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "Espresso (Zacian-Crowned)",
+        "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Female",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Dark",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "Already Over (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Clefairy",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Friend Guard",
         "level": 50,
         "tera_type": "Ground",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "Fast Times (Regieleki)",
+        "name": "Regieleki",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Transistor",
         "level": 50,
         "tera_type": "Electric",

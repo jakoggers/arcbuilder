@@ -1,7 +1,8 @@
 [
     {
-        "name": "Drift Phonk (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Vaporwave (Ho-Oh)",
+        "name": "Ho-Oh",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Grass",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Breakcore (Landorus)",
+        "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Water",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "City Pop (Farigiraf)",
+        "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Water",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Future Funk (Iron Hands)",
+        "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Bug",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Darksynth (Grimmsnarl)",
+        "name": "Grimmsnarl",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Grass",

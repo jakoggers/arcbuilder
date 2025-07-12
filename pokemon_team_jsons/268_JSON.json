@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Grass",
@@ -32,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Electric",
@@ -62,6 +64,7 @@
     {
         "name": "Scraggy",
         "item": "Eviolite",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Poison",
@@ -92,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Dark",
@@ -152,6 +157,7 @@
     {
         "name": "Sentret",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Frisk",
         "level": 50,
         "tera_type": "Grass",

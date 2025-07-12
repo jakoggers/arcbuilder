@@ -2,6 +2,7 @@
     {
         "name": "Pelipper",
         "item": "Ability Shield",
+        "gender": "Male",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 72,
         "tera_type": "Electric",
@@ -92,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Iron Treads",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",

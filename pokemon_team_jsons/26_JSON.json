@@ -1,8 +1,8 @@
 [
     {
-        "name": "Volcarona (F)",
+        "name": "Volcarona",
         "item": "Leftovers",
-        "gender": "",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 59,
         "tera_type": "Water",
@@ -33,6 +33,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Water",
@@ -63,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "Wonder Cooki (Grimmsnarl)",
+        "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 58,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Never-Melt Ice",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 80,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 99,
         "tera_type": "Water",

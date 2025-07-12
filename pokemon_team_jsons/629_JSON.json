@@ -2,6 +2,7 @@
     {
         "name": "Groudon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Twisted Spoon",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Indeedee-F",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Roaring Moon",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Flying",
@@ -122,6 +126,7 @@
     {
         "name": "Urshifu",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Dark",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Ogerpon-Hearthflame (F)",
+        "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",

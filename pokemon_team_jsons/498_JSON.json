@@ -2,6 +2,7 @@
     {
         "name": "Whimsicott",
         "item": "Ability Shield",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Terapagos-Terastal",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -62,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Valiant",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Dark",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Ogerpon-Cornerstone (F)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 50,
         "tera_type": "Rock",
@@ -152,6 +157,7 @@
     {
         "name": "Brute Bonnet",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",

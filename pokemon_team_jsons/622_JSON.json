@@ -2,6 +2,7 @@
     {
         "name": "Lunala",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Urshifu",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Stellar",
@@ -122,6 +126,7 @@
     {
         "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -152,6 +157,7 @@
     {
         "name": "Volcarona",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 75,
         "tera_type": "Dragon",

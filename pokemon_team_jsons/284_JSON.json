@@ -2,6 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "asone",
         "level": 50,
         "tera_type": "Normal",
@@ -62,6 +64,7 @@
     {
         "name": "Flutter Mane",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -122,6 +126,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",

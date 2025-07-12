@@ -2,6 +2,7 @@
     {
         "name": "Torkoal",
         "item": "Charcoal",
+        "gender": "Female",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Urshifu",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Poison",
@@ -122,6 +126,7 @@
     {
         "name": "Lunala",
         "item": "Rocky Helmet",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Indeedee-F",
         "item": "Psychic Seed",
+        "gender": "Male",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Fairy",

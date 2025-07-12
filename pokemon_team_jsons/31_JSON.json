@@ -2,7 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Grassy Seed",
-        "gender": "",
+        "gender": "Male",
         "ability": "Tera Shift",
         "level": 85,
         "tera_type": "Stellar",
@@ -33,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 82,
         "tera_type": "Dark",
@@ -63,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",
@@ -93,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -123,6 +126,7 @@
     {
         "name": "Flutter Mane",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -153,6 +157,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 60,
         "tera_type": "Fire",

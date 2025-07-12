@@ -2,6 +2,7 @@
     {
         "name": "Urshifu",
         "item": "Choice Band",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Poison",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Technician",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Torkoal",
         "item": "Choice Specs",
+        "gender": "Female",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -122,6 +126,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Indeedee-F",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Fairy",

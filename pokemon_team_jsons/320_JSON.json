@@ -2,6 +2,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Thundurus",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Dark",
@@ -62,6 +64,7 @@
     {
         "name": "Chien-Pao",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Landorus",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Ghost",
@@ -152,6 +157,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Dark",

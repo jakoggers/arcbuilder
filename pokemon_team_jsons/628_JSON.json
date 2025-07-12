@@ -2,6 +2,7 @@
     {
         "name": "Indeedee-F",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Water",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Gardevoir (F)",
+        "name": "Gardevoir",
         "item": "Life Orb",
+        "gender": "Female",
         "ability": "Trace",
         "level": 50,
         "tera_type": "Psychic",
@@ -62,6 +64,7 @@
     {
         "name": "Gallade",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Sharpness",
         "level": 50,
         "tera_type": "Grass",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Oranguru (F)",
+        "name": "Oranguru",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Inner Focus",
         "level": 50,
         "tera_type": "Dark",
@@ -122,6 +126,7 @@
     {
         "name": "Necrozma-Dawn-Wings",
         "item": "Power Herb",
+        "gender": "Male",
         "ability": "Prism Armor",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Normal",

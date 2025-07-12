@@ -2,6 +2,7 @@
     {
         "name": "Lunala",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Groudon",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Whimsicott",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Raging Bolt",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Normal",
@@ -122,6 +126,7 @@
     {
         "name": "Entei",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Inner Focus",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Kingambit",
         "item": "Room Service",
+        "gender": "Male",
         "ability": "Defiant",
         "level": 50,
         "tera_type": "Flying",

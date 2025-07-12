@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Ground",
@@ -32,6 +33,7 @@
     {
         "name": "Scrafty",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Normal",
@@ -62,6 +64,7 @@
     {
         "name": "Ninetales-Alola",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Snow Warning",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Miraidon",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -122,6 +126,7 @@
     {
         "name": "Landorus",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Poison",
@@ -152,6 +157,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Unaware",
         "level": 50,
         "tera_type": "Dragon",

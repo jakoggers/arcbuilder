@@ -2,6 +2,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Male",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Ground",
@@ -32,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Murkrow",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Wo-Chien",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Tablets of Ruin",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Ditto",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Imposter",
         "level": 50,
         "tera_type": "Ghost",

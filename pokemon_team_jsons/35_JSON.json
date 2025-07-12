@@ -2,7 +2,7 @@
     {
         "name": "Chi-Yu",
         "item": "Choice Scarf",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 50,
         "tera_type": "Ghost",
@@ -33,6 +33,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -63,6 +64,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Water",
@@ -93,6 +95,7 @@
     {
         "name": "Whimsicott",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -153,6 +157,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Female",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Stellar",

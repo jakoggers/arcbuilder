@@ -1,7 +1,8 @@
 [
     {
-        "name": "Jack Black (Incineroar)",
+        "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Fairy",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Pilates (Grimmsnarl)",
+        "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Tron (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Secretariat (Calyrex-Ice)",
+        "name": "Calyrex-Ice",
         "item": "Never-Melt Ice",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Paddington 2 (Urshifu-Rapid-Strike)",
+        "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Pookie (Ogerpon-Hearthflame) (F)",
+        "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",

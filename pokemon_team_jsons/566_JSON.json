@@ -2,6 +2,7 @@
     {
         "name": "Ditto",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Imposter",
         "level": 50,
         "tera_type": "Normal",
@@ -32,6 +33,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Dragon",
@@ -92,6 +95,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Entei",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Inner Focus",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Leaves",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Stellar",

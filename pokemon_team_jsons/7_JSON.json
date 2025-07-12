@@ -2,7 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Clear Amulet",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -33,6 +33,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Stellar",
@@ -63,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Spooky Plate",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Normal",
@@ -93,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Fairy",
@@ -123,6 +126,7 @@
     {
         "name": "Scream Tail",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Dark",
@@ -153,6 +157,7 @@
     {
         "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",

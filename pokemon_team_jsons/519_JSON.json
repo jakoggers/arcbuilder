@@ -1,7 +1,8 @@
 [
     {
-        "name": "Don Buttons (Miraidon)",
+        "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Ghost",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Don HateCrime (Whimsicott)",
+        "name": "Whimsicott",
         "item": "Red Card",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Electric",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Don Arrogance (Calyrex-Ice)",
+        "name": "Calyrex-Ice",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Ground",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Don Flame On (Ursaluna)",
+        "name": "Ursaluna",
         "item": "Flame Orb",
+        "gender": "Male",
         "ability": "Guts",
         "level": 50,
         "tera_type": "Ghost",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Don Bdog P. (Armarouge)",
+        "name": "Armarouge",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Flash Fire",
         "level": 50,
         "tera_type": "Grass",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Don Mayo (Raging Bolt)",
+        "name": "Raging Bolt",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",

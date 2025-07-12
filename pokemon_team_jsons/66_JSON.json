@@ -1,8 +1,8 @@
 [
     {
-        "name": "Ogerpon-Wellspring (F)",
+        "name": "Ogerpon-Wellspring",
         "item": "Wellspring Mask",
-        "gender": "",
+        "gender": "Female",
         "ability": "Water Absorb",
         "level": 50,
         "tera_type": "Water",
@@ -33,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Water",
@@ -63,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -93,6 +95,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -123,6 +126,7 @@
     {
         "name": "Indeedee-F",
         "item": "Psychic Seed",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 50,
         "tera_type": "Ghost",

@@ -2,7 +2,7 @@
     {
         "name": "Gouging Fire",
         "item": "Clear Amulet",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Grass",
@@ -33,6 +33,7 @@
     {
         "name": "Raging Bolt",
         "item": "Safety Goggles",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -63,6 +64,7 @@
     {
         "name": "Groudon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -93,6 +95,7 @@
     {
         "name": "Lilligant-Hisui",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Chlorophyll",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Lunala",
         "item": "Power Herb",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -153,6 +157,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Steel",

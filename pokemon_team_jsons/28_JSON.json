@@ -1,8 +1,8 @@
 [
     {
-        "name": "Gustave (Calyrex-Ice)",
+        "name": "Calyrex-Ice",
         "item": "Clear Amulet",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 59,
         "tera_type": "Fairy",
@@ -31,8 +31,9 @@
         }
     },
     {
-        "name": "Maelle (Miraidon)",
+        "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "Lune (Incineroar)",
+        "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "Sciel (Amoonguss)",
+        "name": "Amoonguss",
         "item": "Mental Herb",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 58,
         "tera_type": "Fire",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "Verso (Chien-Pao)",
+        "name": "Chien-Pao",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 80,
         "tera_type": "Ghost",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "Monoko (Iron Treads)",
+        "name": "Iron Treads",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 99,
         "tera_type": "Grass",

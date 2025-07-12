@@ -1,7 +1,8 @@
 [
     {
-        "name": "バドレックス (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Spell Tag",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Fairy",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Dragon",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Fuxing Hao (Urshifu-Rapid-Strike)",
+        "name": "Urshifu-Rapid-Strike",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Stellar",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "ガオガエン (Incineroar)",
+        "name": "Incineroar",
         "item": "Sitrus Berry",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "ゴリランダー (Rillaboom)",
+        "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "ピッピ (Clefairy)",
+        "name": "Clefairy",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Friend Guard",
         "level": 50,
         "tera_type": "Grass",

@@ -2,6 +2,7 @@
     {
         "name": "Necrozma-Dawn-Wings",
         "item": "Power Herb",
+        "gender": "Female",
         "ability": "Prism Armor",
         "level": 50,
         "tera_type": "Normal",
@@ -32,6 +33,7 @@
     {
         "name": "Indeedee-F",
         "item": "Psychic Seed",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Gallade",
         "item": "Clear Amulet",
+        "gender": "Male",
         "ability": "Sharpness",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Safety Goggles",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Own Tempo",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Pelipper",
         "item": "Mystic Water",
+        "gender": "Male",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",

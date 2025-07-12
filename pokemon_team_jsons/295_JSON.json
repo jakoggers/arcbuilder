@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Fire",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Ogerpon (F)",
+        "name": "Ogerpon",
         "item": "Loaded Dice",
+        "gender": "Female",
         "ability": "Defiant",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Ting-Lu",
         "item": "Rocky Helmet",
+        "gender": "Genderless",
         "ability": "Vessel of Ruin",
         "level": 50,
         "tera_type": "Poison",
@@ -122,6 +126,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Unaware",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Glimmora",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Toxic Debris",
         "level": 50,
         "tera_type": "Grass",

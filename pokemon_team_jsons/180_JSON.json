@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Terapagos",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Tera Shell",
         "level": 86,
         "tera_type": "Stellar",
@@ -62,6 +64,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -92,6 +95,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Amoonguss (M)",
+        "name": "Amoonguss",
         "item": "Mental Herb",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",

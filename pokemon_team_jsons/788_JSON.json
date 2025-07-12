@@ -2,6 +2,7 @@
     {
         "name": "Ho-Oh",
         "item": "Rocky Helmet",
+        "gender": "Genderless",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Grass",
@@ -32,6 +33,7 @@
     {
         "name": "Eternatus",
         "item": "Black Sludge",
+        "gender": "Genderless",
         "ability": "Pressure",
         "level": 50,
         "tera_type": "Fairy",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Ogerpon-Hearthflame (F)",
+        "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",
@@ -92,6 +95,7 @@
     {
         "name": "Ting-Lu",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Vessel of Ruin",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Unaware",
         "level": 50,
         "tera_type": "Steel",
@@ -152,6 +157,7 @@
     {
         "name": "Tatsugiri-Droopy",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Commander",
         "level": 50,
         "tera_type": "Steel",

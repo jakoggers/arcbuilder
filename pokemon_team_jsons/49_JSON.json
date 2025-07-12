@@ -1,8 +1,8 @@
 [
     {
-        "name": "Dirk (Koraidon)",
+        "name": "Koraidon",
         "item": "Life Orb",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -31,8 +31,9 @@
         }
     },
     {
-        "name": "Stripe (Incineroar)",
+        "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "Cuervo (Volcarona)",
+        "name": "Volcarona",
         "item": "Grassy Seed",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Water",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "Boopsey (Flutter Mane)",
+        "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Stellar",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "Nebby (Lunala)",
+        "name": "Lunala",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "Amaretto (Rillaboom) (M)",
+        "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",

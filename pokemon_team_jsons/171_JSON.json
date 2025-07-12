@@ -2,6 +2,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 77,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 84,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 80,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Volcarona",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 59,
         "tera_type": "Grass",

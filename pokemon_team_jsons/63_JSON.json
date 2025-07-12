@@ -2,7 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -33,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -63,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -93,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -123,6 +126,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Band",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Annihilape",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Defiant",
         "level": 50,
         "tera_type": "Grass",

@@ -2,7 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Leftovers",
-        "gender": "",
+        "gender": "Female",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",
@@ -33,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -63,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Poison",
@@ -93,6 +95,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -123,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Mental Herb",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Dark",
@@ -153,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",

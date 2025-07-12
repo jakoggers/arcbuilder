@@ -2,6 +2,7 @@
     {
         "name": "Koraidon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Lunala",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Shadow Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Dragonite",
         "item": "Silk Scarf",
+        "gender": "Male",
         "ability": "Multiscale",
         "level": 50,
         "tera_type": "Normal",
@@ -92,6 +95,7 @@
     {
         "name": "Ursaluna-Bloodmoon",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Mind's Eye",
         "level": 50,
         "tera_type": "Poison",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Dark",

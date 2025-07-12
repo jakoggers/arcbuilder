@@ -2,7 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Fairy",
@@ -33,6 +33,7 @@
     {
         "name": "Landorus",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Ghost",
@@ -63,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -93,6 +95,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Urshifu",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Stellar",
@@ -153,6 +157,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",

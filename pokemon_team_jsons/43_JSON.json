@@ -2,7 +2,7 @@
     {
         "name": "Iron Jugulis",
         "item": "Booster Energy",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Steel",
@@ -33,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Splash Plate",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Grass",
@@ -63,6 +64,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Male",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Dragon",
@@ -93,6 +95,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Mental Herb",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Fire",
@@ -153,6 +157,7 @@
     {
         "name": "Chien-Pao",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Ghost",

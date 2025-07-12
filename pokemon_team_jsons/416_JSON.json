@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Normal",
@@ -32,6 +33,7 @@
     {
         "name": "Weezing-Galar",
         "item": "Sitrus Berry",
+        "gender": "Female",
         "ability": "Neutralizing Gas",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Unaware",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Tatsugiri-Droopy",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Commander",
         "level": 50,
         "tera_type": "Normal",
@@ -122,6 +126,7 @@
     {
         "name": "Brute Bonnet",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Koraidon",
         "item": "Ability Shield",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",

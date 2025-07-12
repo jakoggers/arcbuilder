@@ -1,7 +1,8 @@
 [
     {
-        "name": "Karina (Terapagos-Terastal)",
+        "name": "Terapagos-Terastal",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Winter (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "NingNing (Incineroar)",
+        "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "UP (Ogerpon-Cornerstone)",
+        "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 70,
         "tera_type": "Rock",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Giselle (Flutter Mane)",
+        "name": "Flutter Mane",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "DOPAMINE (Rillaboom)",
+        "name": "Rillaboom",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Grass",

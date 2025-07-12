@@ -2,6 +2,7 @@
     {
         "name": "Groudon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -62,6 +64,7 @@
     {
         "name": "Volcarona",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Dragon",
@@ -92,6 +95,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Shuca Berry",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Normal",

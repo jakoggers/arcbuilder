@@ -3,7 +3,7 @@
 pokemon1 = {
 	"name": "",
 	"item": "",
-	"gender": "Genderless",
+	"gender": "",
 	"ability": "",
 	"level": 50,
 	"tera_type": "",
@@ -39,7 +39,7 @@ pokemon1 = {
 pokemon2 = {
 	"name": "",
 	"item": "",
-	"gender": "Genderless",
+	"gender": "",
 	"ability": "",
 	"level": 50,
 	"tera_type": "",
@@ -75,7 +75,7 @@ pokemon2 = {
 pokemon3 = {
 	"name": "",
 	"item": "",
-	"gender": "Genderless",
+	"gender": "",
 	"ability": "",
 	"level": 50,
 	"tera_type": "",
@@ -111,7 +111,7 @@ pokemon3 = {
 pokemon4 = {
 	"name": "",
 	"item": "",
-	"gender": "Genderless",
+	"gender": "",
 	"ability": "",
 	"level": 50,
 	"tera_type": "",
@@ -147,7 +147,7 @@ pokemon4 = {
 pokemon5 = {
 	"name": "",
 	"item": "",
-	"gender": "Genderless",
+	"gender": "",
 	"ability": "",
 	"level": 50,
 	"tera_type": "",
@@ -183,7 +183,7 @@ pokemon5 = {
 pokemon6 = {
 	"name": "",
 	"item": "",
-	"gender": "Genderless",
+	"gender": "",
 	"ability": "",
 	"level": 50,
 	"tera_type": "",

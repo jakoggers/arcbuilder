@@ -2,6 +2,7 @@
     {
         "name": "Tornadus",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Water",
@@ -32,6 +33,7 @@
     {
         "name": "Sneasler",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Unburden",
         "level": 50,
         "tera_type": "Dark",
@@ -62,6 +64,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Ursaluna-Bloodmoon",
         "item": "Life Orb",
+        "gender": "Female",
         "ability": "Mind’s Eye",
         "level": 50,
         "tera_type": "Normal",
@@ -122,6 +126,7 @@
     {
         "name": "Farigiraf",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Fire",
@@ -152,6 +157,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Ghost",

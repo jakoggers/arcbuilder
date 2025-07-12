@@ -1,7 +1,8 @@
 [
     {
-        "name": "ChicknJockey (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Comin In Hot (Koraidon)",
+        "name": "Koraidon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "The Nether (Indeedee-F)",
+        "name": "Indeedee-F",
         "item": "Psychic Seed",
+        "gender": "Male",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Water",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Ender Pearl (Flutter Mane)",
+        "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Normal",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Flint&Steel (Chi-Yu)",
+        "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 50,
         "tera_type": "Fire",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "I...am Steve (Brute Bonnet)",
+        "name": "Brute Bonnet",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",

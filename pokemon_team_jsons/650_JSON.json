@@ -2,6 +2,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -32,6 +33,7 @@
     {
         "name": "Palkia",
         "item": "Lustrous Orb",
+        "gender": "Genderless",
         "ability": "Pressure",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Indeedee-F",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Psychic Surge",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Hatterene",
         "item": "Life Orb",
+        "gender": "Female",
         "ability": "Magic Bounce",
         "level": 50,
         "tera_type": "Psychic",
@@ -122,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Water",

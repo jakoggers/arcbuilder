@@ -1,7 +1,8 @@
 [
     {
-        "name": "Amoonguss (F)",
+        "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 59,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 80,
         "tera_type": "Fairy",
@@ -62,6 +64,7 @@
     {
         "name": "Kyogre",
         "item": "Mystic Water",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 57,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 86,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Basculegion",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Swift Swim",
         "level": 50,
         "tera_type": "Ghost",

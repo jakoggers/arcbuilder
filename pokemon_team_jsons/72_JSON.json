@@ -2,7 +2,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Light Clay",
-        "gender": "",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ground",
@@ -33,6 +33,7 @@
     {
         "name": "Incineroar",
         "item": "Chople Berry",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",
@@ -63,6 +64,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Fairy",
@@ -93,6 +95,7 @@
     {
         "name": "Koraidon",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Orichalcum Pulse",
         "level": 50,
         "tera_type": "Fire",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "Ogerpon-Hearthflame (F)",
+        "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",
@@ -153,6 +157,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Water",

@@ -2,7 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Life Orb",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -33,6 +33,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Poison",
@@ -63,6 +64,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Grass",
@@ -93,6 +95,7 @@
     {
         "name": "Magmar",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Moody",
         "level": 50,
         "tera_type": "Ghost",

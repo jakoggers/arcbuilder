@@ -2,7 +2,7 @@
     {
         "name": "Kyogre",
         "item": "Mystic Water",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Grass",
@@ -33,6 +33,7 @@
     {
         "name": "Basculegion",
         "item": "Life Orb",
+        "gender": "Female",
         "ability": "Swift Swim",
         "level": 50,
         "tera_type": "Ghost",
@@ -63,6 +64,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Fairy",
@@ -93,6 +95,7 @@
     {
         "name": "Amoonguss",
         "item": "Mental Herb",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Dark",
@@ -123,6 +126,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Fairy",
@@ -153,6 +157,7 @@
     {
         "name": "Iron Jugulis",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Fire",

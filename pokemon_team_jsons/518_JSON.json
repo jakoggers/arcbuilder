@@ -2,6 +2,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Moody",
         "level": 50,
         "tera_type": "Dark",
@@ -32,6 +33,7 @@
     {
         "name": "Sableye",
         "item": "Eject Pack",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Grass",
@@ -62,6 +64,7 @@
     {
         "name": "Terapagos-Terastal",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Tera Shell",
         "level": 50,
         "tera_type": "Stellar",
@@ -92,6 +95,7 @@
     {
         "name": "Zamazenta",
         "item": "Choice Specs",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Fairy",
@@ -122,6 +126,7 @@
     {
         "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 60,
         "tera_type": "Psychic",
@@ -152,6 +157,7 @@
     {
         "name": "Ditto",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Imposter",
         "level": 50,
         "tera_type": "Normal",

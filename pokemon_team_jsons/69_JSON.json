@@ -2,7 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Specs",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -33,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Male",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Ghost",
@@ -63,6 +64,7 @@
     {
         "name": "Chien-Pao",
         "item": "Covert Cloak",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 50,
         "tera_type": "Grass",
@@ -93,6 +95,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Power Anklet",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Sneasler",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Unburden",
         "level": 50,
         "tera_type": "Dark",
@@ -153,6 +157,7 @@
     {
         "name": "Landorus-Therian",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",

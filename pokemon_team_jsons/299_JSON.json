@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Zamazenta-Crowned",
         "item": "Rusted Shield",
+        "gender": "Female",
         "ability": "Dauntless Shield",
         "level": 70,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Farigiraf",
         "item": "Electric Seed",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Water",
@@ -92,6 +95,7 @@
     {
         "name": "Iron Moth",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Poison",
@@ -122,6 +126,7 @@
     {
         "name": "Rhydon",
         "item": "Eviolite",
+        "gender": "Male",
         "ability": "Lightning Rod",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Wo-Chien",
         "item": "Leftovers",
+        "gender": "Genderless",
         "ability": "Tablets of Ruin",
         "level": 50,
         "tera_type": "Ghost",

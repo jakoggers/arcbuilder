@@ -2,7 +2,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
-        "gender": "",
+        "gender": "Female",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Fairy",
@@ -33,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -63,6 +64,7 @@
     {
         "name": "Tornadus",
         "item": "Mental Herb",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Normal",
@@ -93,6 +95,7 @@
     {
         "name": "Landorus",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Mystic Water",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -153,6 +157,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",

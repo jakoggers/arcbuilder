@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Glimmora",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Toxic Debris",
         "level": 50,
         "tera_type": "Dark",
@@ -62,6 +64,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Fire",
@@ -92,6 +95,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Unaware",
         "level": 50,
         "tera_type": "Grass",
@@ -122,6 +126,7 @@
     {
         "name": "Tatsugiri-Droopy",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Commander",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Treads",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Ghost",

@@ -2,7 +2,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 80,
         "tera_type": "Ghost",
@@ -33,6 +33,7 @@
     {
         "name": "Zamazenta",
         "item": "Rusted Shield",
+        "gender": "Genderless",
         "ability": "Dauntless Shield",
         "level": 50,
         "tera_type": "Dragon",
@@ -63,6 +64,7 @@
     {
         "name": "Ogerpon-Cornerstone",
         "item": "Cornerstone Mask",
+        "gender": "Female",
         "ability": "Sturdy",
         "level": 70,
         "tera_type": "Rock",
@@ -93,6 +95,7 @@
     {
         "name": "Chien-Pao",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Sword of Ruin",
         "level": 60,
         "tera_type": "Ghost",
@@ -123,6 +126,7 @@
     {
         "name": "Raging Bolt",
         "item": "Magnet",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 75,
         "tera_type": "Electric",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "Amoonguss (M)",
+        "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 69,
         "tera_type": "Water",

@@ -2,6 +2,7 @@
     {
         "name": "Poliwhirl",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Swift Swim",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Farigiraf",
         "item": "Safety Goggles",
+        "gender": "Female",
         "ability": "Armor Tail",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Male",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Ground",
@@ -122,6 +126,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Fairy",
@@ -152,6 +157,7 @@
     {
         "name": "Tornadus",
         "item": "Sharp Beak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Ghost",

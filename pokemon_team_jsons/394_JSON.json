@@ -2,6 +2,7 @@
     {
         "name": "Raging Bolt",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Groudon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Sitrus Berry",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Grass",
@@ -92,6 +95,7 @@
     {
         "name": "Amoonguss",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Dark",
@@ -122,6 +126,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Lum Berry",
+        "gender": "Genderless",
         "ability": "As One",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Flutter Mane",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Stellar",

@@ -2,6 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -62,6 +64,7 @@
     {
         "name": "Rillaboom",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Grassy Surge",
         "level": 50,
         "tera_type": "Fire",
@@ -92,6 +95,7 @@
     {
         "name": "Volcarona",
         "item": "Leftovers",
+        "gender": "Female",
         "ability": "Flame Body",
         "level": 50,
         "tera_type": "Grass",
@@ -122,6 +126,7 @@
     {
         "name": "Landorus",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Sheer Force",
         "level": 50,
         "tera_type": "Poison",
@@ -152,6 +157,7 @@
     {
         "name": "Glimmora",
         "item": "Assault Vest",
+        "gender": "Female",
         "ability": "Toxic Debris",
         "level": 50,
         "tera_type": "Grass",

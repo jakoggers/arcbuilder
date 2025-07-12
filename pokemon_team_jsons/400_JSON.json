@@ -1,7 +1,8 @@
 [
     {
-        "name": "Lancelot (Zacian-Crowned)",
+        "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Male",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Fairy",
@@ -30,8 +31,9 @@
         }
     },
     {
-        "name": "Mordred (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Water",
@@ -60,8 +62,9 @@
         }
     },
     {
-        "name": "Gawain (Ogerpon-Hearthflame) (F)",
+        "name": "Ogerpon-Hearthflame",
         "item": "Hearthflame Mask",
+        "gender": "Female",
         "ability": "Mold Breaker",
         "level": 50,
         "tera_type": "Fire",
@@ -90,8 +93,9 @@
         }
     },
     {
-        "name": "Manoferrea (Iron Hands)",
+        "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Water",
@@ -120,8 +124,9 @@
         }
     },
     {
-        "name": "Agravain (Urshifu)",
+        "name": "Urshifu",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Dark",
@@ -150,8 +155,9 @@
         }
     },
     {
-        "name": "Kay (Whimsicott)",
+        "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Rock",

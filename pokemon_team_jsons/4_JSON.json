@@ -2,7 +2,7 @@
     {
         "name": "Terapagos",
         "item": "Electric Seed",
-        "gender": "",
+        "gender": "Female",
         "ability": "Tera Shift",
         "level": 50,
         "tera_type": "Stellar",
@@ -33,6 +33,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -63,6 +64,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Female",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",
@@ -93,6 +95,7 @@
     {
         "name": "Incineroar",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Water",
@@ -123,6 +126,7 @@
     {
         "name": "Sinistcha",
         "item": "Focus Sash",
+        "gender": "Genderless",
         "ability": "Hospitality",
         "level": 50,
         "tera_type": "Fire",
@@ -153,6 +157,7 @@
     {
         "name": "Iron Treads",
         "item": "Choice Band",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Bug",

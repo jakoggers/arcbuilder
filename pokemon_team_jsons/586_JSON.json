@@ -2,6 +2,7 @@
     {
         "name": "Charizard",
         "item": "Life Orb",
+        "gender": "Male",
         "ability": "Solar Power",
         "level": 50,
         "tera_type": "Grass",
@@ -32,6 +33,7 @@
     {
         "name": "Groudon",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "Drought",
         "level": 50,
         "tera_type": "Fire",
@@ -62,6 +64,7 @@
     {
         "name": "Dialga-Origin",
         "item": "Adamant Crystal",
+        "gender": "Female",
         "ability": "Telepathy",
         "level": 50,
         "tera_type": "Fairy",
@@ -92,6 +95,7 @@
     {
         "name": "Lilligant-Hisui",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Chlorophyll",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Raging Bolt",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Electric",
@@ -152,6 +157,7 @@
     {
         "name": "Walking Wake",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Protosynthesis",
         "level": 50,
         "tera_type": "Ghost",

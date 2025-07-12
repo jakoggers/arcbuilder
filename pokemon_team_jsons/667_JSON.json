@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Shadow",
         "item": "Spell Tag",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -62,6 +64,7 @@
     {
         "name": "Sneasler",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Unburden",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Ditto",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Imposter",
         "level": 50,
         "tera_type": "Ghost",
@@ -122,6 +126,7 @@
     {
         "name": "Dondozo",
         "item": "Leftovers",
+        "gender": "Male",
         "ability": "Oblivious",
         "level": 50,
         "tera_type": "Steel",
@@ -152,6 +157,7 @@
     {
         "name": "Tatsugiri-Droopy",
         "item": "Safety Goggles",
+        "gender": "Male",
         "ability": "Commander",
         "level": 50,
         "tera_type": "Steel",

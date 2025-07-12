@@ -2,6 +2,7 @@
     {
         "name": "Miraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Electric",
@@ -32,6 +33,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Weakness Policy",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Urshifu",
         "item": "Choice Band",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Dark",
@@ -92,6 +95,7 @@
     {
         "name": "Oranguru",
         "item": "Electric Seed",
+        "gender": "Male",
         "ability": "Telepathy",
         "level": 50,
         "tera_type": "Water",
@@ -122,6 +126,7 @@
     {
         "name": "Flamigo",
         "item": "Iron Ball",
+        "gender": "Male",
         "ability": "Costar",
         "level": 50,
         "tera_type": "Normal",
@@ -152,6 +157,7 @@
     {
         "name": "Rabsca",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Telepathy",
         "level": 50,
         "tera_type": "Water",

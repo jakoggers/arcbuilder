@@ -2,7 +2,7 @@
     {
         "name": "Smeargle",
         "item": "Focus Sash",
-        "gender": "",
+        "gender": "Female",
         "ability": "Moody",
         "level": 50,
         "tera_type": "Ghost",
@@ -33,6 +33,7 @@
     {
         "name": "Incineroar",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Bug",
@@ -63,6 +64,7 @@
     {
         "name": "Calyrex-Ice",
         "item": "Clear Amulet",
+        "gender": "Genderless",
         "ability": "As One (Glastrier)",
         "level": 50,
         "tera_type": "Water",
@@ -93,6 +95,7 @@
     {
         "name": "Iron Jugulis",
         "item": "Electric Seed",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Fire",
@@ -123,6 +126,7 @@
     {
         "name": "Miraidon",
         "item": "Life Orb",
+        "gender": "Genderless",
         "ability": "Hadron Engine",
         "level": 50,
         "tera_type": "Fairy",
@@ -153,6 +157,7 @@
     {
         "name": "Urshifu-Rapid-Strike",
         "item": "Choice Scarf",
+        "gender": "Male",
         "ability": "Unseen Fist",
         "level": 50,
         "tera_type": "Water",

@@ -1,8 +1,8 @@
 [
     {
-        "name": "Levitating (Calyrex-Shadow)",
+        "name": "Calyrex-Shadow",
         "item": "Life Orb",
-        "gender": "",
+        "gender": "Genderless",
         "ability": "As One (Spectrier)",
         "level": 50,
         "tera_type": "Dark",
@@ -31,8 +31,9 @@
         }
     },
     {
-        "name": "Hallucinate (Terapagos-Terastal)",
+        "name": "Terapagos-Terastal",
         "item": "Choice Specs",
+        "gender": "Male",
         "ability": "Tera Shell",
         "level": 85,
         "tera_type": "Stellar",
@@ -61,8 +62,9 @@
         }
     },
     {
-        "name": "Physical (Iron Hands)",
+        "name": "Iron Hands",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 57,
         "tera_type": "Water",
@@ -91,8 +93,9 @@
         }
     },
     {
-        "name": "BreakMyHeart (Chi-Yu)",
+        "name": "Chi-Yu",
         "item": "Choice Scarf",
+        "gender": "Genderless",
         "ability": "Beads of Ruin",
         "level": 75,
         "tera_type": "Ghost",
@@ -121,8 +124,9 @@
         }
     },
     {
-        "name": "PrettyPlease (Smeargle)",
+        "name": "Smeargle",
         "item": "Focus Sash",
+        "gender": "Female",
         "ability": "Moody",
         "level": 65,
         "tera_type": "Grass",
@@ -151,8 +155,9 @@
         }
     },
     {
-        "name": "DontStartNow (Whimsicott)",
+        "name": "Whimsicott",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Prankster",
         "level": 60,
         "tera_type": "Water",

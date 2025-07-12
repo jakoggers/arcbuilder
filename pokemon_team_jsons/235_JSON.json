@@ -2,6 +2,7 @@
     {
         "name": "Zacian-Crowned",
         "item": "Rusted Sword",
+        "gender": "Male",
         "ability": "Intrepid Sword",
         "level": 50,
         "tera_type": "Fighting",
@@ -32,6 +33,7 @@
     {
         "name": "Kyogre",
         "item": "Assault Vest",
+        "gender": "Genderless",
         "ability": "Drizzle",
         "level": 50,
         "tera_type": "Water",
@@ -62,6 +64,7 @@
     {
         "name": "Pikachu",
         "item": "Focus Sash",
+        "gender": "Male",
         "ability": "Lightning Rod",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Moltres-Galar",
         "item": "Covert Cloak",
+        "gender": "Male",
         "ability": "Berserk",
         "level": 50,
         "tera_type": "Steel",
@@ -122,6 +126,7 @@
     {
         "name": "Amoonguss",
         "item": "Rocky Helmet",
+        "gender": "Female",
         "ability": "Regenerator",
         "level": 50,
         "tera_type": "Water",
@@ -152,6 +157,7 @@
     {
         "name": "Grimmsnarl",
         "item": "Power Bracer",
+        "gender": "Male",
         "ability": "Prankster",
         "level": 50,
         "tera_type": "Steel",

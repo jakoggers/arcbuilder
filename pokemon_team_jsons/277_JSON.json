@@ -2,6 +2,7 @@
     {
         "name": "Dialga",
         "item": "Scope Lens",
+        "gender": "Genderless",
         "ability": "Telepathy",
         "level": 50,
         "tera_type": "Ghost",
@@ -32,6 +33,7 @@
     {
         "name": "Giratina",
         "item": "Razor Claw",
+        "gender": "Genderless",
         "ability": "Pressure",
         "level": 50,
         "tera_type": "Ghost",
@@ -62,6 +64,7 @@
     {
         "name": "Incineroar",
         "item": "Covert Cloak",
+        "gender": "Female",
         "ability": "Intimidate",
         "level": 50,
         "tera_type": "Ghost",
@@ -92,6 +95,7 @@
     {
         "name": "Dragonite",
         "item": "Loaded Dice",
+        "gender": "Male",
         "ability": "Multiscale",
         "level": 50,
         "tera_type": "Steel",
@@ -122,6 +126,7 @@
     {
         "name": "Azumarill",
         "item": "Assault Vest",
+        "gender": "Male",
         "ability": "Huge Power",
         "level": 50,
         "tera_type": "Grass",
@@ -152,6 +157,7 @@
     {
         "name": "Iron Jugulis",
         "item": "Booster Energy",
+        "gender": "Genderless",
         "ability": "Quark Drive",
         "level": 50,
         "tera_type": "Steel",
