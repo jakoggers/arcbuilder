@@ -5,7 +5,6 @@ import pandas as pd
 import random as rd
 from bs4 import BeautifulSoup
 from teams import pokemon_team_structure
-from lists import pokemon_gender
 
 # because ev's and iv's can be parsed the same way initalizing both depending on the input
 def ev_and_iv_organizer(given_line, given_pokemon_team, pokemon_num, chosen_stat):
@@ -53,50 +52,43 @@ def gender_or_nickname(name, given_pokemon_team, which_pokemon):
 	# If there's two, that means there's both
 		# At first position, take the name and add to "name"
 		# At second left-paran, check gender and add to "gender"
+
+	# parse parentheses
 	paran_count = name.count("(")
-	find_first_lparan = name.find("(")
-	find_next_paran = name.find(")")
-	find_gender = name[find_first_lparan:find_next_paran + 1]
-	find_name = name[find_first_lparan+1:find_next_paran]
-	get_gender = pokemon_gender.get(name.lower())
-	if paran_count == 1:
-		if len(find_gender) == 3:
-			if find_gender == "(M)":
-				given_pokemon_team[which_pokemon]["gender"] = "Male"
-			elif find_gender == "(F)":
-				given_pokemon_team[which_pokemon]["gender"] = "Female"
-			final_name = name[:find_first_lparan].strip()
-			given_pokemon_team[which_pokemon]["name"] = final_name
-		else:
-			given_pokemon_team[which_pokemon]["name"] = find_name
-			get_gender = pokemon_gender.get(find_name.lower())
-			if get_gender:
-				given_pokemon_team[which_pokemon]["gender"] = get_gender
-			else:
-				get_gender = rd.choice(["Male", "Female"])
-				given_pokemon_team[which_pokemon]["gender"] = get_gender
-	# has both nickname and gender
-	elif paran_count == 2:
-		find_second_lparan = name[find_first_lparan + 1:].find("(")
-		split_lparan_string = name[find_first_lparan + 1:]
-		given_pokemon_team[which_pokemon]["name"] = find_name
-		gender = split_lparan_string[find_second_lparan:]
-		if gender == "(M)":
+	find_last_lparan = name.rfind("(")
+	find_last_rparan = name.rfind(")")
+
+	find_gender = name[find_last_lparan:find_last_rparan + 1]
+	has_gender = find_gender in ["(M)", "(F)"]
+
+	# Strip the trailing space or remove the name
+	if has_gender:
+		final_name = name[:find_last_lparan].strip()
+	else:
+		final_name = name.strip()
+
+	with open("json_categories/pokemon_genders.json", 'r') as read_genders:
+		pokemon_gender = json.load(read_genders)
+	get_gender = pokemon_gender.get(final_name.lower()) # lower to directly compare
+
+	if has_gender:
+		if find_gender == "(M)":
 			given_pokemon_team[which_pokemon]["gender"] = "Male"
-		else:
+		elif find_gender == "(F)":
 			given_pokemon_team[which_pokemon]["gender"] = "Female"
 
 	else:
-		# If neither, add the name AND specified gender immediately
-		# ok ik there's like a ratio, but for simplicity i'm gonna 50/50 everything that ISN'T specified
 		if get_gender:
 			#print(f"Name w/ specific gender: {name}, Gender: {get_gender}")
 			given_pokemon_team[which_pokemon]["gender"] = get_gender
 		else:
+			# If neither, add the name AND specified gender immediately
+			# ok ik there's like a ratio, but for simplicity i'm gonna 50/50 everything that ISN'T specified
 			get_gender = rd.choice(["Male", "Female"])
 			given_pokemon_team[which_pokemon]["gender"] = get_gender
 			#print(f"Name w/o specified gender: {name}, Gender: {get_gender}")
-		given_pokemon_team[which_pokemon]["name"] = name
+
+	given_pokemon_team[which_pokemon]["name"] = final_name
 
 # write this to Pokemon Folder link
 def write_team_data(given_link, given_json_location, given_pokemon_team):

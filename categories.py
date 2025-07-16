@@ -1,5 +1,5 @@
 # Specified Genders, all by HAND.
-pokemon_gender = {
+pokemon_genders = {
 	"nidoran": "Male",
 	"nidorino": "Male",
 	"nidoking": "Male",
@@ -229,3 +229,4 @@ pokemon_gender = {
 	"iron crown": "Genderless",
 	"pecharunt": "Genderless",
 }
+

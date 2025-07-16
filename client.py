@@ -5,15 +5,15 @@ from team_handler import team_to_csv, team_handler # for testing
 filename = os.path.basename(local_file_path)
 
 print("Initalizing ('ism): ")
-initalize = True
+initalize = False
 if initalize is True:
 	write_all_teams()
 	pokemon_to_txt(filename) # This file will run every command in subsequent order:
 	team_to_csv(local_teamjson_path)
 	# commment this one out to test ofc
 	pass
-
-#team_handler("https://pokepast.es/471db5ad6ebfbd9f", str(27))
+print("test")
+team_handler("https://pokepast.es/46e426ed62136f59", str(0))
 #team_handler("https://pokepast.es/41a3259337c0ca59", str(71))
 
 # team w/ ev's (my team):https://pokepast.es/46e426ed62136f59
