@@ -12,7 +12,6 @@ if initalize is True:
 	team_to_csv(local_teamjson_path)
 	# commment this one out to test ofc
 	pass
-print("test")
 team_handler("https://pokepast.es/46e426ed62136f59", str(0))
 #team_handler("https://pokepast.es/41a3259337c0ca59", str(71))
 

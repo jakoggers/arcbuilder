@@ -1,5 +1,5 @@
 {
-    "nidoran": "Female",
+    "nidoran-m": "Male",
     "nidorino": "Male",
     "nidoking": "Male",
     "hitmonlee": "Male",
@@ -25,6 +25,7 @@
     "okidogi": "Male",
     "munkidori": "Male",
     "fezandipiti": "Male",
+    "nidoran-f": "Female",
     "nidorina": "Female",
     "nidoqueen": "Female",
     "chansey": "Female",
@@ -52,6 +53,7 @@
     "hatterene": "Female",
     "milcery": "Female",
     "alcremie": "Female",
+    "indeedee-f": "Female",
     "tinkatink": "Female",
     "tinkatuff": "Female",
     "tinkaton": "Female",

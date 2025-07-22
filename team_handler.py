@@ -8,38 +8,40 @@ from teams import pokemon_team_structure
 
 # because ev's and iv's can be parsed the same way initalizing both depending on the input
 def ev_and_iv_organizer(given_line, given_pokemon_team, pokemon_num, chosen_stat):
-	find_char = given_line.index(":")
-	find_wspace = given_line.index("\n")
-	ev_line = given_line[find_char + 2:find_wspace - 2].split("/") # slice the line by its slashes
+	# just so i dont have any magic numbers
+	find_char = given_line.index(":") + 2
+	find_wspace = given_line.index("\n") - 2
+
+	ev_line = given_line[find_char:find_wspace].split("/") # slice the line by its slashes
+
 	for i in range(len(ev_line)): # remove the white space
 		ev_line[i] = ev_line[i].strip()
 	for stat_change in ev_line: # use the method to filter and add the evs
+		find_stat_change = len(stat_change) - 3
 		match stat_change:
 			case stat_change if "HP" in stat_change:
-				hp = int(stat_change[:len(stat_change) - 3].strip())
+				hp = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_hp"] = hp
-				# print("The HP ev in question: " + hp)
+
 			case stat_change if "Atk" in stat_change:
-				attack = int(stat_change[:len(stat_change) - 3].strip())
+				attack = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_attack"] = attack
-				#print("The Attack ev in question: " + attack)
+
 			case stat_change if "Def" in stat_change:
-				defense = int(stat_change[:len(stat_change) - 3].strip())
+				defense = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_defense"] = defense
-				#print("The Defense ev in question: " + defense)
+
 			case stat_change if "SpA" in stat_change:
-				special_attack = int(stat_change[:len(stat_change) - 3].strip())
+				special_attack = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_special_attack"] = special_attack
-				#print("The Special Attack ev in question: " + special_attack)
+
 			case stat_change if "SpD" in stat_change:
-				special_defense = int(stat_change[:len(stat_change) - 3].strip())
+				special_defense = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_special_defense"] = special_defense
-				#print("The Special Defense ev in question: " + special_defense)
+				
 			case stat_change if "Spe" in stat_change:
-				speed = int(stat_change[:len(stat_change) - 3].strip())
+				speed = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_speed"] = speed
-				#print("The Speed ev in question: " + speed)
-	# print(given_line)
 
 # check if the parsed name has a name or a gender, checking parentheses
 def gender_or_nickname(name, given_pokemon_team, which_pokemon):
@@ -54,7 +56,6 @@ def gender_or_nickname(name, given_pokemon_team, which_pokemon):
 		# At second left-paran, check gender and add to "gender"
 
 	# parse parentheses
-	paran_count = name.count("(")
 	find_last_lparan = name.rfind("(")
 	find_last_rparan = name.rfind(")")
 
