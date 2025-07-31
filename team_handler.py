@@ -3,6 +3,7 @@ import requests, json
 import os
 import pandas as pd
 import random as rd
+import copy
 from bs4 import BeautifulSoup
 from teams import pokemon_team_structure
 
@@ -38,7 +39,7 @@ def ev_and_iv_organizer(given_line, given_pokemon_team, pokemon_num, chosen_stat
 			case stat_change if "SpD" in stat_change:
 				special_defense = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_special_defense"] = special_defense
-				
+
 			case stat_change if "Spe" in stat_change:
 				speed = int(stat_change[:find_stat_change].strip())
 				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_speed"] = speed
@@ -183,7 +184,8 @@ def team_handler(get_url, file_name):
 
 	#------------- organize the data -------------------------------------------------------
 	# Writes all team_data into a JSON file
-	write_team_data(create_team_file, create_team_json, pokemon_team_structure)
+	new_team = copy.deepcopy(pokemon_team_structure)
+	write_team_data(create_team_file, create_team_json, new_team)
 	# Close all the files, memory management type shiii >:)
 
 # Compile every team into a readable csv file

@@ -1,98 +1,299 @@
-Consumable
-- Air Balloon
-- Big Root
-- Blunder Policy
--
--
--
--
--
--
-Boosting
-- Attacking:
-- Adamant Crystal
-- Adamant Orb
-- Berserk Gene
-- Binding Band
-- Black Belt
-- Black Glasses
-- Black Sludge
-- Booster Energy
-- Bright Powder
-- Bug Gem
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-Protective
-- Ability Shield
-- Absorb Bulb
-- Assault Vest
--
--
--
--
--
--
--
--
--
--
--
--
--
-Useless
-- Amulet Coin
-- Berry Sweet
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-Gimmicks (Z-Moves and Mega Stones, would fall underboosting usually)
-- Aloraichium Z
--
--
--
--
--
--
--
--
--
+0: Consumable
+	- Air Balloon
+	- Big Root
+	- Blunder Policy
+	- Bug Gem
+	- Dark Gem
+	- Dragon Gem
+	- Electric Gem
+	- Fairy Gem
+	- Fighting Gem
+	- Fire Gem
+	- Flying Gem
+	- Ghost Gem
+	- Grass Gem
+	- Ground Gem
+	- Ice Gem
+	- Normal Gem
+	- Poison Gem
+	- Power Herb
+	- Psychic Gem
+	- Rock Gem
+	- Steel Gem
+	- Water Gem
+	- Weakness Policy
+	- White Herb
+1: Berries
+	- Aguav Berry
+	- Apicot Berry
+	- Aspear Berry
+	- Babiri Berry
+	- Charti Berry
+	- Cheri Berry
+	- Chesto Berry
+	- Chilan Berry
+	- Chople Berry
+	- Coba Berry
+	- Colbur Berry
+	- Custap Berry
+	- Enigma Berry
+	- Figy Berry
+	- Ganlon Berry
+	- Haban Berry
+	- Iapapa Berry
+	- Jaboca Berry
+	- Kasib Berry
+	- Kebia Berry
+	- Kee Berry
+	- Lansat Berry
+	- Leppa Berry
+	- Liechi Berry
+	- Lum Berry
+	- Mago Berry
+	- Maranga Berry
+	- Micle Berry
+	- Occa Berry
+	- Oran Berry
+	- Passho Berry
+	- Payapa Berry
+	- Pecha Berry
+	- Persim Berry
+	- Petaya Berry
+	- Rawst Berry
+	- Rindo Berry
+	- Roseli Berry
+	- Rowap Berry
+	- Salac Berry
+	- Shuca Berry
+	- Sitrus Berry
+	- Starf Berry
+	- Tanga Berry
+	- Wacan Berry
+	- Wiki Berry
+	- Yache Berry
+	- Air Balloon
+	- Big Root
+2: Boosting
+	- Adamant Crystal
+	- Adamant Orb
+	- Berserk Gene
+	- Binding Band
+	- Black Belt
+	- Black Glasses
+	- Black Sludge
+	- Booster Energy
+	- Bright Powder
+	- Bug Memory
+	- Burn Drive
+	- Cell Battery
+	- Charcoal
+	- Chill Drive
+	- Choice Band
+	- Choice Scarf
+	- Choice Specs
+	- Cornerstone Mask
+	- Damp Rock
+	- Dark Memory
+	- Deep Sea Tooth
+	- Destiny Knot
+	- Douse Drive
+	- Draco Plate
+	- Dragon Fang
+	- Dread Plate
+	- Earth Plate
+	- Electric Memory
+	- Electric Seed
+	- Expert Belt
+	- Fairy Feather
+	- Fairy Memory
+	- Fighting Memory
+	- Fire Memory
+	- Fist Plate
+	- Flame Orb
+	- Flame Plate
+	- Flying Memory
+	- Ghost Memory
+	- Grass Memory
+	- Grassy Seed
+	- Grip Claw
+	- Griseous Core
+	- Griseous Orb
+	- Ground Memory
+	- Hearthflame Mask
+	- Heat Rock
+	- Ice Memory
+	- Icicle Plate
+	- Insect Plate
+	- Iron Plate
+	- Lagging Tail
+	- Leek
+	- Leftovers
+	- Life Orb
+	- Light Ball
+	- Light Clay
+	- Loaded Dice
+	- Lucky Punch
+	- Lustrous Globe
+	- Lustrous Orb
+	- Magnet
+	- Meadow Plate
+	- Metal Coat
+	- Metronome
+	- Mind Plate
+	- Miracle Seed
+	- Mirror Herb
+	- Muscle Band
+	- Mystic Water
+	- Never-Melt Ice
+	- Odd Incense
+	- Pink Bow
+	- Poison Barb
+	- Poison Memory
+	- Polkadot Bow
+	- Power Anklet
+	- Power Band
+	- Power Belt
+	- Power Bracer
+	- Power Herb
+	- Power Lens
+	- Power Weight
+	- Psychic Memory
+	- Punching Glove
+	- Quick Claw
+	- Quick Powder
+	- Razor Claw
+	- Red Orb
+	- Rock Incense
+	- Rock Memory
+	- Room Service
+	- Rose Incense
+	- Rusted Shield
+	- Rusted Sword
+	- Scope Lens
+	- Sea Incense
+	- Sharp Beak
+	- Shell Bell
+	- Shock Drive
+	- Splash Plate
+	- Stone Plate
+	- Terrain Extender
+	- Thick Club
+	- Throat Spray
+	- Toxic Orb
+	- Toxic Plate
+	- Twisted Spoon
+	- Wave Incense
+	- Wellspring Mask
+	- Wide Lens
+	- Wise Glasses
+	- Zap Plate
+	- Zoom Lens
+3: Protective
+	- Ability Shield
+	- Absorb Bulb
+	- Assault Vest
+	- Clear Amulet
+	- Covert Cloak
+	- Deep Sea Scale
+	- Dragon Memory
+	- Eject Button
+	- Eject Pack
+	- Eviolite
+	- Float Stone
+	- Focus Band
+	- Focus Sash
+	- Hard Stone
+	- Heavy-Duty Boots
+	- Icy Rock
+	- Iron Ball
+	- King's Rock
+	- Lax Incense
+	- Luminous Moss
+	- Mental Herb
+	- Metal Powder
+	- Misty Seed
+	- Pink Scarf
+	- Pixie Plate
+	- Protective Pads
+	- Psychic Seed
+	- Razor Fang
+	- Red Card
+	- Rocky Helmet
+	- Safety Goggles
+	- Shed Shell
+	- Silk Scarf
+	- Silver Powder
+	- Sky Plate
+	- Smooth Rock
+	- Snowball
+	- Soft Sand
+	- Soul Dew
+	- Spell Tag
+	- Spooky Plate
+	- Steel Memory
+	- Sticky Barb
+	- Utility Umbrella
+	- Water Memory`
+4: Useless
+	- Amulet Coin
+	- Berry Sweet
+	- Cleanse Tag
+	- Clover Sweet
+	- Dubious Disc
+	- Electirizer
+	- Everstone
+	- Exp. Share
+	- Flower Sweet
+	- Full Incense
+	- Green Scarf
+	- Love Sweet
+	- Luck Incense
+	- Lucky Egg
+	- Macho Brace
+	- Magmarizer
+	- Protector
+	- Pure Incense
+	- Reaper Cloth
+	- Red Scarf
+	- Ribbon Sweet
+	- Ring Target
+	- Smoke Ball
+	- Soothe Bell
+	- Star Sweet
+	- Strawberry Sweet
+	- Yellow Scarf
+5: Gimmicks (Z-Moves and Mega Stones would fall underboosting usually)
+	- Aloraichium Z
+	- Buginium Z
+	- Darkinium Z
+	- Decidium Z
+	- Dragonium Z
+	- Eevium Z
+	- Electrium Z
+	- Fairium Z
+	- Fightinium Z
+	- Firium Z
+	- Flyinium Z
+	- Ghostium Z
+	- Grassium Z
+	- Groundium Z
+	- Icium Z
+	- Incinium Z
+	- Kommonium Z
+	- Lunalium Z
+	- Lycanium Z
+	- Mewnium Z
+	- Mimikium Z
+	- Normalium Z
+	- Pikanium Z
+	- Pikashunium Z
+	- Poisonium Z
+	- Primarium Z
+	- Psychium Z
+	- Rockium Z
+	- Snorlium Z
+	- Solganium Z
+	- Steelium Z
+	- Tapunium Z
+	- Ultranecrozium Z
+	- Waterium Z

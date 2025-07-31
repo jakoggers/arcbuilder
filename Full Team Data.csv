@@ -1,16 +1,4 @@
 name,item,gender,ability,level,tera_type,nature,evs.ev_hp,evs.ev_attack,evs.ev_defense,evs.ev_special_attack,evs.ev_special_defense,evs.ev_speed,ivs.iv_hp,ivs.iv_attack,ivs.iv_defense,ivs.iv_special_attack,ivs.iv_special_defense,ivs.iv_speed,moves.move_1,moves.move_2,moves.move_3,moves.move_4
-Whimsicott,Covert Cloak,Male,Prankster,50,Water,,0,0,0,0,0,0,31,31,31,31,31,31,Moonblast,Tailwind,Light Screen,Encore
-Urshifu-Rapid-Strike,Choice Band,Female,Unseen Fist,50,Ghost,,0,0,0,0,0,0,31,31,31,31,31,31,Surging Strikes,U-turn,Aqua Jet,Close Combat
-Ursaluna,Flame Orb,Male,Guts,50,Ghost,,0,0,0,0,0,0,31,31,31,31,31,31,Facade,Headlong Rush,Earthquake,Protect
-Miraidon,Choice Specs,Genderless,Hadron Engine,50,Fairy,,0,0,0,0,0,0,31,31,31,31,31,31,Electro Drift,Volt Switch,Draco Meteor,Dazzling Gleam
-Lunala,Electric Seed,Genderless,Shadow Shield,50,Fairy,,0,0,0,0,0,0,31,31,31,31,31,31,Trick Room,Moonblast,Wide Guard,Moongeist Beam
-Incineroar,Assault Vest,Female,Intimidate,50,Bug,,0,0,0,0,0,0,31,31,31,31,31,31,U-turn,Knock Off,Flare Blitz,Fake Out
-Rillaboom,Assault Vest,Male,Grassy Surge,50,Fire,,0,0,0,0,0,0,31,31,31,31,31,31,Wood Hammer,Grassy Glide,U-turn,Fake Out
-Calyrex-Shadow,Life Orb,Genderless,As One,50,Dark,,0,0,0,0,0,0,31,31,31,31,31,31,Astral Barrage,Psychic,Nasty Plot,Protect
-Zamazenta,Rusted Shield,Genderless,Dauntless Shield,50,Water,,0,0,0,0,0,0,31,31,31,31,31,31,Body Press,Heavy Slam,Wide Guard,Protect
-Incineroar,Rocky Helmet,Female,Intimidate,50,Water,,0,0,0,0,0,0,31,31,31,31,31,31,Knock Off,Helping Hand,Parting Shot,Fake Out
-Raging Bolt,Booster Energy,Genderless,Protosynthesis,50,Electric,,0,0,0,0,0,0,31,31,31,31,31,31,Thunderbolt,Dragon Pulse,Thunderclap,Protect
-Ogerpon-Hearthflame,Hearthflame Mask,Female,Mold Breaker,50,Fire,,0,0,0,0,0,0,31,31,31,31,31,31,Ivy Cudgel,Grassy Glide,Follow Me,Spiky Shield
 Miraidon,Choice Specs,Genderless,Hadron Engine,50,Fairy,Timid,108,0,52,212,4,132,31,31,31,31,31,31,Electro Drift,Dazzling Gleam,Volt Switch,Draco Meteor
 Calyrex-Ice,Leftovers,Genderless,As One (Glastrier),50,Water,Adamant,252,36,4,0,180,36,31,31,31,31,31,31,Glacial Lance,Leech Seed,Trick Room,Protect
 Incineroar,Assault Vest,Male,Intimidate,50,Bug,Adamant,252,116,36,0,28,76,31,31,31,31,31,31,Flare Blitz,Knock Off,U-turn,Fake Out
@@ -2168,7 +2156,7 @@ Urshifu-Rapid-Strike,Choice Scarf,Female,Unseen Fist,50,Water,Modest,252,4,4,116
 Tornadus,Covert Cloak,Male,Prankster,50,Water,Adamant,252,36,4,4,196,20,0,0,31,16,31,16,Tailwind,Bleakwind Storm,Rain Dance,Taunt
 Sneasler,Electric Seed,Female,Unburden,50,Dark,Modest,236,76,36,36,132,68,31,0,31,17,31,16,Gunk Shot,Close Combat,Fake Out,Throat Chop
 Miraidon,Choice Specs,Genderless,Hadron Engine,50,Fairy,Careful,252,4,124,92,116,12,0,0,18,31,14,0,Electro Drift,Volt Switch,Draco Meteor,Dazzling Gleam
-Ursaluna-Bloodmoon,Life Orb,Male,Mind’s Eye,50,Normal,Adamant,108,196,4,180,180,20,31,20,31,29,31,25,Blood Moon,Hyper Voice,Earth Power,Protect
+Ursaluna-Bloodmoon,Life Orb,Male,Mind's Eye,50,Normal,Adamant,108,196,4,180,180,20,31,20,31,29,31,25,Blood Moon,Hyper Voice,Earth Power,Protect
 Farigiraf,Rocky Helmet,Female,Armor Tail,50,Fire,Jolly,180,4,60,68,12,252,31,0,31,13,31,0,Psychic,Trick Room,Protect,Foul Play
 Zamazenta,Rusted Shield,Genderless,Dauntless Shield,50,Ghost,Modest,252,4,4,116,132,4,0,0,31,0,31,29,Protect,Behemoth Bash,Body Press,Wide Guard
 Calyrex-Ice,Leftovers,Genderless,As One (Glastrier),50,Water,Adamant,252,36,4,4,196,20,0,0,31,16,31,16,Glacial Lance,Leech Seed,Trick Room,Protect

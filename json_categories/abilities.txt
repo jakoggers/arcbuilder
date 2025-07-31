@@ -1,4 +1,4 @@
-Immunity (nullifying)
+0: Immunity (nullifying)
 - Aroma Veil
 - Armor Tail
 - Battle Armor
@@ -48,7 +48,7 @@ Immunity (nullifying)
 - Well-Baked Body
 - White Smoke
 - Wonder Guard
-Environmental (hadron engine)
+1: Environmental (hadron engine)
 - Air Lock
 - Cloud Nine
 - Delta Stream
@@ -67,13 +67,16 @@ Environmental (hadron engine)
 - Seed Sower
 - Snow Warning
 - Teraform Zero
-Boosting/Debuffing (quark drive, etc (changes stats))
+2: Boosting/Debuffing (quark drive, etc (changes stats))
 - Adaptability
 - Analytic
 - Aura Break
 - Anger Point
 - Anger Shell
+- As One (Spectrier)
+- As One (Glastrier)
 - As One
+- asone
 - Battle Bond
 - Beast Boost
 - Beads of Ruin
@@ -135,7 +138,7 @@ Boosting/Debuffing (quark drive, etc (changes stats))
 - Soul-Heart
 - Sniper
 - Snow Cloak
-- Speed Boosting
+- Speed Boost
 - Stakeout
 - Stamina
 - Steam Engine
@@ -167,7 +170,7 @@ Boosting/Debuffing (quark drive, etc (changes stats))
 - Vessel of Ruin
 - Victory Star
 - Zero to Hero
-Modifying (changes/adds effects)
+3: Modifying (changes/adds effects)
 - Aerilate
 - Bad Dreams
 - Cheek Pouch
@@ -231,7 +234,7 @@ Modifying (changes/adds effects)
 - Unnerve
 - Unseen Fist
 - Zen Mode
-Protective (Reactionary, (also abilities like flame body which affect opposing mon w/ status condition ))
+4: Protective (Reactionary, (also abilities like flame body which affect opposing mon w/ status condition ))
 - Aftermath
 - Color Change
 - Cursed Body
@@ -271,12 +274,12 @@ Protective (Reactionary, (also abilities like flame body which affect opposing m
 - Toxic Debris
 - Wandering Spirit
 - Wimp Out
-Preventative (arena trap)
+5: Preventative (arena trap)
 - Arena Trap
 - Magnet Pull
 - Shadow Tag
 - Neutralizing Gas
-Bonding (telekinesis, friend guard)
+6: Bonding (telekinesis, friend guard)
 - Battery
 - Commander
 - Costar
@@ -288,12 +291,12 @@ Bonding (telekinesis, friend guard)
 - Receiver
 - Symbiosis
 - Telepathy
-Info (forewarn, maybe other useless abilities)
+7: Info (forewarn, maybe other useless abilities)
 - Anticipation
 - Forewarn
 - Frisk
 - Trace
-Healing (healing abilities)
+8: Healing (healing abilities)
 - Healer
 - Hospitality
 - Hydration
@@ -303,7 +306,7 @@ Healing (healing abilities)
 - Shed Skin
 - Rain Dish
 - Regenerator
-Negative/Useless Abilities
+9: Negative/Useless Abilities
 - Ball Fetch
 - Defeatist
 - Honey Gather

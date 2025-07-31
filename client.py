@@ -4,15 +4,22 @@ from team_to_txt import write_all_teams, pokemon_to_txt
 from team_handler import team_to_csv, team_handler # for testing
 filename = os.path.basename(local_file_path)
 
+initalize = input("Write all teams to JSON, TXT, and to CSV? (Y or N) ")
 print("Initalizing ('ism): ")
-initalize = False
-if initalize is True:
+begin = str(initalize).capitalize()
+if begin == "Y":
 	write_all_teams()
 	pokemon_to_txt(filename) # This file will run every command in subsequent order:
 	team_to_csv(local_teamjson_path)
 	# commment this one out to test ofc
-	pass
-team_handler("https://pokepast.es/46e426ed62136f59", str(0))
+	#pass
+elif begin == "A":
+	which_team = input("Give me a team to test with: ")
+	team_handler(which_team, str(0))
+	print(f"Test team in file: 0")
+else:
+	print("It had no effect!")
+# team_handler("https://pokepast.es/46e426ed62136f59", str(0))
 #team_handler("https://pokepast.es/41a3259337c0ca59", str(71))
 
 # team w/ ev's (my team):https://pokepast.es/46e426ed62136f59

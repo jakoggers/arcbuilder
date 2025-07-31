@@ -1,0 +1,280 @@
+0: Stat Boosting/Debuffing/Damage-Inflicting Status Moves
+	- Acid Armor
+	- Acupressure
+	- Agility
+	- Amnesia
+	- Aromatic Mist
+	- Autotomize
+	- Barrier
+	- Baby-Doll Eyes
+	- Belly Drum
+	- Bulk Up
+	- Calm Mind
+	- Captivate
+	- Charm
+	- Charge
+	- Clangorous Soul
+	- Coaching
+	- Coil
+	- Confide
+	- Cosmic Power
+	- Cotton Guard
+	- Cotton Spore
+	- Court Change
+	- Curse
+	- Decorate
+	- Defend Order
+	- Defense Curl
+	- Destiny Bond
+	- Double Team
+	- Dragon Cheer
+	- Dragon Dance
+	- Eerie Impulse
+	- Extreme Evoboost
+	- Fake Tears
+	- Flower Shield
+	- Feather Dance
+	- Fillet Away
+	- Focus Energy
+	- Foresight
+	- Flatter
+	- Gear Up
+	- Geomancy
+	- Growl
+	- Guard Split
+	- Harden
+	- Howl
+	- Hone Claws
+	- Iron Defense
+	- Kinesis
+	- Leer
+	- Lock-On
+	- Magnetic Flux
+	- Meditate
+	- Memento
+	- Me First
+	- Metal Sound
+	- Mimic
+	- Minimize
+	- Mind Reader
+	- Mirror Move
+	- Mud Sport
+	- Nasty Plot
+	- No Retreat
+	- Noble Roar
+	- Octolock
+	- Pain Split
+	- Parting Shot
+	- Powder
+	- Play Nice
+	- Perish Song
+	- Power Split
+	- Power Trick
+	- Psych Up
+	- Quiver Dance
+	- Rock Polish
+	- Rototiller
+	- Sand Attack
+	- Scary Face
+	- Screech
+	- Sharpen
+	- Shell Smash
+	- Shelter
+	- Shift Gear
+	- Sleep Talk
+	- Smokescreen
+	- Spicy Extract
+	- Spite
+	- Stockpile
+	- Strength Sap
+	- String Shot
+	- Stuff Cheeks
+	- Swagger
+	- Sweet Scent
+	- Swords Dance
+	- Tail Whip
+	- Tail Glow
+	- Take Heart
+	- Tar Shot
+	- Telekinesis
+	- Tearful Look
+	- Tickle
+	- Tidy Up
+	- Topsy-Turvy
+	- Toxic Thread
+	- Venom Drench
+	- Water Sport
+	- Work Up
+	- Withdraw
+1: Field Effect
+	- Chilly Reception
+	- Defog
+	- Doodle
+	- Electric Terrain
+	- Hail
+	- Gravity
+	- Grassy Terrain
+	- Leech Seed
+	- Misty Terrain
+	- Psychic Terrain
+	- Rain Dance
+	- Sandstorm
+	- Snowscape
+	- Sunny Day
+	- Spikes
+	- Stealth Rock
+	- Sticky Web
+	- Tailwind
+	- Toxic Spikes
+	- Whirlwind
+2: Nullifying/Preventing/Protection
+	- Attract
+	- Aurora Veil
+	- Baneful Bunker
+	- Burning Bulwark
+	- Crafty Shield
+	- Detect
+	- Endure
+	- Embargo
+	- Fairy Lock
+	- Gastro Acid
+	- Haze
+	- Heal Block
+	- Imprison
+	- King's Shield
+	- Light Screen
+	- Lucky Chant
+	- Magic Coat
+	- Magic Room
+	- Mat Block
+	- Max Guard
+	- Mean Look
+	- Mist
+	- Obstruct
+	- Quick Guard
+	- Reflect
+	- Safeguard
+	- Shed Tail
+	- Silk Trap
+	- Spider Web
+	- Spiky Shield
+	- Substitute
+	- Taunt
+	- Teeter Dance
+	- Torment
+	- Wide Guard
+	- Worry Seed
+3: Redirection Move
+	- After You
+	- Ally Switch
+	- Baton Pass
+	- Encore
+	- Instruct
+	- Follow Me
+	- Helping Hand
+	- Rage Powder
+	- Spotlight
+4: Status Condition
+	- Aromatherapy
+	- Confuse Ray
+	- Dark Void
+	- Disable
+	- Glare
+	- Grass Whistle
+	- Hypnosis
+	- Lovely Kiss
+	- Nightmare
+	- Poison Gas
+	- Poison Powder
+	- Psycho Shift
+	- Sing
+	- Sleep Powder
+	- Spore
+	- Stun Spore
+	- Supersonic
+	- Sweet Kiss
+	- Thunder Wave
+	- Toxic
+	- Will-O-Wisp
+	- Yawn
+5: Healing
+	- Aqua Ring
+	- Floral Healing
+	- Heal Bell
+	- Heal Order
+	- Healing Wish
+	- Heal Pulse
+	- Jungle Healing
+	- Life Dew
+	- Lunar Blessing
+	- Lunar Dance
+	- Milk Drink
+	- Morning Sun
+	- Moonlight
+	- Purify
+	- Recover
+	- Refresh
+	- Rest
+	- Revival Blessing
+	- Roost
+	- Shore Up
+	- Soft-Boiled
+	- Slack Off
+	- Swallow
+	- Synthesis
+	- Teatime
+	- Wish
+6: Useless
+	- Block
+	- Celebrate
+	- Flash
+	- Happy Hour
+	- Hold Hands
+	- Ingrain
+	- Roar
+	- Splash
+	- Teleport
+7: State Modification
+	- Assist
+	- Bestow
+	- Camouflage
+	- Copycat
+	- Conversion
+	- Conversion 2
+	- Corrosive Gas
+	- Electrify
+	- Entrainment
+	- Forest's Curse
+	- Grudge
+	- Guard Swap
+	- Heart Swap
+	- Ion Deluge
+	- Magic Powder
+	- Magnet Rise
+	- Metronome
+	- Miracle Eye
+	- Mirror Move
+	- Power Swap
+	- Power Shift
+	- Odor Sleuth
+	- Quash
+	- Recycle
+	- Reflect Type
+	- Role Play
+	- Simple Beam
+	- Soak
+	- Sketch
+	- Skill Swap
+	- Snatch
+	- Speed Swap
+	- Switcheroo
+	- Transform
+	- Trick
+	- Trick-or-Treat
+	- Wonder Room
+
+8: Protect
+- Protect
+
+9: Trick Room (lmao)
+- Trick Room

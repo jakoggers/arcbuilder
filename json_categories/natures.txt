@@ -1,0 +1,31 @@
+0: Neutral:
+- Hardy
+- Docile
+- Bashful
+- Quirky
+- Serious
+1: Attack Boosting:
+- Lonely
+- Adamant
+- Naughty
+- Brave
+2: Defense Boosting:
+- Bold
+- Impish
+- Lax
+- Relaxed
+3: Special Attack Boosting:
+- Modest
+- Mild
+- Rash
+- Quiet
+4: Special Defense Boosting:
+- Calm
+- Gentle
+- Careful
+- Sassy
+5: Speed Boosting:
+- Timid
+- Hasty
+- Jolly
+- Naive
