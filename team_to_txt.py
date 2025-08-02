@@ -33,7 +33,7 @@ def write_all_teams():
 # After writing all the teams, turn each file into a txt
 def pokemon_to_txt(file):
 
-	with open(file, "r", encoding="utf-8") as read_file:
+	with open(file, "r+", encoding="utf-8") as read_file:
 		for team_number, link in enumerate(read_file):
 			team_handler(link.strip(), str(team_number)) # this line took me 10 hours to fix and it was just a strip() call.
 	print(f"Data has been withdrawn. All files in folder: \"{team_folder_path}/\"")

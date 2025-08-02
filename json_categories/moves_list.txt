@@ -1,0 +1,901 @@
+Move: Pound | Category: Physical 
+Move: Karate Chop | Category: Physical 
+Move: Double Slap | Category: Physical 
+Move: Comet Punch | Category: Physical 
+Move: Mega Punch | Category: Physical 
+Move: Pay Day | Category: Physical 
+Move: Fire Punch | Category: Physical 
+Move: Ice Punch | Category: Physical 
+Move: Thunder Punch | Category: Physical 
+Move: Scratch | Category: Physical 
+Move: Vise Grip | Category: Physical 
+Move: Guillotine | Category: Physical 
+Move: Razor Wind | Category: Special 
+Move: Swords Dance | Category: Status 
+Move: Cut | Category: Physical 
+Move: Gust | Category: Special 
+Move: Wing Attack | Category: Physical 
+Move: Whirlwind | Category: Status 
+Move: Fly | Category: Physical 
+Move: Bind | Category: Physical 
+Move: Slam | Category: Physical 
+Move: Vine Whip | Category: Physical 
+Move: Stomp | Category: Physical 
+Move: Double Kick | Category: Physical 
+Move: Mega Kick | Category: Physical 
+Move: Jump Kick | Category: Physical 
+Move: Rolling Kick | Category: Physical 
+Move: Sand Attack | Category: Status 
+Move: Headbutt | Category: Physical 
+Move: Horn Attack | Category: Physical 
+Move: Fury Attack | Category: Physical 
+Move: Horn Drill | Category: Physical 
+Move: Tackle | Category: Physical 
+Move: Body Slam | Category: Physical 
+Move: Wrap | Category: Physical 
+Move: Take Down | Category: Physical 
+Move: Thrash | Category: Physical 
+Move: Double-Edge | Category: Physical 
+Move: Tail Whip | Category: Status 
+Move: Poison Sting | Category: Physical 
+Move: Twineedle | Category: Physical 
+Move: Pin Missile | Category: Physical 
+Move: Leer | Category: Status 
+Move: Bite | Category: Physical 
+Move: Growl | Category: Status 
+Move: Roar | Category: Status 
+Move: Sing | Category: Status 
+Move: Supersonic | Category: Status 
+Move: Sonic Boom | Category: Special 
+Move: Disable | Category: Status 
+Move: Acid | Category: Special 
+Move: Ember | Category: Special 
+Move: Flamethrower | Category: Special 
+Move: Mist | Category: Status 
+Move: Water Gun | Category: Special 
+Move: Hydro Pump | Category: Special 
+Move: Surf | Category: Special 
+Move: Ice Beam | Category: Special 
+Move: Blizzard | Category: Special 
+Move: Psybeam | Category: Special 
+Move: Bubble Beam | Category: Special 
+Move: Aurora Beam | Category: Special 
+Move: Hyper Beam | Category: Special 
+Move: Peck | Category: Physical 
+Move: Drill Peck | Category: Physical 
+Move: Submission | Category: Physical 
+Move: Low Kick | Category: Physical 
+Move: Counter | Category: Physical 
+Move: Seismic Toss | Category: Physical 
+Move: Strength | Category: Physical 
+Move: Absorb | Category: Special 
+Move: Mega Drain | Category: Special 
+Move: Leech Seed | Category: Status 
+Move: Growth | Category: Status 
+Move: Razor Leaf | Category: Physical 
+Move: Solar Beam | Category: Special 
+Move: Poison Powder | Category: Status 
+Move: Stun Spore | Category: Status 
+Move: Sleep Powder | Category: Status 
+Move: Petal Dance | Category: Special 
+Move: String Shot | Category: Status 
+Move: Dragon Rage | Category: Special 
+Move: Fire Spin | Category: Special 
+Move: Thunder Shock | Category: Special 
+Move: Thunderbolt | Category: Special 
+Move: Thunder Wave | Category: Status 
+Move: Thunder | Category: Special 
+Move: Rock Throw | Category: Physical 
+Move: Earthquake | Category: Physical 
+Move: Fissure | Category: Physical 
+Move: Dig | Category: Physical 
+Move: Toxic | Category: Status 
+Move: Confusion | Category: Special 
+Move: Psychic | Category: Special 
+Move: Hypnosis | Category: Status 
+Move: Meditate | Category: Status 
+Move: Agility | Category: Status 
+Move: Quick Attack | Category: Physical 
+Move: Rage | Category: Physical 
+Move: Teleport | Category: Status 
+Move: Night Shade | Category: Special 
+Move: Mimic | Category: Status 
+Move: Screech | Category: Status 
+Move: Double Team | Category: Status 
+Move: Recover | Category: Status 
+Move: Harden | Category: Status 
+Move: Minimize | Category: Status 
+Move: Smokescreen | Category: Status 
+Move: Confuse Ray | Category: Status 
+Move: Withdraw | Category: Status 
+Move: Defense Curl | Category: Status 
+Move: Barrier | Category: Status 
+Move: Light Screen | Category: Status 
+Move: Haze | Category: Status 
+Move: Reflect | Category: Status 
+Move: Focus Energy | Category: Status 
+Move: Bide | Category: Physical 
+Move: Metronome | Category: Status 
+Move: Mirror Move | Category: Status 
+Move: Self-Destruct | Category: Physical 
+Move: Egg Bomb | Category: Physical 
+Move: Lick | Category: Physical 
+Move: Smog | Category: Special 
+Move: Sludge | Category: Special 
+Move: Bone Club | Category: Physical 
+Move: Fire Blast | Category: Special 
+Move: Waterfall | Category: Physical 
+Move: Clamp | Category: Physical 
+Move: Swift | Category: Special 
+Move: Skull Bash | Category: Physical 
+Move: Spike Cannon | Category: Physical 
+Move: Constrict | Category: Physical 
+Move: Amnesia | Category: Status 
+Move: Kinesis | Category: Status 
+Move: Soft-Boiled | Category: Status 
+Move: High Jump Kick | Category: Physical 
+Move: Glare | Category: Status 
+Move: Dream Eater | Category: Special 
+Move: Poison Gas | Category: Status 
+Move: Barrage | Category: Physical 
+Move: Leech Life | Category: Physical 
+Move: Lovely Kiss | Category: Status 
+Move: Sky Attack | Category: Physical 
+Move: Transform | Category: Status 
+Move: Bubble | Category: Special 
+Move: Dizzy Punch | Category: Physical 
+Move: Spore | Category: Status 
+Move: Flash | Category: Status 
+Move: Psywave | Category: Special 
+Move: Splash | Category: Status 
+Move: Acid Armor | Category: Status 
+Move: Crabhammer | Category: Physical 
+Move: Explosion | Category: Physical 
+Move: Fury Swipes | Category: Physical 
+Move: Bonemerang | Category: Physical 
+Move: Rest | Category: Status 
+Move: Rock Slide | Category: Physical 
+Move: Hyper Fang | Category: Physical 
+Move: Sharpen | Category: Status 
+Move: Conversion | Category: Status 
+Move: Tri Attack | Category: Special 
+Move: Super Fang | Category: Physical 
+Move: Slash | Category: Physical 
+Move: Substitute | Category: Status 
+Move: Struggle | Category: Physical 
+Move: Sketch | Category: Status 
+Move: Triple Kick | Category: Physical 
+Move: Thief | Category: Physical 
+Move: Spider Web | Category: Status 
+Move: Mind Reader | Category: Status 
+Move: Nightmare | Category: Status 
+Move: Flame Wheel | Category: Physical 
+Move: Snore | Category: Special 
+Move: Curse | Category: Status 
+Move: Flail | Category: Physical 
+Move: Conversion 2 | Category: Status 
+Move: Aeroblast | Category: Special 
+Move: Cotton Spore | Category: Status 
+Move: Reversal | Category: Physical 
+Move: Spite | Category: Status 
+Move: Powder Snow | Category: Special 
+Move: Protect | Category: Status 
+Move: Mach Punch | Category: Physical 
+Move: Scary Face | Category: Status 
+Move: Feint Attack | Category: Physical 
+Move: Sweet Kiss | Category: Status 
+Move: Belly Drum | Category: Status 
+Move: Sludge Bomb | Category: Special 
+Move: Mud-Slap | Category: Special 
+Move: Octazooka | Category: Special 
+Move: Spikes | Category: Status 
+Move: Zap Cannon | Category: Special 
+Move: Foresight | Category: Status 
+Move: Destiny Bond | Category: Status 
+Move: Perish Song | Category: Status 
+Move: Icy Wind | Category: Special 
+Move: Detect | Category: Status 
+Move: Bone Rush | Category: Physical 
+Move: Lock-On | Category: Status 
+Move: Outrage | Category: Physical 
+Move: Sandstorm | Category: Status 
+Move: Giga Drain | Category: Special 
+Move: Endure | Category: Status 
+Move: Charm | Category: Status 
+Move: Rollout | Category: Physical 
+Move: False Swipe | Category: Physical 
+Move: Swagger | Category: Status 
+Move: Milk Drink | Category: Status 
+Move: Spark | Category: Physical 
+Move: Fury Cutter | Category: Physical 
+Move: Steel Wing | Category: Physical 
+Move: Mean Look | Category: Status 
+Move: Attract | Category: Status 
+Move: Sleep Talk | Category: Status 
+Move: Heal Bell | Category: Status 
+Move: Return | Category: Physical 
+Move: Present | Category: Physical 
+Move: Frustration | Category: Physical 
+Move: Safeguard | Category: Status 
+Move: Pain Split | Category: Status 
+Move: Sacred Fire | Category: Physical 
+Move: Magnitude | Category: Physical 
+Move: Dynamic Punch | Category: Physical 
+Move: Megahorn | Category: Physical 
+Move: Dragon Breath | Category: Special 
+Move: Baton Pass | Category: Status 
+Move: Encore | Category: Status 
+Move: Pursuit | Category: Physical 
+Move: Rapid Spin | Category: Physical 
+Move: Sweet Scent | Category: Status 
+Move: Iron Tail | Category: Physical 
+Move: Metal Claw | Category: Physical 
+Move: Vital Throw | Category: Physical 
+Move: Morning Sun | Category: Status 
+Move: Synthesis | Category: Status 
+Move: Moonlight | Category: Status 
+Move: Hidden Power | Category: Special 
+Move: Cross Chop | Category: Physical 
+Move: Twister | Category: Special 
+Move: Rain Dance | Category: Status 
+Move: Sunny Day | Category: Status 
+Move: Crunch | Category: Physical 
+Move: Mirror Coat | Category: Special 
+Move: Psych Up | Category: Status 
+Move: Extreme Speed | Category: Physical 
+Move: Ancient Power | Category: Special 
+Move: Shadow Ball | Category: Special 
+Move: Future Sight | Category: Special 
+Move: Rock Smash | Category: Physical 
+Move: Whirlpool | Category: Special 
+Move: Beat Up | Category: Physical 
+Move: Fake Out | Category: Physical 
+Move: Uproar | Category: Special 
+Move: Stockpile | Category: Status 
+Move: Spit Up | Category: Special 
+Move: Swallow | Category: Status 
+Move: Heat Wave | Category: Special 
+Move: Hail | Category: Status 
+Move: Torment | Category: Status 
+Move: Flatter | Category: Status 
+Move: Will-O-Wisp | Category: Status 
+Move: Memento | Category: Status 
+Move: Facade | Category: Physical 
+Move: Focus Punch | Category: Physical 
+Move: Smelling Salts | Category: Physical 
+Move: Follow Me | Category: Status 
+Move: Nature Power | Category: Special 
+Move: Charge | Category: Status 
+Move: Taunt | Category: Status 
+Move: Helping Hand | Category: Status 
+Move: Trick | Category: Status 
+Move: Role Play | Category: Status 
+Move: Wish | Category: Status 
+Move: Assist | Category: Status 
+Move: Ingrain | Category: Status 
+Move: Superpower | Category: Physical 
+Move: Magic Coat | Category: Status 
+Move: Recycle | Category: Status 
+Move: Revenge | Category: Physical 
+Move: Brick Break | Category: Physical 
+Move: Yawn | Category: Status 
+Move: Knock Off | Category: Physical 
+Move: Endeavor | Category: Physical 
+Move: Eruption | Category: Special 
+Move: Skill Swap | Category: Status 
+Move: Imprison | Category: Status 
+Move: Refresh | Category: Status 
+Move: Grudge | Category: Status 
+Move: Snatch | Category: Status 
+Move: Secret Power | Category: Physical 
+Move: Dive | Category: Physical 
+Move: Arm Thrust | Category: Physical 
+Move: Camouflage | Category: Status 
+Move: Tail Glow | Category: Status 
+Move: Luster Purge | Category: Special 
+Move: Mist Ball | Category: Special 
+Move: Feather Dance | Category: Status 
+Move: Teeter Dance | Category: Status 
+Move: Blaze Kick | Category: Physical 
+Move: Mud Sport | Category: Status 
+Move: Ice Ball | Category: Physical 
+Move: Needle Arm | Category: Physical 
+Move: Slack Off | Category: Status 
+Move: Hyper Voice | Category: Special 
+Move: Poison Fang | Category: Physical 
+Move: Crush Claw | Category: Physical 
+Move: Blast Burn | Category: Special 
+Move: Hydro Cannon | Category: Special 
+Move: Meteor Mash | Category: Physical 
+Move: Astonish | Category: Physical 
+Move: Weather Ball | Category: Special 
+Move: Aromatherapy | Category: Status 
+Move: Fake Tears | Category: Status 
+Move: Air Cutter | Category: Special 
+Move: Overheat | Category: Special 
+Move: Odor Sleuth | Category: Status 
+Move: Rock Tomb | Category: Physical 
+Move: Silver Wind | Category: Special 
+Move: Metal Sound | Category: Status 
+Move: Grass Whistle | Category: Status 
+Move: Tickle | Category: Status 
+Move: Cosmic Power | Category: Status 
+Move: Water Spout | Category: Special 
+Move: Signal Beam | Category: Special 
+Move: Shadow Punch | Category: Physical 
+Move: Extrasensory | Category: Special 
+Move: Sky Uppercut | Category: Physical 
+Move: Sand Tomb | Category: Physical 
+Move: Sheer Cold | Category: Special 
+Move: Muddy Water | Category: Special 
+Move: Bullet Seed | Category: Physical 
+Move: Aerial Ace | Category: Physical 
+Move: Icicle Spear | Category: Physical 
+Move: Iron Defense | Category: Status 
+Move: Block | Category: Status 
+Move: Howl | Category: Status 
+Move: Dragon Claw | Category: Physical 
+Move: Frenzy Plant | Category: Special 
+Move: Bulk Up | Category: Status 
+Move: Bounce | Category: Physical 
+Move: Mud Shot | Category: Special 
+Move: Poison Tail | Category: Physical 
+Move: Covet | Category: Physical 
+Move: Volt Tackle | Category: Physical 
+Move: Magical Leaf | Category: Special 
+Move: Water Sport | Category: Status 
+Move: Calm Mind | Category: Status 
+Move: Leaf Blade | Category: Physical 
+Move: Dragon Dance | Category: Status 
+Move: Rock Blast | Category: Physical 
+Move: Shock Wave | Category: Special 
+Move: Water Pulse | Category: Special 
+Move: Doom Desire | Category: Special 
+Move: Psycho Boost | Category: Special 
+Move: Roost | Category: Status 
+Move: Gravity | Category: Status 
+Move: Miracle Eye | Category: Status 
+Move: Wake-Up Slap | Category: Physical 
+Move: Hammer Arm | Category: Physical 
+Move: Gyro Ball | Category: Physical 
+Move: Healing Wish | Category: Status 
+Move: Brine | Category: Special 
+Move: Natural Gift | Category: Physical 
+Move: Feint | Category: Physical 
+Move: Pluck | Category: Physical 
+Move: Tailwind | Category: Status 
+Move: Acupressure | Category: Status 
+Move: Metal Burst | Category: Physical 
+Move: U-turn | Category: Physical 
+Move: Close Combat | Category: Physical 
+Move: Payback | Category: Physical 
+Move: Assurance | Category: Physical 
+Move: Embargo | Category: Status 
+Move: Fling | Category: Physical 
+Move: Psycho Shift | Category: Status 
+Move: Trump Card | Category: Special 
+Move: Heal Block | Category: Status 
+Move: Wring Out | Category: Special 
+Move: Power Trick | Category: Status 
+Move: Gastro Acid | Category: Status 
+Move: Lucky Chant | Category: Status 
+Move: Me First | Category: Status 
+Move: Copycat | Category: Status 
+Move: Power Swap | Category: Status 
+Move: Guard Swap | Category: Status 
+Move: Punishment | Category: Physical 
+Move: Last Resort | Category: Physical 
+Move: Worry Seed | Category: Status 
+Move: Sucker Punch | Category: Physical 
+Move: Toxic Spikes | Category: Status 
+Move: Heart Swap | Category: Status 
+Move: Aqua Ring | Category: Status 
+Move: Magnet Rise | Category: Status 
+Move: Flare Blitz | Category: Physical 
+Move: Force Palm | Category: Physical 
+Move: Aura Sphere | Category: Special 
+Move: Rock Polish | Category: Status 
+Move: Poison Jab | Category: Physical 
+Move: Dark Pulse | Category: Special 
+Move: Night Slash | Category: Physical 
+Move: Aqua Tail | Category: Physical 
+Move: Seed Bomb | Category: Physical 
+Move: Air Slash | Category: Special 
+Move: X-Scissor | Category: Physical 
+Move: Bug Buzz | Category: Special 
+Move: Dragon Pulse | Category: Special 
+Move: Dragon Rush | Category: Physical 
+Move: Power Gem | Category: Special 
+Move: Drain Punch | Category: Physical 
+Move: Vacuum Wave | Category: Special 
+Move: Focus Blast | Category: Special 
+Move: Energy Ball | Category: Special 
+Move: Brave Bird | Category: Physical 
+Move: Earth Power | Category: Special 
+Move: Switcheroo | Category: Status 
+Move: Giga Impact | Category: Physical 
+Move: Nasty Plot | Category: Status 
+Move: Bullet Punch | Category: Physical 
+Move: Avalanche | Category: Physical 
+Move: Ice Shard | Category: Physical 
+Move: Shadow Claw | Category: Physical 
+Move: Thunder Fang | Category: Physical 
+Move: Ice Fang | Category: Physical 
+Move: Fire Fang | Category: Physical 
+Move: Shadow Sneak | Category: Physical 
+Move: Mud Bomb | Category: Special 
+Move: Psycho Cut | Category: Physical 
+Move: Zen Headbutt | Category: Physical 
+Move: Mirror Shot | Category: Special 
+Move: Flash Cannon | Category: Special 
+Move: Rock Climb | Category: Physical 
+Move: Defog | Category: Status 
+Move: Trick Room | Category: Status 
+Move: Draco Meteor | Category: Special 
+Move: Discharge | Category: Special 
+Move: Lava Plume | Category: Special 
+Move: Leaf Storm | Category: Special 
+Move: Power Whip | Category: Physical 
+Move: Rock Wrecker | Category: Physical 
+Move: Cross Poison | Category: Physical 
+Move: Gunk Shot | Category: Physical 
+Move: Iron Head | Category: Physical 
+Move: Magnet Bomb | Category: Physical 
+Move: Stone Edge | Category: Physical 
+Move: Captivate | Category: Status 
+Move: Stealth Rock | Category: Status 
+Move: Grass Knot | Category: Special 
+Move: Chatter | Category: Special 
+Move: Judgment | Category: Special 
+Move: Bug Bite | Category: Physical 
+Move: Charge Beam | Category: Special 
+Move: Wood Hammer | Category: Physical 
+Move: Aqua Jet | Category: Physical 
+Move: Attack Order | Category: Physical 
+Move: Defend Order | Category: Status 
+Move: Heal Order | Category: Status 
+Move: Head Smash | Category: Physical 
+Move: Double Hit | Category: Physical 
+Move: Roar of Time | Category: Special 
+Move: Spacial Rend | Category: Special 
+Move: Lunar Dance | Category: Status 
+Move: Crush Grip | Category: Physical 
+Move: Magma Storm | Category: Special 
+Move: Dark Void | Category: Status 
+Move: Seed Flare | Category: Special 
+Move: Ominous Wind | Category: Special 
+Move: Shadow Force | Category: Physical 
+Move: Hone Claws | Category: Status 
+Move: Wide Guard | Category: Status 
+Move: Guard Split | Category: Status 
+Move: Power Split | Category: Status 
+Move: Wonder Room | Category: Status 
+Move: Psyshock | Category: Special 
+Move: Venoshock | Category: Special 
+Move: Autotomize | Category: Status 
+Move: Rage Powder | Category: Status 
+Move: Telekinesis | Category: Status 
+Move: Magic Room | Category: Status 
+Move: Smack Down | Category: Physical 
+Move: Storm Throw | Category: Physical 
+Move: Flame Burst | Category: Special 
+Move: Sludge Wave | Category: Special 
+Move: Quiver Dance | Category: Status 
+Move: Heavy Slam | Category: Physical 
+Move: Synchronoise | Category: Special 
+Move: Electro Ball | Category: Special 
+Move: Soak | Category: Status 
+Move: Flame Charge | Category: Physical 
+Move: Coil | Category: Status 
+Move: Low Sweep | Category: Physical 
+Move: Acid Spray | Category: Special 
+Move: Foul Play | Category: Physical 
+Move: Simple Beam | Category: Status 
+Move: Entrainment | Category: Status 
+Move: After You | Category: Status 
+Move: Round | Category: Special 
+Move: Echoed Voice | Category: Special 
+Move: Chip Away | Category: Physical 
+Move: Clear Smog | Category: Special 
+Move: Stored Power | Category: Special 
+Move: Quick Guard | Category: Status 
+Move: Ally Switch | Category: Status 
+Move: Scald | Category: Special 
+Move: Shell Smash | Category: Status 
+Move: Heal Pulse | Category: Status 
+Move: Hex | Category: Special 
+Move: Sky Drop | Category: Physical 
+Move: Shift Gear | Category: Status 
+Move: Circle Throw | Category: Physical 
+Move: Incinerate | Category: Special 
+Move: Quash | Category: Status 
+Move: Acrobatics | Category: Physical 
+Move: Reflect Type | Category: Status 
+Move: Retaliate | Category: Physical 
+Move: Final Gambit | Category: Special 
+Move: Bestow | Category: Status 
+Move: Inferno | Category: Special 
+Move: Water Pledge | Category: Special 
+Move: Fire Pledge | Category: Special 
+Move: Grass Pledge | Category: Special 
+Move: Volt Switch | Category: Special 
+Move: Struggle Bug | Category: Special 
+Move: Bulldoze | Category: Physical 
+Move: Frost Breath | Category: Special 
+Move: Dragon Tail | Category: Physical 
+Move: Work Up | Category: Status 
+Move: Electroweb | Category: Special 
+Move: Wild Charge | Category: Physical 
+Move: Drill Run | Category: Physical 
+Move: Dual Chop | Category: Physical 
+Move: Heart Stamp | Category: Physical 
+Move: Horn Leech | Category: Physical 
+Move: Sacred Sword | Category: Physical 
+Move: Razor Shell | Category: Physical 
+Move: Heat Crash | Category: Physical 
+Move: Leaf Tornado | Category: Special 
+Move: Steamroller | Category: Physical 
+Move: Cotton Guard | Category: Status 
+Move: Night Daze | Category: Special 
+Move: Psystrike | Category: Special 
+Move: Tail Slap | Category: Physical 
+Move: Hurricane | Category: Special 
+Move: Head Charge | Category: Physical 
+Move: Gear Grind | Category: Physical 
+Move: Searing Shot | Category: Special 
+Move: Techno Blast | Category: Special 
+Move: Relic Song | Category: Special 
+Move: Secret Sword | Category: Special 
+Move: Glaciate | Category: Special 
+Move: Bolt Strike | Category: Physical 
+Move: Blue Flare | Category: Special 
+Move: Fiery Dance | Category: Special 
+Move: Freeze Shock | Category: Physical 
+Move: Ice Burn | Category: Special 
+Move: Snarl | Category: Special 
+Move: Icicle Crash | Category: Physical 
+Move: V-create | Category: Physical 
+Move: Fusion Flare | Category: Special 
+Move: Fusion Bolt | Category: Physical 
+Move: Flying Press | Category: Physical 
+Move: Mat Block | Category: Status 
+Move: Belch | Category: Special 
+Move: Rototiller | Category: Status 
+Move: Sticky Web | Category: Status 
+Move: Fell Stinger | Category: Physical 
+Move: Phantom Force | Category: Physical 
+Move: Trick-or-Treat | Category: Status 
+Move: Noble Roar | Category: Status 
+Move: Ion Deluge | Category: Status 
+Move: Parabolic Charge | Category: Special 
+Move: Forest's Curse | Category: Status 
+Move: Petal Blizzard | Category: Physical 
+Move: Freeze-Dry | Category: Special 
+Move: Disarming Voice | Category: Special 
+Move: Parting Shot | Category: Status 
+Move: Topsy-Turvy | Category: Status 
+Move: Draining Kiss | Category: Special 
+Move: Crafty Shield | Category: Status 
+Move: Flower Shield | Category: Status 
+Move: Grassy Terrain | Category: Status 
+Move: Misty Terrain | Category: Status 
+Move: Electrify | Category: Status 
+Move: Play Rough | Category: Physical 
+Move: Fairy Wind | Category: Special 
+Move: Moonblast | Category: Special 
+Move: Boomburst | Category: Special 
+Move: Fairy Lock | Category: Status 
+Move: King's Shield | Category: Status 
+Move: Play Nice | Category: Status 
+Move: Confide | Category: Status 
+Move: Diamond Storm | Category: Physical 
+Move: Steam Eruption | Category: Special 
+Move: Hyperspace Hole | Category: Special 
+Move: Water Shuriken | Category: Special 
+Move: Mystical Fire | Category: Special 
+Move: Spiky Shield | Category: Status 
+Move: Aromatic Mist | Category: Status 
+Move: Eerie Impulse | Category: Status 
+Move: Venom Drench | Category: Status 
+Move: Powder | Category: Status 
+Move: Geomancy | Category: Status 
+Move: Magnetic Flux | Category: Status 
+Move: Happy Hour | Category: Status 
+Move: Electric Terrain | Category: Status 
+Move: Dazzling Gleam | Category: Special 
+Move: Celebrate | Category: Status 
+Move: Hold Hands | Category: Status 
+Move: Baby-Doll Eyes | Category: Status 
+Move: Nuzzle | Category: Physical 
+Move: Hold Back | Category: Physical 
+Move: Infestation | Category: Special 
+Move: Power-Up Punch | Category: Physical 
+Move: Oblivion Wing | Category: Special 
+Move: Thousand Arrows | Category: Physical 
+Move: Thousand Waves | Category: Physical 
+Move: Land's Wrath | Category: Physical 
+Move: Light of Ruin | Category: Special 
+Move: Origin Pulse | Category: Special 
+Move: Precipice Blades | Category: Physical 
+Move: Dragon Ascent | Category: Physical 
+Move: Hyperspace Fury | Category: Physical 
+Move: Breakneck Blitz | Category: Z-Move 
+Move: All-Out Pummeling | Category: Z-Move 
+Move: Supersonic Skystrike | Category: Z-Move 
+Move: Acid Downpour | Category: Z-Move 
+Move: Tectonic Rage | Category: Z-Move 
+Move: Continental Crush | Category: Z-Move 
+Move: Savage Spin-Out | Category: Z-Move 
+Move: Never-Ending Nightmare | Category: Z-Move 
+Move: Corkscrew Crash | Category: Z-Move 
+Move: Inferno Overdrive | Category: Z-Move 
+Move: Hydro Vortex | Category: Z-Move 
+Move: Bloom Doom | Category: Z-Move 
+Move: Gigavolt Havoc | Category: Z-Move 
+Move: Shattered Psyche | Category: Z-Move 
+Move: Subzero Slammer | Category: Z-Move 
+Move: Devastating Drake | Category: Z-Move 
+Move: Black Hole Eclipse | Category: Z-Move 
+Move: Twinkle Tackle | Category: Z-Move 
+Move: Catastropika | Category: Physical 
+Move: Shore Up | Category: Status 
+Move: First Impression | Category: Physical 
+Move: Baneful Bunker | Category: Status 
+Move: Spirit Shackle | Category: Physical 
+Move: Darkest Lariat | Category: Physical 
+Move: Sparkling Aria | Category: Special 
+Move: Ice Hammer | Category: Physical 
+Move: Floral Healing | Category: Status 
+Move: High Horsepower | Category: Physical 
+Move: Strength Sap | Category: Status 
+Move: Solar Blade | Category: Physical 
+Move: Leafage | Category: Physical 
+Move: Spotlight | Category: Status 
+Move: Toxic Thread | Category: Status 
+Move: Laser Focus | Category: Status 
+Move: Gear Up | Category: Status 
+Move: Throat Chop | Category: Physical 
+Move: Pollen Puff | Category: Special 
+Move: Anchor Shot | Category: Physical 
+Move: Psychic Terrain | Category: Status 
+Move: Lunge | Category: Physical 
+Move: Fire Lash | Category: Physical 
+Move: Power Trip | Category: Physical 
+Move: Burn Up | Category: Special 
+Move: Speed Swap | Category: Status 
+Move: Smart Strike | Category: Physical 
+Move: Purify | Category: Status 
+Move: Revelation Dance | Category: Special 
+Move: Core Enforcer | Category: Special 
+Move: Trop Kick | Category: Physical 
+Move: Instruct | Category: Status 
+Move: Beak Blast | Category: Physical 
+Move: Clanging Scales | Category: Special 
+Move: Dragon Hammer | Category: Physical 
+Move: Brutal Swing | Category: Physical 
+Move: Aurora Veil | Category: Status 
+Move: Sinister Arrow Raid | Category: Physical 
+Move: Malicious Moonsault | Category: Physical 
+Move: Oceanic Operetta | Category: Special 
+Move: Guardian of Alola | Category: Special 
+Move: Soul-Stealing 7-Star Strike | Category: Physical 
+Move: Stoked Sparksurfer | Category: Special 
+Move: Pulverizing Pancake | Category: Physical 
+Move: Extreme Evoboost | Category: Status 
+Move: Genesis Supernova | Category: Special 
+Move: Shell Trap | Category: Special 
+Move: Fleur Cannon | Category: Special 
+Move: Psychic Fangs | Category: Physical 
+Move: Stomping Tantrum | Category: Physical 
+Move: Shadow Bone | Category: Physical 
+Move: Accelerock | Category: Physical 
+Move: Liquidation | Category: Physical 
+Move: Prismatic Laser | Category: Special 
+Move: Spectral Thief | Category: Physical 
+Move: Sunsteel Strike | Category: Physical 
+Move: Moongeist Beam | Category: Special 
+Move: Tearful Look | Category: Status 
+Move: Zing Zap | Category: Physical 
+Move: Nature's Madness | Category: Special 
+Move: Multi-Attack | Category: Physical 
+Move: 10,000,000 Volt Thunderbolt | Category: Special 
+Move: Mind Blown | Category: Special 
+Move: Plasma Fists | Category: Physical 
+Move: Photon Geyser | Category: Special 
+Move: Light That Burns the Sky | Category: Special 
+Move: Searing Sunraze Smash | Category: Physical 
+Move: Menacing Moonraze Maelstrom | Category: Special 
+Move: Let's Snuggle Forever | Category: Physical 
+Move: Splintered Stormshards | Category: Physical 
+Move: Clangorous Soulblaze | Category: Special 
+Move: Zippy Zap | Category: Physical 
+Move: Splishy Splash | Category: Special 
+Move: Floaty Fall | Category: Physical 
+Move: Pika Papow | Category: Special 
+Move: Bouncy Bubble | Category: Special 
+Move: Buzzy Buzz | Category: Special 
+Move: Sizzly Slide | Category: Physical 
+Move: Glitzy Glow | Category: Special 
+Move: Baddy Bad | Category: Special 
+Move: Sappy Seed | Category: Physical 
+Move: Freezy Frost | Category: Special 
+Move: Sparkly Swirl | Category: Special 
+Move: Veevee Volley | Category: Physical 
+Move: Double Iron Bash | Category: Physical 
+Move: Max Guard | Category: Status 
+Move: Dynamax Cannon | Category: Special 
+Move: Snipe Shot | Category: Special 
+Move: Jaw Lock | Category: Physical 
+Move: Stuff Cheeks | Category: Status 
+Move: No Retreat | Category: Status 
+Move: Tar Shot | Category: Status 
+Move: Magic Powder | Category: Status 
+Move: Dragon Darts | Category: Physical 
+Move: Teatime | Category: Status 
+Move: Octolock | Category: Status 
+Move: Bolt Beak | Category: Physical 
+Move: Fishious Rend | Category: Physical 
+Move: Court Change | Category: Status 
+Move: Max Flare | Category: Max Move 
+Move: Max Flutterby | Category: Max Move 
+Move: Max Lightning | Category: Max Move 
+Move: Max Strike | Category: Max Move 
+Move: Max Knuckle | Category: Max Move 
+Move: Max Phantasm | Category: Max Move 
+Move: Max Hailstorm | Category: Max Move 
+Move: Max Ooze | Category: Max Move 
+Move: Max Geyser | Category: Max Move 
+Move: Max Airstream | Category: Max Move 
+Move: Max Starfall | Category: Max Move 
+Move: Max Wyrmwind | Category: Max Move 
+Move: Max Mindstorm | Category: Max Move 
+Move: Max Rockfall | Category: Max Move 
+Move: Max Quake | Category: Max Move 
+Move: Max Darkness | Category: Max Move 
+Move: Max Overgrowth | Category: Max Move 
+Move: Max Steelspike | Category: Max Move 
+Move: Clangorous Soul | Category: Status 
+Move: Body Press | Category: Physical 
+Move: Decorate | Category: Status 
+Move: Drum Beating | Category: Physical 
+Move: Snap Trap | Category: Physical 
+Move: Pyro Ball | Category: Physical 
+Move: Behemoth Blade | Category: Physical 
+Move: Behemoth Bash | Category: Physical 
+Move: Aura Wheel | Category: Physical 
+Move: Breaking Swipe | Category: Physical 
+Move: Branch Poke | Category: Physical 
+Move: Overdrive | Category: Special 
+Move: Apple Acid | Category: Special 
+Move: Grav Apple | Category: Physical 
+Move: Spirit Break | Category: Physical 
+Move: Strange Steam | Category: Special 
+Move: Life Dew | Category: Status 
+Move: Obstruct | Category: Status 
+Move: False Surrender | Category: Physical 
+Move: Meteor Assault | Category: Physical 
+Move: Eternabeam | Category: Special 
+Move: Steel Beam | Category: Special 
+Move: Expanding Force | Category: Special 
+Move: Steel Roller | Category: Physical 
+Move: Scale Shot | Category: Physical 
+Move: Meteor Beam | Category: Special 
+Move: Shell Side Arm | Category: Special 
+Move: Misty Explosion | Category: Special 
+Move: Grassy Glide | Category: Physical 
+Move: Rising Voltage | Category: Special 
+Move: Terrain Pulse | Category: Special 
+Move: Skitter Smack | Category: Physical 
+Move: Burning Jealousy | Category: Special 
+Move: Lash Out | Category: Physical 
+Move: Poltergeist | Category: Physical 
+Move: Corrosive Gas | Category: Status 
+Move: Coaching | Category: Status 
+Move: Flip Turn | Category: Physical 
+Move: Triple Axel | Category: Physical 
+Move: Dual Wingbeat | Category: Physical 
+Move: Scorching Sands | Category: Special 
+Move: Jungle Healing | Category: Status 
+Move: Wicked Blow | Category: Physical 
+Move: Surging Strikes | Category: Physical 
+Move: Thunder Cage | Category: Special 
+Move: Dragon Energy | Category: Special 
+Move: Freezing Glare | Category: Special 
+Move: Fiery Wrath | Category: Special 
+Move: Thunderous Kick | Category: Physical 
+Move: Glacial Lance | Category: Physical 
+Move: Astral Barrage | Category: Special 
+Move: Eerie Spell | Category: Special 
+Move: Dire Claw | Category: Physical 
+Move: Psyshield Bash | Category: Physical 
+Move: Power Shift | Category: Status 
+Move: Stone Axe | Category: Physical 
+Move: Springtide Storm | Category: Special 
+Move: Mystical Power | Category: Special 
+Move: Raging Fury | Category: Physical 
+Move: Wave Crash | Category: Physical 
+Move: Chloroblast | Category: Special 
+Move: Mountain Gale | Category: Physical 
+Move: Victory Dance | Category: Status 
+Move: Headlong Rush | Category: Physical 
+Move: Barb Barrage | Category: Physical 
+Move: Esper Wing | Category: Special 
+Move: Bitter Malice | Category: Special 
+Move: Shelter | Category: Status 
+Move: Triple Arrows | Category: Physical 
+Move: Infernal Parade | Category: Special 
+Move: Ceaseless Edge | Category: Physical 
+Move: Bleakwind Storm | Category: Special 
+Move: Wildbolt Storm | Category: Special 
+Move: Sandsear Storm | Category: Special 
+Move: Lunar Blessing | Category: Status 
+Move: Take Heart | Category: Status 
+Move: Tera Blast | Category: Special 
+Move: Silk Trap | Category: Status 
+Move: Axe Kick | Category: Physical 
+Move: Last Respects | Category: Physical 
+Move: Lumina Crash | Category: Special 
+Move: Order Up | Category: Physical 
+Move: Jet Punch | Category: Physical 
+Move: Spicy Extract | Category: Status 
+Move: Spin Out | Category: Physical 
+Move: Population Bomb | Category: Physical 
+Move: Ice Spinner | Category: Physical 
+Move: Glaive Rush | Category: Physical 
+Move: Revival Blessing | Category: Status 
+Move: Salt Cure | Category: Physical 
+Move: Triple Dive | Category: Physical 
+Move: Mortal Spin | Category: Physical 
+Move: Doodle | Category: Status 
+Move: Fillet Away | Category: Status 
+Move: Kowtow Cleave | Category: Physical 
+Move: Flower Trick | Category: Physical 
+Move: Torch Song | Category: Special 
+Move: Aqua Step | Category: Physical 
+Move: Raging Bull | Category: Physical 
+Move: Make It Rain | Category: Special 
+Move: Psyblade | Category: Physical 
+Move: Hydro Steam | Category: Special 
+Move: Ruination | Category: Special 
+Move: Collision Course | Category: Physical 
+Move: Electro Drift | Category: Special 
+Move: Shed Tail | Category: Status 
+Move: Chilly Reception | Category: Status 
+Move: Tidy Up | Category: Status 
+Move: Snowscape | Category: Status 
+Move: Pounce | Category: Physical 
+Move: Trailblaze | Category: Physical 
+Move: Chilling Water | Category: Special 
+Move: Hyper Drill | Category: Physical 
+Move: Twin Beam | Category: Special 
+Move: Rage Fist | Category: Physical 
+Move: Armor Cannon | Category: Special 
+Move: Bitter Blade | Category: Physical 
+Move: Double Shock | Category: Physical 
+Move: Gigaton Hammer | Category: Physical 
+Move: Comeuppance | Category: Physical 
+Move: Aqua Cutter | Category: Physical 
+Move: Blazing Torque | Category: Physical 
+Move: Wicked Torque | Category: Physical 
+Move: Noxious Torque | Category: Physical 
+Move: Combat Torque | Category: Physical 
+Move: Magical Torque | Category: Physical 
+Move: Blood Moon | Category: Special 
+Move: Matcha Gotcha | Category: Special 
+Move: Syrup Bomb | Category: Special 
+Move: Ivy Cudgel | Category: Physical 
+Move: Electro Shot | Category: Special 
+Move: Tera Starstorm | Category: Special 
+Move: Fickle Beam | Category: Special 
+Move: Burning Bulwark | Category: Status 
+Move: Thunderclap | Category: Special 
+Move: Mighty Cleave | Category: Physical 
+Move: Tachyon Cutter | Category: Special 
+Move: Hard Press | Category: Physical 
+Move: Dragon Cheer | Category: Status 
+Move: Alluring Voice | Category: Special 
+Move: Temper Flare | Category: Physical 
+Move: Supercell Slam | Category: Physical 
+Move: Psychic Noise | Category: Special 
+Move: Upper Hand | Category: Physical 
+Move: Malignant Chain | Category: Special 

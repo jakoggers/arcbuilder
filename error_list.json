@@ -1,0 +1,61 @@
+{
+  "errors": [
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "item",
+      "Error": "Blank"
+    },
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "gender",
+      "Error": "Blank"
+    },
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "ability",
+      "Error": "Blank"
+    },
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "tera_type",
+      "Error": "Blank"
+    },
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "item",
+      "Error": "Blank"
+    },
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "gender",
+      "Error": "Blank"
+    },
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "ability",
+      "Error": "Blank"
+    },
+    {
+      "JSON File Location": "pokemon_team_jsons/523_JSON.json",
+      "Link to Paste": "pokemon_teams/523.txt",
+      "Pokemon": "",
+      "Field": "tera_type",
+      "Error": "Blank"
+    }
+  ],
+  "Total Errors:": 8
+}

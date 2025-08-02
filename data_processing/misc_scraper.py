@@ -15,22 +15,19 @@ moves = soup.find("table")
 block = moves.find_all("td")
 names = block[0].find_all("a")
 
-physical_moves = {}
-
-moves_list = {}
-
 
 with open("json_categories/moves_list.txt", "w+", encoding="utf-8") as moves_file:
-	names = names[6:]
+	names = names[6:] # Cut out
 	num_lines = 0
 	for i in range(0, len(names), 4):
 		move = names[i].text.strip()
 		category = names[i + 2].text.strip()
 		if category in {"Physical", "Special", "Status"}:
-
 			# Depending on the generation, adding various cases depening on the move
 			if move == "Nature Power":
 				moves_file.write(f"Move: {move} | Category: Special \n")
+			elif move == "Blank":
+				moves_file.write(f"Move: {move} | Category: Status \n")
 			else:
 				moves_file.write(f"Move: {move} | Category: {category} \n")
 
@@ -48,6 +45,7 @@ with open("json_categories/moves_list.txt", "w+", encoding="utf-8") as moves_fil
 
 		#if move_or_cat == "Physical" or move_or_cat == "Special" or move_or_cat == "Status":
 		#	moves_file.write(f"Move Category: {move_or_cat} \n")
+
 print("Written!")
 	#elif i % 4 == 0:
 	#	print("Move Category: ", names[i].text.strip())

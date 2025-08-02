@@ -196,6 +196,7 @@
 - Merciless
 - Mimicry
 - Mind's Eye
+- Mind’s Eye
 - Mold Breaker
 - Multitype
 - No Guard

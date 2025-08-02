@@ -1,0 +1,188 @@
+{
+	"pokemon_1": {
+		"name": "",
+		"item": "",
+		"gender": "",
+		"ability": "",
+		"level": 50,
+		"tera_type": "",
+		"nature": "",
+		"evs": {
+			"ev_hp": 0,
+			"ev_attack": 0,
+			"ev_defense": 0,
+			"ev_special_attack": 0,
+			"ev_special_defense": 0,
+			"ev_speed": 0
+		},
+		"ivs": {
+			"iv_hp": 31,
+			"iv_attack": 31,
+			"iv_defense": 31,
+			"iv_special_attack": 31,
+			"iv_special_defense": 31,
+			"iv_speed": 31
+		},
+		"moves": {
+			"move_1": "",
+			"move_2": "",
+			"move_3": "",
+			"move_4": ""
+		}
+	},
+	"pokemon_2": {
+		"name": "",
+		"item": "",
+		"gender": "",
+		"ability": "",
+		"level": 50,
+		"tera_type": "",
+		"nature": "",
+		"evs": {
+			"ev_hp": 0,
+			"ev_attack": 0,
+			"ev_defense": 0,
+			"ev_special_attack": 0,
+			"ev_special_defense": 0,
+			"ev_speed": 0
+		},
+		"ivs": {
+			"iv_hp": 31,
+			"iv_attack": 31,
+			"iv_defense": 31,
+			"iv_special_attack": 31,
+			"iv_special_defense": 31,
+			"iv_speed": 31
+		},
+		"moves": {
+			"move_1": "",
+			"move_2": "",
+			"move_3": "",
+			"move_4": ""
+		}
+	},
+	"pokemon_3": {
+		"name": "",
+		"item": "",
+		"gender": "",
+		"ability": "",
+		"level": 50,
+		"tera_type": "",
+		"nature": "",
+		"evs": {
+			"ev_hp": 0,
+			"ev_attack": 0,
+			"ev_defense": 0,
+			"ev_special_attack": 0,
+			"ev_special_defense": 0,
+			"ev_speed": 0
+		},
+		"ivs": {
+			"iv_hp": 31,
+			"iv_attack": 31,
+			"iv_defense": 31,
+			"iv_special_attack": 31,
+			"iv_special_defense": 31,
+			"iv_speed": 31
+		},
+		"moves": {
+			"move_1": "",
+			"move_2": "",
+			"move_3": "",
+			"move_4": ""
+		}
+	},
+	"pokemon_4": {
+		"name": "",
+		"item": "",
+		"gender": "",
+		"ability": "",
+		"level": 50,
+		"tera_type": "",
+		"nature": "",
+		"evs": {
+			"ev_hp": 0,
+			"ev_attack": 0,
+			"ev_defense": 0,
+			"ev_special_attack": 0,
+			"ev_special_defense": 0,
+			"ev_speed": 0
+		},
+		"ivs": {
+			"iv_hp": 31,
+			"iv_attack": 31,
+			"iv_defense": 31,
+			"iv_special_attack": 31,
+			"iv_special_defense": 31,
+			"iv_speed": 31
+		},
+		"moves": {
+			"move_1": "",
+			"move_2": "",
+			"move_3": "",
+			"move_4": ""
+		}
+	},
+	"pokemon_5": {
+		"name": "",
+		"item": "",
+		"gender": "",
+		"ability": "",
+		"level": 50,
+		"tera_type": "",
+		"nature": "",
+		"evs": {
+			"ev_hp": 0,
+			"ev_attack": 0,
+			"ev_defense": 0,
+			"ev_special_attack": 0,
+			"ev_special_defense": 0,
+			"ev_speed": 0
+		},
+		"ivs": {
+			"iv_hp": 31,
+			"iv_attack": 31,
+			"iv_defense": 31,
+			"iv_special_attack": 31,
+			"iv_special_defense": 31,
+			"iv_speed": 31
+		},
+		"moves": {
+			"move_1": "",
+			"move_2": "",
+			"move_3": "",
+			"move_4": ""
+		}
+	},
+	"pokemon_6": {
+		"name": "",
+		"item": "",
+		"gender": "",
+		"ability": "",
+		"level": 50,
+		"tera_type": "",
+		"nature": "",
+		"evs": {
+			"ev_hp": 0,
+			"ev_attack": 0,
+			"ev_defense": 0,
+			"ev_special_attack": 0,
+			"ev_special_defense": 0,
+			"ev_speed": 0
+		},
+		"ivs": {
+			"iv_hp": 31,
+			"iv_attack": 31,
+			"iv_defense": 31,
+			"iv_special_attack": 31,
+			"iv_special_defense": 31,
+			"iv_speed": 31
+		},
+		"moves": {
+			"move_1": "",
+			"move_2": "",
+			"move_3": "",
+			"move_4": ""
+		}
+	}
+}
