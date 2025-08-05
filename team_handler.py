@@ -35,7 +35,7 @@ class DataErrors:
 			"Total Errors:": len(self.errors)
 		}
 
-		with open("error_list.json", "a+", encoding="utf-8") as write_json:
+		with open("error_checking/error_list.json", "a+", encoding="utf-8") as write_json:
 			json.dump(final_errors, write_json, indent=2, ensure_ascii=False)
 
 		print(f"Errors: {len(self.errors)}")
@@ -280,10 +280,8 @@ def team_to_csv(given_json_path):
 	fused_json = pd.concat(rows_to_csv, ignore_index=False)
 	fused_json = fused_json.reset_index(drop=True)
 
-	fused_json.to_csv("Full Team Data.csv", encoding="utf-8", index=False)
+	fused_json.to_csv("csv_files/Full Team Data.csv", encoding="utf-8", index=False)
 	# clean the data, bruh whose idea was it to clean the data like this smh... making it O(n)^2... what a geek
 	print("CSV'd the file gangana!!!!")
 
-
-
-# Really weird error with a certain Ursalnua's abiility written as Mind’s Eye
+# Really weird error with a certain Ursalnua's abiility written as Mind’s Eye rather than Mind's Eye

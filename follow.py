@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 
-df = pd.read_csv('Full Team Data.csv', encoding='utf-8')
+df = pd.read_csv('csv_files/Full Team Data.csv', encoding='utf-8')
 
 
 X = df.iloc[:, :]

@@ -32,7 +32,7 @@ merge_moves = map_status_moves | physical_moves | special_moves
 
 print(merge_moves)
 
-data = pd.read_csv("Full Team Data.csv")
+data = pd.read_csv("csv_files/Full Team Data.csv")
 
 team_csv = pd.DataFrame(data)
 
@@ -64,8 +64,8 @@ print("Categorized!")
 # Check null
 #na_df = team_csv.isna()
 
-team_csv.to_csv("misc_files/mapped_team_data.csv", encoding="utf-8", index=False)
-test_tree = team_csv.to_csv("misc_files/mapped_team_data_no_name.csv", encoding="utf-8", index=False)
+team_csv.to_csv("csv_files/mapped_team_data.csv", encoding="utf-8", index=False)
+test_tree = team_csv.to_csv("csv_files/mapped_team_data_no_name.csv", encoding="utf-8", index=False)
 print("csv'd ")
 print(team_csv.shape)
 print(team_csv.columns)

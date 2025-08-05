@@ -29,5 +29,5 @@
 - Hasty
 - Jolly
 - Naive
-10: Blank (ignore):
+6: Blank:
 - Blank
