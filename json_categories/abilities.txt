@@ -1,320 +1,321 @@
 0: Immunity (nullifying)
-- Aroma Veil
-- Armor Tail
-- Battle Armor
-- Big Pecks
-- Bulletproof
-- Comatose
-- Clear Body
-- Damp
-- Dazzling
-- Dry Skin
-- Earth Eater
-- Flash Fire
-- Flower Veil
-- Full Metal Body
-- Good as Gold
-- Hyper Cutter
-- Illuminate
-- Immunity
-- Insomnia
-- Inner Focus
-- Leaf Guard
-- Levitate
-- Lightning Rod
-- Limber
-- Magic Guard
-- Magma Armor
-- Motor Drive
-- Purifying Salt
-- Oblivious
-- Overcoat
-- Own Tempo
-- Pastel Veil
-- Queenly Majesty
-- Sap Sipper
-- Shell Armor
-- Shield Dust
-- Soundproof
-- Sticky Hold
-- Storm Drain
-- Suction Cups
-- Sweet Veil
-- Vital Spirit
-- Volt Absorb
-- Water Absorb
-- Water Bubble
-- Water Veil
-- Well-Baked Body
-- White Smoke
-- Wonder Guard
+	- Aroma Veil
+	- Armor Tail
+	- Battle Armor
+	- Big Pecks
+	- Bulletproof
+	- Comatose
+	- Clear Body
+	- Damp
+	- Dazzling
+	- Dry Skin
+	- Earth Eater
+	- Flash Fire
+	- Flower Veil
+	- Full Metal Body
+	- Good as Gold
+	- Hyper Cutter
+	- Illuminate
+	- Immunity
+	- Insomnia
+	- Inner Focus
+	- Leaf Guard
+	- Levitate
+	- Lightning Rod
+	- Limber
+	- Magic Guard
+	- Magma Armor
+	- Motor Drive
+	- Purifying Salt
+	- Oblivious
+	- Overcoat
+	- Own Tempo
+	- Pastel Veil
+	- Queenly Majesty
+	- Sap Sipper
+	- Shell Armor
+	- Shield Dust
+	- Soundproof
+	- Sticky Hold
+	- Storm Drain
+	- Suction Cups
+	- Sweet Veil
+	- Vital Spirit
+	- Volt Absorb
+	- Water Absorb
+	- Water Bubble
+	- Water Veil
+	- Well-Baked Body
+	- White Smoke
+	- Wonder Guard
 1: Environmental (hadron engine)
-- Air Lock
-- Cloud Nine
-- Delta Stream
-- Desolate Land
-- Drizzle
-- Drought
-- Grassy Surge
-- Hadron Engine
-- Electric Surge
-- Misty Surge
-- Orichalcum Pulse
-- Primordial Sea
-- Psychic Surge
-- Sand Stream
-- Sand Spit
-- Seed Sower
-- Snow Warning
-- Teraform Zero
+	- Air Lock
+	- Cloud Nine
+	- Delta Stream
+	- Desolate Land
+	- Drizzle
+	- Drought
+	- Grassy Surge
+	- Hadron Engine
+	- Electric Surge
+	- Misty Surge
+	- Orichalcum Pulse
+	- Primordial Sea
+	- Psychic Surge
+	- Psiratychic Surge
+	- Sand Stream
+	- Sand Spit
+	- Seed Sower
+	- Snow Warning
+	- Teraform Zero
 2: Boosting/Debuffing (quark drive, etc (changes stats))
-- Adaptability
-- Analytic
-- Aura Break
-- Anger Point
-- Anger Shell
-- As One (Spectrier)
-- As One (Glastrier)
-- As One
-- asone
-- Battle Bond
-- Beast Boost
-- Beads of Ruin
-- Blaze
-- Berserk
-- Chilling Neigh
-- Chlorophyll
-- Competitive
-- Compound Eyes
-- Cotton Down
-- Dark Aura
-- Dancer
-- Dauntless Shield
-- Defiant
-- Download
-- Dragon's Maw
-- Electromorphosis
-- Embody Aspect
-- Fairy Aura
-- Flare Boost
-- Flower Gift
-- Fur Coat
-- Gooey
-- Gorilla Tactics
-- Grass Pelt
-- Grim Neigh
-- Guard Dog
-- Guts
-- Huge Power
-- Hustle
-- Intimidate
-- Intrepid Sword
-- Iron Fist
-- Justified
-- Opportunist
-- Overgrow
-- Marvel Scale
-- Mega Launcher
-- Moody
-- Moxie
-- Neuroforce
-- Power Spot
-- Punk Rock
-- Protosynthesis
-- Pure Power
-- Quark Drive
-- Quick Feet
-- Rattled
-- Reckless
-- Rivalry
-- Rocky Payload
-- Sand Force
-- Sand Rush
-- Sand Veil
-- Sharpness
-- Sheer Force
-- Slush Rush
-- Solar Power
-- Soul-Heart
-- Sniper
-- Snow Cloak
-- Speed Boost
-- Stakeout
-- Stamina
-- Steam Engine
-- Steelworker
-- Steely Spirit
-- Strong Jaw
-- Super Luck
-- Supersweet Syrup
-- Surge Surfer
-- Supreme Overlord
-- Swarm
-- Swift Swim
-- Sword of Ruin
-- Tablets of Ruin
-- Tangled Feet
-- Tangling Hair
-- Technician
-- Thermal Exchange
-- Torrent
-- Toxic Boost
-- Tough Claws
-- Transistor
-- Unburden
-- Water Compaction
-- Weak Armor
-- Wind Rider
-- Wind Power
-- Wonder Skin
-- Vessel of Ruin
-- Victory Star
-- Zero to Hero
+	- Adaptability
+	- Analytic
+	- Aura Break
+	- Anger Point
+	- Anger Shell
+	- As One (Spectrier)
+	- As One (Glastrier)
+	- As One
+	- asone
+	- Battle Bond
+	- Beast Boost
+	- Beads of Ruin
+	- Blaze
+	- Berserk
+	- Chilling Neigh
+	- Chlorophyll
+	- Competitive
+	- Compound Eyes
+	- Cotton Down
+	- Dark Aura
+	- Dancer
+	- Dauntless Shield
+	- Defiant
+	- Download
+	- Dragon's Maw
+	- Electromorphosis
+	- Embody Aspect
+	- Fairy Aura
+	- Flare Boost
+	- Flower Gift
+	- Fur Coat
+	- Gooey
+	- Gorilla Tactics
+	- Grass Pelt
+	- Grim Neigh
+	- Guard Dog
+	- Guts
+	- Huge Power
+	- Hustle
+	- Intimidate
+	- Intrepid Sword
+	- Iron Fist
+	- Justified
+	- Opportunist
+	- Overgrow
+	- Marvel Scale
+	- Mega Launcher
+	- Moody
+	- Moxie
+	- Neuroforce
+	- Power Spot
+	- Punk Rock
+	- Protosynthesis
+	- Pure Power
+	- Quark Drive
+	- Quick Feet
+	- Rattled
+	- Reckless
+	- Rivalry
+	- Rocky Payload
+	- Sand Force
+	- Sand Rush
+	- Sand Veil
+	- Sharpness
+	- Sheer Force
+	- Slush Rush
+	- Solar Power
+	- Soul-Heart
+	- Sniper
+	- Snow Cloak
+	- Speed Boost
+	- Stakeout
+	- Stamina
+	- Steam Engine
+	- Steelworker
+	- Steely Spirit
+	- Strong Jaw
+	- Super Luck
+	- Supersweet Syrup
+	- Surge Surfer
+	- Supreme Overlord
+	- Swarm
+	- Swift Swim
+	- Sword of Ruin
+	- Tablets of Ruin
+	- Tangled Feet
+	- Tangling Hair
+	- Technician
+	- Thermal Exchange
+	- Torrent
+	- Toxic Boost
+	- Tough Claws
+	- Transistor
+	- Unburden
+	- Water Compaction
+	- Weak Armor
+	- Wind Rider
+	- Wind Power
+	- Wonder Skin
+	- Vessel of Ruin
+	- Victory Star
+	- Zero to Hero
 3: Modifying (changes/adds effects)
-- Aerilate
-- Bad Dreams
-- Cheek Pouch
-- Contrary
-- Corrosion
-- Cud Chew
-- Gale Wings
-- Galvanize
-- Gluttony
-- Gulp Missile
-- Forecast
-- Harvest
-- Heavy Metal
-- Hunger Switch
-- Imposter
-- Infiltrator
-- Keen Eye
-- Libero
-- Light Metal
-- Liquid Voice
-- Long Reach
-- Magician
-- Merciless
-- Mimicry
-- Mind's Eye
-- Mind’s Eye
-- Mold Breaker
-- Multitype
-- No Guard
-- Normalize
-- Parental Bond
-- Pickpocket
-- Pixilate
-- Poison Touch
-- Poison Puppeteer
-- Power Construct
-- Prankster
-- Protean
-- Propeller Tail
-- Quick Draw
-- Refrigerate
-- Ripen
-- RKS System
-- Rock Head
-- Schooling
-- Scrappy
-- Screen Cleaner
-- Serene Grace
-- Shields Down
-- Simple
-- Skill Link
-- Stance Change
-- Stalwart
-- Stench
-- Teravolt
-- Tera Shift
-- Toxic Chain
-- Tinted Lens
-- Triage
-- Turboblaze
-- Unaware
-- Unnerve
-- Unseen Fist
-- Zen Mode
+	- Aerilate
+	- Bad Dreams
+	- Cheek Pouch
+	- Contrary
+	- Corrosion
+	- Cud Chew
+	- Gale Wings
+	- Galvanize
+	- Gluttony
+	- Gulp Missile
+	- Forecast
+	- Harvest
+	- Heavy Metal
+	- Hunger Switch
+	- Imposter
+	- Infiltrator
+	- Keen Eye
+	- Libero
+	- Light Metal
+	- Liquid Voice
+	- Long Reach
+	- Magician
+	- Merciless
+	- Mimicry
+	- Mind's Eye
+	- Mind’s Eye
+	- Mold Breaker
+	- Multitype
+	- No Guard
+	- Normalize
+	- Parental Bond
+	- Pickpocket
+	- Pixilate
+	- Poison Touch
+	- Poison Puppeteer
+	- Power Construct
+	- Prankster
+	- Protean
+	- Propeller Tail
+	- Quick Draw
+	- Refrigerate
+	- Ripen
+	- RKS System
+	- Rock Head
+	- Schooling
+	- Scrappy
+	- Screen Cleaner
+	- Serene Grace
+	- Shields Down
+	- Simple
+	- Skill Link
+	- Stance Change
+	- Stalwart
+	- Stench
+	- Teravolt
+	- Tera Shift
+	- Toxic Chain
+	- Tinted Lens
+	- Triage
+	- Turboblaze
+	- Unaware
+	- Unnerve
+	- Unseen Fist
+	- Zen Mode
 4: Protective (Reactionary, (also abilities like flame body which affect opposing mon w/ status condition ))
-- Aftermath
-- Color Change
-- Cursed Body
-- Cute Charm
-- Disguise
-- Early Bird
-- Effect Spore
-- Emergency Exit
-- Filter
-- Flame Body
-- Fluffy
-- Heatproof
-- Ice Face
-- Ice Scales
-- Illusion
-- Iron Barbs
-- Innards Out
-- Lingering Aroma
-- Liquid Ooze
-- Magic Bounce
-- Mirror Armor
-- Multiscale
-- Mummy
-- Perish Body
-- Poison Point
-- Pressure
-- Prism Armor
-- Rough Skin
-- Shadow Shield
-- Solid Rock
-- Steadfast
-- Static
-- Sturdy
-- Synchronize
-- Tera Shell
-- Thick Fat
-- Toxic Debris
-- Wandering Spirit
-- Wimp Out
+	- Aftermath
+	- Color Change
+	- Cursed Body
+	- Cute Charm
+	- Disguise
+	- Early Bird
+	- Effect Spore
+	- Emergency Exit
+	- Filter
+	- Flame Body
+	- Fluffy
+	- Heatproof
+	- Ice Face
+	- Ice Scales
+	- Illusion
+	- Iron Barbs
+	- Innards Out
+	- Lingering Aroma
+	- Liquid Ooze
+	- Magic Bounce
+	- Mirror Armor
+	- Multiscale
+	- Mummy
+	- Perish Body
+	- Poison Point
+	- Pressure
+	- Prism Armor
+	- Rough Skin
+	- Shadow Shield
+	- Solid Rock
+	- Steadfast
+	- Static
+	- Sturdy
+	- Synchronize
+	- Tera Shell
+	- Thick Fat
+	- Toxic Debris
+	- Wandering Spirit
+	- Wimp Out
 5: Preventative (arena trap)
-- Arena Trap
-- Magnet Pull
-- Shadow Tag
-- Neutralizing Gas
+	- Arena Trap
+	- Magnet Pull
+	- Shadow Tag
+	- Neutralizing Gas
 6: Bonding (telekinesis, friend guard)
-- Battery
-- Commander
-- Costar
-- Curious Medicine
-- Friend Guard
-- Minus
-- Power of Alchemy
-- Plus
-- Receiver
-- Symbiosis
-- Telepathy
+	- Battery
+	- Commander
+	- Costar
+	- Curious Medicine
+	- Friend Guard
+	- Minus
+	- Power of Alchemy
+	- Plus
+	- Receiver
+	- Symbiosis
+	- Telepathy
 7: Info (forewarn, maybe other useless abilities)
-- Anticipation
-- Forewarn
-- Frisk
-- Trace
+	- Anticipation
+	- Forewarn
+	- Frisk
+	- Trace
 8: Healing (healing abilities)
-- Healer
-- Hospitality
-- Hydration
-- Ice Body
-- Natural Cure
-- Poison Heal
-- Shed Skin
-- Rain Dish
-- Regenerator
+	- Healer
+	- Hospitality
+	- Hydration
+	- Ice Body
+	- Natural Cure
+	- Poison Heal
+	- Shed Skin
+	- Rain Dish
+	- Regenerator
 9: Negative/Useless Abilities
-- Ball Fetch
-- Defeatist
-- Honey Gather
-- Klutz
-- Mycelium Might
-- Pickup
-- Run Away
-- Slow Start
-- Stall
-- Truant
+	- Ball Fetch
+	- Defeatist
+	- Honey Gather
+	- Klutz
+	- Mycelium Might
+	- Pickup
+	- Run Away
+	- Slow Start
+	- Stall
+	- Truant

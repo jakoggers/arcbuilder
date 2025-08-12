@@ -1,0 +1,1024 @@
+At index: 2 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 14 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 17 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 40 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 41 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 47 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 52 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 55 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 59 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 68 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 74 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 77 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 87 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 89 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 94 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 111 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 116 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 119 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 126 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 155 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 158 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 160 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 164 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 167 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 169 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 171 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 177 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 182 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 191 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 193 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 196 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 202 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 212 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 222 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 232 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 233 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 244 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 262 Name: Murkrow, Ability Category: 3, Ability Name: Prankster 
+At index: 263 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 268 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 274 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 276 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 290 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 302 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 304 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 310 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 315 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 317 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 319 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 329 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 335 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 339 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 344 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 346 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 349 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 358 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 368 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 380 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 394 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 404 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 407 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 408 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 419 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 420 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 428 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 460 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 464 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 471 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 476 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 489 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 495 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 503 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 506 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 508 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 521 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 522 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 525 Name: Cinccino, Ability Category: 3, Ability Name: Skill Link 
+At index: 539 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 543 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 544 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 548 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 550 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 554 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 557 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 566 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 568 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 574 Name: Clefable, Ability Category: 3, Ability Name: Unaware 
+At index: 580 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 582 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 599 Name: Flamigo, Ability Category: 3, Ability Name: Scrappy 
+At index: 600 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 603 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 611 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 614 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 616 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 619 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 621 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 627 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 629 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 632 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 633 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 644 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 645 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 653 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 657 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 659 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 665 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 669 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 675 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 681 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 682 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 688 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 693 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 697 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 704 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 725 Name: Flamigo, Ability Category: 3, Ability Name: Scrappy 
+At index: 732 Name: Skeledirge, Ability Category: 3, Ability Name: Unaware 
+At index: 742 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 746 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 749 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 750 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 753 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 784 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 785 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 800 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 806 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 807 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 818 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 819 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 824 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 830 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 838 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 844 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 850 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 851 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 855 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 866 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 868 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 872 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 880 Name: Sableye, Ability Category: 3, Ability Name: Prankster 
+At index: 888 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 894 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 903 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 904 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 911 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 914 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 926 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 933 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 939 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 959 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 964 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 971 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 977 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 988 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 990 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 1004 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1017 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 1021 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1028 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1029 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1039 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 1054 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 1061 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1067 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1072 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1078 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1084 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1085 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1086 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1095 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 1096 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1102 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1103 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1109 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1115 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1120 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1127 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1130 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1138 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1140 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1151 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1157 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1160 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1166 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1174 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1175 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 1179 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1185 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1199 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1203 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1215 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1217 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1227 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1233 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 1234 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1238 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1250 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1256 Name: Illumise, Ability Category: 3, Ability Name: Prankster 
+At index: 1257 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1263 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1264 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1269 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1277 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1283 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1294 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 1298 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1301 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 1307 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1318 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1322 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1324 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1342 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1347 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1348 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 1352 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1361 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1372 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1373 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 1376 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1384 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 1389 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1391 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1392 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1393 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1403 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 1408 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1416 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 1418 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1422 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1445 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1449 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1454 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 1456 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1460 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1462 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1465 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 1480 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1481 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 1486 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1489 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1495 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 1503 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1521 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 1522 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1529 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1539 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1544 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1551 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1554 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1566 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1578 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 1593 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1596 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1603 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1605 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1613 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1614 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1624 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1637 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 1643 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1653 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1667 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1671 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1673 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1682 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1701 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 1702 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1705 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 1714 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1720 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1721 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1730 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1732 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1737 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1738 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1745 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1746 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 1748 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1754 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1760 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1763 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1774 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1778 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1798 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 1803 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1809 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1817 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1823 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 1824 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1828 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 1833 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1844 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1845 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1853 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1856 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1865 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1870 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1880 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1882 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1894 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1897 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 1900 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1909 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1911 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1916 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1922 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1923 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1930 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1934 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1937 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1941 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1955 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1956 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 1961 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1962 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1970 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 1971 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1981 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 1997 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 2001 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2014 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2015 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2016 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2024 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2026 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2032 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2036 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2037 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2044 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2054 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2057 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2059 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 2061 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2066 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2072 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2074 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2080 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2085 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2096 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2097 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2102 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2103 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2116 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2120 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2123 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2130 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2138 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2141 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2151 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2156 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2160 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2194 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2205 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2222 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2228 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2240 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2252 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2256 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2260 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2265 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2266 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2270 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2271 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2276 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2284 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2285 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 2296 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2301 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2306 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2309 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2310 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 2313 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2323 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2342 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2353 Name: Reshiram, Ability Category: 3, Ability Name: Turboblaze 
+At index: 2354 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2356 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2361 Name: Flamigo, Ability Category: 3, Ability Name: Scrappy 
+At index: 2364 Name: Seedot, Ability Category: 3, Ability Name: Pickpocket 
+At index: 2373 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2377 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2381 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2397 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2405 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2409 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2416 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 2419 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2432 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2438 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2443 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2463 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2467 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2471 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 2490 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2514 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2519 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2527 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2530 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2534 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 2539 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2547 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2551 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2553 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2563 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2564 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2569 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 2572 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2592 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2593 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2598 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2604 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2609 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2626 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 2631 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 2636 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2655 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2656 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2663 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2666 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2672 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2681 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2682 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2689 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2702 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2708 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2714 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2715 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2726 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2727 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2730 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2743 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2745 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2756 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2762 Name: Sableye, Ability Category: 3, Ability Name: Prankster 
+At index: 2771 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 2792 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2793 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2801 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2807 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2816 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2819 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 2831 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2858 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2860 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2864 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2865 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 2878 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2884 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2886 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2889 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2895 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 2900 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2902 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2914 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2915 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 2920 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2932 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2933 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2948 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2955 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2961 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 2968 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 2969 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2976 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 2980 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 2986 Name: Talonflame, Ability Category: 3, Ability Name: Gale Wings 
+At index: 2990 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 2992 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3011 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3014 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3015 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3022 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 3026 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3033 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3034 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 3035 Name: Talonflame, Ability Category: 3, Ability Name: Gale Wings 
+At index: 3045 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 3063 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3074 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3075 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3088 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3093 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3095 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3112 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3116 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3129 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3137 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 3146 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3152 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3153 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3155 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 3160 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 3166 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3167 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3173 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3176 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3204 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3209 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3219 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3230 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3247 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 3258 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3267 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3276 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3281 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3287 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3298 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3303 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3307 Name: Thundurus, Ability Category: 3, Ability Name: Prankster 
+At index: 3317 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3321 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3323 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3324 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3326 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3330 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3332 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3338 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3344 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3345 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3350 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3351 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3359 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3361 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3368 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3374 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3376 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3380 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3384 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3408 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3411 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3417 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3418 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3420 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3430 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3432 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3441 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3442 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3448 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3454 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3456 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3467 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3473 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3477 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3490 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3497 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3502 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3503 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3515 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3525 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3532 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3538 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3539 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 3542 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3543 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3548 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3551 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3552 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 3555 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 3560 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3561 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3566 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3574 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3576 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3579 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3583 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3588 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 3593 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3595 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3601 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3609 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3616 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3619 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3622 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3631 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3634 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3637 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3641 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3642 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3646 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3652 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3653 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3657 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3660 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3674 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3675 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3707 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3708 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3719 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3741 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3745 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3758 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3760 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3764 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3772 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3788 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 3790 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3791 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3802 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3805 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3807 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3830 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3833 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 3840 Name: Terapagos-Stellar, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3851 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 3853 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3856 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3860 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3862 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3864 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 3867 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3871 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3873 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3881 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3884 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 3898 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3917 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3924 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3929 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3934 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3936 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3937 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3950 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3951 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3956 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3959 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 3963 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3969 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 3974 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 3975 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3988 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 3992 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4001 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4004 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4006 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4012 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4034 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4058 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4060 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4066 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4073 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4096 Name: Thundurus, Ability Category: 3, Ability Name: Prankster 
+At index: 4113 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4114 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4115 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4122 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4128 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 4151 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 4154 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4155 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4164 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4168 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4172 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4173 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4174 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4179 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4181 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4184 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4191 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4197 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4199 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4204 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4208 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4210 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4221 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4222 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4224 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4234 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4235 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4238 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4240 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4244 Name: Murkrow, Ability Category: 3, Ability Name: Prankster 
+At index: 4245 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4247 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4252 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4257 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4261 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 4268 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4276 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4281 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4300 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4301 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4306 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4313 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4316 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4325 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4329 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4331 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4335 Name: Thundurus, Ability Category: 3, Ability Name: Prankster 
+At index: 4341 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4349 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4352 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4353 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4358 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4359 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4362 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4367 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4370 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4374 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4391 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4396 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4401 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4412 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4419 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4432 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4455 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4457 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4460 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4461 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4485 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4490 Name: Sableye, Ability Category: 3, Ability Name: Prankster 
+At index: 4495 Name: Sableye, Ability Category: 3, Ability Name: Prankster 
+At index: 4499 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4501 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4511 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4516 Name: Sableye, Ability Category: 3, Ability Name: Prankster 
+At index: 4521 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4523 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4526 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4527 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4529 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4541 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4546 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4570 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4577 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4592 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4594 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4604 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4607 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4610 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4612 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4627 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4629 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4635 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 4638 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4648 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4650 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4651 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 4655 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4666 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4667 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4709 Name: Comfey, Ability Category: 3, Ability Name: Triage 
+At index: 4717 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4720 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4721 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4733 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4735 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4739 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 4742 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4744 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4756 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4772 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4774 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4776 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4781 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4782 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4783 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4789 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 4797 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4799 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4804 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4805 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4808 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4811 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4814 Name: Impidimp, Ability Category: 3, Ability Name: Prankster 
+At index: 4823 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4827 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4829 Name: Talonflame, Ability Category: 3, Ability Name: Gale Wings 
+At index: 4837 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 4850 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4855 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4857 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4861 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4868 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4871 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4877 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4887 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4913 Name: Comfey, Ability Category: 3, Ability Name: Triage 
+At index: 4915 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4920 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 4928 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4930 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4936 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 4940 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4941 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4942 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4946 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4949 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4955 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 4958 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4961 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4964 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 4965 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4967 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4977 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 4978 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4982 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4989 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 4994 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 4996 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5002 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5024 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5025 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5042 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5051 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5062 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5063 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5066 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5067 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5075 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5098 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5110 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5117 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5121 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5122 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5128 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5132 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5134 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5138 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5139 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5145 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5150 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5164 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5165 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5171 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5174 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5177 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5192 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5193 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5198 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5204 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5205 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5212 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5216 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5217 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5219 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5222 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5224 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5229 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 5231 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5237 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5242 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5243 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5247 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5248 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5253 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5254 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5258 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5260 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5264 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5267 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5270 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5273 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5276 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5279 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5296 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 5302 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5312 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5314 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5328 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 5337 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5354 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5355 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5360 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5362 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5365 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 5369 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5375 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5391 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5399 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5402 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5404 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5407 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5408 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5416 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5417 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5420 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5421 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5427 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5428 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5429 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 5432 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 5438 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5456 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5466 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 5469 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5471 Name: Volbeat, Ability Category: 3, Ability Name: Prankster 
+At index: 5474 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5475 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5483 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5506 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5518 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5525 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5529 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5530 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5534 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5536 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5540 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5541 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5547 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5552 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5553 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5561 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5584 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5596 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5603 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5607 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5608 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5614 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5618 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5620 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5624 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5625 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5631 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5638 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5651 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5654 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5655 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5661 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5669 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5675 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5679 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5685 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5690 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5693 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5694 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5697 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5708 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5711 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5714 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5717 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5726 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5734 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5737 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5758 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5763 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5767 Name: Terapagos-Terastal, Ability Category: 3, Ability Name: Tera Shift 
+At index: 5774 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5775 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5777 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5783 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5792 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5805 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5818 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5819 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5824 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5825 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5828 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 5834 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5836 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5841 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5846 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5847 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5851 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 5854 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5855 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5858 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5860 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5863 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5866 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5872 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5873 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5881 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5896 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5906 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5912 Name: Ursaluna-Bloodmoon, Ability Category: 3, Ability Name: Mind's Eye 
+At index: 5914 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5920 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5922 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5927 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5932 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 5942 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5945 Name: Urshifu, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5948 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5951 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5956 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5957 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5960 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 5967 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5972 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 5973 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5980 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 5981 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5984 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5986 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 5989 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 5992 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 5998 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 5999 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 6007 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6022 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6032 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 6046 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6047 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 6050 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 6059 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 6062 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6071 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 6073 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6078 Name: Terapagos, Ability Category: 3, Ability Name: Tera Shift 
+At index: 6087 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 6095 Name: Thundurus, Ability Category: 3, Ability Name: Prankster 
+At index: 6098 Name: Grimmsnarl, Ability Category: 3, Ability Name: Prankster 
+At index: 6102 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 6104 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 6106 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6116 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 6118 Name: Dondozo, Ability Category: 3, Ability Name: Unaware 
+At index: 6124 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 6125 Name: Ditto, Ability Category: 3, Ability Name: Imposter 
+At index: 6130 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6135 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6139 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 6140 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 6144 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6150 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 6152 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6159 Name: Whimsicott, Ability Category: 3, Ability Name: Prankster 
+At index: 6167 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+At index: 6173 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6176 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6177 Name: Tornadus, Ability Category: 3, Ability Name: Prankster 
+At index: 6183 Name: Urshifu-Rapid-Strike, Ability Category: 3, Ability Name: Unseen Fist 
+At index: 6188 Name: Ogerpon-Hearthflame, Ability Category: 3, Ability Name: Mold Breaker 
+Set of Abilities: {'Unaware', 'Gale Wings', 'Turboblaze', 'Prankster', 'Skill Link', 'Mold Breaker', 'Pickpocket', "Mind's Eye", 'Imposter', 'Triage', 'Scrappy', 'Unseen Fist', 'Tera Shift'}

@@ -1,0 +1,507 @@
+At index: 10 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 13 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 20 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 64 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 73 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 79 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 105 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 115 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 125 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 130 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 140 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 150 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 157 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 209 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 220 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 229 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 252 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 261 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 273 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 285 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 292 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 295 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 322 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 324 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 391 Name: Terapagos, Ability Category: 4, Ability Name: Tera Shell 
+At index: 444 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 448 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 454 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 455 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 458 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 494 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 499 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 505 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 514 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 520 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 535 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 541 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 547 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 552 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 563 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 564 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 571 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 578 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 585 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 604 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 613 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 631 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 671 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 677 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 699 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 706 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 720 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 721 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 729 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 739 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 747 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 781 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 802 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 808 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 837 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 843 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 858 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 862 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 865 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 873 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 878 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 886 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 900 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 910 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 929 Name: Necrozma-Dawn-Wings, Ability Category: 4, Ability Name: Prism Armor 
+At index: 938 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 945 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 946 Name: Hatterene, Ability Category: 4, Ability Name: Magic Bounce 
+At index: 948 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 989 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1009 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1016 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1024 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1025 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1027 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1073 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1079 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1080 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1134 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 1145 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1152 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 1204 Name: Zapdos, Ability Category: 4, Ability Name: Static 
+At index: 1209 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1232 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1253 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1255 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1266 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1270 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1276 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1280 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1282 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1292 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1299 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1306 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1315 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1319 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1345 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 1349 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 1354 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1356 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 1374 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 1379 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1380 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 1386 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1396 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1411 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1451 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1463 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1488 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1500 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1507 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1536 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 1548 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1571 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1591 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1609 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 1649 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1666 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1668 Name: Bastiodon, Ability Category: 4, Ability Name: Sturdy 
+At index: 1680 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1688 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1690 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1709 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1717 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1727 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1744 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1749 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1761 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1769 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1779 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1799 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 1822 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1850 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1869 Name: Magmar, Ability Category: 4, Ability Name: Flame Body 
+At index: 1884 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1889 Name: Ho-Oh, Ability Category: 4, Ability Name: Pressure 
+At index: 1895 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1931 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1950 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 1967 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1983 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 1989 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 1991 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1993 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 1999 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2020 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2030 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2038 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2046 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2063 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2068 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2090 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2098 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2106 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2112 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 2129 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2211 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2215 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2235 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2242 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2258 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2282 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2302 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2305 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2375 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2423 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2434 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2439 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2441 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2468 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2473 Name: Terapagos, Ability Category: 4, Ability Name: Tera Shell 
+At index: 2485 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2495 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2516 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2548 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2549 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2550 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2583 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2588 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2596 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2622 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2629 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 2637 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2639 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2657 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2668 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2674 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2686 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2718 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 2740 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2772 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 2773 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2834 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2844 Name: Zoroark-Hisui, Ability Category: 4, Ability Name: Illusion 
+At index: 2856 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2875 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 2883 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2891 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2893 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2894 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 2903 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2909 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2913 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2916 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 2923 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 2927 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2936 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 2937 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2940 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2946 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 2954 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 2966 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 2987 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 2995 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3029 Name: Necrozma-Dawn-Wings, Ability Category: 4, Ability Name: Prism Armor 
+At index: 3041 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3049 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3055 Name: Giratina, Ability Category: 4, Ability Name: Pressure 
+At index: 3057 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 3061 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 3084 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3089 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3096 Name: Terapagos, Ability Category: 4, Ability Name: Tera Shell 
+At index: 3113 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3121 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3128 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3130 Name: Archaludon, Ability Category: 4, Ability Name: Sturdy 
+At index: 3136 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3140 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3161 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 3163 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3169 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 3170 Name: Lugia, Ability Category: 4, Ability Name: Pressure 
+At index: 3177 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3206 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3253 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3260 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3266 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3290 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3295 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3337 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3367 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3400 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 3407 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3415 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3421 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3449 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3455 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3458 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3459 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3498 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3536 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3580 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3585 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3605 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3615 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3626 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3630 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3649 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3678 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3689 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3696 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 3699 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3713 Name: Indeedee-F, Ability Category: 4, Ability Name: Synchronize 
+At index: 3727 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 3731 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3736 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3743 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3748 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3756 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3767 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3793 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3801 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3806 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3817 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3827 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3834 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3841 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3852 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3861 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3875 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3877 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3894 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 3905 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3910 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3914 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3920 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 3923 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3925 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3931 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 3941 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3943 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3949 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3955 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3964 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3966 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 3983 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 3996 Name: Lugia, Ability Category: 4, Ability Name: Multiscale 
+At index: 4002 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4026 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 4044 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4048 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4057 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4076 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4080 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4086 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4089 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4131 Name: Ho-Oh, Ability Category: 4, Ability Name: Pressure 
+At index: 4141 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4178 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4182 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4200 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4201 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 4207 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4237 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4263 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 4287 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4289 Name: Dragonite, Ability Category: 4, Ability Name: Multiscale 
+At index: 4291 Name: Necrozma-Dawn-Wings, Ability Category: 4, Ability Name: Prism Armor 
+At index: 4299 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4302 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4311 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4324 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4332 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4347 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4354 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4357 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4375 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4378 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4383 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4389 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4392 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4398 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4403 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4409 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 4417 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4439 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 4446 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4477 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4491 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4496 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4506 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4519 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4549 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4556 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4569 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4579 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4585 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4589 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4590 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4599 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4601 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4603 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4608 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4618 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4626 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4637 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4660 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4664 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4673 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4675 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4687 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4700 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4710 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4723 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4740 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4750 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4762 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4770 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4792 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4793 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4800 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4809 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4813 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 4831 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4841 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4848 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4856 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4863 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4876 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 4885 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4888 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4890 Name: Necrozma-Dawn-Wings, Ability Category: 4, Ability Name: Prism Armor 
+At index: 4925 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4951 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4963 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 4968 Name: Terapagos, Ability Category: 4, Ability Name: Tera Shell 
+At index: 4971 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 4975 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5005 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5008 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5011 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5017 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5020 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5032 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5035 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5037 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5055 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5076 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5081 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5083 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5088 Name: Terapagos, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5091 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5103 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5112 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5118 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5123 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5158 Name: Necrozma-Dawn-Wings, Ability Category: 4, Ability Name: Prism Armor 
+At index: 5161 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5184 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5188 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5211 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5223 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5281 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5287 Name: Palkia, Ability Category: 4, Ability Name: Pressure 
+At index: 5289 Name: Hatterene, Ability Category: 4, Ability Name: Magic Bounce 
+At index: 5301 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5305 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5331 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5333 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 5334 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5347 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5368 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5371 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5384 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5401 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 5425 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5447 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5453 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5470 Name: Gengar, Ability Category: 4, Ability Name: Cursed Body 
+At index: 5484 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5489 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5491 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5496 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5499 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5511 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5520 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5526 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5531 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5562 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5567 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5569 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5574 Name: Terapagos, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5577 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5589 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5598 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5604 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5609 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5637 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5672 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5677 Name: Glimmora, Ability Category: 4, Ability Name: Toxic Debris 
+At index: 5684 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5689 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5700 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5704 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5718 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5733 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5748 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5752 Name: Bastiodon, Ability Category: 4, Ability Name: Sturdy 
+At index: 5759 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5770 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5787 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5796 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5797 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5811 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5812 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5833 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5849 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5864 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 5875 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5885 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5887 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5893 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5897 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5899 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5901 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5915 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 5939 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5975 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 5977 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 5990 Name: Volcarona, Ability Category: 4, Ability Name: Flame Body 
+At index: 6001 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6003 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 6011 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6013 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6019 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 6023 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6025 Name: Terapagos-Terastal, Ability Category: 4, Ability Name: Tera Shell 
+At index: 6027 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6036 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 6038 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6055 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 6094 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6097 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 6100 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6115 Name: Eternatus, Ability Category: 4, Ability Name: Pressure 
+At index: 6129 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6148 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6165 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+At index: 6184 Name: Ogerpon-Cornerstone, Ability Category: 4, Ability Name: Sturdy 
+At index: 6186 Name: Lunala, Ability Category: 4, Ability Name: Shadow Shield 
+Set of Abilities: {'Tera Shell', 'Multiscale', 'Pressure', 'Static', 'Synchronize', 'Sturdy', 'Prism Armor', 'Illusion', 'Magic Bounce', 'Toxic Debris', 'Cursed Body', 'Shadow Shield', 'Flame Body'}

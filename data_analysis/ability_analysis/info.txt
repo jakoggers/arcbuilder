@@ -1,0 +1,4 @@
+At index: 3005 Name: Sentret, Ability Category: 7, Ability Name: Frisk 
+At index: 3987 Name: Dusclops, Ability Category: 7, Ability Name: Frisk 
+At index: 5155 Name: Gardevoir, Ability Category: 7, Ability Name: Trace 
+Set of Abilities: {'Trace', 'Frisk'}

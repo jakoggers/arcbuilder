@@ -1,0 +1,1144 @@
+At index: 0 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 12 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 24 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 29 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 30 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 37 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 43 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 53 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 54 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 60 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 70 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 72 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 78 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 84 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 93 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 97 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 99 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 102 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 108 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 114 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 127 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 134 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 146 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 147 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 156 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 165 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 168 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 172 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 174 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 181 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 186 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 198 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 199 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 206 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 208 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 210 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 223 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 228 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 235 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 241 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 247 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 258 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 259 Name: Rayquaza, Ability Category: 1, Ability Name: Air Lock 
+At index: 264 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 270 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 277 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 280 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 282 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 289 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 293 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 294 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 300 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 301 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 308 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 312 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 320 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 333 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 338 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 342 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 353 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 355 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 362 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 370 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 373 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 376 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 378 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 387 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 390 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 396 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 409 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 421 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 427 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 438 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 446 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 450 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 456 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 465 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 468 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 480 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 483 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 487 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 492 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 498 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 500 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 502 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 504 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 515 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 516 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 517 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 523 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 528 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 534 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 540 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 546 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 553 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 559 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 576 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 581 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 584 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 588 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 589 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 594 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 598 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 601 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 606 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 612 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 618 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 626 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 630 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 637 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 643 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 648 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 656 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 660 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 664 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 667 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 673 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 678 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 686 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 692 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 696 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 698 Name: Rayquaza, Ability Category: 1, Ability Name: Air Lock 
+At index: 702 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 703 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 708 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 710 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 714 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 723 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 728 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 736 Name: Rayquaza, Ability Category: 1, Ability Name: Air Lock 
+At index: 738 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 744 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 751 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 756 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 757 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 763 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 769 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 772 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 787 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 798 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 799 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 804 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 805 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 810 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 816 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 826 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 828 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 832 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 833 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 834 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 841 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 847 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 857 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 859 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 861 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 863 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 864 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 870 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 871 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 877 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 882 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 884 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 890 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 898 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 905 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 906 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 907 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 913 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 921 Name: Tyranitar, Ability Category: 1, Ability Name: Sand Stream 
+At index: 923 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 924 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 931 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 937 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 940 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 943 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 951 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 955 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 958 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 963 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 966 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 973 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 979 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 984 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 991 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 996 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1003 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1008 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1018 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1020 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1023 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1026 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1032 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1047 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1052 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1056 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1062 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1068 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1074 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1081 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1088 Name: Terapagos-Stellar, Ability Category: 1, Ability Name: Teraform Zero 
+At index: 1090 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1092 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1101 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1105 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1114 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1116 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1124 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1131 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1135 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1144 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1146 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1153 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1161 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1164 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1178 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1182 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1190 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1194 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1200 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1201 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1206 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1208 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1213 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1219 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1225 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1231 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1236 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1242 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1248 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1254 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1262 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1267 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1274 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1281 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1290 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1296 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1297 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1303 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1308 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1309 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1314 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1317 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1325 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1326 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1329 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1333 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1334 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1338 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1350 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1355 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 1357 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1362 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1363 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1378 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1385 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1388 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1390 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1395 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1398 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1404 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1410 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1414 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1417 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1427 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1432 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1434 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1441 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1447 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1448 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1457 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1459 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1467 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1472 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1487 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1492 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1497 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1504 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1510 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1512 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1523 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1524 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1532 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1534 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1542 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1546 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1550 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1555 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1556 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1561 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1567 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1569 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1576 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1581 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1584 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1590 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1592 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1599 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1606 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1616 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1622 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1625 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1626 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1636 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1638 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1644 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1651 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1656 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1658 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1661 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1664 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1669 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1685 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1686 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1691 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1694 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1704 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1707 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1713 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1716 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1723 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1734 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1736 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1740 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1741 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1752 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1758 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1759 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1764 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1770 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1773 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1776 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1777 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1782 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1785 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1792 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1801 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1806 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1816 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1818 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1821 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1827 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1830 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1832 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1839 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 1843 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1849 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1855 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1857 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1859 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 1861 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1863 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1866 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1873 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1874 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1881 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1891 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 1893 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1896 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1902 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1908 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1914 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1921 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1926 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1932 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1938 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1940 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 1947 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1953 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1959 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 1963 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1969 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1974 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 1982 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 1986 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 1994 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2002 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 2003 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2004 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2011 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2017 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2023 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2028 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2034 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2042 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2047 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2049 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2053 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2062 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2065 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2071 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2077 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2079 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2082 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2094 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2101 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2107 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2109 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2119 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2125 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2134 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2137 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2143 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2148 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2153 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 2157 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2162 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2172 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2182 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2184 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2190 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2195 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2196 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2208 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2217 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2220 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2225 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2227 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2233 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2234 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2238 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2245 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2251 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2257 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2263 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2272 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2277 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2280 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2281 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 2286 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2294 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2298 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2299 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2304 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2311 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2316 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2324 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2329 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2334 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2340 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2345 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2348 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2355 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2359 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2367 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2376 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2382 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2388 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2392 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2396 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2400 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2408 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2413 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2414 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2421 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2424 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2431 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2437 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2440 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2447 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2448 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2464 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2466 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2472 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2484 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2493 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2500 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2512 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2515 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2517 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2522 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2536 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2541 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2545 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2546 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2552 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2555 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2561 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2566 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2573 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2579 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2580 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2584 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2591 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2595 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2600 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2601 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2605 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2612 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2619 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2628 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2635 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2638 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2645 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2646 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2653 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2658 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2664 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2669 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 2670 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2676 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2677 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2684 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2688 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 2690 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2698 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2700 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2707 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2710 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2713 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2721 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2728 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2731 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2737 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2749 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2751 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2758 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2759 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2760 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 2769 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2775 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2779 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2782 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2787 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2791 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2797 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2803 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2808 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2815 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2820 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2824 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2827 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2835 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2837 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2854 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2857 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2866 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2877 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2880 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2881 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2887 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2892 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2897 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2899 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2907 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 2911 Name: Terapagos-Stellar, Ability Category: 1, Ability Name: Teraform Zero 
+At index: 2922 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2924 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2929 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2939 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2941 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 2952 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2953 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 2964 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2974 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2977 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 2981 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 2982 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2994 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 2996 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3001 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3003 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3012 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3024 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 3030 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3036 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3039 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3043 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3048 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3053 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3066 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3072 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3085 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3087 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3091 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3100 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3102 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3108 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3115 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3120 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 3126 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3132 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 3138 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3145 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3148 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3162 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3164 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3180 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3186 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3187 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3202 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3205 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3207 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3212 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3218 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3222 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3228 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3233 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3245 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3251 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3256 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3262 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3264 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 3265 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3272 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 3283 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3294 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3304 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3309 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3314 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3319 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3328 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3334 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3343 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3355 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3357 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3364 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3369 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3373 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3375 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3383 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3390 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3397 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 3402 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3410 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3414 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3423 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 3425 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 3428 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3434 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3440 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3444 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 3450 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3457 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3466 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3469 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3472 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3476 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3481 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3486 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3493 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3496 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3500 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3501 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3514 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3517 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3519 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3523 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3527 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 3529 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 3531 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3534 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3535 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 3541 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3547 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3554 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3559 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3564 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3571 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3581 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3586 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3589 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3590 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3599 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3608 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3613 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3624 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 3625 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3632 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3638 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3644 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3648 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3654 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3665 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3666 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3673 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3679 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3686 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3691 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3701 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3705 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3709 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3714 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3717 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3725 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3730 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3733 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3742 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3744 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3746 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3751 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 3759 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3766 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3773 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3774 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3783 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3796 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 3799 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3809 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3810 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3820 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3822 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3826 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3828 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3845 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3848 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3854 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3857 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3858 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3868 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3872 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3876 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3887 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3890 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3895 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3902 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3909 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3912 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3916 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 3918 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3928 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3932 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3938 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3942 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 3948 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3958 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3960 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 3965 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 3967 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3976 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3979 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 3980 Name: Rayquaza, Ability Category: 1, Ability Name: Air Lock 
+At index: 3986 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 3989 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3990 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 3995 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 3997 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4003 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4008 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4014 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4015 Name: Rayquaza, Ability Category: 1, Ability Name: Air Lock 
+At index: 4029 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4036 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4039 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4047 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4055 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4056 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4062 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4065 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4069 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4075 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4077 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4085 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 4091 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 4093 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4094 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4098 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4105 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4106 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4111 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4116 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4124 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4133 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4134 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4135 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4140 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4153 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4163 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4165 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4170 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4176 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4177 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4183 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4189 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4195 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4203 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4206 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4216 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4223 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4226 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4229 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4231 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4236 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4243 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4254 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 4258 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4264 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4273 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4277 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4278 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4284 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4286 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4292 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4296 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4304 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4307 Name: Torkoal, Ability Category: 1, Ability Name: Drought 
+At index: 4314 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4321 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4333 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4340 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4344 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4355 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4356 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4363 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4373 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4384 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4387 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4393 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4394 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4410 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4420 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4426 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4429 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4435 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4436 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4440 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4448 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4454 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4459 Name: Indeedee, Ability Category: 1, Ability Name: Psiratychic Surge 
+At index: 4463 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4468 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4475 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4476 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4479 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4482 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4488 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4493 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4500 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4509 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4512 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4518 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4530 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4537 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4539 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4545 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4548 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4554 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4555 Name: Terapagos-Terastal, Ability Category: 1, Ability Name: Teraform Zero 
+At index: 4558 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4562 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4567 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4575 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4578 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4580 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4584 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4593 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4597 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4606 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4611 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4619 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4620 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4628 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4634 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4640 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4647 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4652 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4656 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4657 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4665 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4669 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4677 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4684 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4690 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4692 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4702 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4708 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4712 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4718 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4724 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4730 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4732 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4743 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4746 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4753 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4758 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4764 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4773 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4778 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4785 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4794 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4795 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4803 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4806 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4818 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4824 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4828 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4830 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4842 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4847 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4849 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4852 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 4858 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4864 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4866 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4873 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4878 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4882 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4886 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4891 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4895 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 4901 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4903 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 4912 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4923 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4926 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4932 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4934 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 4944 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4950 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 4956 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 4962 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4973 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 4974 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4984 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 4986 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 4995 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5001 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5007 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5010 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5016 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5029 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5034 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5041 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5045 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5047 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 5052 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5056 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5058 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5068 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5074 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5078 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5082 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5090 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5094 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5096 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5100 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5107 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5113 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5119 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5120 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5124 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5127 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5133 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5140 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5146 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5149 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5154 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5160 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 5162 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5166 Name: Terapagos-Stellar, Ability Category: 1, Ability Name: Teraform Zero 
+At index: 5169 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5173 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5179 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5185 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5187 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5190 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5197 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5202 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5208 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5214 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5220 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5234 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5240 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5249 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5257 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5263 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5283 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5288 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5293 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5298 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5307 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5311 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5316 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5319 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5322 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5330 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5335 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5336 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5340 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5346 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5349 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5356 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5361 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5367 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5370 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5376 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5382 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5388 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5395 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5397 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5411 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5413 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5418 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5424 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5430 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5436 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5443 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5448 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5449 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5455 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5461 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5465 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5468 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5476 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5482 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5486 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5490 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5498 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5502 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5504 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5508 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5515 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5521 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5527 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5528 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5535 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5542 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5548 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5554 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5560 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5564 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5568 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5576 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5580 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5582 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5586 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5593 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5599 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5605 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5606 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5610 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5613 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5619 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5626 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5632 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5634 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5641 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5647 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5656 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5665 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5670 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 5671 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5676 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5683 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5686 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5691 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 5692 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5696 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5701 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5703 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5706 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5713 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5719 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5724 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5730 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5736 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5742 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5750 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5757 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5760 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5765 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5766 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5769 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5772 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5779 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 5784 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5785 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5790 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5794 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5799 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5802 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5806 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5808 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5815 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5823 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5831 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5832 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5843 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 5848 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5852 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5857 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5862 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5870 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5874 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5877 Name: Terapagos-Stellar, Ability Category: 1, Ability Name: Teraform Zero 
+At index: 5878 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5880 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5882 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 5886 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5891 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5894 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5902 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5904 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5910 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 5919 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5924 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 5928 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5934 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5940 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5946 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5955 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5963 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5969 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 5974 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5978 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 5983 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 5988 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 5996 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6000 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 6004 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6006 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6008 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 6012 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 6017 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6020 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6028 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6030 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6037 Name: Terapagos-Stellar, Ability Category: 1, Ability Name: Teraform Zero 
+At index: 6040 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6043 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 6048 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6049 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 6054 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 6064 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6068 Name: Ninetales-Alola, Ability Category: 1, Ability Name: Snow Warning 
+At index: 6069 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6086 Name: Rillaboom, Ability Category: 1, Ability Name: Grassy Surge 
+At index: 6088 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 6091 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 6096 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 6107 Name: Indeedee-F, Ability Category: 1, Ability Name: Psychic Surge 
+At index: 6109 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 6120 Name: Koraidon, Ability Category: 1, Ability Name: Orichalcum Pulse 
+At index: 6127 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6138 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6145 Name: Pelipper, Ability Category: 1, Ability Name: Drizzle 
+At index: 6147 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6151 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 6156 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6166 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 6175 Name: Kyogre, Ability Category: 1, Ability Name: Drizzle 
+At index: 6180 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+At index: 6187 Name: Groudon, Ability Category: 1, Ability Name: Drought 
+At index: 6193 Name: Miraidon, Ability Category: 1, Ability Name: Hadron Engine 
+Set of Abilities: {'Hadron Engine', 'Drizzle', 'Psychic Surge', 'Drought', 'Sand Stream', 'Orichalcum Pulse', 'Psiratychic Surge', 'Snow Warning', 'Grassy Surge', 'Air Lock', 'Teraform Zero'}

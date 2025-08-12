@@ -1,0 +1,69 @@
+At index: 27 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 136 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 178 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 204 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 214 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 254 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 363 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 386 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 424 Name: Tatsugiri, Ability Category: 6, Ability Name: Commander 
+At index: 435 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 475 Name: Maushold, Ability Category: 6, Ability Name: Friend Guard 
+At index: 485 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 661 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 668 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 674 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 852 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 856 Name: Muk-Alola, Ability Category: 6, Ability Name: Power of Alchemy 
+At index: 917 Name: Maushold-Four, Ability Category: 6, Ability Name: Friend Guard 
+At index: 994 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 1055 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 1336 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 1368 Name: Muk-Alola, Ability Category: 6, Ability Name: Power of Alchemy 
+At index: 1382 Name: Tatsugiri, Ability Category: 6, Ability Name: Commander 
+At index: 1660 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 1678 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 1886 Name: Muk-Alola, Ability Category: 6, Ability Name: Power of Alchemy 
+At index: 1887 Name: Flamigo, Ability Category: 6, Ability Name: Costar 
+At index: 2338 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 2444 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 2521 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 2632 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 2644 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 2755 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 2845 Name: Dialga-Origin, Ability Category: 6, Ability Name: Telepathy 
+At index: 2862 Name: Tatsugiri, Ability Category: 6, Ability Name: Commander 
+At index: 2993 Name: Maushold-Four, Ability Category: 6, Ability Name: Friend Guard 
+At index: 3047 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 3054 Name: Dialga, Ability Category: 6, Ability Name: Telepathy 
+At index: 3154 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 3172 Name: Muk-Alola, Ability Category: 6, Ability Name: Power of Alchemy 
+At index: 3211 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 3248 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 3360 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 3521 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 3850 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 3885 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 4037 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 4103 Name: Gardevoir, Ability Category: 6, Ability Name: Telepathy 
+At index: 4129 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 4262 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 4317 Name: Oranguru, Ability Category: 6, Ability Name: Telepathy 
+At index: 4318 Name: Flamigo, Ability Category: 6, Ability Name: Costar 
+At index: 4319 Name: Rabsca, Ability Category: 6, Ability Name: Telepathy 
+At index: 4343 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 4560 Name: Muk-Alola, Ability Category: 6, Ability Name: Power of Alchemy 
+At index: 4904 Name: Dialga-Origin, Ability Category: 6, Ability Name: Telepathy 
+At index: 5199 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 5297 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 5393 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 5433 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 5445 Name: Palkia, Ability Category: 6, Ability Name: Telepathy 
+At index: 5457 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 5829 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 5933 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 5961 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+At index: 6072 Name: Clefairy, Ability Category: 6, Ability Name: Friend Guard 
+At index: 6081 Name: Muk-Alola, Ability Category: 6, Ability Name: Power of Alchemy 
+At index: 6119 Name: Tatsugiri-Droopy, Ability Category: 6, Ability Name: Commander 
+Set of Abilities: {'Commander', 'Power of Alchemy', 'Friend Guard', 'Costar', 'Telepathy'}
