@@ -2,6 +2,7 @@ import gspread
 from config import google_api_key, sheets_key, local_file_path, local_teamfile_path
 from team_handler import team_handler
 import os
+from alive_progress import alive_it
 
 filename_path = os.path.basename(local_file_path)
 team_folder_path = os.path.basename(local_teamfile_path)
@@ -34,8 +35,10 @@ def write_all_teams():
 def pokemon_to_txt(file):
 
 	with open(file, "r+", encoding="utf-8") as read_file:
-		for team_number, link in enumerate(read_file):
+		bar = alive_it(enumerate(read_file))
+		for team_number, link in bar:
 			team_handler(link.strip(), str(team_number)) # this line took me 10 hours to fix and it was just a strip() call.
+			bar.text("Works~!")
 	print(f"Data has been withdrawn. All files in folder: \"{team_folder_path}/\"")
 
 

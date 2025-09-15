@@ -66,9 +66,11 @@ team_csv['moves.move_4'] = team_csv['moves.move_4'].map(merge_moves)
 print("Categorized!")
 
 # Check null
-#na_df = team_csv.isna()
+na_df = team_csv.isna()
 
 team_csv.to_csv("csv_files/mapped_team_data.csv", encoding="utf-8", index=False)
+# Check for blanks
+na_df.to_csv("csv_files/na_team_data.csv", encoding="utf-8", index=False)
 test_tree = team_csv.to_csv("csv_files/mapped_team_data_no_name.csv", encoding="utf-8", index=False)
 print(f"csv'd over {int(len(team_csv)/ 6)} teams")
 print(team_csv.shape)

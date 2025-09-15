@@ -5,7 +5,6 @@ import pandas as pd
 import random as rd
 import copy
 from bs4 import BeautifulSoup
-from collections import Counter
 from teams import pokemon_team_structure
 
 #makes this faster fr
@@ -27,7 +26,7 @@ class DataErrors:
 
 	def printed_report(self):
 		if not self.errors:
-			print("No errors found!")
+			# print("No errors found!")
 			return
 
 		final_errors = {
@@ -50,32 +49,29 @@ def ev_and_iv_organizer(given_line, given_pokemon_team, pokemon_num, chosen_stat
 
 	for i in range(len(ev_line)): # remove the white space
 		ev_line[i] = ev_line[i].strip()
+		print(ev_line[i])
 	for stat_change in ev_line: # use the method to filter and add the evs
 		find_stat_change = len(stat_change) - 3
-		match stat_change:
-			case stat_change if "HP" in stat_change:
-				hp = int(stat_change[:find_stat_change].strip())
-				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_hp"] = hp
+		find_stat_name = stat_change[find_stat_change:].strip()
+		given_stat = int(stat_change[:find_stat_change].strip())
 
-			case stat_change if "Atk" in stat_change:
-				attack = int(stat_change[:find_stat_change].strip())
-				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_attack"] = attack
+		
 
-			case stat_change if "Def" in stat_change:
-				defense = int(stat_change[:find_stat_change].strip())
-				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_defense"] = defense
+		stat_name = {
+				"HP": "hp",
+				"Atk": "attack",
+				"Def": "defense",
+				"SpA": "special_attack",
+				"SpD": "special_defense",
+				"Spe": "speed"
+			}
 
-			case stat_change if "SpA" in stat_change:
-				special_attack = int(stat_change[:find_stat_change].strip())
-				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_special_attack"] = special_attack
+		if find_stat_name in stat_name:
+			given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_{stat_name[find_stat_name]}"] = given_stat
+		else:
+			print(f"Invalid stat! @{given_pokemon_team} @ {given_pokemon_team[pokemon_num]} @ {pokemon_num}")
+			return
 
-			case stat_change if "SpD" in stat_change:
-				special_defense = int(stat_change[:find_stat_change].strip())
-				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_special_defense"] = special_defense
-
-			case stat_change if "Spe" in stat_change:
-				speed = int(stat_change[:find_stat_change].strip())
-				given_pokemon_team[pokemon_num][f"{chosen_stat}s"][f"{chosen_stat}_speed"] = speed
 
 # check if the parsed name has a name or a gender, checking parentheses
 def gender_or_nickname(name, given_pokemon_team, which_pokemon):
@@ -196,9 +192,12 @@ def write_team_data(given_link, given_json_location, given_pokemon_team):
 					if given_pokemon_team[num]["moves"]["move_" + str(i)] == "":
 						given_pokemon_team[num]["moves"]["move_" + str(i)] = "Blank" # a ngeligible category later on!!!
 
-			# There's people who forget...
+			# There's people who forget... and have HORRIBLE syntax smh
 			elif given_pokemon_team[num]["name"] == "Calyrex-Ice" or given_pokemon_team[num]["name"] == "Calyrex-Shadow" and given_pokemon_team[num]["ability"] == "":
 				given_pokemon_team[num]["ability"] = "As One"
+
+			elif given_pokemon_team[num]["name"] == "Ursaluna-Bloodmoon":
+				given_pokemon_team[num]["ability"] = "Mind's Eye"
 
 			# Error check everything else :)
 			for category in given_pokemon_team[num]:
@@ -206,7 +205,6 @@ def write_team_data(given_link, given_json_location, given_pokemon_team):
 					given_pokemon_team[num]["nature"] = "Blank"
 				elif given_pokemon_team[num][category] == "":
 					team_errors.add_error(given_json_location, given_link, given_pokemon_team[num]["name"], category, "Blank")
-
 
 		team_errors.printed_report()
 		with open(given_json_location, "w", encoding="utf-8") as write_json:
@@ -221,11 +219,12 @@ def team_handler(get_url, file_name):
 	page = requests.get(get_url)
 	create_team_file = "pokemon_teams/" + file_name + ".txt"
 	create_team_json = f"pokemon_team_jsons/{file_name}_JSON.json"
-
+	"""
 	print(f"\nFile I'm working with: {file_name}.txt \n")
 	print(f"Writing into: {create_team_file}")
 	print(f"Writing JSON into: {create_team_json} from {create_team_file}")
 	print(f"\nFile: {file_name} written! No problems (hopefully)")
+	"""
 
 	# Utilizing BeautifulSoup, take all pokemon data and parse it.
 	soup = BeautifulSoup(page.content, "html.parser")

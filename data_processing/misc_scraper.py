@@ -18,8 +18,26 @@ block = moves.find_all("td")
 names = block[0].find_all("a")
 base_url = "https://pokeapi.co/api/v2/"
 
-# For pokemon name scraping prototype 1 (before you i found a better optoion)
+def add_types():
+	csv_name = "csv_files/Full Team Data.csv"
+	data.to_csv(csv_name, index=False)
+	add_types_csv = pd.read_csv(csv_name)
 
+	list_of_types = []
+
+	for pokemon in range():
+		types = ""
+		pokemon_name = add_types_csv.iloc[pokemon, 0]
+
+
+	# add_types_csv.insert(1, 'type', list_of_types)
+	print(list_of_types)
+	print("Types Added!")
+# add_types()
+
+
+
+# For pokemon name scraping prototype 1 (before you i found a better optoion)
 """
 all_pkmn_link = requests.get("https://pokemondb.net/pokedex/national")
 pkmn_soup = BeautifulSoup(all_pkmn_link.content, "html.parser")
@@ -70,7 +88,7 @@ def get_pokemon_from_link(given_form_link):
 	else:
 		with open("random_errors.txt", "a", encoding="utf-8") as error_txt:
 			error_txt.write(
-				f"Failed. Code: {response.status_code} on Pokemon: {name} \n"
+				f"Failed. Code: {response.status_code} on Pokemon: {given_form_link} \n"
 			)
 		print(f"Failed. Marked in random_errors.txt")
 
@@ -251,29 +269,37 @@ def map_files():
 		except FileNotFoundError as e:
 			print("File not found. Error", e)
 
-def lookup_mon(given_pokemon):
+def lookup_mon(given_pokemon, given_write_file):
 	with open(f"pokemon_info/{given_pokemon}_data.json", "r", encoding="utf-8") as read_data:
+		pokemon_types = []
 		read_pokemon_data = json.load(read_data)
-		name = read_pokemon_data['name']
-		print(name)
 
 		base_stat_total = {}
 		for num in range(6):
 			stat_name = read_pokemon_data['stats'][num]['stat']['name']
 			stat_num = read_pokemon_data['stats'][num]['base_stat']
 			base_stat_total[stat_name] = (stat_num) # stat dict = stat base_stat_total
+
 		base_stat_total = sorted(base_stat_total.items(), key=lambda item: item[1], reverse=True)
 		highest_stat = list(base_stat_total)[0]
+		second_highest_stat = list(base_stat_total)[1]
 		lowest_stat = list(base_stat_total)[5]
 		second_lowest_stat = list(base_stat_total)[4]
-		print(base_stat_total)
-		print("Highest Stat:", highest_stat)
-		print("Lowest Stat:", lowest_stat)
-		print("Second Lowest Stat:", second_lowest_stat)
-		print()
 
+		for pokemon_type in read_pokemon_data['types']:
+			pokemon_types.append(pokemon_type["type"]["name"])
 
+		given_write_file.write(f"Stats: {pokemon_types} \n")
+		given_write_file.write(f"Highest Stat: {highest_stat} \n")
+		given_write_file.write(f"Second highest Stat: {second_highest_stat} \n")
+		given_write_file.write(f"Lowest Stat: {lowest_stat} \n")
+		given_write_file.write(f"Second Lowest Stat: {second_lowest_stat} \nBase Stats: \n")
+		given_write_file.write(str(base_stat_total))
+
+		pokemon_types = []
+
+"""
 if __name__ == "__main__":
 	group = ["iron-hands", "ursaluna", "torkoal", "ursaluna-bloodmoon", "calyrex-ice", "lunala", "groudon", "kyogre"]
 	for pokemon in group:
-		lookup_mon(pokemon)
+		lookup_mon(pokemon) """

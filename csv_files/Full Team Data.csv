@@ -4223,12 +4223,6 @@ Raging Bolt,Magnet,Genderless,Protosynthesis,50,Electric,Modest,252,0,4,180,4,68
 Amoonguss,Rocky Helmet,Female,Regenerator,50,Water,Sassy,228,0,204,0,76,0,31,0,31,31,31,0,Protect,Sludge Bomb,Spore,Rage Powder
 Lunala,Power Herb,Genderless,Shadow Shield,50,Water,Modest,132,0,20,180,172,4,31,0,31,31,31,31,Moongeist Beam,Meteor Beam,Trick Room,Wide Guard
 Ditto,Focus Sash,Male,Imposter,50,Normal,Relaxed,252,0,252,0,4,0,31,30,31,31,31,0,Transform,Blank,Blank,Blank
-Zamazenta-Crowned,Rusted Shield,Male,Dauntless Shield,50,Water,Impish,252,4,140,0,44,68,31,31,31,31,31,31,Wide Guard,Body Press,Behemoth Bash,Protect
-Miraidon,Assault Vest,Genderless,Hadron Engine,50,Electric,Modest,244,0,220,20,4,20,31,31,31,31,31,31,Electro Drift,Draco Meteor,Snarl,Volt Switch
-Cresselia,Electric Seed,Female,Levitate,50,Poison,Calm,204,0,172,76,4,52,31,0,31,31,31,31,Thunder Wave,Psychic,Icy Wind,Lunar Blessing
-Chien-Pao,Focus Sash,Genderless,Sword of Ruin,50,Stellar,Jolly,0,252,4,0,0,252,31,31,31,31,31,31,Sucker Punch,Crunch,Icicle Crash,Protect
-,,,,50,,Blank,0,0,0,0,0,0,31,31,31,31,31,31,,,,
-,,,,50,,Blank,0,0,0,0,0,0,31,31,31,31,31,31,,,,
 Koraidon,Clear Amulet,Genderless,Orichalcum Pulse,50,Fire,Adamant,108,196,0,0,0,204,31,31,31,31,31,31,Flame Charge,Collision Course,Flare Blitz,Protect
 Zacian-Crowned,Rusted Sword,Female,Intrepid Sword,50,Water,Jolly,156,180,4,0,4,164,31,31,31,31,31,31,Play Rough,Behemoth Blade,Swords Dance,Protect
 Ogerpon-Cornerstone,Cornerstone Mask,Female,Sturdy,50,Rock,Jolly,0,252,4,0,0,252,31,31,31,31,31,31,Follow Me,Ivy Cudgel,Power Whip,Spiky Shield
@@ -4646,7 +4640,7 @@ Urshifu-Rapid-Strike,Choice Scarf,Male,Unseen Fist,50,Water,Blank,0,0,0,0,0,0,31
 Tornadus,Covert Cloak,Male,Prankster,50,Water,Blank,0,0,0,0,0,0,31,31,31,31,31,31,Tailwind,Bleakwind Storm,Rain Dance,Taunt
 Sneasler,Electric Seed,Male,Unburden,50,Dark,Blank,0,0,0,0,0,0,31,31,31,31,31,31,Gunk Shot,Close Combat,Fake Out,Throat Chop
 Miraidon,Choice Specs,Genderless,Hadron Engine,50,Fairy,Blank,0,0,0,0,0,0,31,31,31,31,31,31,Electro Drift,Volt Switch,Draco Meteor,Dazzling Gleam
-Ursaluna-Bloodmoon,Life Orb,Male,Mind’s Eye,50,Normal,Blank,0,0,0,0,0,0,31,31,31,31,31,31,Blood Moon,Hyper Voice,Earth Power,Protect
+Ursaluna-Bloodmoon,Life Orb,Male,Mind's Eye,50,Normal,Blank,0,0,0,0,0,0,31,31,31,31,31,31,Blood Moon,Hyper Voice,Earth Power,Protect
 Farigiraf,Rocky Helmet,Male,Armor Tail,50,Fire,Blank,0,0,0,0,0,0,31,31,31,31,31,31,Psychic,Trick Room,Protect,Foul Play
 Zamazenta,Rusted Shield,Genderless,Dauntless Shield,50,Ghost,Blank,0,0,0,0,0,0,31,31,31,31,31,31,Protect,Behemoth Bash,Body Press,Wide Guard
 Calyrex-Ice,Leftovers,Genderless,As One,50,Water,Adamant,252,36,4,0,196,20,31,31,31,31,31,31,Glacial Lance,Leech Seed,Trick Room,Protect

@@ -1,0 +1,26 @@
+0: Offensive
+	- Normal
+	- Electric
+	- Ice
+	- Fighting
+	- Ground
+	- Psychic
+	- Rock
+	- Dragon
+	- Fairy
+1: Defensive
+	- Water
+	- Grass
+	- Poison
+	- Dark
+	- Steel
+2: Neutral
+	- Bug
+	- Fire
+	- Flying
+	- Ghost
+
+1. check defensive type
+2. check hp/def/spdef stats
+3. check if ability is defensive
+4. categorize Moves -  check if more special attacks or more physical attacks
